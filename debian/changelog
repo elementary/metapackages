@@ -1,0 +1,14 @@
+ubuntu-meta (0.3) warty; urgency=low
+
+  * Refreshed from seed lists and package archive
+  * Removed vim from desktop-i386
+  * Removed vim from desktop-amd64
+  * Removed vim from desktop-powerpc
+
+ -- Matt Zimmerman <mdz@debian.org>  Fri,  8 Oct 2004 13:47:20 -0700
+
+ubuntu-meta (0.2) warty; urgency=low
+
+  * Initial release
+
+ -- Matt Zimmerman <mdz@debian.org>  Thu,  7 Oct 2004 12:13:43 -0700

@@ -1,0 +1,18 @@
+Source: ubuntu-meta
+Section: base
+Priority: optional
+Maintainer: Matt Zimmerman <mdz@canonical.com>
+Standards-Version: 3.6.1
+Build-Depends: debhelper (>= 4)
+
+Package: ubuntu-base
+Architecture: any
+Depends: ${ubuntu-base:Depends}
+Description: The Ubuntu base system
+ This package depends on all of the packages in the Ubuntu base system
+
+Package: ubuntu-desktop
+Architecture: any
+Depends: ${ubuntu-desktop:Depends}
+Description: The Ubuntu desktop system
+ This package depends on all of the packages in the Ubuntu desktop system

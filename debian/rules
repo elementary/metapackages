@@ -1,0 +1,42 @@
+#!/usr/bin/make -f
+
+#export DH_VERBOSE=1
+
+clean:
+	dh_testdir
+	dh_clean
+
+	rm -rf build-stamp *.old debootstrap-dir
+
+DEB_BUILD_ARCH:=$(shell dpkg-architecture -qDEB_BUILD_ARCH)
+
+build: build-stamp
+build-stamp:
+	dh_clean
+
+	for seed in base desktop; do \
+		package=ubuntu-$$seed; \
+		(printf "$$package:Depends="; perl -pe 's/\n/, /g'  $$seed-$(DEB_BUILD_ARCH); echo) \
+			>> debian/$$package.substvars; \
+	done
+	touch $@
+
+install: build-stamp
+
+binary-arch: install
+	dh_testdir -a
+	dh_testroot -a
+	dh_installdocs -a
+	dh_installchangelogs -a
+	dh_compress -a
+	dh_fixperms -a
+	dh_installdeb -a
+	dh_gencontrol -a
+	dh_md5sums -a
+	dh_builddeb -a
+
+binary-indep:
+
+binary: binary-indep binary-arch
+
+.PHONY: binary binary-arch binary-indep clean checkroot build
