@@ -15,7 +15,6 @@ console-tools
 coreutils
 cpio
 cron
-dbus-1
 debconf
 debianutils
 dhcp3-client
@@ -29,6 +28,7 @@ dpkg
 e2fsprogs
 ed
 eject
+ethtool
 evms
 evms-ncurses
 fdutils
@@ -38,6 +38,7 @@ ftp
 gettext-base
 gnupg
 grep
+grepmap
 gzip
 hdparm
 hostname
@@ -59,6 +60,7 @@ libreiserfs0.3-0
 locales
 login
 logrotate
+lsb-release
 lshw
 lsof
 ltrace
@@ -70,10 +72,10 @@ man-db
 manpages
 mawk
 mdadm
+memtest86+
 mii-diag
 mime-support
 module-init-tools
-modutils
 mount
 mtr-tiny
 mutt
@@ -113,6 +115,7 @@ tar
 tcpdump
 telnet
 time
+ubuntu-keyring
 udev
 usbutils
 util-linux

@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+# TODO:
+# - Exclude essential packages from dependencies
+
 import urllib2
 import urlparse
 import gzip
@@ -8,17 +11,22 @@ import re
 import StringIO
 import os
 
-seeds = { 'base' : sets.Set(), 'desktop' : sets.Set() }
-architectures = ['i386', 'amd64', 'powerpc']
-archive_base = 'http://archive.ubuntu.com/ubuntu/'
-dist = 'warty'
-seed_base = 'http://wiki.ubuntu.com/WartyWarthog/'
-seed_entry = re.compile(' *\* *(?P<package>\S+) *(#.*)?')
+seeds = { 'base' : {}, 'desktop' : {}, 'live' : {} }
+architectures = ['i386', 'amd64', 'powerpc', 'ia64', 'sparc']
+archive_base_default = 'http://archive.ubuntu.com/ubuntu/'
+archive_base = { 'i386' : archive_base_default,
+                 'amd64' : archive_base_default,
+                 'powerpc' : archive_base_default,
+                 'ia64' : archive_base_default,
+                 'sparc' : 'http://sparc.ubuntu.com/ubuntu-sparc/',
+                }
+dist = 'hoary'
+seed_base = 'http://people.ubuntulinux.org/~cjwatson/seeds/%s/' % dist
+seed_entry = re.compile(' *\* *(?P<package>\S+) *(\[(?P<arches>[^]]*)\])? *(#.*)?')
 components = ['main', 'restricted']
 debootstrap_version_file = 'debootstrap-version'
 metapackages = map(lambda seed: 'ubuntu-' + seed, seeds.keys())
 seed_package_blacklist = sets.Set(metapackages)
-print seed_package_blacklist
 
 def get_debootstrap_version():
     version = os.popen("dpkg-query -W --showformat '${Version}' debootstrap").read()
@@ -28,8 +36,8 @@ def get_debootstrap_version():
     return version
 
 def debootstrap_packages(arch):
-    debootstrap = os.popen('debootstrap --arch %s --print-debs %s debootstrap-dir %s' % (arch,dist,archive_base))
-    packages = debootstrap.read().split(' ')
+    debootstrap = os.popen('debootstrap --arch %s --print-debs %s debootstrap-dir %s' % (arch,dist,archive_base[arch]))
+    packages = debootstrap.read().split()
     
     # sometimes debootstrap gives empty packages / multiple separators
     packages = filter(None, packages)
@@ -57,22 +65,31 @@ check_debootstrap_version()
 
 print "Loading seed lists..."
 for seed_name, seed in seeds.items():
-    for line in urllib2.urlopen('http://wiki.ubuntu.com/WartyWarthog/%sSeed?action=raw' % seed_name.capitalize()):
+    url = urlparse.urljoin(seed_base, seed_name)
+    for line in urllib2.urlopen(url):
         m = seed_entry.match(line)
         if m:
             package = m.group('package')
+            arches = m.group('arches')
+            if arches is not None:
+                archlist = arches.split()
+            else:
+                archlist = architectures
             if package not in seed_package_blacklist:
-                seed.add(package)
+                if package not in seed:
+                    seed[package] = []
+                seed[package].extend(archlist)
 
 print "Merging with available package lists..."
-changes = []
+additions = {}
+removals = {}
 for architecture in architectures:
     packages = sets.Set()
     debootstrap_base = sets.Set(debootstrap_packages(architecture))
 
     # Download Packages files
     for component in components:
-        packages_url = urlparse.urljoin(archive_base,
+        packages_url = urlparse.urljoin(archive_base[architecture],
                                         'dists/%s/%s/binary-%s/Packages.gz' % (dist, component, architecture))
         packages_file = StringIO.StringIO(urllib2.urlopen(packages_url).read())
         
@@ -91,12 +108,16 @@ for architecture in architectures:
             os.rename(output_filename, output_filename + '.old')
 
         new_list = []
-        for package in seed:
-            if seed_name == 'base' and package not in debootstrap_base:
-                continue
-            
+        for package in seed.keys():
             if package in packages:
-                new_list.append(package)
+                if architecture not in seed[package]:
+                    print "%s/%s: Skipping package %s (not for this architecture)" % (seed_name,architecture,package)
+                elif seed_name == 'base' and package not in debootstrap_base:
+                    print "%s/%s: Skipping base package %s (not in debootstrap)" % (seed_name,architecture,package)
+                else:
+                    new_list.append(package)
+            else:
+                print "%s/%s: Skipping unavailable package %s" % (seed_name,architecture,package)
 
         new_list.sort()
         output = open(output_filename, 'w')
@@ -116,15 +137,24 @@ for architecture in architectures:
                 merged.setdefault(package, 0)
                 merged[package] -= 1
 
-            for package, value in merged.items():
+            mergeditems = merged.items()
+            mergeditems.sort()
+            for package, value in mergeditems:
                 #print package, value
                 if value == 1:
-                    changes.append('Added %s to %s' % (package, output_filename))
+                    additions.setdefault(package,[])
+                    additions[package].append(output_filename)
                 elif value == -1:
-                    changes.append('Removed %s from %s' % (package, output_filename))
+                    removals.setdefault(package,[])
+                    removals[package].append(output_filename)
 
-if changes:
-    os.system("dch -i 'Refreshed from seed lists and package archive'")
+if additions or removals:
+    os.system("dch -i 'Refreshed dependencies'")
+    changes = []
+    for package, files in additions.items():
+        changes.append('Added %s to %s' % (package, ', '.join(files)))
+    for package, files in removals.items():
+        changes.append('Removed %s from %s' % (package, ', '.join(files)))
     for change in changes:
         print change
         os.system("dch -a '%s'" % change)

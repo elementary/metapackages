@@ -1,3 +1,527 @@
+ubuntu-meta (0.43) hoary; urgency=low
+
+  * Refreshed dependencies
+  * Added memtest86+ to base-amd64
+  * Added ntfsprogs to live-sparc
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Sat,  2 Apr 2005 00:41:30 -0800
+
+ubuntu-meta (0.42) hoary; urgency=low
+
+  * Refreshed dependencies
+  * Added strace to base-sparc
+  * Added nautilus-sendto to desktop-sparc
+  * Added gtk2-engines-clearlooks to desktop-sparc
+  * Added ntfsprogs to live-i386, live-amd64, live-powerpc, live-ia64
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Wed, 30 Mar 2005 16:22:35 -0800
+
+ubuntu-meta (0.41) hoary; urgency=low
+
+  * Refreshed dependencies
+  * Added libgnome2-perl to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+  * Added language-pack-ca to live-i386, live-amd64, live-sparc
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Thu, 17 Mar 2005 10:41:03 -0800
+
+ubuntu-meta (0.40) hoary; urgency=low
+
+  * Refreshed dependencies
+  * Added openoffice.org to desktop-ia64
+  * Added openoffice.org-gtk-gnome to desktop-ia64
+  * Added language-pack-pl to live-powerpc, live-ia64
+  * Added language-pack-tr to live-powerpc, live-ia64
+  * Added language-pack-ms to live-ia64
+  * Added hwdb-client to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc
+  * Added language-pack-vi to live-ia64
+  * Added language-pack-it to live-powerpc, live-ia64
+  * Added language-pack-el to live-powerpc, live-ia64
+  * Added language-pack-ca to live-powerpc, live-ia64
+  * Added language-pack-nl to live-powerpc, live-ia64
+  * Added language-pack-eu to live-ia64
+  * Added language-pack-cs to live-powerpc, live-ia64
+  * Added language-pack-ko to live-powerpc, live-ia64
+  * Added language-pack-sv to live-powerpc, live-ia64
+  * Added language-pack-sq to live-ia64
+  * Added language-pack-sr to live-powerpc, live-ia64
+  * Added language-pack-sl to live-ia64
+  * Added language-pack-no to live-powerpc, live-ia64
+  * Added language-pack-lt to live-ia64
+  * Added language-pack-sk to live-powerpc, live-ia64
+  * Added language-pack-hu to live-powerpc, live-ia64
+  * Added language-pack-nb to live-powerpc, live-ia64
+  * Added language-pack-uk to live-powerpc, live-ia64
+  * Added language-pack-hr to live-ia64
+  * Added language-pack-ro to live-ia64
+  * Added language-pack-da to live-powerpc, live-ia64
+  * Added powermanagement-interface to desktop-sparc
+  * Added language-pack-fi to live-powerpc, live-ia64
+  * Added language-pack-bg to live-ia64
+  * Added language-pack-xh to live-ia64
+  * Removed ubuntu-faqguide from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Tue, 15 Mar 2005 23:13:43 -0800
+
+ubuntu-meta (0.39) hoary; urgency=low
+
+  * Refreshed dependencies
+  * Added gtk2-engines-clearlooks to desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Wed,  9 Mar 2005 12:11:55 +0000
+
+ubuntu-meta (0.38) hoary; urgency=low
+
+  * Refreshed dependencies
+  * Added esound to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc
+  * Removed polypaudio-alsa from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+  * Removed polypaudio-x11 from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Tue,  8 Mar 2005 17:46:39 -0800
+
+ubuntu-meta (0.37) hoary; urgency=low
+
+  * Refreshed dependencies
+  * Added language-pack-ar to live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc
+  * Added language-pack-bn to live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc
+  * Added language-pack-hi to live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc
+  * Added language-pack-ja to live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc
+  * Added language-pack-pt to live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc
+  * Added language-pack-ru to live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc
+  * Added language-pack-de to live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc
+  * Added ubuntu-quickguide to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+  * Added language-pack-fr to live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc
+  * Added ubuntu-faqguide to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+  * Added language-pack-es to live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc
+  * Added acpi-support to desktop-ia64
+  * Added language-pack-zh to live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Fri,  4 Mar 2005 09:34:27 -0800
+
+ubuntu-meta (0.36) hoary; urgency=low
+
+  * Refreshed dependencies
+  * Added nautilus-sendto to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Wed,  2 Mar 2005 09:44:09 +0000
+
+ubuntu-meta (0.35) hoary; urgency=low
+
+  * Refreshed dependencies
+  * Removed apmd from desktop-amd64, desktop-powerpc, desktop-ia64,
+    desktop-sparc
+
+ -- Thom May <thom@ubuntu.com>  Mon, 28 Feb 2005 23:37:44 +0000
+
+ubuntu-meta (0.34) hoary; urgency=low
+
+  * Add more detailed information about the purpose of these packages to
+    the package descriptions
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Sun, 27 Feb 2005 16:42:43 -0800
+
+ubuntu-meta (0.33) hoary; urgency=low
+
+  * Refreshed dependencies
+  * Added gnome-app-install to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+  * Added powermanagement-interface to desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64
+
+ -- Thom May <thom@ubuntu.com>  Fri, 25 Feb 2005 18:52:34 +0000
+
+ubuntu-meta (0.32) hoary; urgency=low
+
+  * Refreshed dependencies
+  * Added pcmcia-cs to live-i386, live-amd64, live-powerpc, live-ia64,
+    live-sparc
+
+ -- LaMont Jones <lamont@ubuntu.com>  Fri, 18 Feb 2005 20:34:56 -0700
+
+ubuntu-meta (0.31) hoary; urgency=low
+
+  * Refreshed dependencies
+  * Added language-pack-en to live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Tue, 15 Feb 2005 14:23:12 -0800
+
+ubuntu-meta (0.30) hoary; urgency=low
+
+  * Refreshed dependencies
+  * Added polypaudio-alsa to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+  * Added polypaudio-x11 to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+  * Removed esound from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Mon, 14 Feb 2005 21:37:01 -0800
+
+ubuntu-meta (0.29) hoary; urgency=low
+
+  * Fix ubuntu-live depends generation
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Thu, 10 Feb 2005 17:09:05 -0800
+
+ubuntu-meta (0.28) hoary; urgency=low
+
+  * Refreshed dependencies
+  * Added language-support-en to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc
+  * Removed abiword-gnome from live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc
+  * Removed planner from live-i386, live-amd64, live-powerpc, live-ia64,
+    live-sparc
+  * Removed dia-gnome from live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc
+  * Removed abiword-plugins from live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc
+  * Removed abiword-plugins-gnome from live-i386, live-amd64, live-
+    powerpc, live-ia64, live-sparc
+  * Removed gnumeric from live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc
+  * Removed abiword-help from live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc
+  * Removed xnest from live-i386, live-amd64, live-powerpc, live-ia64,
+    live-sparc
+  * Removed gnumeric-plugins-extra from live-i386, live-amd64, live-
+    powerpc, live-ia64, live-sparc
+  * Removed inkscape from live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Wed,  9 Feb 2005 13:11:31 -0800
+
+ubuntu-meta (0.27) hoary; urgency=low
+
+  * Add ubuntu-live metapackage
+  * Update maintainer field
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Wed,  9 Feb 2005 12:44:40 -0800
+
+ubuntu-meta (0.26) hoary; urgency=low
+
+  * Refreshed dependencies
+    - English language stuff is now handled by language packs
+  * Added gtk2-engines-smooth to desktop-sparc
+  * Removed python-hip from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+  * Removed myspell-en-us from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+  * Removed openoffice.org-hyphenation-en-gb from desktop-i386, desktop-
+    amd64, desktop-powerpc, desktop-sparc
+  * Removed openoffice.org-hyphenation-en-us from desktop-i386, desktop-
+    amd64, desktop-powerpc, desktop-sparc
+  * Removed myspell-en-gb from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+  * Removed openoffice.org-help-en from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-sparc
+  * Add TODO to update script
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Wed,  9 Feb 2005 12:42:15 -0800
+
+ubuntu-meta (0.25) hoary; urgency=low
+
+  * Refreshed dependencies
+  * Added gnome-btdownload to desktop-ia64
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Wed,  2 Feb 2005 09:18:34 -0800
+
+ubuntu-meta (0.24) hoary; urgency=low
+
+  * Add sparc support (sparc is in a separate archive)
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Wed,  2 Feb 2005 09:15:53 -0800
+
+ubuntu-meta (0.23) hoary; urgency=low
+
+  * Refreshed dependencies
+  * Added gs-esp to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Tue,  1 Feb 2005 20:21:04 -0800
+
+ubuntu-meta (0.22) hoary; urgency=low
+
+  * Refreshed dependencies
+  * Added totem to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64
+  * Removed totem-gstreamer from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Sun, 30 Jan 2005 18:34:59 +0000
+
+ubuntu-meta (0.21) hoary; urgency=low
+
+  * Fail if {base,desktop}-$ARCH are not in the source.
+
+ -- LaMont Jones <lamont@debian.org>  Fri, 21 Jan 2005 21:38:56 -0700
+
+ubuntu-meta (0.20) hoary; urgency=low
+
+  * Refreshed dependencies
+  * Added lsb-release to base-i386, base-amd64, base-powerpc, base-ia64
+  * Removed openoffice.org-hyphenation-en-us from desktop-ia64
+  * Removed openoffice.org-help-en from desktop-ia64
+  * Removed openoffice.org-hyphenation-en-gb from desktop-ia64
+  * Removed openoffice.org from desktop-ia64
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Wed, 19 Jan 2005 18:37:07 +0000
+
+ubuntu-meta (0.19) hoary; urgency=low
+
+  * Refreshed dependencies
+  * Added python2.4-libxslt1 to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64
+  * Added python2.4-libxml2 to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64
+  * Added cupsys-driver-gimpprint to desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64
+  * Removed libxslt1-python2.4 from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64
+  * Removed libxml2-python2.4 from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Wed, 19 Jan 2005 11:02:11 +0000
+
+ubuntu-meta (0.18) hoary; urgency=low
+
+  * Improve update to handle architecture-specific seed entries.
+  * Refreshed dependencies
+  * Added openoffice.org-gtk-gnome to desktop-amd64
+  * Removed dbus-1 from base-i386, base-amd64, base-powerpc, base-ia64
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Mon, 17 Jan 2005 12:48:31 +0000
+
+ubuntu-meta (0.17) hoary; urgency=low
+
+  * Added ia64 support.  No changes to dependencies.
+
+ -- LaMont Jones <lamont@canonical.com>  Sun,  9 Jan 2005 14:45:39 -0700
+
+ubuntu-meta (0.16) hoary; urgency=low
+
+  * Refreshed dependencies
+  * Added update-notifier to desktop-i386, desktop-amd64, desktop-
+    powerpc
+
+ -- Matt Zimmerman <mdz@debian.org>  Sun,  9 Jan 2005 13:24:58 -0800
+
+ubuntu-meta (0.15) hoary; urgency=low
+
+  * Restore update script improvements which were inadvertently dropped
+
+ -- Matt Zimmerman <mdz@canonical.com>  Sun,  9 Jan 2005 02:26:01 -0800
+
+ubuntu-meta (0.14) hoary; urgency=low
+
+  * Refreshed dependencies
+  * Added ethtool to base-i386
+  * Added mozilla-firefox-gnome-support to desktop-i386
+  * Added openoffice.org-gtk-gnome to desktop-i386
+  * Removed pymacs from desktop-i386
+  * Added python-gst to desktop-i386
+  * Added readahead to desktop-i386
+  * Added ethtool to base-amd64
+  * Added mozilla-firefox-gnome-support to desktop-amd64
+  * Removed pymacs from desktop-amd64
+  * Added python-gst to desktop-amd64
+  * Added readahead to desktop-amd64
+  * Added ethtool to base-powerpc
+  * Added mozilla-firefox-gnome-support to desktop-powerpc
+  * Added openoffice.org-gtk-gnome to desktop-powerpc
+  * Removed pymacs from desktop-powerpc
+  * Added python-gst to desktop-powerpc
+  * Added readahead to desktop-powerpc
+
+ -- Matt Zimmerman <mdz@debian.org>  Sat,  8 Jan 2005 12:24:12 -0800
+
+ubuntu-meta (0.13) hoary; urgency=low
+
+  * Refreshed dependencies
+  * Added ubuntu-keyring to base-i386
+  * Removed gstreamer0.8-swfdec from desktop-i386
+  * Added ubuntu-keyring to base-amd64
+  * Removed gstreamer0.8-swfdec from desktop-amd64
+  * Added ubuntu-keyring to base-powerpc
+  * Removed gstreamer0.8-swfdec from desktop-powerpc
+
+ -- Matt Zimmerman <mdz@canonical.com>  Mon,  3 Jan 2005 02:42:42 -0800
+
+ubuntu-meta (0.12) hoary; urgency=low
+
+  * Improve update script a bit, to condense changelog for common cases (only
+    one changelog entry per package, rather than one per
+    (package,architecture))
+  * Added README to explain how this package works
+
+ -- Matt Zimmerman <mdz@debian.org>  Thu, 23 Dec 2004 15:02:26 -0800
+
+ubuntu-meta (0.11) hoary; urgency=low
+
+  * Sort package names in output of update script.
+
+  * Refreshed from seed lists and package archive
+  * Removed libxml2-python2.3 from desktop-i386
+  * Added libxml2-python2.4 to desktop-i386
+  * Removed libxslt1-python2.3 from desktop-i386
+  * Added libxslt1-python2.4 to desktop-i386
+  * Removed python2.3-dbus from desktop-i386
+  * Removed python2.3-dictclient from desktop-i386
+  * Removed python2.3-librdf from desktop-i386
+  * Removed python2.3-pycurl from desktop-i386
+  * Removed python2.3-samba from desktop-i386
+  * Added python2.4-dbus to desktop-i386
+  * Added python2.4-dictclient to desktop-i386
+  * Added python2.4-librdf to desktop-i386
+  * Added python2.4-pycurl to desktop-i386
+  * Added python2.4-samba to desktop-i386
+  * Removed libxml2-python2.3 from desktop-amd64
+  * Added libxml2-python2.4 to desktop-amd64
+  * Removed libxslt1-python2.3 from desktop-amd64
+  * Added libxslt1-python2.4 to desktop-amd64
+  * Removed python2.3-dbus from desktop-amd64
+  * Removed python2.3-dictclient from desktop-amd64
+  * Removed python2.3-librdf from desktop-amd64
+  * Removed python2.3-pycurl from desktop-amd64
+  * Removed python2.3-samba from desktop-amd64
+  * Added python2.4-dbus to desktop-amd64
+  * Added python2.4-dictclient to desktop-amd64
+  * Added python2.4-librdf to desktop-amd64
+  * Added python2.4-pycurl to desktop-amd64
+  * Added python2.4-samba to desktop-amd64
+  * Removed libxml2-python2.3 from desktop-powerpc
+  * Added libxml2-python2.4 to desktop-powerpc
+  * Removed libxslt1-python2.3 from desktop-powerpc
+  * Added libxslt1-python2.4 to desktop-powerpc
+  * Removed python2.3-dbus from desktop-powerpc
+  * Removed python2.3-dictclient from desktop-powerpc
+  * Removed python2.3-librdf from desktop-powerpc
+  * Removed python2.3-pycurl from desktop-powerpc
+  * Removed python2.3-samba from desktop-powerpc
+  * Added python2.4-dbus to desktop-powerpc
+  * Added python2.4-dictclient to desktop-powerpc
+  * Added python2.4-librdf to desktop-powerpc
+  * Added python2.4-pycurl to desktop-powerpc
+  * Added python2.4-samba to desktop-powerpc
+
+ -- Colin Watson <cjwatson@canonical.com>  Wed, 22 Dec 2004 14:14:49 +0000
+
+ubuntu-meta (0.10) hoary; urgency=low
+
+  * Fix update script to notice the last package output by debootstrap, by
+    splitting on any whitespace rather than just ' '; the trailing newline
+    formerly caused problems.
+
+  * Refreshed from seed lists and package archive
+  * Removed python-fixedpoint from desktop-i386
+  * Removed python2.3-iconvcodec from desktop-i386
+  * Added gnome-menus to desktop-i386
+  * Removed python-mpz from desktop-i386
+  * Removed emacs21 from desktop-i386
+  * Removed python-fixedpoint from desktop-amd64
+  * Removed python2.3-iconvcodec from desktop-amd64
+  * Added gnome-menus to desktop-amd64
+  * Removed python-mpz from desktop-amd64
+  * Removed emacs21 from desktop-amd64
+  * Added powerpc-utils to base-powerpc
+  * Removed python-fixedpoint from desktop-powerpc
+  * Removed python2.3-iconvcodec from desktop-powerpc
+  * Added gnome-menus to desktop-powerpc
+  * Removed python-mpz from desktop-powerpc
+  * Removed emacs21 from desktop-powerpc
+
+ -- Colin Watson <cjwatson@canonical.com>  Sun, 19 Dec 2004 10:38:37 +0000
+
+ubuntu-meta (0.9) hoary; urgency=low
+
+  * Improve diagnostics in update script
+  * Refreshed from seed lists and package archive
+  * Added grepmap to base-i386
+  * Removed gnome-cpufreq-applet from desktop-i386
+  * Removed openoffice.org-mimelnk from desktop-i386
+  * Added gtk2-engines-smooth to desktop-i386
+  * Added grepmap to base-amd64
+  * Removed gnome-cpufreq-applet from desktop-amd64
+  * Removed openoffice.org-mimelnk from desktop-amd64
+  * Added gtk2-engines-smooth to desktop-amd64
+  * Added grepmap to base-powerpc
+  * Removed gnome-cpufreq-applet from desktop-powerpc
+  * Removed openoffice.org-mimelnk from desktop-powerpc
+  * Added gtk2-engines-smooth to desktop-powerpc
+
+ -- Matt Zimmerman <mdz@debian.org>  Tue, 30 Nov 2004 13:01:32 -0800
+
+ubuntu-meta (0.8) hoary; urgency=low
+
+  * Refreshed from seed lists and package archive
+  * Removed trashapplet from desktop-i386
+  * Added anacron to desktop-i386
+  * Removed trashapplet from desktop-amd64
+  * Added anacron to desktop-amd64
+  * Removed trashapplet from desktop-powerpc
+  * Added anacron to desktop-powerpc
+
+ -- Matt Zimmerman <mdz@canonical.com>  Mon, 15 Nov 2004 21:28:16 -0800
+
+ubuntu-meta (0.7) hoary; urgency=low
+
+  * Refreshed from seed lists and package archive
+  * Removed modutils from base-i386
+  * Removed modutils from base-amd64
+  * Removed modutils from base-powerpc
+
+ -- Matt Zimmerman <mdz@debian.org>  Tue,  9 Nov 2004 14:19:47 -0800
+
+ubuntu-meta (0.6) hoary; urgency=low
+
+  * Remove xfree86-driver-synaptics.
+  * Add xorg-driver-synaptics.
+
+ -- Fabio M. Di Nitto <fabbione@fabbione.net>  Thu, 04 Nov 2004 08:07:17 +0100
+
+ubuntu-meta (0.5) hoary; urgency=low
+
+  * Updated 'update' script to use the new location for germinate output
+  * Refreshed from seed lists and package archive
+  * Added gamin to desktop-i386
+  * Added gamin to desktop-amd64
+  * Added gamin to desktop-powerpc
+  * Removed fam from desktop-i386
+  * Added ttf-arabeyes to desktop-i386
+  * Removed fam from desktop-amd64
+  * Added ttf-arabeyes to desktop-amd64
+  * Removed fam from desktop-powerpc
+  * Added ttf-arabeyes to desktop-powerpc
+
+ -- Matt Zimmerman <mdz@debian.org>  Tue,  2 Nov 2004 16:21:58 -0800
+
+ubuntu-meta (0.4) hoary; urgency=low
+
+  * Add notes to the package descriptions which indicate that it is OK to
+    remove them
+
+ -- Matt Zimmerman <mdz@canonical.com>  Wed, 27 Oct 2004 22:55:30 -0700
+
 ubuntu-meta (0.3) warty; urgency=low
 
   * Refreshed from seed lists and package archive

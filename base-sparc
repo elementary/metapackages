@@ -20,7 +20,6 @@ debianutils
 dhcp3-client
 diff
 discover1
-dmidecode
 dmsetup
 dnsutils
 dosfstools
@@ -55,7 +54,6 @@ iputils-ping
 iputils-tracepath
 jfsutils
 less
-libc6-i686
 libfribidi0
 libreiserfs0.3-0
 locales
@@ -64,7 +62,6 @@ logrotate
 lsb-release
 lshw
 lsof
-ltrace
 lvm10
 lvm2
 mailx
@@ -73,7 +70,6 @@ man-db
 manpages
 mawk
 mdadm
-memtest86+
 mii-diag
 mime-support
 module-init-tools
