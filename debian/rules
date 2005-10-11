@@ -11,10 +11,10 @@ clean:
 DEB_BUILD_ARCH:=$(shell dpkg-architecture -qDEB_BUILD_ARCH)
 
 build: build-stamp
-build-stamp:	base-$(DEB_BUILD_ARCH) desktop-$(DEB_BUILD_ARCH)
+build-stamp:	minimal-$(DEB_BUILD_ARCH) standard-$(DEB_BUILD_ARCH) desktop-$(DEB_BUILD_ARCH) live-$(DEB_BUILD_ARCH)
 	dh_clean
 
-	for seed in base desktop live; do \
+	for seed in minimal standard desktop live; do \
 		package=ubuntu-$$seed; \
 		(printf "$$package:Depends="; perl -pe 's/\n/, /g'  $$seed-$(DEB_BUILD_ARCH); echo) \
 			>> debian/$$package.substvars; \
@@ -36,6 +36,16 @@ binary-arch: install
 	dh_builddeb -a
 
 binary-indep:
+	dh_testdir -i
+	dh_testroot -i
+	dh_installdocs -i
+	dh_installchangelogs -i
+	dh_compress -i
+	dh_fixperms -i
+	dh_installdeb -i
+	dh_gencontrol -i
+	dh_md5sums -i
+	dh_builddeb -i
 
 binary: binary-indep binary-arch
 

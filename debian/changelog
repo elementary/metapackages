@@ -1,3 +1,892 @@
+ubuntu-meta (0.80) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Removed python-opengl from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Tue, 11 Oct 2005 15:20:53 +0100
+
+ubuntu-meta (0.79) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Removed python2.4-samba from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed python-twisted from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Mon, 10 Oct 2005 15:28:32 +0100
+
+ubuntu-meta (0.78) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Removed language-pack-ar from live-ia64
+  * Removed language-pack-gnome-ja from live-ia64
+  * Removed language-pack-gnome-sq from live-ia64
+  * Removed language-pack-ko from live-ia64
+  * Removed language-pack-gnome-sv from live-ia64
+  * Removed language-pack-gnome-sk from live-ia64
+  * Removed language-pack-hu from live-ia64
+  * Removed language-pack-gnome-ms from live-ia64
+  * Removed language-pack-gnome-sl from live-ia64
+  * Removed language-pack-vi from live-ia64
+  * Removed language-pack-gnome-it from live-ia64
+  * Removed language-pack-it from live-ia64
+  * Removed language-pack-ja from live-ia64
+  * Removed language-pack-gnome-uk from live-ia64
+  * Removed language-pack-el from live-ia64
+  * Removed language-pack-gnome-bg from live-ia64
+  * Removed language-pack-ca from live-ia64
+  * Removed language-pack-gnome-fi from live-ia64
+  * Removed language-pack-sk from live-ia64
+  * Removed language-pack-eu from live-ia64
+  * Removed language-pack-tr from live-ia64
+  * Removed language-pack-es from live-ia64
+  * Removed language-pack-gnome-sr from live-ia64
+  * Removed language-pack-ru from live-ia64
+  * Removed language-pack-hr from live-ia64
+  * Removed language-pack-gnome-eu from live-ia64
+  * Removed language-pack-gnome-da from live-ia64
+  * Removed language-pack-pl from live-ia64
+  * Removed language-pack-da from live-ia64
+  * Removed language-pack-gnome-nb from live-ia64
+  * Removed language-pack-gnome-hi from live-ia64
+  * Removed language-pack-hi from live-ia64
+  * Removed language-pack-ms from live-ia64
+  * Removed language-pack-gnome-pt from live-ia64
+  * Removed language-pack-gnome-ru from live-ia64
+  * Removed language-pack-sv from live-ia64
+  * Removed language-pack-gnome-nl from live-ia64
+  * Removed language-pack-sq from live-ia64
+  * Removed language-pack-sr from live-ia64
+  * Removed language-pack-gnome-no from live-ia64
+  * Removed language-pack-sl from live-ia64
+  * Removed language-pack-gnome-lt from live-ia64
+  * Removed language-pack-gnome-ro from live-ia64
+  * Removed language-pack-no from live-ia64
+  * Removed language-pack-lt from live-ia64
+  * Removed language-pack-nl from live-ia64
+  * Removed language-pack-gnome-hr from live-ia64
+  * Removed language-pack-nb from live-ia64
+  * Removed language-pack-uk from live-ia64
+  * Removed language-pack-gnome-pl from live-ia64
+  * Removed language-pack-gnome-hu from live-ia64
+  * Removed language-pack-gnome-vi from live-ia64
+  * Removed language-pack-pt from live-ia64
+  * Removed language-pack-bg from live-ia64
+  * Removed language-pack-gnome-tr from live-ia64
+  * Removed language-pack-gnome-ca from live-ia64
+  * Removed language-pack-gnome-es from live-ia64
+  * Removed language-pack-gnome-el from live-ia64
+  * Removed language-pack-gnome-xh from live-ia64
+  * Removed language-pack-gnome-ar from live-ia64
+  * Removed language-pack-xh from live-ia64
+  * Removed language-pack-gnome-cs from live-ia64
+  * Removed language-pack-cs from live-ia64
+  * Removed language-pack-gnome-ko from live-ia64
+  * Removed language-pack-fi from live-ia64
+  * Removed language-pack-ro from live-ia64
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Thu,  6 Oct 2005 20:48:07 +0100
+
+ubuntu-meta (0.77) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Added gstreamer0.8-dvd to desktop-hppa
+  * Added gstreamer0.8-vorbis to desktop-hppa
+  * Added usplash to desktop-sparc
+  * Added gstreamer0.8-hermes to desktop-hppa
+  * Added gstreamer0.8-flac to desktop-hppa
+  * Added gnome-applets to desktop-hppa
+  * Added gstreamer0.8-sdl to desktop-hppa
+  * Added rhythmbox to desktop-hppa
+  * Added gstreamer0.8-cdparanoia to desktop-hppa
+  * Added libgstreamer-gconf0.8-0 to desktop-hppa
+  * Added libgstreamer-plugins0.8-0 to desktop-hppa
+  * Added nautilus-cd-burner to desktop-hppa
+  * Added gstreamer0.8-dv to desktop-hppa
+  * Added gstreamer0.8-x to desktop-hppa
+  * Added gstreamer0.8-musepack to desktop-hppa
+  * Added gstreamer0.8-theora to desktop-hppa
+  * Added gstreamer0.8-speex to desktop-hppa
+  * Added python-gst to desktop-hppa
+  * Added gstreamer0.8-misc to desktop-hppa
+  * Added gstreamer0.8-gsm to desktop-hppa
+  * Added gstreamer0.8-esd to desktop-hppa
+  * Added gstreamer0.8-jpeg to desktop-hppa
+  * Added gnome-media to desktop-hppa
+  * Added gnome-control-center to desktop-hppa
+  * Added gstreamer0.8-gnomevfs to desktop-hppa
+  * Added gstreamer0.8-audiofile to desktop-hppa
+  * Added sound-juicer to desktop-hppa
+  * Added gstreamer0.8-plugin-apps to desktop-hppa
+  * Added gstreamer0.8-oss to desktop-hppa
+  * Added gstreamer0.8-alsa to desktop-hppa
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Mon,  3 Oct 2005 23:31:29 +0100
+
+ubuntu-meta (0.76) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Added powermanagement-interface to desktop-powerpc, desktop-ia64
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Fri, 23 Sep 2005 10:07:45 +0100
+
+ubuntu-meta (0.75) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Added libxp6 to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed powermanagement-interface from desktop-powerpc, desktop-
+    ia64, desktop-sparc, desktop-hppa
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Fri, 23 Sep 2005 16:49:21 +1000
+
+ubuntu-meta (0.74) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Added evolution-plugins to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xscreensaver to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed gnome-screensaver from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed xscreensaver-data from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Tue, 20 Sep 2005 14:17:01 -0700
+
+ubuntu-meta (0.73) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Added w3m to standard-hppa
+  * Added gnome-screensaver to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added readahead to desktop-sparc
+  * Added xscreensaver-data to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64
+  * Removed xscreensaver from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed mozilla-openoffice.org from desktop-i386, desktop-powerpc
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Fri, 16 Sep 2005 12:46:14 -0700
+
+ubuntu-meta (0.72) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Added ttf-mgopen to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added readahead to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-hppa
+  * Added iproute to minimal-hppa
+  * Removed w3m from standard-hppa
+  * Removed readahead-list from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Tollef Fog Heen <tfheen@ubuntu.com>  Tue, 13 Sep 2005 20:48:53 +0200
+
+ubuntu-meta (0.71) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Added ubuntu-docs to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Fri,  9 Sep 2005 14:50:36 +0100
+
+ubuntu-meta (0.70) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Added gparted to live-sparc
+  * Added usplash to desktop-powerpc
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Wed,  7 Sep 2005 19:45:58 -0700
+
+ubuntu-meta (0.69) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Removed python-numarray from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Tue,  6 Sep 2005 20:38:10 +0100
+
+ubuntu-meta (0.68) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Added nautilus to desktop-hppa
+  * Added xorg-driver-synaptics to desktop-hppa
+  * Added yelp to desktop-hppa
+  * Added rss-glx to desktop-hppa
+  * Added tsclient to desktop-hppa
+  * Added gnome-pilot-conduits to desktop-hppa
+  * Added file-roller to desktop-hppa
+  * Added gnome-panel to desktop-hppa
+  * Added lvm2 to standard-hppa
+  * Added gnome-system-tools to desktop-hppa
+  * Added nautilus-sendto to desktop-hppa
+  * Added libgl1-mesa to desktop-hppa
+  * Removed ubuntu-quickguide from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Mon,  5 Sep 2005 09:53:45 -0700
+
+ubuntu-meta (0.67) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Added bogofilter to desktop-hppa
+  * Added xscreensaver to desktop-hppa
+  * Added xscreensaver-gl to desktop-hppa
+  * Added mozilla-openoffice.org to desktop-i386, desktop-powerpc
+  * Added gimp-python to desktop-hppa
+  * Added gimp to desktop-hppa
+  * Added serpentine to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Tue, 23 Aug 2005 11:01:23 +0200
+
+ubuntu-meta (0.66) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Added libgl1-mesa to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc
+  * Added hplip-base to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added python-syck to desktop-ia64
+  * Added hplip-ppds to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed libgl1-xorg from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Sun, 21 Aug 2005 05:53:27 +1000
+
+ubuntu-meta (0.65) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Removed language-pack-bn from live-i386, live-amd64, live-sparc,
+    live-hppa
+  * Removed language-pack-gnome-bn from live-i386, live-amd64, live-
+    sparc, live-hppa
+  * Removed language-pack-gnome-hi from live-i386, live-amd64, live-
+    sparc, live-hppa
+  * Removed language-pack-hi from live-i386, live-amd64, live-sparc,
+    live-hppa
+  * Removed openoffice.org from desktop-ia64, desktop-sparc
+  * Removed openoffice.org-gtk-gnome from desktop-ia64, desktop-sparc
+  * Removed language-pack-gnome-zh from live-i386, live-amd64, live-
+    sparc, live-hppa
+  * Removed language-pack-gnome-es from live-i386, live-amd64, live-
+    sparc, live-hppa
+  * Removed language-pack-es from live-i386, live-amd64, live-sparc,
+    live-hppa
+  * Removed language-pack-zh from live-i386, live-amd64, live-sparc,
+    live-hppa
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Thu, 18 Aug 2005 12:23:32 -0700
+
+ubuntu-meta (0.64) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Added language-pack-gnome-sr to live-ia64
+  * Added language-pack-gnome-sq to live-ia64
+  * Added language-pack-gnome-sv to live-ia64
+  * Added language-pack-gnome-sk to live-ia64
+  * Added language-pack-gnome-ms to live-ia64
+  * Added language-pack-gnome-sl to live-ia64
+  * Added language-pack-gnome-it to live-ia64
+  * Added language-pack-gnome-bn to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added language-pack-gnome-uk to live-ia64
+  * Added language-pack-gnome-fr to live-powerpc, live-ia64
+  * Added language-pack-gnome-bg to live-ia64
+  * Added language-pack-gnome-fi to live-ia64
+  * Added language-pack-gnome-en to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added language-pack-gnome-ja to live-powerpc, live-ia64
+  * Added language-pack-gnome-de to live-powerpc, live-ia64
+  * Added language-pack-gnome-da to live-ia64
+  * Added language-pack-gnome-nb to live-ia64
+  * Added language-pack-gnome-hi to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added language-pack-gnome-pt to live-powerpc, live-ia64
+  * Added language-pack-gnome-ru to live-powerpc, live-ia64
+  * Added language-pack-gnome-nl to live-ia64
+  * Added language-pack-gnome-no to live-ia64
+  * Added language-pack-gnome-lt to live-ia64
+  * Added language-pack-gnome-ro to live-ia64
+  * Added language-pack-gnome-hr to live-ia64
+  * Added language-pack-gnome-pl to live-ia64
+  * Added language-pack-gnome-hu to live-ia64
+  * Added language-pack-gnome-vi to live-ia64
+  * Added language-pack-gnome-eu to live-ia64
+  * Added language-pack-gnome-tr to live-ia64
+  * Added language-pack-gnome-ca to live-powerpc, live-ia64
+  * Added language-pack-gnome-zh to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added language-pack-gnome-es to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added language-pack-gnome-el to live-ia64
+  * Added language-pack-gnome-xh to live-ia64
+  * Added language-pack-gnome-ar to live-powerpc, live-ia64
+  * Added gstreamer0.8-musepack to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+  * Added language-pack-gnome-cs to live-ia64
+  * Added language-pack-gnome-ko to live-ia64
+  * Removed language-pack-ar from live-i386, live-amd64, live-sparc,
+    live-hppa
+  * Removed language-pack-pl from live-powerpc
+  * Removed language-pack-ru from live-i386, live-amd64, live-sparc,
+    live-hppa
+  * Removed language-pack-tr from live-powerpc
+  * Removed language-pack-pt from live-i386, live-amd64, live-sparc,
+    live-hppa
+  * Removed language-pack-it from live-powerpc
+  * Removed language-pack-el from live-powerpc
+  * Removed language-pack-ca from live-i386, live-amd64, live-sparc,
+    live-hppa
+  * Removed language-pack-sk from live-powerpc
+  * Removed language-pack-cs from live-powerpc
+  * Removed language-pack-ko from live-powerpc
+  * Removed language-pack-ja from live-i386, live-amd64, live-sparc,
+    live-hppa
+  * Removed language-pack-sv from live-powerpc
+  * Removed language-pack-sr from live-powerpc
+  * Removed language-pack-no from live-powerpc
+  * Removed language-pack-nl from live-powerpc
+  * Removed language-pack-hu from live-powerpc
+  * Removed language-pack-nb from live-powerpc
+  * Removed language-pack-uk from live-powerpc
+  * Removed language-pack-da from live-powerpc
+  * Removed language-pack-fi from live-powerpc
+  * Removed language-pack-de from live-i386, live-amd64, live-sparc,
+    live-hppa
+  * Removed language-pack-fr from live-i386, live-amd64, live-sparc,
+    live-hppa
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Thu, 18 Aug 2005 11:04:07 -0700
+
+ubuntu-meta (0.63) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Added gparted to live-i386, live-amd64, live-powerpc, live-ia64,
+    live-hppa
+  * Added smeg to desktop-i386, desktop-amd64, desktop-powerpc, desktop-
+    ia64, desktop-sparc, desktop-hppa
+  * Removed bind9-host from standard-i386, standard-amd64, standard-
+    powerpc, standard-ia64, standard-sparc, standard-hppa
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Tue, 16 Aug 2005 00:13:15 -0700
+
+ubuntu-meta (0.62) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Added notification-daemon to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed bluez-bcm203x from desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Fri, 12 Aug 2005 10:15:06 -0700
+
+ubuntu-meta (0.61) breezy; urgency=low
+
+  * Remove bluez-bcm203x manually from release arches; it's uninstallable
+  * Refreshed dependencies
+  * Added hotkey-setup to desktop-i386
+  * Added usplash to desktop-i386, desktop-amd64
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Thu, 11 Aug 2005 16:53:26 -0700
+
+ubuntu-meta (0.60) breezy; urgency=low
+
+  * Cosmetic changes to update script output
+  * Refreshed dependencies
+  * Added bluez-bcm203x to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added openoffice.org2-gnome to desktop-amd64
+  * Added openoffice.org2 to desktop-amd64
+  * Added initramfs-tools to minimal-i386, minimal-amd64, minimal-
+    powerpc, minimal-ia64, minimal-sparc, minimal-hppa
+  * Removed openoffice.org-gtk-gnome from desktop-amd64
+  * Removed openoffice.org from desktop-amd64
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Thu, 11 Aug 2005 15:29:53 -0700
+
+ubuntu-meta (0.59) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Added bluez-pcmcia-support to desktop-i386, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added libgl1-xorg to desktop-amd64
+  * Added bluez-utils to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added gaim to desktop-hppa
+  * Added bluez-pin to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added bluez-cups to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed initrd-tools from minimal-i386, minimal-amd64, minimal-
+    powerpc, minimal-ia64, minimal-sparc, minimal-hppa
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Thu, 11 Aug 2005 04:31:46 +0100
+
+ubuntu-meta (0.58) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Added gnome-games to desktop-hppa
+  * Added language-selector to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added gdm to desktop-hppa
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Mon,  8 Aug 2005 14:34:30 -0700
+
+ubuntu-meta (0.57) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Added cupsys-bsd to desktop-hppa
+  * Added evolution to desktop-hppa
+  * Added libgl1-xorg to desktop-i386, desktop-powerpc, desktop-ia64,
+    desktop-sparc
+  * Added firefox to desktop-hppa
+  * Added wvdial to desktop-hppa
+  * Added nano to standard-hppa
+  * Added alsa-utils to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added cupsys-client to desktop-hppa
+  * Added gnomemeeting to desktop-hppa
+  * Added hal to desktop-hppa
+  * Added python2.4-dbus to desktop-hppa
+  * Added gnome-nettool to desktop-hppa
+  * Added evince to desktop-hppa
+  * Added update-notifier to desktop-hppa
+  * Added evolution-exchange to desktop-hppa
+  * Added dbus-1-utils to desktop-hppa
+  * Added cupsys to desktop-hppa
+  * Added synaptic to desktop-hppa
+  * Added gnome-volume-manager to desktop-hppa
+  * Added firefox-gnome-support to desktop-hppa
+  * Removed xlibmesa-gl from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Sun,  7 Aug 2005 19:04:22 +0100
+
+ubuntu-meta (0.56) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Added strace to minimal-hppa
+  * Added xkeyboard-config to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added lshw to standard-hppa
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Fri, 15 Jul 2005 15:48:28 +0100
+
+ubuntu-meta (0.55) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Added vino to desktop-hppa
+  * Added libpt-plugins-v4l2 to desktop-hppa
+  * Added laptop-detect to live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+  * Added gedit to desktop-hppa
+  * Added gucharmap to desktop-hppa
+  * Added gnome-system-monitor to desktop-hppa
+  * Added findutils to minimal-hppa
+  * Added libpt-plugins-v4l to desktop-hppa
+  * Added readahead-list to desktop-hppa
+  * Added xresprobe to live-i386, live-amd64, live-powerpc, live-ia64,
+    live-sparc, live-hppa
+  * Added gnome-netstatus-applet to desktop-hppa
+  * Added python2.4-librdf to desktop-hppa
+  * Added gnome-spell to desktop-hppa
+  * Added gtk2-engines-smooth to desktop-hppa
+  * Added gnome-cups-manager to desktop-hppa
+  * Added python-numarray to desktop-hppa
+  * Added evolution-webcal to desktop-hppa
+  * Added iptables to standard-hppa
+  * Added libgnome2-perl to desktop-hppa
+  * Added irssi-text to desktop-hppa
+  * Added python2.4-pycurl to desktop-hppa
+  * Added slocate to desktop-hppa
+  * Added bug-buddy to desktop-hppa
+  * Added gconf-editor to desktop-hppa
+  * Added screen to desktop-hppa
+  * Added anacron to desktop-hppa
+  * Added python-netcdf to desktop-hppa
+  * Added iputils-tracepath to standard-hppa
+  * Added iputils-arping to standard-hppa
+  * Added openssh-client to standard-hppa
+  * Added gnome-utils to desktop-hppa
+  * Added iputils-ping to minimal-hppa
+  * Added contact-lookup-applet to desktop-hppa
+  * Added eog to desktop-hppa
+  * Added gamin to desktop-hppa
+  * Added gnome-about to desktop-hppa
+  * Added scrollkeeper to desktop-hppa
+  * Added ssh-askpass-gnome to desktop-hppa
+  * Added gcalctool to desktop-hppa
+  * Added gnome-session to desktop-hppa
+  * Added gthumb to desktop-hppa
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Thu, 14 Jul 2005 15:05:20 +0100
+
+ubuntu-meta (0.54) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Added gnome-menus to desktop-hppa
+  * Added xterm to desktop-hppa
+  * Added cupsys-driver-gimpprint to desktop-hppa
+  * Added gs-esp to desktop-hppa
+  * Added fortune-mod to desktop-hppa
+  * Added fetchmail to desktop-hppa
+  * Added python-pqueue to desktop-hppa
+  * Added unzip to desktop-hppa
+  * Added python2.4-libxml2 to desktop-hppa
+  * Added xvncviewer to desktop-hppa
+  * Added python-parted to desktop-hppa
+  * Added zenity to desktop-hppa
+  * Added powernowd to desktop-hppa
+  * Added python-pyao to desktop-hppa
+  * Added gtk2-engines-industrial to desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added dvd+rw-tools to desktop-hppa
+  * Added ncurses-bin to minimal-hppa
+  * Added libsasl2-modules to desktop-hppa
+  * Added zip to desktop-hppa
+  * Added ntfsprogs to live-hppa
+  * Added python-musicbrainz to desktop-hppa
+  * Added gtk2-engines-mist to desktop-hppa
+  * Added python-gdchart to desktop-hppa
+  * Added lftp to desktop-hppa
+  * Added python-cddb to desktop-hppa
+  * Added bc to desktop-hppa
+  * Added yaboot to live-powerpc
+  * Added mkisofs to desktop-hppa
+  * Added pnm2ppa to desktop-hppa
+  * Added dc to desktop-hppa
+  * Added procmail to desktop-hppa
+  * Added reiser4progs to minimal-hppa
+  * Added cdparanoia to desktop-hppa
+  * Added desktop-file-utils to desktop-hppa
+  * Added xsane to desktop-hppa
+  * Added vim to minimal-hppa
+  * Added pcmcia-cs to live-hppa
+  * Added metacity to desktop-hppa
+  * Added xchat to desktop-hppa
+  * Added gtk2-engines-clearlooks to desktop-hppa
+  * Added python-syck to desktop-hppa
+  * Added powermanagement-interface to desktop-hppa
+  * Added foomatic-db-engine to desktop-hppa
+  * Added cdrecord to desktop-hppa
+  * Added python-pisock to desktop-hppa
+  * Added python2.4-libxslt1 to desktop-hppa
+  * Added discover1 to live-i386, live-amd64, live-powerpc, live-ia64,
+    live-sparc, live-hppa
+  * Added python-pyvorbis to desktop-hppa
+  * Added python-crypto to desktop-hppa
+  * Added gnome-terminal to desktop-hppa
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Tue,  5 Jul 2005 14:14:36 +0100
+
+ubuntu-meta (0.53) breezy; urgency=low
+
+  * Add hppa, no dependency changes.
+
+ -- LaMont Jones <lamont@ubuntu.com>  Thu, 30 Jun 2005 23:25:54 -0600
+
+ubuntu-meta (0.52) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Added xterm to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc
+  * Added grub to live-i386, live-amd64
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Sat, 25 Jun 2005 08:41:54 +0100
+
+ubuntu-meta (0.51) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Added libesd-alsa0 to desktop-amd64
+  * Added ubuntu-express to live-i386, live-amd64, live-powerpc, live- ia64,
+    live-sparc
+  * Removed xterm from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Fri, 17 Jun 2005 20:18:06 +0100
+
+ubuntu-meta (0.50) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Added libpt-plugins-v4l2 to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+  * Added libpt-plugins-v4l to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Tue,  7 Jun 2005 11:36:54 -0700
+
+ubuntu-meta (0.49) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Added readahead-list to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+  * Removed gtk2-engines-industrial from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Mon, 23 May 2005 19:39:33 -0700
+
+ubuntu-meta (0.48) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Added libesd-alsa0 to desktop-i386, desktop-powerpc, desktop-ia64,
+    desktop-sparc
+  * Removed libesd0 from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc
+  * Added dselect to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added firefox to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc
+  * Added firefox-gnome-support to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Thu, 19 May 2005 14:04:25 +0200
+
+ubuntu-meta (0.47) breezy; urgency=low
+
+  * Refreshed dependencies
+  * Added evince to desktop-sparc
+  * Removed netkit-inetd from minimal-i386, minimal-amd64, minimal-
+    powerpc, minimal-ia64, minimal-sparc
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Thu, 12 May 2005 14:50:24 -0700
+
+ubuntu-meta (0.46) breezy; urgency=low
+
+  * Switched ia64 and sparc to http://ports.ubuntu.com/ubuntu-ports/.
+
+  * Refreshed dependencies
+  * Added diff to minimal-sparc
+  * Removed discover1 from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Wed,  4 May 2005 12:19:19 +0100
+
+ubuntu-meta (0.45) breezy; urgency=low
+
+  * Rename ubuntu-base to ubuntu-minimal, and add a new ubuntu-standard
+    metapackage, to allow for smaller installations. Add a new transitional
+    ubuntu-base package that just depends on ubuntu-minimal and
+    ubuntu-standard.
+  * Fetch seeds from people.ubuntu.com, not people.ubuntulinux.org.
+  * Re-enable ia64 with the aid of a temporary mirror of the Packages files.
+
+  * Refreshed dependencies
+  * Added ltrace to standard-i386, standard-amd64, standard-powerpc
+  * Added parted to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added pppconfig to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added lvm2 to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added ed to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added cron to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added logrotate to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added ppp to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added lshw to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added at to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added file to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added mdadm to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added ftp to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added rsync to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added openssh-client to standard-i386, standard-amd64, standard-
+    powerpc, standard-ia64, standard-sparc
+  * Added nano to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added evms-ncurses to standard-i386, standard-amd64, standard-
+    powerpc, standard-ia64, standard-sparc
+  * Added w3m to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added man-db to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added tcpdump to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added mtr-tiny to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added iptables to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added info to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added evms to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added popularity-contest to standard-i386, standard-amd64, standard-
+    powerpc, standard-ia64, standard-sparc
+  * Added cpio to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added telnet to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added dmidecode to standard-i386, standard-amd64, standard-ia64
+  * Added fdutils to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added hdparm to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added iputils-tracepath to standard-i386, standard-amd64, standard-
+    powerpc, standard-ia64, standard-sparc
+  * Added reportbug to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added iputils-arping to standard-i386, standard-amd64, standard-
+    powerpc, standard-ia64, standard-sparc
+  * Added wget to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added mime-support to standard-i386, standard-amd64, standard-
+    powerpc, standard-ia64, standard-sparc
+  * Added bind9-host to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added dnsutils to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added pppoeconf to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added dmsetup to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added evince to desktop-ia64
+  * Added psmisc to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added time to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added manpages to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Added lsof to standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc
+  * Removed ltrace from minimal-i386, minimal-amd64, minimal-powerpc
+  * Removed parted from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed pppconfig from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed lsb from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc
+  * Removed mutt from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed lvm2 from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed postfix-tls from minimal-i386, minimal-amd64, minimal-
+    powerpc, minimal-ia64, minimal-sparc
+  * Removed ed from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed mailx from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed cron from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed logrotate from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed ppp from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed lshw from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed at from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed file from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed diff from minimal-sparc
+  * Removed mdadm from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed readahead from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc
+  * Removed ftp from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed rsync from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed openssh-client from minimal-i386, minimal-amd64, minimal-
+    powerpc, minimal-ia64, minimal-sparc
+  * Removed nano from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed evms-ncurses from minimal-i386, minimal-amd64, minimal-
+    powerpc, minimal-ia64, minimal-sparc
+  * Removed w3m from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed lvm10 from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed man-db from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed tcpdump from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed mtr-tiny from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed iptables from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed info from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed mozilla-firefox from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+  * Removed evms from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed popularity-contest from minimal-i386, minimal-amd64,
+    minimal-powerpc, minimal-ia64, minimal-sparc
+  * Removed ntp from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed cpio from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed telnet from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed dmidecode from minimal-i386, minimal-amd64, minimal-ia64
+  * Removed fdutils from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed hdparm from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed iputils-tracepath from minimal-i386, minimal-amd64, minimal-
+    powerpc, minimal-ia64, minimal-sparc
+  * Removed reportbug from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed iputils-arping from minimal-i386, minimal-amd64, minimal-
+    powerpc, minimal-ia64, minimal-sparc
+  * Removed wget from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed mime-support from minimal-i386, minimal-amd64, minimal-
+    powerpc, minimal-ia64, minimal-sparc
+  * Removed bind9-host from minimal-i386, minimal-amd64, minimal-
+    powerpc, minimal-ia64, minimal-sparc
+  * Removed dnsutils from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed pppoeconf from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed xpdf from desktop-ia64
+  * Removed postfix from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed dmsetup from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed mozilla-firefox-gnome-support from desktop-i386, desktop-
+    amd64, desktop-powerpc, desktop-ia64, desktop-sparc
+  * Removed psmisc from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed time from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed manpages from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed lsof from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed gnome-gv from desktop-ia64
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Tue,  3 May 2005 11:29:12 +0100
+
+ubuntu-meta (0.44) breezy; urgency=low
+
+  * Improve error handling for debootstrap in update script
+  * Disable ia64 temporarily, until ports.ubuntu.com becomes available
+  * Refreshed dependencies
+  * Added evince to desktop-i386, desktop-amd64, desktop-powerpc
+  * Added openoffice.org2-gnome to desktop-i386, desktop-powerpc
+  * Added openoffice.org2 to desktop-i386, desktop-powerpc
+  * Added openoffice.org2-evolution to desktop-i386, desktop-powerpc
+  * Removed openoffice.org-gtk-gnome from desktop-i386, desktop-powerpc
+  * Removed xpdf from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-sparc
+  * Removed openoffice.org from desktop-i386, desktop-powerpc
+  * Removed gnome-gv from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-sparc
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Thu, 14 Apr 2005 08:06:01 -0700
+
 ubuntu-meta (0.43) hoary; urgency=low
 
   * Refreshed dependencies

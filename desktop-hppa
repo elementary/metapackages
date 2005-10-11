@@ -1,6 +1,3 @@
-acpi
-acpi-support
-acpid
 anacron
 bc
 bicyclerepair
@@ -128,7 +125,6 @@ nautilus-cd-burner
 nautilus-sendto
 notification-daemon
 pnm2ppa
-powermanagement-interface
 powernowd
 procmail
 python-adns

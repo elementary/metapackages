@@ -5,16 +5,39 @@ Maintainer: Matt Zimmerman <mdz@ubuntu.com>
 Standards-Version: 3.6.1
 Build-Depends: debhelper (>= 4)
 
-Package: ubuntu-base
+Package: ubuntu-minimal
 Architecture: any
-Depends: ${ubuntu-base:Depends}
-Description: The Ubuntu base system
- This package depends on all of the packages in the Ubuntu base system.
+Depends: ${ubuntu-minimal:Depends}
+Description: Minimal core of Ubuntu
+ This package depends on all of the packages in the Ubuntu minimal system,
+ that is a minimally functional system that can boot and install more
+ packages.
  .
- It is safe to remove this package if some of the base system packages are not
- desired.  However, it is recommended that you keep it installed, because it is
- used to carry out certain upgrade transitions (such as adding new packages to
- the system).
+ It is safe to remove this package if some of the minimal system packages
+ are not desired.  However, it is recommended that you keep it installed,
+ because it is used to carry out certain upgrade transitions (such as adding
+ new packages to the system).
+
+Package: ubuntu-standard
+Architecture: any
+Depends: ${ubuntu-standard:Depends}
+Description: The Ubuntu standard system
+ This package depends on all of the packages in the Ubuntu standard system.
+ This set of packages provides a comfortable text-only Unix-like
+ environment.
+ .
+ It is safe to remove this package if some of the standard system packages
+ are not desired.  However, it is recommended that you keep it installed,
+ because it is used to carry out certain upgrade transitions (such as adding
+ new packages to the system).
+
+Package: ubuntu-base
+Architecture: all
+Depends: ubuntu-minimal, ubuntu-standard
+Description: The Ubuntu base system (transitional package)
+ This package exists only to cause ubuntu-minimal and ubuntu-standard to be
+ installed on upgrades from earlier releases to Ubuntu 5.10.  It is safe to
+ remove this package once the upgrade is complete.
 
 Package: ubuntu-desktop
 Architecture: any

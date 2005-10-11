@@ -11,17 +11,19 @@ import re
 import StringIO
 import os
 
-seeds = { 'base' : {}, 'desktop' : {}, 'live' : {} }
-architectures = ['i386', 'amd64', 'powerpc', 'ia64', 'sparc']
+seeds = { 'minimal' : {}, 'standard' : {}, 'desktop' : {}, 'live' : {} }
+architectures = ['i386', 'amd64', 'powerpc', 'ia64', 'sparc', 'hppa']
 archive_base_default = 'http://archive.ubuntu.com/ubuntu/'
+archive_base_ports = 'http://ports.ubuntu.com/ubuntu-ports/'
 archive_base = { 'i386' : archive_base_default,
                  'amd64' : archive_base_default,
                  'powerpc' : archive_base_default,
-                 'ia64' : archive_base_default,
-                 'sparc' : 'http://sparc.ubuntu.com/ubuntu-sparc/',
+                 'hppa' : archive_base_ports,
+                 'ia64' : archive_base_ports,
+                 'sparc' : archive_base_ports,
                 }
-dist = 'hoary'
-seed_base = 'http://people.ubuntulinux.org/~cjwatson/seeds/%s/' % dist
+dist = 'breezy'
+seed_base = 'http://people.ubuntu.com/~cjwatson/seeds/%s/' % dist
 seed_entry = re.compile(' *\* *(?P<package>\S+) *(\[(?P<arches>[^]]*)\])? *(#.*)?')
 components = ['main', 'restricted']
 debootstrap_version_file = 'debootstrap-version'
@@ -38,6 +40,9 @@ def get_debootstrap_version():
 def debootstrap_packages(arch):
     debootstrap = os.popen('debootstrap --arch %s --print-debs %s debootstrap-dir %s' % (arch,dist,archive_base[arch]))
     packages = debootstrap.read().split()
+    if debootstrap.close():
+        raise RuntimeError('Unable to retrieve package list from debootstrap')
+    
     
     # sometimes debootstrap gives empty packages / multiple separators
     packages = filter(None, packages)
@@ -112,12 +117,12 @@ for architecture in architectures:
             if package in packages:
                 if architecture not in seed[package]:
                     print "%s/%s: Skipping package %s (not for this architecture)" % (seed_name,architecture,package)
-                elif seed_name == 'base' and package not in debootstrap_base:
-                    print "%s/%s: Skipping base package %s (not in debootstrap)" % (seed_name,architecture,package)
+                elif seed_name == 'minimal' and package not in debootstrap_base:
+                    print "%s/%s: Skipping package %s (package not in debootstrap)" % (seed_name,architecture,package)
                 else:
                     new_list.append(package)
             else:
-                print "%s/%s: Skipping unavailable package %s" % (seed_name,architecture,package)
+                print "%s/%s: Skipping package %s (unavailable)" % (seed_name,architecture,package)
 
         new_list.sort()
         output = open(output_filename, 'w')
