@@ -30,7 +30,6 @@ gzip
 hfsplus
 hfsutils
 hostname
-hotplug
 ifrename
 ifupdown
 initramfs-tools
@@ -58,6 +57,7 @@ netcat
 ntpdate
 passwd
 pciutils
+pcmciautils
 perl-base
 pmac-fdisk
 powerpc-utils

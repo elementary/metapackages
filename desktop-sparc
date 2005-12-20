@@ -1,3 +1,4 @@
+alacarte
 anacron
 bc
 bicyclerepair
@@ -5,7 +6,6 @@ bluez-cups
 bluez-pcmcia-support
 bluez-pin
 bluez-utils
-bogofilter
 bug-buddy
 cdparanoia
 cdrecord
@@ -28,10 +28,10 @@ evolution
 evolution-exchange
 evolution-plugins
 evolution-webcal
-fetchmail
 file-roller
 firefox
 firefox-gnome-support
+foo2zjs
 foomatic-db
 foomatic-db-engine
 foomatic-db-gimp-print
@@ -100,7 +100,7 @@ gtk2-engines-smooth
 gucharmap
 hal
 hal-device-manager
-hplip-base
+hplip
 hplip-ppds
 hwdb-client
 irssi-text
@@ -119,6 +119,7 @@ libpt-plugins-v4l2
 libsasl2-modules
 libxp6
 metacity
+min12xxw
 mkisofs
 nautilus
 nautilus-cd-burner
@@ -126,7 +127,6 @@ nautilus-sendto
 notification-daemon
 pnm2ppa
 powernowd
-procmail
 python-adns
 python-apt
 python-cddb
@@ -199,7 +199,6 @@ scrollkeeper
 serpentine
 slocate
 smbclient
-smeg
 sound-juicer
 ssh-askpass-gnome
 synaptic
@@ -212,6 +211,7 @@ ttf-arphic-gbsn00lp
 ttf-arphic-gkai00mp
 ttf-baekmuk
 ttf-bitstream-vera
+ttf-dejavu
 ttf-freefont
 ttf-indic-fonts
 ttf-kochi-gothic

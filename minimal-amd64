@@ -28,7 +28,6 @@ grep
 grepmap
 gzip
 hostname
-hotplug
 ifrename
 ifupdown
 initramfs-tools
@@ -56,6 +55,7 @@ netcat
 ntpdate
 passwd
 pciutils
+pcmciautils
 perl-base
 procps
 python

@@ -3,6 +3,8 @@
 # TODO:
 # - Exclude essential packages from dependencies
 
+import sys
+sys.path.insert(1, '/usr/share/germinate')
 import urllib2
 import urlparse
 import gzip
@@ -10,8 +12,12 @@ import sets
 import re
 import StringIO
 import os
+import logging
+import apt_pkg
+from Germinate import Germinator
+import Germinate.Archive
 
-seeds = { 'minimal' : {}, 'standard' : {}, 'desktop' : {}, 'live' : {} }
+seeds = ['minimal', 'standard', 'desktop', 'live']
 architectures = ['i386', 'amd64', 'powerpc', 'ia64', 'sparc', 'hppa']
 archive_base_default = 'http://archive.ubuntu.com/ubuntu/'
 archive_base_ports = 'http://ports.ubuntu.com/ubuntu-ports/'
@@ -22,12 +28,12 @@ archive_base = { 'i386' : archive_base_default,
                  'ia64' : archive_base_ports,
                  'sparc' : archive_base_ports,
                 }
-dist = 'breezy'
+dist = 'dapper'
 seed_base = 'http://people.ubuntu.com/~cjwatson/seeds/%s/' % dist
 seed_entry = re.compile(' *\* *(?P<package>\S+) *(\[(?P<arches>[^]]*)\])? *(#.*)?')
 components = ['main', 'restricted']
 debootstrap_version_file = 'debootstrap-version'
-metapackages = map(lambda seed: 'ubuntu-' + seed, seeds.keys())
+metapackages = map(lambda seed: 'ubuntu-' + seed, seeds)
 seed_package_blacklist = sets.Set(metapackages)
 
 def get_debootstrap_version():
@@ -66,46 +72,40 @@ def check_debootstrap_version():
 def update_debootstrap_version():
     open(debootstrap_version_file, 'w').write(get_debootstrap_version() + '\n')
 
+def open_seed(seed_name):
+    url = urlparse.urljoin(seed_base, seed_name)
+    req = urllib2.Request(url)
+    req.add_header('Cache-Control', 'no-cache')
+    req.add_header('Pragma', 'no-cache')
+    return urllib2.urlopen(req)
+
+logger = logging.getLogger()
+logger.setLevel(logging.DEBUG)
+handler = logging.StreamHandler(sys.stdout)
+handler.setFormatter(logging.Formatter('%(levelname)s%(message)s'))
+logger.addHandler(handler)
+
 check_debootstrap_version()
 
-print "Loading seed lists..."
-for seed_name, seed in seeds.items():
-    url = urlparse.urljoin(seed_base, seed_name)
-    for line in urllib2.urlopen(url):
-        m = seed_entry.match(line)
-        if m:
-            package = m.group('package')
-            arches = m.group('arches')
-            if arches is not None:
-                archlist = arches.split()
-            else:
-                archlist = architectures
-            if package not in seed_package_blacklist:
-                if package not in seed:
-                    seed[package] = []
-                seed[package].extend(archlist)
-
-print "Merging with available package lists..."
 additions = {}
 removals = {}
+apt_pkg.InitConfig()
 for architecture in architectures:
-    packages = sets.Set()
+    print "[%s] Downloading available package lists..." % architecture
+    apt_pkg.Config.Set("APT::Architecture", architecture)
+    germinator = Germinator()
+    Germinate.Archive.TagFile(archive_base[architecture], archive_base_default).feed(
+        germinator, [dist], components, architecture, cleanup=True)
     debootstrap_base = sets.Set(debootstrap_packages(architecture))
 
-    # Download Packages files
-    for component in components:
-        packages_url = urlparse.urljoin(archive_base[architecture],
-                                        'dists/%s/%s/binary-%s/Packages.gz' % (dist, component, architecture))
-        packages_file = StringIO.StringIO(urllib2.urlopen(packages_url).read())
-        
-        for line in gzip.GzipFile(fileobj=packages_file):
-            if line.startswith('Package: '):
-                package = line[9:].strip()
-                packages.add(package)
+    print "[%s] Loading seed lists..." % architecture
+    (seed_names, seed_inherit) = germinator.parseStructure(open_seed("STRUCTURE"))
+    for seed_name in seeds:
+        germinator.plantSeed(open_seed(seed_name), architecture, seed_name,
+                             list(seed_inherit[seed_name]))
 
-
-    # Merge with seeds
-    for seed_name, seed in seeds.items():
+    print "[%s] Merging seeds with available package lists..." % architecture
+    for seed_name in seeds:
         output_filename = '%s-%s' % (seed_name,architecture)
         old_list = None
         if os.path.exists(output_filename):
@@ -113,16 +113,13 @@ for architecture in architectures:
             os.rename(output_filename, output_filename + '.old')
 
         new_list = []
-        for package in seed.keys():
-            if package in packages:
-                if architecture not in seed[package]:
-                    print "%s/%s: Skipping package %s (not for this architecture)" % (seed_name,architecture,package)
-                elif seed_name == 'minimal' and package not in debootstrap_base:
-                    print "%s/%s: Skipping package %s (package not in debootstrap)" % (seed_name,architecture,package)
-                else:
-                    new_list.append(package)
+        for package in germinator.seed[seed_name]:
+            if package in seed_package_blacklist:
+                continue
+            if seed_name == 'minimal' and package not in debootstrap_base:
+                print "%s/%s: Skipping package %s (package not in debootstrap)" % (seed_name,architecture,package)
             else:
-                print "%s/%s: Skipping package %s (unavailable)" % (seed_name,architecture,package)
+                new_list.append(package)
 
         new_list.sort()
         output = open(output_filename, 'w')

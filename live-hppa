@@ -1,10 +1,14 @@
+casper
 discover1
+espresso-utils
 gparted
 language-pack-en
 language-pack-gnome-en
 language-support-en
 laptop-detect
 ntfsprogs
+os-prober
+partman
 pcmcia-cs
 ubuntu-express
 xresprobe

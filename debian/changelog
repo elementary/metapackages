@@ -1,3 +1,73 @@
+ubuntu-meta (0.85) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Added partman to live-i386, live-amd64, live-powerpc, live-ia64,
+    live-sparc, live-hppa
+  * Added foo2zjs to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added min12xxw to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added casper to live-i386, live-amd64, live-powerpc, live-ia64,
+    live-sparc, live-hppa
+  * Added ttf-dejavu to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added espresso-utils to live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+  * Added os-prober to live-i386, live-amd64, live-powerpc, live-ia64,
+    live-sparc, live-hppa
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Tue, 20 Dec 2005 23:22:40 +0000
+
+ubuntu-meta (0.84) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Removed hotplug from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Wed, 30 Nov 2005 19:25:13 +0000
+
+ubuntu-meta (0.83) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Added hplip to desktop-hppa
+  * Added pcmciautils to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+  * Added alacarte to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed smeg from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Fri, 25 Nov 2005 10:43:39 +0000
+
+ubuntu-meta (0.82) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Added hplip to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc
+  * Removed hplip-base from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Thu, 17 Nov 2005 10:36:17 +0000
+
+ubuntu-meta (0.81) dapper; urgency=low
+
+  * Rewrite large parts of update to use germinate modules for Packages,
+    Sources, and seed parsing; this allows us to take advantage of new seed
+    syntax without having to duplicate code from germinate.
+  * Build-depend on germinate (>= 0.6) for the above. This isn't really
+    needed on the buildds, but you'll need it to run the update script.
+  * Turn off HTTP caching while fetching seed lists.
+
+  * Refreshed dependencies
+  * Removed bogofilter from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed fetchmail from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed procmail from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Wed, 16 Nov 2005 16:05:00 +0000
+
 ubuntu-meta (0.80) breezy; urgency=low
 
   * Refreshed dependencies
