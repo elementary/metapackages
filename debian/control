@@ -2,7 +2,7 @@ Source: ubuntu-meta
 Section: base
 Priority: optional
 Maintainer: Matt Zimmerman <mdz@ubuntu.com>
-Standards-Version: 3.6.1
+Standards-Version: 3.6.2
 Build-Depends: debhelper (>= 4)
 
 Package: ubuntu-minimal

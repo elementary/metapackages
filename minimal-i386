@@ -4,7 +4,6 @@ alsa-utils
 apt
 apt-utils
 aptitude
-base-config
 base-files
 base-passwd
 bash

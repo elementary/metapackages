@@ -1,3 +1,13 @@
+ubuntu-meta (0.86) dapper; urgency=low
+
+  * Policy version 3.6.2.
+
+  * Refreshed dependencies
+  * Removed base-config from minimal-i386, minimal-amd64, minimal-
+    powerpc, minimal-ia64, minimal-sparc, minimal-hppa
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Mon,  2 Jan 2006 00:23:36 +0000
+
 ubuntu-meta (0.85) dapper; urgency=low
 
   * Refreshed dependencies
