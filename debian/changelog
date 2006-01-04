@@ -1,3 +1,14 @@
+ubuntu-meta (0.88) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Added notify-daemon to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-hppa
+  * Added hotkey-setup to desktop-amd64
+  * Removed notification-daemon from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Michael Vogt <michael.vogt@ubuntu.com>  Wed,  4 Jan 2006 16:49:18 +0100
+
 ubuntu-meta (0.87) dapper; urgency=low
 
   * Refreshed dependencies

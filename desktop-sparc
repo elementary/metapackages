@@ -124,7 +124,6 @@ mkisofs
 nautilus
 nautilus-cd-burner
 nautilus-sendto
-notification-daemon
 pnm2ppa
 powernowd
 python-adns

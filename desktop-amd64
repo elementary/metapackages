@@ -102,6 +102,7 @@ gtk2-engines-smooth
 gucharmap
 hal
 hal-device-manager
+hotkey-setup
 hplip
 hplip-ppds
 hwdb-client
@@ -126,7 +127,7 @@ mkisofs
 nautilus
 nautilus-cd-burner
 nautilus-sendto
-notification-daemon
+notify-daemon
 openoffice.org2
 openoffice.org2-gnome
 pnm2ppa

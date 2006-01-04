@@ -127,7 +127,7 @@ mkisofs
 nautilus
 nautilus-cd-burner
 nautilus-sendto
-notification-daemon
+notify-daemon
 pnm2ppa
 powermanagement-interface
 powernowd
