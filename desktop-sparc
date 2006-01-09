@@ -124,6 +124,7 @@ mkisofs
 nautilus
 nautilus-cd-burner
 nautilus-sendto
+notify-daemon
 pnm2ppa
 powernowd
 python-adns
@@ -226,12 +227,12 @@ vino
 wvdial
 x-ttcidfont-conf
 x-window-system-core
-xchat
+xchat-gnome
 xkeyboard-config
-xorg-driver-synaptics
 xsane
 xscreensaver
 xscreensaver-gl
+xserver-xorg-input-synaptics
 xterm
 xvncviewer
 yelp

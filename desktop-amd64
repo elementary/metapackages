@@ -233,9 +233,8 @@ vino
 wvdial
 x-ttcidfont-conf
 x-window-system-core
-xchat
+xchat-gnome
 xkeyboard-config
-xorg-driver-synaptics
 xsane
 xscreensaver
 xscreensaver-gl
