@@ -16,7 +16,6 @@ contact-lookup-applet
 cupsys
 cupsys-bsd
 cupsys-client
-cupsys-driver-gimpprint
 dbus-1-utils
 dc
 desktop-file-utils
@@ -37,7 +36,7 @@ firefox-gnome-support
 foo2zjs
 foomatic-db
 foomatic-db-engine
-foomatic-db-gimp-print
+foomatic-db-gutenprint
 foomatic-db-hpijs
 foomatic-filters
 foomatic-filters-ppds
@@ -233,7 +232,7 @@ x-window-system-core
 xchat-gnome
 xkeyboard-config
 xsane
-xscreensaver
+xscreensaver-data
 xscreensaver-gl
 xserver-xorg-input-synaptics
 xterm

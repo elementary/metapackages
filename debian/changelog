@@ -1,3 +1,22 @@
+ubuntu-meta (0.90) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Added cupsys-driver-gutenprint to desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-sparc, desktop-hppa
+  * Added foomatic-db-gutenprint to desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xscreensaver-data to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xserver-xorg-input-synaptics to desktop-amd64
+  * Removed foomatic-db-gimp-print from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed cupsys-driver-gimpprint from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed xscreensaver from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Wed, 11 Jan 2006 19:00:43 +0000
+
 ubuntu-meta (0.89) dapper; urgency=low
 
   * Refreshed dependencies
