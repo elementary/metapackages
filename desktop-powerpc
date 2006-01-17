@@ -61,6 +61,7 @@ gnome-netstatus-applet
 gnome-nettool
 gnome-panel
 gnome-pilot-conduits
+gnome-screensaver
 gnome-session
 gnome-spell
 gnome-system-monitor
@@ -163,7 +164,6 @@ python-imaging-sane
 python-jabber
 python-kjbuckets
 python-ldap
-python-musicbrainz
 python-mysqldb
 python-netcdf
 python-newt
