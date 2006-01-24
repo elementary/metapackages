@@ -130,7 +130,7 @@ mkisofs
 nautilus
 nautilus-cd-burner
 nautilus-sendto
-notify-daemon
+notification-daemon
 openoffice.org2
 openoffice.org2-evolution
 openoffice.org2-gnome
