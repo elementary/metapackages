@@ -1,3 +1,17 @@
+ubuntu-meta (0.93) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Added espresso-ubuntu-artwork to live-i386, live-amd64, live-
+    powerpc, live-ia64, live-sparc, live-hppa
+  * Added espresso-ubuntu-doc to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added espresso-frontend-gtk to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added espresso to live-i386, live-amd64, live-powerpc, live-ia64,
+    live-sparc, live-hppa
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Sat, 28 Jan 2006 16:02:06 +0000
+
 ubuntu-meta (0.92) dapper; urgency=low
 
   * Refreshed dependencies
