@@ -1,3 +1,48 @@
+ubuntu-meta (0.96) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Added ekiga to desktop-sparc
+  * Added cdebconf to live-i386, live-amd64, live-powerpc, live-ia64,
+    live-sparc, live-hppa
+  * Removed python-osd from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Fri,  3 Feb 2006 12:14:21 +0000
+
+ubuntu-meta (0.95) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Added gnome-power-manager to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added libpam-foreground to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Thu,  2 Feb 2006 09:15:18 -0800
+
+ubuntu-meta (0.94) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Added ekiga to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64
+  * Removed espresso-grub from live-i386, live-amd64
+  * Removed user-setup from live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+  * Removed yaboot from live-powerpc
+  * Removed partman from live-i386, live-amd64, live-powerpc, live-ia64,
+    live-sparc, live-hppa
+  * Removed gparted from live-i386, live-amd64, live-powerpc, live-ia64,
+    live-sparc, live-hppa
+  * Removed casper from live-i386, live-amd64, live-powerpc, live-ia64,
+    live-sparc, live-hppa
+  * Removed gnomemeeting from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed os-prober from live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+  * Removed espresso-utils from live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Mon, 30 Jan 2006 12:16:33 +0000
+
 ubuntu-meta (0.93) dapper; urgency=low
 
   * Refreshed dependencies

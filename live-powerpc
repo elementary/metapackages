@@ -1,11 +1,9 @@
-casper
+cdebconf
 discover1
 espresso
 espresso-frontend-gtk
 espresso-ubuntu-artwork
 espresso-ubuntu-doc
-espresso-utils
-gparted
 language-pack-ar
 language-pack-bn
 language-pack-ca
@@ -33,9 +31,5 @@ language-pack-zh
 language-support-en
 laptop-detect
 ntfsprogs
-os-prober
-partman
 pcmcia-cs
-user-setup
 xresprobe
-yaboot

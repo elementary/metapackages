@@ -21,6 +21,7 @@ diveintopython
 doc-base
 doc-debian
 dvd+rw-tools
+ekiga
 eog
 esound
 evince
@@ -61,6 +62,7 @@ gnome-netstatus-applet
 gnome-nettool
 gnome-panel
 gnome-pilot-conduits
+gnome-power-manager
 gnome-screensaver
 gnome-session
 gnome-spell
@@ -71,7 +73,6 @@ gnome-themes
 gnome-utils
 gnome-volume-manager
 gnome2-user-guide
-gnomemeeting
 gs-esp
 gstreamer0.8-alsa
 gstreamer0.8-audiofile
@@ -115,6 +116,7 @@ libgnome2-perl
 libgstreamer-gconf0.8-0
 libgstreamer-plugins0.8-0
 libgstreamer0.8-0
+libpam-foreground
 libpt-plugins-v4l
 libpt-plugins-v4l2
 libsasl2-modules
@@ -163,7 +165,6 @@ python-mysqldb
 python-netcdf
 python-newt
 python-numeric
-python-osd
 python-pam
 python-parted
 python-pexpect
