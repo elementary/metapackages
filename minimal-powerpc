@@ -29,7 +29,6 @@ gzip
 hfsplus
 hfsutils
 hostname
-ifrename
 ifupdown
 initramfs-tools
 initscripts

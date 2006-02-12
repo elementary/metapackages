@@ -27,7 +27,6 @@ grep
 grepmap
 gzip
 hostname
-ifrename
 ifupdown
 initramfs-tools
 initscripts

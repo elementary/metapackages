@@ -1,3 +1,13 @@
+ubuntu-meta (0.98) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Added inputattach to standard-i386, standard-amd64, standard-
+    powerpc, standard-ia64
+  * Removed ifrename from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Sun, 12 Feb 2006 17:20:14 +0100
+
 ubuntu-meta (0.97) dapper; urgency=low
 
   * Refreshed dependencies
