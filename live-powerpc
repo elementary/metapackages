@@ -30,6 +30,9 @@ language-pack-ru
 language-pack-zh
 language-support-en
 laptop-detect
+network-manager
+nm-applet
 ntfsprogs
 pcmcia-cs
 xresprobe
+yaboot

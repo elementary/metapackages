@@ -4,10 +4,13 @@ espresso
 espresso-frontend-gtk
 espresso-ubuntu-artwork
 espresso-ubuntu-doc
+grub
 language-pack-en
 language-pack-gnome-en
 language-support-en
 laptop-detect
+network-manager
+nm-applet
 ntfsprogs
 pcmcia-cs
 xresprobe

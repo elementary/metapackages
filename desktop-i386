@@ -33,6 +33,7 @@ evolution
 evolution-exchange
 evolution-plugins
 evolution-webcal
+example-content
 file-roller
 firefox
 firefox-gnome-support
@@ -104,6 +105,7 @@ libgnome2-perl
 libpam-foreground
 libpt-plugins-v4l
 libpt-plugins-v4l2
+librsvg2-common
 libsasl2-modules
 libxp6
 metacity
@@ -140,7 +142,7 @@ python-geoip
 python-glade2
 python-gnome2
 python-gnupginterface
-python-gst
+python-gst0.10
 python-gtk2
 python-htmlgen
 python-htmltmpl
