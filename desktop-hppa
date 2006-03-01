@@ -44,6 +44,7 @@ gaim
 gamin
 gcalctool
 gconf-editor
+gdebi
 gdm
 gedit
 gimp
@@ -207,7 +208,6 @@ vino
 wvdial
 x-ttcidfont-conf
 x-window-system-core
-xchat-gnome
 xkeyboard-config
 xsane
 xscreensaver-data

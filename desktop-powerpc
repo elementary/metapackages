@@ -45,6 +45,7 @@ gaim
 gamin
 gcalctool
 gconf-editor
+gdebi
 gdm
 gedit
 gimp
@@ -97,6 +98,8 @@ libgl1-mesa
 libglib2.0-data
 libglut3
 libgnome2-perl
+libgnomevfs2-bin
+libgnomevfs2-extra
 libpam-foreground
 libpt-plugins-v4l
 libpt-plugins-v4l2
@@ -215,7 +218,6 @@ vino
 wvdial
 x-ttcidfont-conf
 x-window-system-core
-xchat-gnome
 xkeyboard-config
 xsane
 xscreensaver-data

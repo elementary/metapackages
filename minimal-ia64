@@ -12,6 +12,7 @@ bzip2
 console-tools
 coreutils
 debconf
+debconf-i18n
 debianutils
 dhcp3-client
 diff
