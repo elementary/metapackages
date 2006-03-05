@@ -113,9 +113,9 @@ nautilus
 nautilus-cd-burner
 nautilus-sendto
 notification-daemon
-openoffice.org2
-openoffice.org2-evolution
-openoffice.org2-gnome
+openoffice.org
+openoffice.org-evolution
+openoffice.org-gnome
 pbbuttonsd
 pnm2ppa
 powermanagement-interface
@@ -196,10 +196,8 @@ synaptic
 totem
 tsclient
 ttf-arabeyes
-ttf-arphic-bkai00mp
-ttf-arphic-bsmi00lp
-ttf-arphic-gbsn00lp
-ttf-arphic-gkai00mp
+ttf-arphic-ukai
+ttf-arphic-uming
 ttf-baekmuk
 ttf-bitstream-vera
 ttf-dejavu

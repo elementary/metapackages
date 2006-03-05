@@ -12,12 +12,14 @@ file
 ftp
 hdparm
 info
+inputattach
 iptables
 iputils-arping
 iputils-tracepath
 logrotate
 lshw
 lsof
+ltrace
 lvm2
 man-db
 manpages

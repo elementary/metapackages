@@ -9,6 +9,7 @@ language-pack-gnome-en
 language-support-en
 laptop-detect
 network-manager
+nm-applet
 ntfsprogs
 pcmcia-cs
 xresprobe

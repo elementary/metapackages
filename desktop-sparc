@@ -98,6 +98,8 @@ libgl1-mesa
 libglib2.0-data
 libglut3
 libgnome2-perl
+libgnomevfs2-bin
+libgnomevfs2-extra
 libpam-foreground
 libpt-plugins-v4l
 libpt-plugins-v4l2
@@ -134,6 +136,7 @@ python-geoip
 python-glade2
 python-gnome2
 python-gnupginterface
+python-gst0.10
 python-gtk2
 python-htmlgen
 python-htmltmpl
@@ -188,10 +191,8 @@ synaptic
 totem
 tsclient
 ttf-arabeyes
-ttf-arphic-bkai00mp
-ttf-arphic-bsmi00lp
-ttf-arphic-gbsn00lp
-ttf-arphic-gkai00mp
+ttf-arphic-ukai
+ttf-arphic-uming
 ttf-baekmuk
 ttf-bitstream-vera
 ttf-dejavu
