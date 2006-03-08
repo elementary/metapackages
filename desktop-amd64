@@ -136,7 +136,6 @@ python-examples
 python-gadfly
 python-gd
 python-gdbm
-python-gdchart
 python-genetic
 python-geoip
 python-glade2
@@ -186,6 +185,8 @@ python2.4-pycurl
 readahead
 rhythmbox
 rss-glx
+scim
+scim-gtk2-immodule
 screen
 scrollkeeper
 serpentine

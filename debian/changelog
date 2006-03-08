@@ -1,3 +1,17 @@
+ubuntu-meta (0.102) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Added scim-gtk2-immodule to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added libgnomevfs2-bin to desktop-ia64
+  * Added scim to desktop-i386, desktop-amd64, desktop-powerpc, desktop-
+    ia64, desktop-sparc, desktop-hppa
+  * Added libgnomevfs2-extra to desktop-ia64
+  * Removed python-gdchart from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Wed,  8 Mar 2006 15:20:35 +0100
+
 ubuntu-meta (0.101) dapper; urgency=low
 
   * Refreshed dependencies
