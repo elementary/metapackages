@@ -1,3 +1,40 @@
+ubuntu-meta (0.103) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Added language-pack-bn to live-i386, live-amd64, live-sparc, live-
+    hppa
+  * Added language-pack-gnome-bn to live-i386, live-amd64, live-sparc,
+    live-hppa
+  * Added inputattach to standard-hppa
+  * Added language-pack-gnome-zh to live-i386, live-amd64, live-sparc,
+    live-hppa
+  * Added language-pack-gnome-fr to live-i386, live-amd64, live-sparc,
+    live-hppa
+  * Added language-pack-de to live-i386, live-amd64, live-sparc, live-
+    hppa
+  * Added irssi to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added ttf-thai-tlwg to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added language-pack-fr to live-i386, live-amd64, live-sparc, live-
+    hppa
+  * Added libgnomevfs2-bin to desktop-hppa
+  * Added libgnomevfs2-extra to desktop-hppa
+  * Added nm-applet to live-hppa
+  * Added usplash to desktop-ia64
+  * Added deskbar-applet to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added language-pack-gnome-de to live-i386, live-amd64, live-sparc,
+    live-hppa
+  * Added ekiga to desktop-hppa
+  * Added python-gst0.10 to desktop-hppa
+  * Added language-pack-zh to live-i386, live-amd64, live-sparc, live-
+    hppa
+  * Removed irssi-text from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Michael Vogt <michael.vogt@ubuntu.com>  Thu, 23 Mar 2006 14:07:17 +0100
+
 ubuntu-meta (0.102) dapper; urgency=low
 
   * Refreshed dependencies

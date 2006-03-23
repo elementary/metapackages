@@ -16,11 +16,13 @@ cupsys-client
 cupsys-driver-gutenprint
 dbus-1-utils
 dc
+deskbar-applet
 desktop-file-utils
 diveintopython
 doc-base
 doc-debian
 dvd+rw-tools
+ekiga
 eog
 esound
 evince
@@ -89,7 +91,7 @@ hal-device-manager
 hplip
 hplip-ppds
 hwdb-client
-irssi-text
+irssi
 language-selector
 lftp
 libesd-alsa0
@@ -97,6 +99,8 @@ libgl1-mesa
 libglib2.0-data
 libglut3
 libgnome2-perl
+libgnomevfs2-bin
+libgnomevfs2-extra
 libpam-foreground
 libpt-plugins-v4l
 libpt-plugins-v4l2
@@ -132,6 +136,7 @@ python-geoip
 python-glade2
 python-gnome2
 python-gnupginterface
+python-gst0.10
 python-gtk2
 python-htmlgen
 python-htmltmpl
@@ -199,6 +204,7 @@ ttf-kochi-gothic
 ttf-kochi-mincho
 ttf-malayalam-fonts
 ttf-mgopen
+ttf-thai-tlwg
 ubuntu-docs
 ubuntu-sounds
 unzip

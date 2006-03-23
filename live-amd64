@@ -5,8 +5,16 @@ espresso-frontend-gtk
 espresso-ubuntu-artwork
 espresso-ubuntu-doc
 grub
+language-pack-bn
+language-pack-de
 language-pack-en
+language-pack-fr
+language-pack-gnome-bn
+language-pack-gnome-de
 language-pack-gnome-en
+language-pack-gnome-fr
+language-pack-gnome-zh
+language-pack-zh
 language-support-en
 laptop-detect
 network-manager

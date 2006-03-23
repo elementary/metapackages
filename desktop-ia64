@@ -19,6 +19,7 @@ cupsys-client
 cupsys-driver-gutenprint
 dbus-1-utils
 dc
+deskbar-applet
 desktop-file-utils
 diveintopython
 doc-base
@@ -93,7 +94,7 @@ hal-device-manager
 hplip
 hplip-ppds
 hwdb-client
-irssi-text
+irssi
 language-selector
 lftp
 libesd-alsa0
@@ -207,10 +208,12 @@ ttf-kochi-gothic
 ttf-kochi-mincho
 ttf-malayalam-fonts
 ttf-mgopen
+ttf-thai-tlwg
 ubuntu-docs
 ubuntu-sounds
 unzip
 update-notifier
+usplash
 vino
 wvdial
 x-ttcidfont-conf
