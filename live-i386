@@ -18,7 +18,7 @@ language-pack-zh
 language-support-en
 laptop-detect
 network-manager
-nm-applet
+network-manager-gnome
 ntfsprogs
 pcmcia-cs
 xresprobe

@@ -1,3 +1,13 @@
+ubuntu-meta (0.104) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Added network-manager-gnome to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Removed nm-applet from live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+
+ -- Tollef Fog Heen <tfheen@ubuntu.com>  Wed, 29 Mar 2006 10:41:23 +0200
+
 ubuntu-meta (0.103) dapper; urgency=low
 
   * Refreshed dependencies
