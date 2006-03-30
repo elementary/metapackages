@@ -1,3 +1,11 @@
+ubuntu-meta (0.105) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Added wpasupplicant to standard-i386, standard-amd64, standard-
+    powerpc, standard-ia64, standard-sparc, standard-hppa
+
+ -- Scott James Remnant <scott@ubuntu.com>  Thu, 30 Mar 2006 16:09:53 +0100
+
 ubuntu-meta (0.104) dapper; urgency=low
 
   * Refreshed dependencies
