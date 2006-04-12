@@ -10,6 +10,7 @@ bluez-cups
 bluez-pcmcia-support
 bluez-pin
 bluez-utils
+brltty
 bug-buddy
 cdparanoia
 cdrecord
@@ -18,6 +19,7 @@ cupsys
 cupsys-bsd
 cupsys-client
 cupsys-driver-gutenprint
+dasher
 dbus-1-utils
 dc
 deskbar-applet
@@ -54,8 +56,10 @@ gdebi
 gdm
 gedit
 gimp
+gimp-print
 gimp-python
 gnome-about
+gnome-accessibility-themes
 gnome-app-install
 gnome-applets
 gnome-btdownload
@@ -63,6 +67,7 @@ gnome-control-center
 gnome-cups-manager
 gnome-games
 gnome-icon-theme
+gnome-mag
 gnome-media
 gnome-menus
 gnome-netstatus-applet
@@ -80,6 +85,8 @@ gnome-themes
 gnome-utils
 gnome-volume-manager
 gnome2-user-guide
+gnopernicus
+gok
 gs-esp
 gstreamer0.10-alsa
 gstreamer0.10-esd
@@ -111,6 +118,7 @@ libpt-plugins-v4l
 libpt-plugins-v4l2
 librsvg2-common
 libsasl2-modules
+libstdc++5
 libxp6
 metacity
 min12xxw
