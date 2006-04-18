@@ -34,6 +34,10 @@ iproute
 iputils-ping
 jfsutils
 less
+libc6-sparc64b
+libc6-sparc64v
+libc6-sparcv9b
+libc6-sparcv9v
 libfribidi0
 libreiserfs0.3-0
 locales
@@ -59,6 +63,7 @@ python
 reiser4progs
 reiserfsprogs
 sed
+sparc-utils
 strace
 sudo
 sysklogd
@@ -70,4 +75,5 @@ usbutils
 util-linux
 vim
 wireless-tools
+wpasupplicant
 xfsprogs

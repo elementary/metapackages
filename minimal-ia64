@@ -70,4 +70,5 @@ usbutils
 util-linux
 vim
 wireless-tools
+wpasupplicant
 xfsprogs
