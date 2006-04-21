@@ -1,8 +1,5 @@
 cdebconf
 discover1
-espresso-frontend-gtk
-espresso-ubuntu-artwork
-espresso-ubuntu-doc
 language-pack-ar
 language-pack-bn
 language-pack-ca
@@ -31,5 +28,8 @@ language-support-en
 laptop-detect
 ntfsprogs
 pcmcia-cs
+ubiquity-frontend-gtk
+ubiquity-ubuntu-artwork
+ubiquity-ubuntu-doc
 xresprobe
 yaboot

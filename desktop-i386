@@ -220,6 +220,7 @@ ttf-freefont
 ttf-indic-fonts
 ttf-kochi-gothic
 ttf-kochi-mincho
+ttf-lao
 ttf-malayalam-fonts
 ttf-mgopen
 ttf-thai-tlwg
@@ -232,6 +233,7 @@ vino
 wvdial
 x-ttcidfont-conf
 x-window-system-core
+xcursor-themes
 xkeyboard-config
 xsane
 xscreensaver-data

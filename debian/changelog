@@ -1,3 +1,25 @@
+ubuntu-meta (0.110) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Added ubiquity-ubuntu-artwork to live-i386, live-amd64, live-
+    powerpc, live-ia64, live-sparc, live-hppa
+  * Added ubiquity-frontend-gtk to live-i386, live-amd64, live-powerpc,
+    live-sparc
+  * Added ubiquity-ubuntu-doc to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added ttf-lao to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xcursor-themes to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed espresso-ubuntu-doc from live-i386, live-amd64, live-
+    powerpc, live-ia64, live-sparc, live-hppa
+  * Removed espresso-frontend-gtk from live-i386, live-amd64, live-
+    powerpc, live-ia64, live-sparc, live-hppa
+  * Removed espresso-ubuntu-artwork from live-i386, live-amd64, live-
+    powerpc, live-ia64, live-sparc, live-hppa
+
+ -- Daniel Holbach <daniel.holbach@ubuntu.com>  Fri, 21 Apr 2006 18:53:50 +0200
+
 ubuntu-meta (0.109) dapper; urgency=low
 
   * Refreshed dependencies

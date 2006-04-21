@@ -1,8 +1,5 @@
 cdebconf
 discover1
-espresso-frontend-gtk
-espresso-ubuntu-artwork
-espresso-ubuntu-doc
 grub
 language-pack-bn
 language-pack-de
@@ -18,4 +15,7 @@ language-support-en
 laptop-detect
 ntfsprogs
 pcmcia-cs
+ubiquity-frontend-gtk
+ubiquity-ubuntu-artwork
+ubiquity-ubuntu-doc
 xresprobe
