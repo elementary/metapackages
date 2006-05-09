@@ -211,6 +211,7 @@ ttf-baekmuk
 ttf-bitstream-vera
 ttf-dejavu
 ttf-freefont
+ttf-gentium
 ttf-indic-fonts
 ttf-kochi-gothic
 ttf-kochi-mincho
@@ -218,6 +219,7 @@ ttf-lao
 ttf-malayalam-fonts
 ttf-mgopen
 ttf-thai-tlwg
+ubuntu-artwork
 ubuntu-docs
 ubuntu-sounds
 unzip

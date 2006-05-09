@@ -1,3 +1,15 @@
+ubuntu-meta (0.112) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Added ubuntu-artwork to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added ttf-gentium to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed cdebconf from live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Tue,  9 May 2006 12:09:54 +0100
+
 ubuntu-meta (0.111) dapper; urgency=low
 
   * Refreshed dependencies
