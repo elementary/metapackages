@@ -1,3 +1,12 @@
+ubuntu-meta (0.113) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Added usplash to desktop-hppa
+  * Removed ubiquity-ubuntu-doc from live-i386, live-amd64, live-
+    powerpc, live-ia64, live-sparc, live-hppa
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Thu, 11 May 2006 22:46:24 +0100
+
 ubuntu-meta (0.112) dapper; urgency=low
 
   * Refreshed dependencies
