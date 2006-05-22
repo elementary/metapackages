@@ -1,3 +1,103 @@
+ubuntu-meta (0.115) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Added language-pack-ar to live-i386, live-amd64, live-ia64, live-
+    sparc, live-hppa
+  * Added language-pack-as to live-i386, live-amd64
+  * Added language-pack-gnome-da to live-i386
+  * Added language-pack-az to live-i386, live-amd64
+  * Added language-pack-gnome-am to live-i386, live-amd64
+  * Added language-pack-ru to live-i386, live-amd64, live-ia64, live-
+    sparc, live-hppa
+  * Added language-pack-ia to live-i386
+  * Added language-pack-gnome-gu to live-i386
+  * Added language-pack-id to live-i386
+  * Added language-pack-gu to live-i386
+  * Added language-pack-hu to live-i386
+  * Added language-pack-af to live-i386, live-amd64
+  * Added language-pack-is to live-i386
+  * Added language-pack-hi to live-i386, live-amd64, live-ia64, live-
+    sparc, live-hppa
+  * Added language-pack-gnome-is to live-i386
+  * Added language-pack-an to live-i386, live-amd64
+  * Added language-pack-am to live-i386, live-amd64
+  * Added language-pack-ga to live-i386
+  * Added language-pack-co to live-i386
+  * Added language-pack-ja to live-i386, live-amd64, live-ia64, live-
+    sparc, live-hppa
+  * Added language-pack-gnome-fi to live-i386
+  * Added language-pack-gnome-el to live-i386
+  * Added language-pack-eo to live-i386
+  * Added language-pack-el to live-i386
+  * Added language-pack-gnome-bg to live-i386, live-amd64
+  * Added language-pack-gl to live-i386
+  * Added language-pack-ca to live-i386, live-amd64, live-ia64, live-
+    sparc, live-hppa
+  * Added language-pack-gnome-ia to live-i386
+  * Added language-pack-pt to live-i386, live-amd64, live-ia64, live-
+    sparc, live-hppa
+  * Added screensaver-default-images to desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added language-pack-et to live-i386, live-amd64
+  * Added language-pack-eu to live-i386
+  * Added language-pack-es to live-i386, live-amd64, live-ia64, live-
+    sparc, live-hppa
+  * Added language-pack-gnome-fa to live-i386
+  * Added language-pack-hr to live-i386
+  * Added language-pack-gnome-eu to live-i386
+  * Added language-pack-gnome-br to live-i386, live-amd64
+  * Added language-pack-cy to live-i386
+  * Added language-pack-gnome-hi to live-i386, live-amd64, live-ia64,
+    live-sparc, live-hppa
+  * Added language-pack-gnome-id to live-i386
+  * Added language-pack-gnome-bs to live-i386, live-amd64
+  * Added language-pack-gnome-pt to live-i386, live-amd64, live-ia64,
+    live-sparc, live-hppa
+  * Added language-pack-he to live-i386
+  * Added language-pack-gnome-ru to live-i386, live-amd64, live-ia64,
+    live-sparc, live-hppa
+  * Added language-pack-gnome-he to live-i386
+  * Added language-pack-gnome-hy to live-i386
+  * Added language-pack-gnome-ja to live-i386, live-amd64, live-ia64,
+    live-sparc, live-hppa
+  * Added language-pack-gnome-cy to live-i386
+  * Added language-pack-gnome-hr to live-i386
+  * Added language-pack-fi to live-i386
+  * Added language-pack-gnome-et to live-i386, live-amd64
+  * Added language-pack-gnome-hu to live-i386
+  * Added language-pack-fa to live-i386
+  * Added language-pack-gnome-az to live-i386, live-amd64
+  * Added language-pack-gnome-co to live-i386
+  * Added language-pack-gnome-ca to live-i386, live-amd64, live-ia64,
+    live-sparc, live-hppa
+  * Added language-pack-gnome-ga to live-i386
+  * Added language-pack-gnome-af to live-i386, live-amd64
+  * Added language-pack-bg to live-i386, live-amd64
+  * Added language-pack-gnome-eo to live-i386
+  * Added language-pack-be to live-i386, live-amd64
+  * Added language-pack-gnome-gl to live-i386
+  * Added language-pack-fo to live-i386
+  * Added language-pack-gnome-xh to live-i386, live-amd64, live-powerpc,
+    live-ia64, live-sparc, live-hppa
+  * Added language-pack-gnome-es to live-i386, live-amd64, live-ia64,
+    live-sparc, live-hppa
+  * Added language-pack-da to live-i386
+  * Added language-pack-gnome-as to live-i386, live-amd64
+  * Added language-pack-gnome-ar to live-i386, live-amd64, live-ia64,
+    live-sparc, live-hppa
+  * Added language-pack-xh to live-i386, live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+  * Added language-pack-gnome-be to live-i386, live-amd64
+  * Added language-pack-gnome-cs to live-i386
+  * Added language-pack-hy to live-i386
+  * Added language-pack-cs to live-i386
+  * Added language-pack-bs to live-i386, live-amd64
+  * Added language-pack-br to live-i386, live-amd64
+  * Added brltty-x11 to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Scott James Remnant <scott@netsplit.com>  Mon, 22 May 2006 18:58:26 +0100
+
 ubuntu-meta (0.114) dapper; urgency=low
 
   * Refreshed dependencies

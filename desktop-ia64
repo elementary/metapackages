@@ -10,6 +10,7 @@ bluez-pcmcia-support
 bluez-pin
 bluez-utils
 brltty
+brltty-x11
 bug-buddy
 cdparanoia
 cdrecord
@@ -193,6 +194,7 @@ rss-glx
 scim
 scim-gtk2-immodule
 screen
+screensaver-default-images
 scrollkeeper
 serpentine
 slocate
