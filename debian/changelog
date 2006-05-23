@@ -1,3 +1,115 @@
+ubuntu-meta (0.116) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Removed language-pack-ar from live-amd64, live-powerpc, live-ia64,
+    live-sparc, live-hppa
+  * Removed language-pack-as from live-amd64
+  * Removed language-pack-gnome-fr from live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+  * Removed language-pack-gnome-ia from live-i386
+  * Removed language-pack-de from live-amd64, live-powerpc, live-ia64,
+    live-sparc, live-hppa
+  * Removed language-pack-az from live-amd64
+  * Removed language-pack-ia from live-i386
+  * Removed language-pack-gnome-gu from live-i386
+  * Removed language-pack-id from live-i386
+  * Removed language-pack-ca from live-amd64, live-powerpc, live-ia64,
+    live-sparc, live-hppa
+  * Removed language-pack-gu from live-i386
+  * Removed language-pack-hu from live-i386
+  * Removed language-pack-af from live-amd64
+  * Removed language-pack-is from live-i386
+  * Removed language-pack-gnome-is from live-i386
+  * Removed language-pack-an from live-amd64
+  * Removed language-pack-es from live-powerpc, live-ia64, live-sparc,
+    live-hppa
+  * Removed language-pack-am from live-amd64
+  * Removed language-pack-ga from live-i386
+  * Removed language-pack-gnome-bn from live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+  * Removed language-pack-co from live-i386
+  * Removed language-pack-gnome-de from live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+  * Removed language-pack-ja from live-amd64, live-powerpc, live-ia64,
+    live-sparc, live-hppa
+  * Removed language-pack-gnome-el from live-i386
+  * Removed language-pack-eo from live-i386
+  * Removed language-pack-el from live-i386
+  * Removed language-pack-gnome-bg from live-i386, live-amd64
+  * Removed language-pack-gl from live-i386
+  * Removed language-pack-gnome-eo from live-i386
+  * Removed language-pack-pt from live-amd64, live-powerpc, live-ia64,
+    live-sparc, live-hppa
+  * Removed language-pack-gnome-fi from live-i386
+  * Removed language-pack-et from live-i386, live-amd64
+  * Removed language-pack-eu from live-i386
+  * Removed language-pack-cy from live-i386
+  * Removed language-pack-gnome-ru from live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+  * Removed language-pack-gnome-fa from live-i386
+  * Removed language-pack-ru from live-amd64, live-powerpc, live-ia64,
+    live-sparc, live-hppa
+  * Removed language-pack-hr from live-i386
+  * Removed language-pack-gnome-eu from live-i386
+  * Removed language-pack-gnome-br from live-i386, live-amd64
+  * Removed language-pack-gnome-bs from live-i386, live-amd64
+  * Removed language-pack-gnome-hi from live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+  * Removed language-pack-gnome-id from live-i386
+  * Removed language-pack-gnome-pt from live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+  * Removed language-pack-gnome-ja from live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+  * Removed language-pack-he from live-i386
+  * Removed language-pack-fr from live-amd64, live-powerpc, live-ia64,
+    live-sparc, live-hppa
+  * Removed language-pack-gnome-am from live-amd64
+  * Removed language-pack-gnome-he from live-i386
+  * Removed language-pack-gnome-as from live-amd64
+  * Removed language-pack-gnome-hy from live-i386
+  * Removed language-pack-hy from live-i386
+  * Removed language-pack-gnome-hr from live-i386
+  * Removed language-pack-gnome-da from live-i386
+  * Removed language-pack-gnome-zh from live-powerpc, live-ia64, live-
+    sparc, live-hppa
+  * Removed language-pack-gnome-hu from live-i386
+  * Removed language-pack-hi from live-amd64, live-powerpc, live-ia64,
+    live-sparc, live-hppa
+  * Removed language-pack-bn from live-amd64, live-powerpc, live-ia64,
+    live-sparc, live-hppa
+  * Removed language-pack-fa from live-i386
+  * Removed language-pack-gnome-az from live-amd64
+  * Removed language-pack-gnome-co from live-i386
+  * Removed language-pack-gnome-ca from live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+  * Removed language-pack-gnome-ga from live-i386
+  * Removed language-pack-gnome-af from live-amd64
+  * Removed language-pack-bg from live-i386, live-amd64
+  * Removed language-pack-gnome-et from live-i386, live-amd64
+  * Removed language-pack-be from live-i386, live-amd64
+  * Removed language-pack-gnome-gl from live-i386
+  * Removed language-pack-fo from live-i386
+  * Removed language-pack-gnome-xh from live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+  * Removed language-pack-gnome-es from live-powerpc, live-ia64, live-
+    sparc, live-hppa
+  * Removed language-pack-br from live-i386, live-amd64
+  * Removed language-pack-da from live-i386
+  * Removed language-pack-gnome-cy from live-i386
+  * Removed language-pack-gnome-ar from live-amd64, live-powerpc, live-
+    ia64, live-sparc, live-hppa
+  * Removed language-pack-xh from live-amd64, live-powerpc, live-ia64,
+    live-sparc, live-hppa
+  * Removed language-pack-gnome-be from live-i386, live-amd64
+  * Removed language-pack-gnome-cs from live-i386
+  * Removed language-pack-cs from live-i386
+  * Removed language-pack-bs from live-i386, live-amd64
+  * Removed language-pack-fi from live-i386
+  * Removed language-pack-zh from live-powerpc, live-ia64, live-sparc,
+    live-hppa
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Tue, 23 May 2006 15:41:57 +0100
+
 ubuntu-meta (0.115) dapper; urgency=low
 
   * Refreshed dependencies
