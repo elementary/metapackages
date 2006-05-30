@@ -1,3 +1,17 @@
+ubuntu-meta (0.119) dapper; urgency=low
+
+  * Refreshed dependencies
+  * Removed language-pack-ja from live-ia64
+  * Removed language-pack-he from live-i386
+  * Removed language-pack-de from live-ia64
+  * Removed language-pack-gnome-he from live-i386
+  * Removed language-pack-gnome-gu from live-i386
+  * Removed language-pack-gu from live-i386
+  * Removed language-pack-gnome-de from live-ia64
+  * Removed language-pack-gnome-ja from live-ia64
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 30 May 2006 09:30:45 +0200
+
 ubuntu-meta (0.118) dapper; urgency=low
 
   * Refreshed dependencies
