@@ -3,7 +3,7 @@ Section: base
 Priority: optional
 Maintainer: Matt Zimmerman <mdz@ubuntu.com>
 Standards-Version: 3.6.2
-Build-Depends: debhelper (>= 4)
+Build-Depends: debhelper (>= 4), germinate (>= 0.16)
 
 Package: ubuntu-minimal
 Architecture: any

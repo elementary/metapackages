@@ -1,3 +1,28 @@
+ubuntu-meta (1.0) edgy; urgency=low
+
+  * Add update.cfg for new germinate-update-metapackage (Build-Depends:
+    germinate (>= 0.16)). Replace update with a trivial wrapper. We now pull
+    seeds directly from bzr over sftp by default, so update will only work
+    if you're in the ubuntu-core-dev team; run germinate-update-metapackage
+    without options or temporarily replace "sftp" with "http" in update.cfg
+    to update without authentication.
+  * Switch to edgy seeds.
+  * Seems like as good a time as any to bump to 1.0.
+
+  * Refreshed dependencies
+  * Removed evms-ncurses from standard-i386, standard-amd64, standard-
+    powerpc, standard-ia64, standard-sparc, standard-hppa
+  * Removed dmsetup from standard-i386, standard-amd64, standard-
+    powerpc, standard-ia64, standard-sparc, standard-hppa
+  * Removed mdadm from standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Removed evms from standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+  * Removed lvm2 from standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Fri,  9 Jun 2006 13:10:48 +0100
+
 ubuntu-meta (0.119) dapper; urgency=low
 
   * Refreshed dependencies

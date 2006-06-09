@@ -1,12 +1,9 @@
 at
 cpio
 cron
-dmsetup
 dnsutils
 dselect
 ed
-evms
-evms-ncurses
 fdutils
 file
 ftp
@@ -19,10 +16,8 @@ iputils-tracepath
 logrotate
 lshw
 lsof
-lvm2
 man-db
 manpages
-mdadm
 mime-support
 mtr-tiny
 nano
