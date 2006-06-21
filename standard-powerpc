@@ -2,12 +2,14 @@ at
 cpio
 cron
 dnsutils
+dosfstools
 dselect
 ed
 fdutils
 file
 ftp
 hdparm
+hfsutils
 info
 inputattach
 iptables
@@ -29,8 +31,9 @@ ppp
 pppconfig
 pppoeconf
 psmisc
-reportbug
+reiserfsprogs
 rsync
+strace
 tcpdump
 telnet
 time

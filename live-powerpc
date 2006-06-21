@@ -24,8 +24,6 @@ language-pack-zh
 language-support-en
 laptop-detect
 ntfsprogs
-pcmcia-cs
 ubiquity-frontend-gtk
 ubiquity-ubuntu-artwork
 xresprobe
-yaboot

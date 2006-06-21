@@ -15,7 +15,6 @@ debconf
 debianutils
 dhcp3-client
 diff
-dosfstools
 dpkg
 e2fsprogs
 eject
@@ -24,7 +23,6 @@ findutils
 gettext-base
 gnupg
 grep
-grepmap
 gzip
 hostname
 ifupdown
@@ -32,7 +30,6 @@ initramfs-tools
 initscripts
 iproute
 iputils-ping
-jfsutils
 less
 libc6-sparc64b
 libc6-sparc64v
@@ -59,11 +56,8 @@ pcmciautils
 perl-base
 procps
 python
-reiser4progs
-reiserfsprogs
 sed
 sparc-utils
-strace
 sudo
 sysklogd
 sysvinit
@@ -75,4 +69,3 @@ util-linux
 vim
 wireless-tools
 wpasupplicant
-xfsprogs

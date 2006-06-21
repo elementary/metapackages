@@ -1,5 +1,4 @@
 discover1
-grub
 language-pack-ar
 language-pack-bn
 language-pack-de
@@ -25,7 +24,6 @@ language-pack-zh
 language-support-en
 laptop-detect
 ntfsprogs
-pcmcia-cs
 ubiquity-frontend-gtk
 ubiquity-ubuntu-artwork
 xresprobe

@@ -3,6 +3,7 @@ cpio
 cron
 dmidecode
 dnsutils
+dosfstools
 dselect
 ed
 fdutils
@@ -17,6 +18,7 @@ iputils-tracepath
 logrotate
 lshw
 lsof
+ltrace
 man-db
 manpages
 mime-support
@@ -29,8 +31,9 @@ ppp
 pppconfig
 pppoeconf
 psmisc
-reportbug
+reiserfsprogs
 rsync
+strace
 tcpdump
 telnet
 time

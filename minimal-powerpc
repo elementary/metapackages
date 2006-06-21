@@ -15,7 +15,6 @@ debconf
 debianutils
 dhcp3-client
 diff
-dosfstools
 dpkg
 e2fsprogs
 eject
@@ -24,17 +23,13 @@ findutils
 gettext-base
 gnupg
 grep
-grepmap
 gzip
-hfsplus
-hfsutils
 hostname
 ifupdown
 initramfs-tools
 initscripts
 iproute
 iputils-ping
-jfsutils
 less
 libfribidi0
 locales
@@ -60,10 +55,7 @@ pmac-fdisk
 powerpc-utils
 procps
 python
-reiser4progs
-reiserfsprogs
 sed
-strace
 sudo
 sysklogd
 sysvinit
@@ -75,4 +67,3 @@ util-linux
 vim
 wireless-tools
 wpasupplicant
-xfsprogs
