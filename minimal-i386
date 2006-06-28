@@ -11,6 +11,7 @@ bsdutils
 bzip2
 console-tools
 coreutils
+dash
 debconf
 debianutils
 dhcp3-client
@@ -58,6 +59,7 @@ sudo
 sysklogd
 sysvinit
 tar
+tzdata
 ubuntu-keyring
 udev
 usbutils

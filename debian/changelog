@@ -1,3 +1,13 @@
+ubuntu-meta (1.2) edgy; urgency=low
+
+  * Refreshed dependencies
+  * Added dash to minimal-i386, minimal-amd64, minimal-powerpc, minimal-
+    ia64, minimal-sparc, minimal-hppa
+  * Added tzdata to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+
+ -- Scott James Remnant <scott@ubuntu.com>  Wed, 28 Jun 2006 23:01:08 +0100
+
 ubuntu-meta (1.1) edgy; urgency=low
 
   * Refreshed dependencies
