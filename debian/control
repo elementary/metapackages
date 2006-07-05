@@ -13,10 +13,8 @@ Description: Minimal core of Ubuntu
  that is a minimally functional system that can boot and install more
  packages.
  .
- It is safe to remove this package if some of the minimal system packages
- are not desired.  However, it is recommended that you keep it installed,
- because it is used to carry out certain upgrade transitions (such as adding
- new packages to the system).
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
 
 Package: ubuntu-standard
 Architecture: any
@@ -26,10 +24,8 @@ Description: The Ubuntu standard system
  This set of packages provides a comfortable text-only Unix-like
  environment.
  .
- It is safe to remove this package if some of the standard system packages
- are not desired.  However, it is recommended that you keep it installed,
- because it is used to carry out certain upgrade transitions (such as adding
- new packages to the system).
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
 
 Package: ubuntu-base
 Architecture: all
@@ -45,10 +41,8 @@ Depends: ${ubuntu-desktop:Depends}
 Description: The Ubuntu desktop system
  This package depends on all of the packages in the Ubuntu desktop system
  .
- It is safe to remove this package if some of the desktop system
- packages are not desired.  However, it is recommended that you keep
- it installed, because it is used to carry out certain upgrade
- transitions (such as adding new packages to the system).
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
 
 Package: ubuntu-live
 Architecture: any
@@ -57,5 +51,5 @@ Description: Additional packages for the Ubuntu live CD
  This package depends on a set of packages which will be included on
  the Ubuntu live CD, in addition to the standard desktop packages.
  .
- It is not generally useful to install this package in other
+ It is neither useful nor recommended to install this package in other
  environments.
