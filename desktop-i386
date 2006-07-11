@@ -95,8 +95,8 @@ gucharmap
 hal
 hal-device-manager
 hotkey-setup
+hpijs-ppds
 hplip
-hplip-ppds
 hwdb-client
 landscape-client
 language-selector
@@ -122,6 +122,7 @@ notification-daemon
 openoffice.org
 openoffice.org-evolution
 openoffice.org-gnome
+pbbuttonsd
 pnm2ppa
 powermanagement-interface
 powernowd

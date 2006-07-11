@@ -1,3 +1,14 @@
+ubuntu-meta (1.4) edgy; urgency=low
+
+  * Refreshed dependencies
+  * Added hpijs-ppds to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-sparc
+  * Added pbbuttonsd to desktop-i386
+  * Removed hplip-ppds from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Tue, 11 Jul 2006 15:38:05 -0700
+
 ubuntu-meta (1.3) edgy; urgency=low
 
   * Clarify descriptions to encourage users to keep the metapackages installed

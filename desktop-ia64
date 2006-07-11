@@ -94,7 +94,6 @@ gucharmap
 hal
 hal-device-manager
 hplip
-hplip-ppds
 hwdb-client
 landscape-client
 language-selector
