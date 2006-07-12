@@ -93,6 +93,7 @@ gtk2-engines-smooth
 gucharmap
 hal
 hal-device-manager
+hpijs-ppds
 hplip
 hwdb-client
 landscape-client
@@ -161,9 +162,9 @@ usplash
 vino
 wvdial
 x-ttcidfont-conf
-x-window-system-core
 xcursor-themes
 xkeyboard-config
+xorg
 xsane
 xscreensaver-data
 xscreensaver-gl
