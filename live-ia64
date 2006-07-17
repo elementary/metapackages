@@ -1,4 +1,5 @@
 discover1
+jfsutils
 language-pack-ar
 language-pack-bn
 language-pack-en
@@ -22,4 +23,5 @@ laptop-detect
 ntfsprogs
 ubiquity-frontend-gtk
 ubiquity-ubuntu-artwork
+xfsprogs
 xresprobe
