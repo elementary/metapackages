@@ -83,10 +83,6 @@ gstreamer0.10-alsa
 gstreamer0.10-esd
 gstreamer0.10-plugins-base-apps
 gthumb
-gtk2-engines-clearlooks
-gtk2-engines-industrial
-gtk2-engines-mist
-gtk2-engines-smooth
 gucharmap
 hal
 hal-device-manager

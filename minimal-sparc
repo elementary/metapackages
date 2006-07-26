@@ -63,6 +63,7 @@ sudo
 sysklogd
 sysvinit
 tar
+tasksel
 tzdata
 ubuntu-keyring
 udev
