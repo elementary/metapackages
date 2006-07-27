@@ -61,6 +61,7 @@ gnome-control-center
 gnome-cups-manager
 gnome-games
 gnome-icon-theme
+gnome-keyring-manager
 gnome-mag
 gnome-media
 gnome-menus
@@ -96,7 +97,6 @@ hwdb-client
 landscape-client
 language-selector
 lftp
-libgl1-mesa
 libglut3
 libgnome2-perl
 libgnomevfs2-bin
