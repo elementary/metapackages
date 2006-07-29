@@ -1,3 +1,24 @@
+ubuntu-meta (1.10) edgy; urgency=low
+
+  * Refreshed dependencies
+  * Added tomboy to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc
+  * Added linux-headers-mckinley-smp to desktop-ia64
+  * Added gcc to desktop-i386, desktop-amd64, desktop-powerpc, desktop-
+    ia64, desktop-sparc, desktop-hppa
+  * Added linux-headers-powerpc to desktop-powerpc
+  * Added linux-headers-hppa32 to desktop-hppa
+  * Added make to desktop-i386, desktop-amd64, desktop-powerpc, desktop-
+    ia64, desktop-sparc, desktop-hppa
+  * Added linux-headers-amd64-generic to desktop-amd64
+  * Added linux-headers-itanium-smp to desktop-ia64
+  * Added linux-headers-sparc64 to desktop-sparc
+  * Added linux-headers-686 to desktop-i386
+  * Added linux-headers-hppa64 to desktop-hppa
+  * Added linux-headers-powerpc64-smp to desktop-powerpc
+
+ -- Sebastian Dröge <slomo@ubuntu.com>  Sat, 29 Jul 2006 16:08:29 +0200
+
 ubuntu-meta (1.9) edgy; urgency=low
 
   * Refreshed dependencies

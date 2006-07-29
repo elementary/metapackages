@@ -42,6 +42,7 @@ foomatic-filters-ppds
 fortune-mod
 gaim
 gcalctool
+gcc
 gconf-editor
 gdebi
 gdm
@@ -103,6 +104,8 @@ libpt-plugins-v4l
 libpt-plugins-v4l2
 libsasl2-modules
 libxp6
+linux-headers-sparc64
+make
 metacity
 min12xxw
 mkisofs
@@ -129,6 +132,7 @@ synaptic
 tangerine-icon-theme
 tango-icon-theme
 tango-icon-theme-common
+tomboy
 totem
 tsclient
 ttf-arabeyes
