@@ -1,3 +1,11 @@
+ubuntu-meta (1.11) edgy; urgency=low
+
+  * Update package description for ubuntu-minimal to reflect its goals more
+    clearly
+  * Stop building ubuntu-base, since it was only for upgrades from Breezy/5.10
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Sun, 30 Jul 2006 14:20:53 -0700
+
 ubuntu-meta (1.10) edgy; urgency=low
 
   * Refreshed dependencies

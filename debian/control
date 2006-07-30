@@ -10,8 +10,13 @@ Architecture: any
 Depends: ${ubuntu-minimal:Depends}
 Description: Minimal core of Ubuntu
  This package depends on all of the packages in the Ubuntu minimal system,
- that is a minimally functional system that can boot and install more
- packages.
+ that is a functional command-line system with the following capabilities:
+ .
+  - Boot
+  - Detect hardware
+  - Connect to a network
+  - Install packages
+  - Perform basic diagnostics
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
@@ -21,19 +26,11 @@ Architecture: any
 Depends: ${ubuntu-standard:Depends}
 Description: The Ubuntu standard system
  This package depends on all of the packages in the Ubuntu standard system.
- This set of packages provides a comfortable text-only Unix-like
+ This set of packages provides a comfortable command-line Unix-like
  environment.
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
-
-Package: ubuntu-base
-Architecture: all
-Depends: ubuntu-minimal, ubuntu-standard
-Description: The Ubuntu base system (transitional package)
- This package exists only to cause ubuntu-minimal and ubuntu-standard to be
- installed on upgrades from earlier releases to Ubuntu 5.10.  It is safe to
- remove this package once the upgrade is complete.
 
 Package: ubuntu-desktop
 Architecture: any
