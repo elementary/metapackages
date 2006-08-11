@@ -28,7 +28,6 @@ gzip
 hostname
 ifupdown
 initramfs-tools
-initscripts
 iproute
 iputils-ping
 less
@@ -39,6 +38,7 @@ lsb-release
 makedev
 mawk
 mii-diag
+mktemp
 module-init-tools
 mount
 ncurses-base
@@ -53,6 +53,7 @@ pcmciautils
 perl-base
 procps
 python
+python-minimal
 sed
 sudo
 sysklogd

@@ -1,3 +1,17 @@
+ubuntu-meta (1.12) edgy; urgency=low
+
+  * Refreshed dependencies
+  * Added mktemp to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Added f-spot to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc
+  * Added python-minimal to minimal-i386, minimal-amd64, minimal-
+    powerpc, minimal-ia64, minimal-sparc, minimal-hppa
+  * Removed initscripts from minimal-i386, minimal-amd64, minimal-
+    powerpc, minimal-ia64, minimal-sparc, minimal-hppa
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Fri, 11 Aug 2006 11:41:34 -0700
+
 ubuntu-meta (1.11) edgy; urgency=low
 
   * Update package description for ubuntu-minimal to reflect its goals more

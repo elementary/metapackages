@@ -28,7 +28,6 @@ gzip
 hostname
 ifupdown
 initramfs-tools
-initscripts
 iproute
 iputils-ping
 less
@@ -53,6 +52,7 @@ pcmciautils
 perl-base
 procps
 python
+python-minimal
 sed
 sudo
 sysklogd
