@@ -1,5 +1,6 @@
 alacarte
 anacron
+apport-gtk
 bc
 bluez-cups
 bluez-pin
@@ -135,6 +136,7 @@ tango-icon-theme
 tango-icon-theme-common
 tomboy
 totem
+totem-mozilla
 tsclient
 ttf-arabeyes
 ttf-arphic-ukai
