@@ -1,3 +1,16 @@
+ubuntu-meta (1.14) edgy; urgency=low
+
+  * Refreshed dependencies
+  * Added gnome-orca to desktop-ia64, desktop-hppa
+  * Added hwdb-client-gnome to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed gnopernicus from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed hwdb-client from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Daniel Holbach <daniel.holbach@ubuntu.com>  Thu, 24 Aug 2006 17:12:41 +0200
+
 ubuntu-meta (1.13) edgy; urgency=low
 
   * Refreshed dependencies

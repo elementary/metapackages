@@ -80,7 +80,6 @@ gnome-themes
 gnome-utils
 gnome-volume-manager
 gnome2-user-guide
-gnopernicus
 gok
 gs-esp
 gstreamer0.10-alsa
@@ -93,7 +92,7 @@ hal
 hal-device-manager
 hpijs-ppds
 hplip
-hwdb-client
+hwdb-client-gnome
 landscape-client
 language-selector
 lftp
