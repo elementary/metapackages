@@ -1,3 +1,11 @@
+ubuntu-meta (1.15) edgy; urgency=low
+
+  * Refreshed dependencies
+  * Added gnome-orca to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-sparc
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Fri, 25 Aug 2006 04:17:25 +1000
+
 ubuntu-meta (1.14) edgy; urgency=low
 
   * Refreshed dependencies
