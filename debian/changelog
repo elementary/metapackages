@@ -1,3 +1,65 @@
+ubuntu-meta (1.16) edgy; urgency=low
+
+  * Refreshed dependencies
+  * Removed foomatic-db-gutenprint from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed language-pack-af from live-i386
+  * Removed language-pack-am from live-i386
+  * Removed language-pack-an from live-i386
+  * Removed language-pack-as from live-i386
+  * Removed language-pack-az from live-i386
+  * Removed language-pack-be from live-i386
+  * Removed language-pack-bg from live-i386
+  * Removed language-pack-br from live-i386
+  * Removed language-pack-bs from live-i386
+  * Removed language-pack-ca from live-i386
+  * Removed language-pack-co from live-i386
+  * Removed language-pack-cs from live-i386
+  * Removed language-pack-cy from live-i386
+  * Removed language-pack-da from live-i386
+  * Removed language-pack-de from live-amd64, live-powerpc
+  * Removed language-pack-el from live-i386
+  * Removed language-pack-eo from live-i386
+  * Removed language-pack-et from live-i386
+  * Removed language-pack-eu from live-i386
+  * Removed language-pack-fa from live-i386
+  * Removed language-pack-fi from live-i386
+  * Removed language-pack-fo from live-i386
+  * Removed language-pack-ga from live-i386
+  * Removed language-pack-gl from live-i386
+  * Removed language-pack-gnome-af from live-i386
+  * Removed language-pack-gnome-am from live-i386
+  * Removed language-pack-gnome-as from live-i386
+  * Removed language-pack-gnome-az from live-i386
+  * Removed language-pack-gnome-be from live-i386
+  * Removed language-pack-gnome-bg from live-i386
+  * Removed language-pack-gnome-br from live-i386
+  * Removed language-pack-gnome-bs from live-i386
+  * Removed language-pack-gnome-ca from live-i386
+  * Removed language-pack-gnome-co from live-i386
+  * Removed language-pack-gnome-cs from live-i386
+  * Removed language-pack-gnome-cy from live-i386
+  * Removed language-pack-gnome-da from live-i386
+  * Removed language-pack-gnome-de from live-amd64, live-powerpc
+  * Removed language-pack-gnome-el from live-i386
+  * Removed language-pack-gnome-eo from live-i386
+  * Removed language-pack-gnome-et from live-i386
+  * Removed language-pack-gnome-eu from live-i386
+  * Removed language-pack-gnome-fa from live-i386
+  * Removed language-pack-gnome-fi from live-i386
+  * Removed language-pack-gnome-ga from live-i386
+  * Removed language-pack-gnome-gl from live-i386
+  * Removed language-pack-gnome-ja from live-amd64, live-powerpc
+  * Removed language-pack-gnome-pt from live-ia64
+  * Removed language-pack-gnome-ru from live-ia64
+  * Removed language-pack-gnome-xh from live-ia64
+  * Removed language-pack-ja from live-amd64, live-powerpc
+  * Removed language-pack-pt from live-ia64
+  * Removed language-pack-ru from live-ia64
+  * Removed language-pack-xh from live-ia64
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Mon, 28 Aug 2006 01:52:40 +0100
+
 ubuntu-meta (1.15) edgy; urgency=low
 
   * Refreshed dependencies
