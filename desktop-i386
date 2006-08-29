@@ -43,7 +43,6 @@ foomatic-db
 foomatic-db-engine
 foomatic-db-hpijs
 foomatic-filters
-foomatic-filters-ppds
 fortune-mod
 gaim
 gcalctool
@@ -95,7 +94,6 @@ gucharmap
 hal
 hal-device-manager
 hotkey-setup
-hpijs-ppds
 hplip
 hwdb-client-gnome
 landscape-client
