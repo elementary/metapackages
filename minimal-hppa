@@ -56,7 +56,6 @@ python-minimal
 sed
 sudo
 sysklogd
-sysvinit
 tar
 tasksel
 tzdata

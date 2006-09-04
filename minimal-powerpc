@@ -60,12 +60,13 @@ python-minimal
 sed
 sudo
 sysklogd
-sysvinit
 tar
 tasksel
 tzdata
 ubuntu-keyring
 udev
+upstart
+upstart-compat-sysv
 usbutils
 util-linux
 vim-tiny

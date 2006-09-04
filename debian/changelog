@@ -1,3 +1,15 @@
+ubuntu-meta (1.19) edgy; urgency=low
+
+  * Refreshed dependencies
+  * Added upstart-compat-sysv to minimal-i386, minimal-amd64, minimal-
+    powerpc, minimal-ia64, minimal-sparc
+  * Added upstart to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+  * Removed sysvinit from minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa
+
+ -- Scott James Remnant <scott@netsplit.com>  Mon,  4 Sep 2006 20:57:22 +0100
+
 ubuntu-meta (1.18) edgy; urgency=low
 
   * Refreshed dependencies
