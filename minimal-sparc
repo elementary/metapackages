@@ -60,8 +60,10 @@ python
 python-minimal
 sed
 sparc-utils
+startup-tasks
 sudo
 sysklogd
+system-services
 tar
 tasksel
 tzdata

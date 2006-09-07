@@ -56,8 +56,10 @@ procps
 python
 python-minimal
 sed
+startup-tasks
 sudo
 sysklogd
+system-services
 tar
 tasksel
 tzdata

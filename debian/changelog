@@ -1,3 +1,13 @@
+ubuntu-meta (1.20) edgy; urgency=low
+
+  * Refreshed dependencies
+  * Added system-services to minimal-i386, minimal-amd64, minimal-
+    powerpc, minimal-ia64, minimal-sparc
+  * Added startup-tasks to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc
+
+ -- Scott James Remnant <scott@netsplit.com>  Thu,  7 Sep 2006 01:56:57 +0100
+
 ubuntu-meta (1.19) edgy; urgency=low
 
   * Refreshed dependencies
