@@ -3,11 +3,12 @@ Section: base
 Priority: optional
 Maintainer: Matt Zimmerman <mdz@ubuntu.com>
 Standards-Version: 3.6.2
-Build-Depends: debhelper (>= 4), germinate (>= 0.16)
+Build-Depends: debhelper (>= 4), germinate (>= 0.21ubuntu1)
 
 Package: ubuntu-minimal
 Architecture: any
 Depends: ${ubuntu-minimal:Depends}
+Recommends: ${ubuntu-minimal:Recommends}
 Description: Minimal core of Ubuntu
  This package depends on all of the packages in the Ubuntu minimal system,
  that is a functional command-line system with the following capabilities:
@@ -24,6 +25,7 @@ Description: Minimal core of Ubuntu
 Package: ubuntu-standard
 Architecture: any
 Depends: ${ubuntu-standard:Depends}
+Recommends: ${ubuntu-standard:Recommends}
 Description: The Ubuntu standard system
  This package depends on all of the packages in the Ubuntu standard system.
  This set of packages provides a comfortable command-line Unix-like
@@ -35,6 +37,7 @@ Description: The Ubuntu standard system
 Package: ubuntu-desktop
 Architecture: any
 Depends: ${ubuntu-desktop:Depends}
+Recommends: ${ubuntu-desktop:Recommends}
 Description: The Ubuntu desktop system
  This package depends on all of the packages in the Ubuntu desktop system
  .

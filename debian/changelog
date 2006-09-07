@@ -1,3 +1,11 @@
+ubuntu-meta (1.21) edgy; urgency=low
+
+  * prepared for recommends support, once the seeds change to use them
+    the next ./update will do the right thing
+  * updated Build-Depends to germinate with recommends support
+
+ -- Michael Vogt <michael.vogt@ubuntu.com>  Thu,  7 Sep 2006 18:29:50 +0200
+
 ubuntu-meta (1.20) edgy; urgency=low
 
   * Refreshed dependencies

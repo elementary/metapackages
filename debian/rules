@@ -18,6 +18,8 @@ build-stamp:	minimal-$(DEB_BUILD_ARCH) standard-$(DEB_BUILD_ARCH) desktop-$(DEB_
 		package=ubuntu-$$seed; \
 		(printf "$$package:Depends="; perl -pe 's/\n/, /g'  $$seed-$(DEB_BUILD_ARCH); echo) \
 			>> debian/$$package.substvars; \
+		(printf "$$package:Recommends="; perl -pe 's/\n/, /g'  $$seed-recommends-$(DEB_BUILD_ARCH); echo) \
+			>> debian/$$package.substvars; \
 	done
 	touch $@
 
