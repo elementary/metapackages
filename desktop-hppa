@@ -101,8 +101,6 @@ libpt-plugins-v4l
 libpt-plugins-v4l2
 libsasl2-modules
 libxp6
-linux-headers-hppa32
-linux-headers-hppa64
 make
 metacity
 min12xxw

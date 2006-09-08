@@ -1,3 +1,18 @@
+ubuntu-meta (1.22) edgy; urgency=low
+
+  * Refreshed dependencies
+  * Changed Depends to Recommends linux-headers-686 from desktop-i386
+  * Changed Depends to Recommends linux-headers-amd64-generic from desktop-amd64
+  * Changed Depends to Recommends linux-headers-hppa32 from desktop-hppa
+  * Changed Depends to Recommends linux-headers-hppa64 from desktop-hppa
+  * Changed Depends to Recommends linux-headers-itanium-smp from desktop-ia64
+  * Changed Depends to Recommends linux-headers-mckinley-smp from desktop-ia64
+  * Changed Depends to Recommends linux-headers-powerpc from desktop-powerpc
+  * Changed Depends to Recommends linux-headers-powerpc64-smp from desktop-powerpc
+  * Changed Depends to Recommends linux-headers-sparc64 from desktop-sparc
+
+ -- Michael Vogt <michael.vogt@ubuntu.com>  Fri,  8 Sep 2006 21:59:40 +0200
+
 ubuntu-meta (1.21) edgy; urgency=low
 
   * prepared for recommends support, once the seeds change to use them
