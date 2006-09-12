@@ -1,3 +1,11 @@
+ubuntu-meta (1.24) edgy; urgency=low
+
+  * Refreshed dependencies
+  * Added usplash-theme-ubuntu to desktop-i386, desktop-amd64, desktop-
+    powerpc
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Tue, 12 Sep 2006 14:47:00 +0100
+
 ubuntu-meta (1.23) edgy; urgency=low
 
   * Revert update.cfg changes so that it works for people other than
