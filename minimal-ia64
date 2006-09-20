@@ -67,6 +67,7 @@ ubuntu-keyring
 udev
 upstart
 upstart-compat-sysv
+upstart-logd
 usbutils
 util-linux
 vim-tiny
