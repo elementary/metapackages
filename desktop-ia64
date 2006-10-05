@@ -4,6 +4,7 @@ acpid
 alacarte
 anacron
 apport-gtk
+avahi-daemon
 bc
 bug-buddy
 cdparanoia
