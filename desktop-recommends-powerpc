@@ -6,14 +6,15 @@ brltty-x11
 example-content
 gcc
 gnome-accessibility-themes
+gnome-games
 gnome-mag
 gnome-orca
 gnome-screensaver
-gok
 hplip
 linux-headers-powerpc
 linux-headers-powerpc64-smp
 make
+onboard
 powernowd
 scim
 scim-gtk2-immodule

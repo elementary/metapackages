@@ -48,7 +48,6 @@ gnome-applets
 gnome-btdownload
 gnome-control-center
 gnome-cups-manager
-gnome-games
 gnome-icon-theme
 gnome-keyring-manager
 gnome-media
@@ -88,6 +87,7 @@ libpt-plugins-v4l
 libpt-plugins-v4l2
 libsasl2-modules
 libxp6
+linuxprinting.org-ppds
 metacity
 min12xxw
 mkisofs

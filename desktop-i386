@@ -53,7 +53,6 @@ gnome-applets
 gnome-btdownload
 gnome-control-center
 gnome-cups-manager
-gnome-games
 gnome-icon-theme
 gnome-keyring-manager
 gnome-media
@@ -86,6 +85,7 @@ hwdb-client-gnome
 landscape-client
 language-selector
 lftp
+libgl1-mesa-glx
 libglut3
 libgnome2-perl
 libgnomevfs2-bin
@@ -96,6 +96,7 @@ libpt-plugins-v4l2
 libsasl2-modules
 libstdc++5
 libxp6
+linuxprinting.org-ppds
 metacity
 min12xxw
 mkisofs

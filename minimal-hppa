@@ -64,6 +64,7 @@ ubuntu-keyring
 udev
 usbutils
 util-linux
+util-linux-locales
 vim-tiny
 wireless-tools
 wpasupplicant
