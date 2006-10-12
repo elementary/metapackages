@@ -1,3 +1,9 @@
+ubuntu-meta (1.29) edgy; urgency=low
+
+  * Fix build failure due to removal of ubuntu-live.
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Thu, 12 Oct 2006 10:26:13 +0100
+
 ubuntu-meta (1.28) edgy; urgency=low
 
   * Remove ubuntu-live metapackage; this is done using tasks now.

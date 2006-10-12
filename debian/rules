@@ -11,10 +11,10 @@ clean:
 DEB_BUILD_ARCH:=$(shell dpkg-architecture -qDEB_BUILD_ARCH)
 
 build: build-stamp
-build-stamp:	minimal-$(DEB_BUILD_ARCH) standard-$(DEB_BUILD_ARCH) desktop-$(DEB_BUILD_ARCH) live-$(DEB_BUILD_ARCH)
+build-stamp:	minimal-$(DEB_BUILD_ARCH) standard-$(DEB_BUILD_ARCH) desktop-$(DEB_BUILD_ARCH)
 	dh_clean
 
-	for seed in minimal standard desktop live; do \
+	for seed in minimal standard desktop; do \
 		package=ubuntu-$$seed; \
 		(printf "$$package:Depends="; perl -pe 's/\n/, /g'  $$seed-$(DEB_BUILD_ARCH); echo) \
 			>> debian/$$package.substvars; \
