@@ -1,3 +1,9 @@
+ubuntu-meta (1.28) edgy; urgency=low
+
+  * Remove ubuntu-live metapackage; this is done using tasks now.
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Thu, 12 Oct 2006 03:31:50 +0100
+
 ubuntu-meta (1.27) edgy; urgency=low
 
   * Refreshed dependencies

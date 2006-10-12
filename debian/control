@@ -43,13 +43,3 @@ Description: The Ubuntu desktop system
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
-
-Package: ubuntu-live
-Architecture: any
-Depends: ${ubuntu-live:Depends}
-Description: Additional packages for the Ubuntu live CD
- This package depends on a set of packages which will be included on
- the Ubuntu live CD, in addition to the standard desktop packages.
- .
- It is neither useful nor recommended to install this package in other
- environments.
