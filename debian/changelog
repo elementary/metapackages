@@ -1,3 +1,14 @@
+ubuntu-meta (1.30) edgy; urgency=low
+
+  * Refreshed dependencies
+  * Added linux-headers-generic to desktop-recommends-i386
+  * Removed linux-headers-386 from desktop-recommends-i386
+  * Removed linuxprinting.org-ppds from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Robustify the update script.
+
+ -- Matthias Klose <doko@ubuntu.com>  Thu, 19 Oct 2006 18:47:41 +0200
+
 ubuntu-meta (1.29) edgy; urgency=low
 
   * Fix build failure due to removal of ubuntu-live.

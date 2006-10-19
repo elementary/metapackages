@@ -1,2 +1,13 @@
 #! /bin/sh
+
+if ! which dch >/dev/null; then
+	echo >&2 "please install devscripts"
+	exit 1
+fi
+
+if ! which debootstrap >/dev/null; then
+	echo >&2 "please install debootstrap"
+	exit 1
+fi
+
 exec germinate-update-metapackage --bzr

@@ -11,7 +11,7 @@ gnome-mag
 gnome-orca
 gnome-screensaver
 hplip
-linux-headers-386
+linux-headers-generic
 make
 onboard
 powernowd
