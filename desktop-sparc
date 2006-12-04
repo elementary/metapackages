@@ -86,11 +86,13 @@ libglut3
 libgnome2-perl
 libgnomevfs2-bin
 libgnomevfs2-extra
+libnss-mdns
 libpam-foreground
 libpt-plugins-v4l
 libpt-plugins-v4l2
 libsasl2-modules
 libxp6
+linuxprinting.org-ppds
 metacity
 min12xxw
 mkisofs
