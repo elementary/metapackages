@@ -1,3 +1,17 @@
+ubuntu-meta (1.34) feisty; urgency=low
+
+  * Refreshed dependencies
+  * Added avahi-autoipd to desktop-ia64
+  * Added mkisofs to desktop-hppa
+  * Added network-manager-gnome to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added xkb-data to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed xkeyboard-config from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Tollef Fog Heen <tfheen@ubuntu.com>  Tue, 30 Jan 2007 15:07:22 +0100
+
 ubuntu-meta (1.33) feisty; urgency=low
 
   * Refreshed dependencies

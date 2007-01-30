@@ -105,6 +105,7 @@ mkisofs
 nautilus
 nautilus-cd-burner
 nautilus-sendto
+network-manager-gnome
 notification-daemon
 openoffice.org
 openoffice.org-evolution
@@ -143,7 +144,7 @@ usplash-theme-ubuntu
 vino
 wvdial
 x-ttcidfont-conf
-xkeyboard-config
+xkb-data
 xorg
 xsane
 xscreensaver-data

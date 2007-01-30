@@ -4,6 +4,7 @@ acpid
 alacarte
 anacron
 apport-gtk
+avahi-autoipd
 avahi-daemon
 bc
 bug-buddy
@@ -101,6 +102,7 @@ mkisofs
 nautilus
 nautilus-cd-burner
 nautilus-sendto
+network-manager-gnome
 notification-daemon
 pnm2ppa
 powermanagement-interface
@@ -135,7 +137,7 @@ usplash
 vino
 wvdial
 x-ttcidfont-conf
-xkeyboard-config
+xkb-data
 xorg
 xsane
 xscreensaver-data

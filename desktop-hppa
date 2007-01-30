@@ -91,9 +91,11 @@ libxp6
 linuxprinting.org-ppds
 metacity
 min12xxw
+mkisofs
 nautilus
 nautilus-cd-burner
 nautilus-sendto
+network-manager-gnome
 notification-daemon
 pnm2ppa
 readahead
@@ -126,7 +128,7 @@ usplash
 vino
 wvdial
 x-ttcidfont-conf
-xkeyboard-config
+xkb-data
 xorg
 xsane
 xscreensaver-data
