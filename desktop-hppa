@@ -66,7 +66,6 @@ gnome-themes
 gnome-utils
 gnome-volume-manager
 gnome2-user-guide
-gs-esp
 gstreamer0.10-alsa
 gstreamer0.10-esd
 gstreamer0.10-plugins-base-apps
@@ -88,7 +87,6 @@ libpt-plugins-v4l
 libpt-plugins-v4l2
 libsasl2-modules
 libxp6
-linuxprinting.org-ppds
 metacity
 min12xxw
 mkisofs
@@ -97,6 +95,7 @@ nautilus-cd-burner
 nautilus-sendto
 network-manager-gnome
 notification-daemon
+openprinting-ppds
 pnm2ppa
 readahead
 rhythmbox

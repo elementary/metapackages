@@ -71,7 +71,7 @@ gnome-themes
 gnome-utils
 gnome-volume-manager
 gnome2-user-guide
-gs-esp
+gs-esp-x
 gstreamer0.10-alsa
 gstreamer0.10-esd
 gstreamer0.10-plugins-base-apps
@@ -96,7 +96,6 @@ libpt-plugins-v4l
 libpt-plugins-v4l2
 libsasl2-modules
 libxp6
-linuxprinting.org-ppds
 metacity
 min12xxw
 mkisofs
@@ -107,6 +106,7 @@ network-manager-gnome
 notification-daemon
 openoffice.org
 openoffice.org-gnome
+openprinting-ppds
 pnm2ppa
 powermanagement-interface
 readahead
