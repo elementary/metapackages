@@ -1,3 +1,140 @@
+ubuntu-meta (1.37) feisty; urgency=low
+
+  * Refreshed dependencies
+  * Added apport-gtk to desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa
+  * Added bug-buddy to desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa
+  * Added contact-lookup-applet to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa
+  * Added deskbar-applet to desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa
+  * Added diveintopython to desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa
+  * Added ekiga to desktop-recommends-i386, desktop-recommends-amd64,
+    desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa
+  * Added evolution to desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa
+  * Added evolution-exchange to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa
+  * Added evolution-plugins to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa
+  * Added f-spot to desktop-recommends-i386, desktop-recommends-amd64,
+    desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc
+  * Added firefox to desktop-recommends-i386, desktop-recommends-amd64,
+    desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa
+  * Added firefox-gnome-support to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa
+  * Added gaim to desktop-recommends-i386, desktop-recommends-amd64,
+    desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa
+  * Added genisoimage to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc
+  * Added gimp to desktop-recommends-i386, desktop-recommends-amd64,
+    desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa
+  * Added gimp-print to desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa
+  * Added gnome-btdownload to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added gnome2-user-guide to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa
+  * Added landscape-client to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa
+  * Added openoffice.org to desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc
+  * Added openoffice.org-evolution to desktop-recommends-i386, desktop-
+    recommends-powerpc
+  * Added openoffice.org-gnome to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc
+  * Added rhythmbox to desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa
+  * Added tomboy to desktop-recommends-i386, desktop-recommends-amd64,
+    desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc
+  * Added totem to desktop-recommends-i386, desktop-recommends-amd64,
+    desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa
+  * Added totem-mozilla to desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa
+  * Added ubuntu-docs to desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa
+  * Added wodim to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc
+  * Removed apport-gtk from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed bug-buddy from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed cdrecord from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed contact-lookup-applet from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed deskbar-applet from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed diveintopython from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed ekiga from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed evolution from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed evolution-exchange from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed evolution-plugins from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed f-spot from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc
+  * Removed firefox from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed firefox-gnome-support from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed gaim from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed gimp from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed gimp-print from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed gnome2-user-guide from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed landscape-client from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed mkisofs from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed openoffice.org from desktop-i386, desktop-amd64, desktop-
+    powerpc
+  * Removed openoffice.org-evolution from desktop-i386, desktop-powerpc
+  * Removed openoffice.org-gnome from desktop-i386, desktop-amd64,
+    desktop-powerpc
+  * Removed rhythmbox from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed tomboy from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc
+  * Removed totem from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed totem-mozilla from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed ubuntu-docs from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Thu,  8 Mar 2007 21:58:46 -0800
+
 ubuntu-meta (1.36) feisty; urgency=low
 
   * Refreshed dependencies
