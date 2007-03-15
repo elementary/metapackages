@@ -31,6 +31,7 @@ linux-headers-hppa32
 linux-headers-hppa64
 onboard
 powernowd
+restricted-manager
 rhythmbox
 scim
 scim-gtk2-immodule

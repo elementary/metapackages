@@ -33,6 +33,7 @@ linux-headers-sparc64
 make
 onboard
 powernowd
+restricted-manager
 rhythmbox
 scim
 scim-gtk2-immodule

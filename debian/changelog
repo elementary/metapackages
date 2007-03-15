@@ -1,3 +1,12 @@
+ubuntu-meta (1.38) feisty; urgency=low
+
+  * Refreshed dependencies
+  * Added restricted-manager to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Thu, 15 Mar 2007 14:33:17 +0100
+
 ubuntu-meta (1.37) feisty; urgency=low
 
   * Refreshed dependencies

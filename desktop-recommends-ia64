@@ -34,6 +34,7 @@ linux-headers-mckinley
 make
 onboard
 powernowd
+restricted-manager
 rhythmbox
 scim
 scim-gtk2-immodule
