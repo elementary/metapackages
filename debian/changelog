@@ -1,3 +1,16 @@
+ubuntu-meta (1.39) feisty; urgency=low
+
+  * Refreshed dependencies
+  * Added command-not-found to standard-recommends-i386, standard-
+    recommends-amd64, standard-recommends-powerpc, standard-recommends-
+    ia64, standard-recommends-sparc, standard-recommends-hppa
+  * Added scim-tables-additional to desktop-recommends-i386
+  * Added update-manager-core to standard-recommends-i386, standard-
+    recommends-amd64, standard-recommends-powerpc, standard-recommends-
+    ia64, standard-recommends-sparc
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 16 Mar 2007 12:07:47 +0100
+
 ubuntu-meta (1.38) feisty; urgency=low
 
   * Refreshed dependencies
