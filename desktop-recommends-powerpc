@@ -26,12 +26,13 @@ gnome-games
 gnome-mag
 gnome-orca
 gnome-screensaver
-gnome2-user-guide
+gnome-user-guide
 hplip
 landscape-client
 linux-headers-powerpc
 linux-headers-powerpc64-smp
 make
+network-manager-gnome
 onboard
 openoffice.org
 openoffice.org-evolution

@@ -26,12 +26,13 @@ gnome-games
 gnome-mag
 gnome-orca
 gnome-screensaver
-gnome2-user-guide
+gnome-user-guide
 hplip
 landscape-client
 linux-headers-itanium
 linux-headers-mckinley
 make
+network-manager-gnome
 onboard
 powernowd
 restricted-manager

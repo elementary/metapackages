@@ -26,11 +26,12 @@ gnome-games
 gnome-mag
 gnome-orca
 gnome-screensaver
-gnome2-user-guide
+gnome-user-guide
 hplip
 landscape-client
 linux-headers-generic
 make
+network-manager-gnome
 onboard
 openoffice.org
 openoffice.org-gnome
