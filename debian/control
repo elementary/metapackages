@@ -1,5 +1,5 @@
 Source: ubuntu-meta
-Section: base
+Section: metapackages
 Priority: optional
 Maintainer: Matt Zimmerman <mdz@ubuntu.com>
 Standards-Version: 3.6.2

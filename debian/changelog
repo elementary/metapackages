@@ -1,3 +1,9 @@
+ubuntu-meta (1.41) feisty; urgency=low
+
+  * changed Section to metapackages (LP#82876)
+
+ -- Michael Vogt <michael.vogt@ubuntu.com>  Tue,  3 Apr 2007 13:16:42 +0200
+
 ubuntu-meta (1.40) feisty; urgency=low
 
   * Refreshed dependencies
