@@ -8,6 +8,7 @@ cupsys-bsd
 cupsys-client
 cupsys-driver-gutenprint
 dc
+dcraw
 desktop-file-utils
 doc-base
 dvd+rw-tools

@@ -9,6 +9,7 @@ cupsys-bsd
 cupsys-client
 cupsys-driver-gutenprint
 dc
+dcraw
 desktop-effects
 desktop-file-utils
 doc-base
