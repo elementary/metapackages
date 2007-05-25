@@ -1,12 +1,12 @@
 apport-gtk
 bluez-cups
-bluez-pin
 bluez-utils
 brltty
 brltty-x11
 bug-buddy
 contact-lookup-applet
 deskbar-applet
+discover1
 diveintopython
 ekiga
 espeak
@@ -17,7 +17,6 @@ example-content
 f-spot
 firefox
 firefox-gnome-support
-gaim
 gcc
 gimp
 gimp-print
@@ -29,10 +28,12 @@ gnome-screensaver
 gnome-user-guide
 hplip
 landscape-client
+laptop-detect
 linux-headers-sparc64
 make
 network-manager-gnome
 onboard
+pidgin
 powernowd
 restricted-manager
 rhythmbox
@@ -55,3 +56,4 @@ ttf-mgopen
 ttf-thai-tlwg
 ubuntu-docs
 xcursor-themes
+xresprobe

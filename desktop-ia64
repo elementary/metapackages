@@ -34,6 +34,7 @@ gdebi
 gdm
 gedit
 genisoimage
+ghostscript-x
 gimp-python
 gnome-about
 gnome-app-install
@@ -58,7 +59,6 @@ gnome-terminal
 gnome-themes
 gnome-utils
 gnome-volume-manager
-gs-esp-x
 gstreamer0.10-alsa
 gstreamer0.10-esd
 gstreamer0.10-plugins-base-apps
@@ -124,7 +124,7 @@ xsane
 xscreensaver-data
 xscreensaver-gl
 xterm
-xvncviewer
+xvnc4viewer
 yelp
 zenity
 zip
