@@ -1,3 +1,14 @@
+ubuntu-meta (1.45) gutsy; urgency=low
+
+  * Add new mobile seed (included universe during update to get through a
+    first run)
+  * Refreshed dependencies
+  * Added xdg-utils to desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Tue, 12 Jun 2007 20:40:37 +0100
+
 ubuntu-meta (1.44) gutsy; urgency=low
 
   * update.cfg: feisty -> gutsy.

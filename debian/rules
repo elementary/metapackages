@@ -14,7 +14,7 @@ build: build-stamp
 build-stamp:	minimal-$(DEB_BUILD_ARCH) standard-$(DEB_BUILD_ARCH) desktop-$(DEB_BUILD_ARCH)
 	dh_clean
 
-	for seed in minimal standard desktop; do \
+	for seed in minimal standard desktop mobile; do \
 		package=ubuntu-$$seed; \
 		(printf "$$package:Depends="; perl -pe 's/\n/, /g'  $$seed-$(DEB_BUILD_ARCH); echo) \
 			>> debian/$$package.substvars; \
