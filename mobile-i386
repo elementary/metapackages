@@ -1,6 +1,7 @@
+dbus-x11
 gtk2-engines-sapwood
 hildon-desktop
+hildon-theme-plankton
 language-pack-en
 matchbox-window-manager
-hildon-theme-plankton
-dbus-x11
+sdk-default-icons

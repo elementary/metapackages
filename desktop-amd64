@@ -13,7 +13,6 @@ cupsys-client
 cupsys-driver-gutenprint
 dc
 dcraw
-desktop-effects
 desktop-file-utils
 doc-base
 dvd+rw-tools
@@ -120,6 +119,8 @@ vino
 wodim
 wvdial
 x-ttcidfont-conf
+xdg-user-dirs
+xdg-user-dirs-gtk
 xkb-data
 xorg
 xsane

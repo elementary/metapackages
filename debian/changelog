@@ -1,3 +1,21 @@
+ubuntu-meta (1.46) gutsy; urgency=low
+
+  * Refreshed dependencies
+  * Added dbus-x11 to mobile-amd64, mobile-powerpc, mobile-ia64, mobile-
+    sparc
+  * Added hildon-theme-plankton to mobile-amd64, mobile-powerpc, mobile-
+    ia64, mobile-sparc, mobile-hppa
+  * Added sdk-default-icons to mobile-i386, mobile-amd64, mobile-
+    powerpc, mobile-ia64, mobile-sparc, mobile-hppa
+  * Added xdg-user-dirs to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc
+  * Added xdg-user-dirs-gtk to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+  * Removed desktop-effects from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 22 Jun 2007 15:54:48 +0200
+
 ubuntu-meta (1.45) gutsy; urgency=low
 
   * Add new mobile seed (included universe during update to get through a
