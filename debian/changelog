@@ -1,3 +1,11 @@
+ubuntu-meta (1.47) gutsy; urgency=low
+
+  * Build ubuntu-minimal from required and minimal seeds (requires germinate
+    0.28 to update).
+  * Switch powerpc to http://ports.ubuntu.com/ubuntu-ports/.
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Sat, 23 Jun 2007 21:28:29 +0100
+
 ubuntu-meta (1.46) gutsy; urgency=low
 
   * Refreshed dependencies
