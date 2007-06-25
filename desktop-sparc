@@ -4,6 +4,7 @@ avahi-autoipd
 avahi-daemon
 bc
 cdparanoia
+compiz
 cupsys
 cupsys-bsd
 cupsys-client
@@ -109,6 +110,7 @@ ubuntu-sounds
 unzip
 update-notifier
 usplash
+usplash-theme-ubuntu
 vino
 wodim
 wvdial
