@@ -1,3 +1,12 @@
+ubuntu-meta (1.48) gutsy; urgency=low
+
+  * set build-depends of germinate to 0.27 to workaround the fact that
+    0.28 is currently not available (and germinate is not really
+    used during the build, its just required to generate the new
+    source package)
+
+ -- Michael Vogt <michael.vogt@ubuntu.com>  Mon, 25 Jun 2007 18:09:46 +0200
+
 ubuntu-meta (1.47ubuntu2) gutsy; urgency=low
 
   * Revert the ubuntu-minimal changes introduced by my last
