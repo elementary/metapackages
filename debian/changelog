@@ -1,3 +1,10 @@
+ubuntu-meta (1.49) gutsy; urgency=low
+
+  * Revert build-dependency change; germinate 0.28 is required for update
+    and is in the archive now.
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Tue, 26 Jun 2007 10:10:25 +0100
+
 ubuntu-meta (1.48) gutsy; urgency=low
 
   * set build-depends of germinate to 0.27 to workaround the fact that
