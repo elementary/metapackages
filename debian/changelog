@@ -1,3 +1,20 @@
+ubuntu-meta (1.50) gutsy; urgency=low
+
+  * Refreshed dependencies
+  * Added compiz to desktop-recommends-i386, desktop-recommends-amd64,
+    desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa
+  * Added libgl1-mesa-dri to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa
+  * Removed compiz from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed ttf-arphic-ukai from desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 26 Jun 2007 13:14:18 +0200
+
 ubuntu-meta (1.49) gutsy; urgency=low
 
   * Revert build-dependency change; germinate 0.28 is required for update

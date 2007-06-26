@@ -5,6 +5,7 @@ bogofilter
 brltty
 brltty-x11
 bug-buddy
+compiz
 contact-lookup-applet
 deskbar-applet
 discover1
@@ -28,6 +29,7 @@ gnome-user-guide
 hplip
 landscape-client
 laptop-detect
+libgl1-mesa-dri
 linux-headers-hppa32
 linux-headers-hppa64
 network-manager-gnome
@@ -40,7 +42,6 @@ scim-gtk2-immodule
 totem
 totem-mozilla
 ttf-arabeyes
-ttf-arphic-ukai
 ttf-arphic-uming
 ttf-baekmuk
 ttf-gentium

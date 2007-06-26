@@ -5,6 +5,7 @@ bogofilter
 brltty
 brltty-x11
 bug-buddy
+compiz
 contact-lookup-applet
 deskbar-applet
 discover1
@@ -30,6 +31,7 @@ gnome-user-guide
 hplip
 landscape-client
 laptop-detect
+libgl1-mesa-dri
 linux-headers-itanium
 linux-headers-mckinley
 make
@@ -45,7 +47,6 @@ tomboy
 totem
 totem-mozilla
 ttf-arabeyes
-ttf-arphic-ukai
 ttf-arphic-uming
 ttf-baekmuk
 ttf-gentium
