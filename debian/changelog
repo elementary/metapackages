@@ -1,3 +1,10 @@
+ubuntu-meta (1.51) gutsy; urgency=low
+
+  * Refreshed dependencies
+  * Added hildon-desktop to mobile-amd64, mobile-ia64, mobile-sparc
+
+ -- Tollef Fog Heen <tfheen@ubuntu.com>  Mon, 02 Jul 2007 08:55:02 +0200
+
 ubuntu-meta (1.50) gutsy; urgency=low
 
   * Refreshed dependencies
