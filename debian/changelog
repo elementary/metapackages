@@ -1,3 +1,12 @@
+ubuntu-meta (1.52) gutsy; urgency=low
+
+  * Refreshed dependencies
+  * Added ubufox to desktop-recommends-i386, desktop-recommends-amd64,
+    desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa
+
+ -- Alexander Sack <asac@ubuntu.com>  Fri, 06 Jul 2007 11:42:56 +0200
+
 ubuntu-meta (1.51) gutsy; urgency=low
 
   * Refreshed dependencies
