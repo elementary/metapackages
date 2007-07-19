@@ -1,3 +1,9 @@
+ubuntu-meta (1.54) gutsy; urgency=low
+
+  * Include a copy of GPLv2 (LP: #80513).
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Thu, 19 Jul 2007 22:08:15 +0100
+
 ubuntu-meta (1.53) gutsy; urgency=low
 
   * Refreshed dependencies
