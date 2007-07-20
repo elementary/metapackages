@@ -1,3 +1,12 @@
+ubuntu-meta (1.55) gutsy; urgency=low
+
+  * Refreshed dependencies
+  * Added apparmor-utils to standard-recommends-i386, standard-
+    recommends-amd64, standard-recommends-powerpc, standard-recommends-
+    ia64, standard-recommends-sparc
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 20 Jul 2007 16:56:47 +0200
+
 ubuntu-meta (1.54) gutsy; urgency=low
 
   * Include a copy of GPLv2 (LP: #80513).
