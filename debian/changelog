@@ -1,3 +1,33 @@
+ubuntu-meta (1.56) gutsy; urgency=low
+
+  * Refreshed dependencies
+  * Added avahi-autoipd to desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc
+  * Added hildon-control-panel to mobile-i386, mobile-amd64, mobile-
+    powerpc, mobile-ia64, mobile-sparc
+  * Added hildon-theme-mobile-basic to mobile-i386, mobile-amd64,
+    mobile-powerpc, mobile-ia64, mobile-sparc, mobile-hppa
+  * Added libnss-mdns to desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa
+  * Added marquee-plugins to mobile-i386, mobile-amd64, mobile-powerpc,
+    mobile-ia64
+  * Added mobile-application-service to mobile-i386, mobile-amd64,
+    mobile-powerpc, mobile-ia64, mobile-sparc
+  * Added mobile-basic-flash to mobile-i386, mobile-amd64, mobile-
+    powerpc, mobile-ia64, mobile-sparc
+  * Added moblin-keyboard-manager to mobile-i386, mobile-amd64, mobile-
+    powerpc, mobile-ia64, mobile-sparc
+  * Removed avahi-autoipd from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc
+  * Removed hildon-theme-plankton from mobile-i386, mobile-amd64,
+    mobile-powerpc, mobile-ia64, mobile-sparc, mobile-hppa
+  * Removed libnss-mdns from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+
+ -- Tollef Fog Heen <tfheen@ubuntu.com>  Mon, 30 Jul 2007 13:53:57 +0200
+
 ubuntu-meta (1.55) gutsy; urgency=low
 
   * Refreshed dependencies

@@ -1,4 +1,5 @@
 apport-gtk
+avahi-autoipd
 bluez-cups
 bluez-utils
 bogofilter
@@ -32,6 +33,7 @@ hplip
 landscape-client
 laptop-detect
 libgl1-mesa-dri
+libnss-mdns
 linux-headers-itanium
 linux-headers-mckinley
 make

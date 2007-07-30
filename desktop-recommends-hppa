@@ -30,6 +30,7 @@ hplip
 landscape-client
 laptop-detect
 libgl1-mesa-dri
+libnss-mdns
 linux-headers-hppa32
 linux-headers-hppa64
 network-manager-gnome

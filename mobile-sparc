@@ -1,7 +1,11 @@
 dbus-x11
 gtk2-engines-sapwood
+hildon-control-panel
 hildon-desktop
-hildon-theme-plankton
+hildon-theme-mobile-basic
 language-pack-en
 matchbox-window-manager
+mobile-application-service
+mobile-basic-flash
+moblin-keyboard-manager
 sdk-default-icons

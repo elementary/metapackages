@@ -3,7 +3,6 @@ acpi-support
 acpid
 alacarte
 anacron
-avahi-autoipd
 avahi-daemon
 bc
 cdparanoia
@@ -75,7 +74,6 @@ libglut3
 libgnome2-perl
 libgnomevfs2-bin
 libgnomevfs2-extra
-libnss-mdns
 libpam-foreground
 libpt-plugins-v4l
 libpt-plugins-v4l2
