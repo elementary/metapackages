@@ -1,3 +1,11 @@
+ubuntu-meta (1.58) gutsy; urgency=low
+
+  * Updated lpia lists; add lpia packages which are not yet built:
+    - minimal-lpia: Copy of minimal-i386, minus libc6-i686.
+    - standard-lpia: Copy of standard-i386.
+
+ -- Matthias Klose <doko@ubuntu.com>  Tue, 31 Jul 2007 15:04:08 +0000
+
 ubuntu-meta (1.57) gutsy; urgency=low
 
   * Generate packages for lpia.

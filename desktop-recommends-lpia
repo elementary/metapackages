@@ -3,6 +3,7 @@ compiz
 gcc
 gnome-accessibility-themes
 gnome-orca
+laptop-detect
 totem
 totem-mozilla
 ubufox
