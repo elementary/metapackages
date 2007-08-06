@@ -6,6 +6,7 @@ anacron
 avahi-daemon
 bc
 cdparanoia
+consolekit
 cupsys
 cupsys-bsd
 cupsys-client
@@ -18,6 +19,7 @@ dvd+rw-tools
 eog
 evince
 evolution-webcal
+fast-user-switch-applet
 file-roller
 foo2zjs
 foomatic-db
