@@ -3,9 +3,7 @@ cpio
 cron
 dnsutils
 dosfstools
-dselect
 ed
-fdutils
 file
 ftp
 hdparm
@@ -24,11 +22,7 @@ mime-support
 nano
 parted
 popularity-contest
-ppp
-pppconfig
-pppoeconf
 psmisc
-reiserfsprogs
 rsync
 strace
 tcpdump

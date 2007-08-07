@@ -1,5 +1,11 @@
 apparmor-utils
 command-not-found
+dselect
+fdutils
 mtr-tiny
 openssh-client
+ppp
+pppconfig
+pppoeconf
+reiserfsprogs
 update-manager-core

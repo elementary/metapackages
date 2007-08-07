@@ -1,3 +1,127 @@
+ubuntu-meta (1.60) gutsy; urgency=low
+
+  * Refreshed dependencies
+  * Added adduser to minimal-lpia
+  * Added alsa-base to minimal-lpia
+  * Added alsa-utils to minimal-lpia
+  * Added apt to minimal-lpia
+  * Added apt-utils to minimal-lpia
+  * Added aptitude to minimal-lpia
+  * Added base-files to minimal-lpia
+  * Added base-passwd to minimal-lpia
+  * Added bash to minimal-lpia
+  * Added bsdutils to minimal-lpia
+  * Added bzip2 to minimal-lpia
+  * Added console-setup to minimal-lpia
+  * Added console-tools to minimal-lpia
+  * Added coreutils to minimal-lpia
+  * Added dash to minimal-lpia
+  * Added debconf to minimal-lpia
+  * Added debianutils to minimal-lpia
+  * Added dhcp3-client to minimal-lpia
+  * Added diff to minimal-lpia
+  * Added dpkg to minimal-lpia
+  * Added dselect to standard-recommends-i386, standard-recommends-
+    amd64, standard-recommends-powerpc, standard-recommends-ia64,
+    standard-recommends-sparc, standard-recommends-hppa, standard-
+    recommends-lpia
+  * Added e2fsprogs to minimal-lpia
+  * Added eject to minimal-lpia
+  * Added ethtool to minimal-lpia
+  * Added fdutils to standard-recommends-i386, standard-recommends-
+    amd64, standard-recommends-powerpc, standard-recommends-ia64,
+    standard-recommends-sparc, standard-recommends-hppa, standard-
+    recommends-lpia
+  * Added findutils to minimal-lpia
+  * Added gettext-base to minimal-lpia
+  * Added gnupg to minimal-lpia
+  * Added grep to minimal-lpia
+  * Added gzip to minimal-lpia
+  * Added hostname to minimal-lpia
+  * Added ifupdown to minimal-lpia
+  * Added initramfs-tools to minimal-lpia
+  * Added iproute to minimal-lpia
+  * Added iputils-ping to minimal-lpia
+  * Added less to minimal-lpia
+  * Added libdeskbar-tracker to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * Added libfribidi0 to minimal-lpia
+  * Added locales to minimal-lpia
+  * Added login to minimal-lpia
+  * Added lsb-release to minimal-lpia
+  * Added makedev to minimal-lpia
+  * Added mawk to minimal-lpia
+  * Added mii-diag to minimal-lpia
+  * Added mktemp to minimal-lpia
+  * Added module-init-tools to minimal-lpia
+  * Added mount to minimal-lpia
+  * Added ncurses-base to minimal-lpia
+  * Added ncurses-bin to minimal-lpia
+  * Added net-tools to minimal-lpia
+  * Added netbase to minimal-lpia
+  * Added netcat to minimal-lpia
+  * Added ntpdate to minimal-lpia
+  * Added passwd to minimal-lpia
+  * Added pciutils to minimal-lpia
+  * Added pcmciautils to minimal-lpia
+  * Added perl-base to minimal-lpia
+  * Added ppp to standard-recommends-i386, standard-recommends-amd64,
+    standard-recommends-powerpc, standard-recommends-ia64, standard-
+    recommends-sparc, standard-recommends-hppa, standard-recommends-lpia
+  * Added pppconfig to standard-recommends-i386, standard-recommends-
+    amd64, standard-recommends-powerpc, standard-recommends-ia64,
+    standard-recommends-sparc, standard-recommends-hppa, standard-
+    recommends-lpia
+  * Added pppoeconf to standard-recommends-i386, standard-recommends-
+    amd64, standard-recommends-powerpc, standard-recommends-ia64,
+    standard-recommends-sparc, standard-recommends-hppa, standard-
+    recommends-lpia
+  * Added procps to minimal-lpia
+  * Added python to minimal-lpia
+  * Added python-minimal to minimal-lpia
+  * Added reiserfsprogs to standard-recommends-i386, standard-
+    recommends-amd64, standard-recommends-powerpc, standard-recommends-
+    ia64, standard-recommends-sparc, standard-recommends-hppa, standard-
+    recommends-lpia
+  * Added sed to minimal-lpia
+  * Added startup-tasks to minimal-lpia
+  * Added sudo to minimal-lpia
+  * Added sysklogd to minimal-lpia
+  * Added system-services to minimal-lpia
+  * Added tar to minimal-lpia
+  * Added tasksel to minimal-lpia
+  * Added tracker-search-tool to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc
+  * Added tzdata to minimal-lpia
+  * Added ubuntu-keyring to minimal-lpia
+  * Added udev to minimal-lpia
+  * Added upstart to minimal-lpia
+  * Added upstart-compat-sysv to minimal-lpia
+  * Added upstart-logd to minimal-lpia
+  * Added usbutils to minimal-lpia
+  * Added util-linux to minimal-lpia
+  * Added util-linux-locales to minimal-lpia
+  * Added vim-tiny to minimal-lpia
+  * Added wireless-tools to minimal-lpia
+  * Added wpasupplicant to minimal-lpia
+  * Removed dselect from standard-i386, standard-amd64, standard-
+    powerpc, standard-ia64, standard-sparc, standard-hppa, standard-lpia
+  * Removed fdutils from standard-i386, standard-amd64, standard-
+    powerpc, standard-ia64, standard-sparc, standard-hppa, standard-lpia
+  * Removed ppp from standard-i386, standard-amd64, standard-powerpc,
+    standard-ia64, standard-sparc, standard-hppa, standard-lpia
+  * Removed pppconfig from standard-i386, standard-amd64, standard-
+    powerpc, standard-ia64, standard-sparc, standard-hppa, standard-lpia
+  * Removed pppoeconf from standard-i386, standard-amd64, standard-
+    powerpc, standard-ia64, standard-sparc, standard-hppa, standard-lpia
+  * Removed reiserfsprogs from standard-i386, standard-amd64, standard-
+    powerpc, standard-ia64, standard-sparc, standard-hppa, standard-lpia
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 07 Aug 2007 18:19:31 +0200
+
 ubuntu-meta (1.59) gutsy; urgency=low
 
   * Refreshed dependencies

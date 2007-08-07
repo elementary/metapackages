@@ -32,6 +32,7 @@ gnome-user-guide
 hplip
 landscape-client
 laptop-detect
+libdeskbar-tracker
 libgl1-mesa-dri
 libnss-mdns
 linux-headers-generic
@@ -52,6 +53,7 @@ tomboy
 totem
 totem-mozilla
 tracker
+tracker-search-tool
 ttf-arabeyes
 ttf-arphic-uming
 ttf-baekmuk
