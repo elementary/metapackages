@@ -29,6 +29,7 @@ gnome-mag
 gnome-orca
 gnome-screensaver
 gnome-user-guide
+hal-cups-utils
 hplip
 landscape-client
 laptop-detect
@@ -65,6 +66,8 @@ ttf-mgopen
 ttf-thai-tlwg
 ubufox
 ubuntu-docs
+wvdial
 xcursor-themes
 xdg-utils
 xresprobe
+xsane

@@ -1,4 +1,5 @@
 alacarte
+avahi-daemon
 cupsys
 cupsys-bsd
 cupsys-client
@@ -33,17 +34,21 @@ gnome-system-tools
 gnome-terminal
 gnome-themes
 gnome-utils
+gnome-volume-manager
 gtk2-engines
 gtk2-engines-pixbuf
 gucharmap
+hal
 hal-device-manager
 hwdb-client-gnome
 language-selector
+libgl1-mesa-glx
 libglut3
 libgnomevfs2-bin
 libgnomevfs2-extra
 libpam-foreground
 libsasl2-modules
+libxp6
 metacity
 nautilus
 nautilus-cd-burner
@@ -53,6 +58,7 @@ scrollkeeper
 serpentine
 sound-juicer
 ssh-askpass-gnome
+system-config-printer
 tangerine-icon-theme
 tango-icon-theme
 tango-icon-theme-common
@@ -67,3 +73,4 @@ xkb-data
 xorg
 yelp
 zenity
+zip

@@ -40,7 +40,6 @@ gnome-app-install
 gnome-applets
 gnome-btdownload
 gnome-control-center
-gnome-cups-manager
 gnome-icon-theme
 gnome-keyring-manager
 gnome-media
@@ -100,6 +99,7 @@ smbclient
 sound-juicer
 ssh-askpass-gnome
 synaptic
+system-config-printer
 tangerine-icon-theme
 tango-icon-theme
 tango-icon-theme-common
@@ -115,13 +115,11 @@ usplash
 usplash-theme-ubuntu
 vino
 wodim
-wvdial
 x-ttcidfont-conf
 xdg-user-dirs
 xdg-user-dirs-gtk
 xkb-data
 xorg
-xsane
 xscreensaver-data
 xscreensaver-gl
 xterm

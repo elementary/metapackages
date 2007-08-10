@@ -2,10 +2,14 @@ apparmor-utils
 command-not-found
 dselect
 fdutils
+iputils-arping
+iputils-tracepath
 mtr-tiny
 openssh-client
 ppp
 pppconfig
 pppoeconf
 reiserfsprogs
+tcpdump
+telnet
 update-manager-core

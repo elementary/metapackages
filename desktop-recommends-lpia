@@ -1,4 +1,5 @@
 apport-gtk
+avahi-autoipd
 bug-buddy
 compiz
 diveintopython
@@ -10,9 +11,11 @@ gnome-mag
 gnome-orca
 gnome-screensaver
 gnome-user-guide
+hal-cups-utils
 landscape-client
 laptop-detect
 libdeskbar-tracker
+libgl1-mesa-dri
 make
 onboard
 restricted-manager

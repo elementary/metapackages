@@ -33,7 +33,6 @@ gnome-about
 gnome-app-install
 gnome-applets
 gnome-btdownload
-gnome-cups-manager
 gnome-icon-theme
 gnome-keyring-manager
 gnome-media
@@ -90,6 +89,7 @@ smbclient
 sound-juicer
 ssh-askpass-gnome
 synaptic
+system-config-printer
 tangerine-icon-theme
 tango-icon-theme
 tango-icon-theme-common
@@ -103,11 +103,9 @@ unzip
 update-notifier
 usplash
 vino
-wvdial
 x-ttcidfont-conf
 xkb-data
 xorg
-xsane
 xscreensaver-data
 xscreensaver-gl
 xterm

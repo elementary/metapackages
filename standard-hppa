@@ -10,8 +10,6 @@ hdparm
 info
 inputattach
 iptables
-iputils-arping
-iputils-tracepath
 logrotate
 lshw
 lsof
@@ -24,8 +22,6 @@ popularity-contest
 psmisc
 rsync
 strace
-tcpdump
-telnet
 time
 w3m
 wget
