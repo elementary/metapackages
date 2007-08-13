@@ -5,6 +5,7 @@ fdutils
 iputils-arping
 iputils-tracepath
 mtr-tiny
+ntfs-3g
 openssh-client
 ppp
 pppconfig

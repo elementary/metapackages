@@ -1,8 +1,10 @@
 alacarte
 avahi-daemon
+bc
 cupsys
 cupsys-bsd
 cupsys-client
+dc
 doc-base
 eog
 evince
@@ -15,6 +17,8 @@ gconf-editor
 gdebi
 gdm
 gedit
+genisoimage
+ghostscript-x
 gnome-about
 gnome-app-install
 gnome-applets
@@ -35,6 +39,8 @@ gnome-terminal
 gnome-themes
 gnome-utils
 gnome-volume-manager
+gstreamer0.10-alsa
+gstreamer0.10-plugins-base-apps
 gtk2-engines
 gtk2-engines-pixbuf
 gucharmap
@@ -67,7 +73,9 @@ ttf-dejavu
 ttf-freefont
 ubuntu-artwork
 ubuntu-sounds
+unzip
 vino
+wodim
 x-ttcidfont-conf
 xkb-data
 xorg

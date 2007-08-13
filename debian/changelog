@@ -1,3 +1,20 @@
+ubuntu-meta (1.62) gutsy; urgency=low
+
+  * Refreshed dependencies
+  * Added bc to desktop-lpia
+  * Added dc to desktop-lpia
+  * Added genisoimage to desktop-lpia
+  * Added ghostscript-x to desktop-lpia
+  * Added gstreamer0.10-alsa to desktop-lpia
+  * Added gstreamer0.10-plugins-base-apps to desktop-lpia
+  * Added ntfs-3g to standard-recommends-i386, standard-recommends-
+    amd64, standard-recommends-powerpc, standard-recommends-ia64,
+    standard-recommends-sparc (LP: #121143)
+  * Added unzip to desktop-lpia
+  * Added wodim to desktop-lpia
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 13 Aug 2007 09:47:59 +0200
+
 ubuntu-meta (1.61) gutsy; urgency=low
 
   * Refreshed dependencies
