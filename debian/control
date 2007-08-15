@@ -53,3 +53,14 @@ Description: The Ubuntu mobile system
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
+
+Package: ubuntu-mobile-dev
+Architecture: any
+Depends: ${ubuntu-mobile:Depends}
+Recommends: ${ubuntu-mobile:Recommends}
+Description: Development environment for Ubuntu Mobile
+ This is all packages included in the Ubuntu Mobile development
+ environment.
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.

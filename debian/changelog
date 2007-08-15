@@ -1,3 +1,41 @@
+ubuntu-meta (1.63) gutsy; urgency=low
+
+  * Add ubuntu-mobile-dev package.
+  * Refreshed dependencies
+  * Added cdparanoia to desktop-lpia
+  * Added consolekit to desktop-lpia
+  * Added contact-lookup-applet to desktop-recommends-lpia
+  * Added cupsys-driver-gutenprint to desktop-lpia
+  * Added deskbar-applet to desktop-recommends-lpia
+  * Added desktop-file-utils to desktop-lpia
+  * Added displayconfig-gtk to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * Added espeak to desktop-recommends-lpia
+  * Added evolution to desktop-recommends-lpia
+  * Added evolution-plugins to desktop-recommends-lpia
+  * Added fast-user-switch-applet to desktop-lpia
+  * Added firefox to desktop-recommends-lpia
+  * Added firefox-gnome-support to desktop-recommends-lpia
+  * Added foo2zjs to desktop-lpia
+  * Added fortune-mod to desktop-lpia
+  * Added gimp to desktop-recommends-lpia
+  * Added gimp-print to desktop-recommends-lpia
+  * Added gimp-python to desktop-lpia
+  * Added gnome-spell to desktop-lpia
+  * Added gthumb to desktop-lpia
+  * Added libnss-mdns to desktop-recommends-lpia
+  * Added scim to desktop-recommends-lpia
+  * Added scim-gtk2-immodule to desktop-recommends-lpia
+  * Added tracker to desktop-recommends-lpia
+  * Added tracker-search-tool to desktop-recommends-lpia
+  * Added usplash to desktop-lpia
+  * Added xresprobe to desktop-recommends-lpia
+  * Added xterm to desktop-lpia
+
+ -- Tollef Fog Heen <tfheen@ubuntu.com>  Wed, 15 Aug 2007 12:27:41 +0200
+
 ubuntu-meta (1.62) gutsy; urgency=low
 
   * Refreshed dependencies
