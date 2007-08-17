@@ -18,6 +18,7 @@ evolution-plugins
 example-content
 firefox
 firefox-gnome-support
+foo2zjs
 gcc
 gimp
 gimp-print
@@ -35,6 +36,7 @@ libgl1-mesa-dri
 libnss-mdns
 linux-headers-hppa32
 linux-headers-hppa64
+min12xxw
 network-manager-gnome
 onboard
 powernowd

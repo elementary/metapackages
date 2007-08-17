@@ -1,3 +1,81 @@
+ubuntu-meta (1.64) gutsy; urgency=low
+
+  * Refreshed dependencies
+  * Added acpi to desktop-lpia
+  * Added acpi-support to desktop-lpia
+  * Added acpid to desktop-lpia
+  * Added anacron to desktop-lpia
+  * Added bluez-cups to desktop-recommends-lpia
+  * Added bluez-utils to desktop-recommends-lpia
+  * Added bogofilter to desktop-recommends-lpia
+  * Added brltty to desktop-recommends-lpia
+  * Added brltty-x11 to desktop-recommends-lpia
+  * Added build-essential to mobile-dev-i386, mobile-dev-amd64, mobile-
+    dev-powerpc, mobile-dev-ia64, mobile-dev-sparc, mobile-dev-hppa,
+    mobile-dev-lpia
+  * Added dcraw to desktop-lpia
+  * Added discover1 to desktop-recommends-lpia
+  * Added dvd+rw-tools to desktop-lpia
+  * Added evolution-exchange to desktop-recommends-lpia
+  * Added evolution-webcal to desktop-lpia
+  * Added foo2zjs to desktop-recommends-i386, desktop-recommends-amd64,
+    desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Added foomatic-db-engine to desktop-lpia
+  * Added gnome-pilot-conduits to desktop-lpia
+  * Added gstreamer0.10-alsa to mobile-i386, mobile-amd64, mobile-
+    powerpc, mobile-ia64, mobile-sparc, mobile-hppa, mobile-lpia
+  * Added gstreamer0.10-esd to desktop-lpia
+  * Added gstreamer0.10-plugins-base to mobile-i386, mobile-amd64,
+    mobile-powerpc, mobile-ia64, mobile-sparc, mobile-hppa, mobile-lpia
+  * Added gstreamer0.10-plugins-good to mobile-i386, mobile-amd64,
+    mobile-powerpc, mobile-ia64, mobile-sparc, mobile-hppa, mobile-lpia
+  * Added gstreamer0.10-x to mobile-i386, mobile-amd64, mobile-powerpc,
+    mobile-ia64, mobile-sparc, mobile-hppa, mobile-lpia
+  * Added hildon-control-panel to mobile-lpia
+  * Added hildon-desktop to mobile-lpia
+  * Added hotkey-setup to desktop-lpia
+  * Added hplip to desktop-recommends-lpia
+  * Added lftp to desktop-lpia
+  * Added libglib2.0-doc to mobile-dev-i386, mobile-dev-amd64, mobile-
+    dev-powerpc, mobile-dev-ia64, mobile-dev-sparc, mobile-dev-hppa,
+    mobile-dev-lpia
+  * Added libgnome2-perl to desktop-lpia
+  * Added libgtk2.0-doc to mobile-dev-i386, mobile-dev-amd64, mobile-
+    dev-powerpc, mobile-dev-ia64, mobile-dev-sparc, mobile-dev-hppa,
+    mobile-dev-lpia
+  * Added libpt-plugins-v4l to desktop-lpia
+  * Added libpt-plugins-v4l2 to desktop-lpia
+  * Added min12xxw to desktop-recommends-i386, desktop-recommends-amd64,
+    desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Added nautilus-sendto to desktop-lpia
+  * Added network-manager-gnome to desktop-recommends-lpia
+  * Added notification-daemon to desktop-lpia
+  * Added pidgin to desktop-recommends-lpia
+  * Added pnm2ppa to desktop-lpia
+  * Added powernowd to desktop-recommends-lpia
+  * Added pxljr to desktop-recommends-i386, desktop-recommends-amd64,
+    desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-lpia
+  * Added readahead to desktop-lpia
+  * Added smbclient to desktop-lpia
+  * Added splix to desktop-recommends-i386, desktop-recommends-amd64,
+    desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc
+  * Added xsane to desktop-recommends-lpia
+  * Added xserver-xephyr to mobile-dev-i386, mobile-dev-amd64, mobile-
+    dev-powerpc, mobile-dev-ia64, mobile-dev-sparc, mobile-dev-lpia
+  * Removed foo2zjs from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa, desktop-lpia
+  * Removed libtelepathy-dev from mobile-dev-i386, mobile-dev-amd64,
+    mobile-dev-powerpc, mobile-dev-ia64, mobile-dev-sparc
+  * Removed min12xxw from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa
+  * Removed mobile-basic-flash from mobile-sparc
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 17 Aug 2007 11:57:35 +0100
+
 ubuntu-meta (1.63) gutsy; urgency=low
 
   * Add ubuntu-mobile-dev package.
