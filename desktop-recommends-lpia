@@ -8,6 +8,7 @@ brltty-x11
 bug-buddy
 compiz
 contact-lookup-applet
+cups-pdf
 deskbar-applet
 discover1
 displayconfig-gtk
@@ -44,6 +45,7 @@ pidgin
 powernowd
 pxljr
 restricted-manager
+rhythmbox
 scim
 scim-gtk2-immodule
 totem
@@ -63,6 +65,7 @@ ttf-mgopen
 ttf-thai-tlwg
 ubufox
 ubuntu-docs
+wvdial
 xcursor-themes
 xdg-utils
 xresprobe
