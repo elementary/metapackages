@@ -1,3 +1,12 @@
+ubuntu-meta (1.67) gutsy; urgency=low
+
+  * Fix up ubuntu-mobile-dev dependencies.
+  * Refreshed dependencies
+  * Added rss-glx to desktop-lpia
+  * Added xvnc4viewer to desktop-lpia
+
+ -- Tollef Fog Heen <tfheen@ubuntu.com>  Mon, 27 Aug 2007 22:49:59 +0200
+
 ubuntu-meta (1.66) gutsy; urgency=low
 
   * Refreshed dependencies

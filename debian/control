@@ -56,8 +56,8 @@ Description: The Ubuntu mobile system
 
 Package: ubuntu-mobile-dev
 Architecture: any
-Depends: ${ubuntu-mobile:Depends}
-Recommends: ${ubuntu-mobile:Recommends}
+Depends: ${ubuntu-mobile-dev:Depends}
+Recommends: ${ubuntu-mobile-dev:Recommends}
 Description: Development environment for Ubuntu Mobile
  This is all packages included in the Ubuntu Mobile development
  environment.

@@ -87,6 +87,7 @@ notification-daemon
 openprinting-ppds
 pnm2ppa
 readahead
+rss-glx
 screen
 screensaver-default-images
 scrollkeeper
@@ -116,6 +117,7 @@ xdg-user-dirs-gtk
 xkb-data
 xorg
 xterm
+xvnc4viewer
 yelp
 zenity
 zip
