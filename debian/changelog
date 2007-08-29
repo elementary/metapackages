@@ -1,3 +1,13 @@
+ubuntu-meta (1.68) gutsy; urgency=low
+
+  * Refreshed dependencies
+  * Added matchbox-keyboard to mobile-i386, mobile-amd64, mobile-
+    powerpc, mobile-ia64, mobile-sparc, mobile-lpia
+  * Added midbrowser to mobile-i386, mobile-amd64, mobile-powerpc,
+    mobile-ia64, mobile-sparc, mobile-lpia
+
+ -- Tollef Fog Heen <tfheen@ubuntu.com>  Wed, 29 Aug 2007 16:05:06 +0200
+
 ubuntu-meta (1.67) gutsy; urgency=low
 
   * Fix up ubuntu-mobile-dev dependencies.
