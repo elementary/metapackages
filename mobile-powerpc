@@ -1,4 +1,8 @@
+bluetooth
+bluez-gnome
 dbus-x11
+gnome-keyring-manager
+gnome-ppp
 gstreamer0.10-alsa
 gstreamer0.10-plugins-base
 gstreamer0.10-plugins-good
@@ -15,4 +19,7 @@ midbrowser
 mobile-application-service
 mobile-basic-flash
 moblin-keyboard-manager
+network-manager-gnome
+ppp
 sdk-default-icons
+wvdial

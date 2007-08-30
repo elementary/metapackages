@@ -116,6 +116,8 @@ xdg-user-dirs
 xdg-user-dirs-gtk
 xkb-data
 xorg
+xscreensaver-data
+xscreensaver-gl
 xterm
 xvnc4viewer
 yelp

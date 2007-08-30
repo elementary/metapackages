@@ -1,3 +1,28 @@
+ubuntu-meta (1.69) gutsy; urgency=low
+
+  * Refreshed dependencies
+  * Added bluetooth to mobile-i386, mobile-amd64, mobile-powerpc,
+    mobile-ia64, mobile-sparc, mobile-hppa, mobile-lpia
+  * Added bluez-gnome to mobile-i386, mobile-amd64, mobile-powerpc,
+    mobile-ia64, mobile-sparc, mobile-lpia
+  * Added gnome-keyring-manager to mobile-i386, mobile-amd64, mobile-
+    powerpc, mobile-ia64, mobile-sparc, mobile-hppa, mobile-lpia
+  * Added gnome-ppp to mobile-i386, mobile-amd64, mobile-powerpc,
+    mobile-ia64, mobile-sparc, mobile-hppa, mobile-lpia
+  * Added libhildon-1-dev to mobile-dev-i386, mobile-dev-amd64, mobile-
+    dev-powerpc, mobile-dev-ia64, mobile-dev-sparc, mobile-dev-lpia
+  * Added network-manager-gnome to mobile-i386, mobile-amd64, mobile-
+    powerpc, mobile-ia64, mobile-sparc, mobile-hppa, mobile-lpia
+  * Added ppp to mobile-i386, mobile-amd64, mobile-powerpc, mobile-ia64,
+    mobile-sparc, mobile-hppa, mobile-lpia
+  * Added splix to desktop-recommends-lpia
+  * Added wvdial to mobile-i386, mobile-amd64, mobile-powerpc, mobile-
+    ia64, mobile-sparc, mobile-hppa, mobile-lpia
+  * Added xscreensaver-data to desktop-lpia
+  * Added xscreensaver-gl to desktop-lpia
+
+ -- Tollef Fog Heen <tfheen@ubuntu.com>  Thu, 30 Aug 2007 21:40:15 +0200
+
 ubuntu-meta (1.68) gutsy; urgency=low
 
   * Refreshed dependencies
