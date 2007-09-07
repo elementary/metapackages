@@ -1,3 +1,27 @@
+ubuntu-meta (1.70) gutsy; urgency=low
+
+  * Refreshed dependencies
+  * Added bluez-gnome to desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-lpia
+  * Added cheese to mobile-i386, mobile-amd64, mobile-powerpc, mobile-
+    ia64, mobile-sparc, mobile-lpia
+  * Added claws-mail to mobile-i386, mobile-amd64, mobile-powerpc,
+    mobile-ia64, mobile-sparc, mobile-lpia
+  * Added contacts-snapshot to mobile-i386, mobile-amd64, mobile-
+    powerpc, mobile-ia64, mobile-sparc, mobile-lpia
+  * Added ekiga to desktop-recommends-lpia
+  * Added libpam-gnome-keyring to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-lpia
+  * Added stardict to mobile-recommends-i386, mobile-recommends-amd64,
+    mobile-recommends-powerpc, mobile-recommends-ia64, mobile-
+    recommends-sparc, mobile-recommends-hppa, mobile-recommends-lpia
+  * Added tasks to mobile-i386, mobile-amd64, mobile-powerpc, mobile-
+    ia64, mobile-sparc, mobile-lpia
+
+ -- Daniel Holbach <daniel.holbach@ubuntu.com>  Fri, 07 Sep 2007 11:30:44 +0200
+
 ubuntu-meta (1.69) gutsy; urgency=low
 
   * Refreshed dependencies

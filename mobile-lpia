@@ -1,5 +1,8 @@
 bluetooth
 bluez-gnome
+cheese
+claws-mail
+contacts-snapshot
 dbus-x11
 gnome-keyring-manager
 gnome-ppp
@@ -22,4 +25,5 @@ moblin-keyboard-manager
 network-manager-gnome
 ppp
 sdk-default-icons
+tasks
 wvdial

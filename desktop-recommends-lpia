@@ -1,6 +1,7 @@
 apport-gtk
 avahi-autoipd
 bluez-cups
+bluez-gnome
 bluez-utils
 bogofilter
 brltty
@@ -13,6 +14,7 @@ deskbar-applet
 discover1
 displayconfig-gtk
 diveintopython
+ekiga
 espeak
 evolution
 evolution-exchange
@@ -37,6 +39,7 @@ laptop-detect
 libdeskbar-tracker
 libgl1-mesa-dri
 libnss-mdns
+libpam-gnome-keyring
 make
 min12xxw
 network-manager-gnome
