@@ -1,9 +1,11 @@
+apparmor-utils
 command-not-found
 dselect
 fdutils
 iputils-arping
 iputils-tracepath
 mtr-tiny
+ntfs-3g
 openssh-client
 ppp
 pppconfig

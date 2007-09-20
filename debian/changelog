@@ -1,3 +1,54 @@
+ubuntu-meta (1.71) gutsy; urgency=low
+
+  * Refreshed dependencies
+  * Added apparmor-utils to standard-recommends-hppa
+  * Added bluez-gnome to desktop-recommends-hppa, mobile-hppa
+  * Added consolekit to desktop-hppa
+  * Added espeak to desktop-recommends-hppa
+  * Added genisoimage to desktop-hppa
+  * Added ghostscript-x to desktop-hppa
+  * Added gnome-control-center to desktop-hppa
+  * Added gtk2-engines to desktop-hppa
+  * Added hal-cups-utils to desktop-recommends-hppa
+  * Added libpam-gnome-keyring to desktop-recommends-hppa
+  * Added make to desktop-recommends-hppa
+  * Added mktemp to minimal-hppa
+  * Added ntfs-3g to standard-recommends-hppa
+  * Added pxljr to desktop-recommends-hppa
+  * Added splix to desktop-recommends-hppa
+  * Added startup-tasks to minimal-hppa
+  * Added system-services to minimal-hppa
+  * Added ttf-dejavu-core to desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa, desktop-lpia
+  * Added ttf-indic-fonts-core to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * Added ttf-unfonts-core to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * Added upstart to minimal-hppa
+  * Added upstart-compat-sysv to minimal-hppa
+  * Added upstart-logd to minimal-hppa
+  * Added usplash-theme-ubuntu to desktop-hppa
+  * Added wodim to desktop-hppa
+  * Added xdg-user-dirs to desktop-hppa
+  * Added xdg-user-dirs-gtk to desktop-hppa
+  * Added xserver-xephyr to mobile-dev-hppa
+  * Removed ttf-baekmuk from desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * Removed ttf-dejavu from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa, desktop-lpia
+  * Removed ttf-indic-fonts from desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Thu, 20 Sep 2007 11:30:56 +0200
+
 ubuntu-meta (1.70) gutsy; urgency=low
 
   * Refreshed dependencies

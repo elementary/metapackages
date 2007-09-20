@@ -1,4 +1,5 @@
 bluetooth
+bluez-gnome
 gnome-keyring-manager
 gnome-ppp
 gstreamer0.10-alsa
