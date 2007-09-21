@@ -1,3 +1,13 @@
+ubuntu-meta (1.72) gutsy; urgency=low
+
+  * Refreshed dependencies
+  * Added pidgin to desktop-recommends-hppa
+  * Added update-manager-core to standard-recommends-hppa
+  * Removed mobile-application-service from mobile-i386, mobile-amd64,
+    mobile-powerpc, mobile-ia64, mobile-sparc, mobile-lpia
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 21 Sep 2007 08:47:15 +0200
+
 ubuntu-meta (1.71) gutsy; urgency=low
 
   * Refreshed dependencies
