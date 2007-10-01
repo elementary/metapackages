@@ -46,13 +46,9 @@ make
 min12xxw
 network-manager-gnome
 onboard
-openoffice.org-calc
-openoffice.org-draw
+openoffice.org
+openoffice.org-evolution
 openoffice.org-gnome
-openoffice.org-impress
-openoffice.org-java-common
-openoffice.org-math
-openoffice.org-writer
 pidgin
 powernowd
 pxljr

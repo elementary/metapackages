@@ -1,3 +1,37 @@
+ubuntu-meta (1.75) gutsy; urgency=low
+
+  * Refreshed dependencies
+  * Added foobillard to mobile-recommends-i386, mobile-recommends-amd64,
+    mobile-recommends-powerpc, mobile-recommends-ia64, mobile-
+    recommends-sparc, mobile-recommends-hppa, mobile-recommends-lpia
+  * Added frozen-bubble to mobile-recommends-i386, mobile-recommends-
+    amd64, mobile-recommends-powerpc, mobile-recommends-ia64, mobile-
+    recommends-sparc, mobile-recommends-hppa, mobile-recommends-lpia
+  * Added gnudoku to mobile-recommends-i386, mobile-recommends-amd64,
+    mobile-recommends-powerpc, mobile-recommends-ia64, mobile-
+    recommends-sparc, mobile-recommends-hppa, mobile-recommends-lpia
+  * Added neverball to mobile-recommends-i386, mobile-recommends-amd64,
+    mobile-recommends-powerpc, mobile-recommends-ia64, mobile-
+    recommends-sparc, mobile-recommends-hppa, mobile-recommends-lpia
+  * Added openoffice.org to desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc
+  * Added openoffice.org-evolution to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc
+  * Removed openoffice.org-calc from desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc
+  * Removed openoffice.org-draw from desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc
+  * Removed openoffice.org-impress from desktop-recommends-i386,
+    desktop-recommends-amd64, desktop-recommends-powerpc
+  * Removed openoffice.org-java-common from desktop-recommends-i386,
+    desktop-recommends-amd64, desktop-recommends-powerpc
+  * Removed openoffice.org-math from desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc
+  * Removed openoffice.org-writer from desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 01 Oct 2007 09:49:04 +0200
+
 ubuntu-meta (1.74) gutsy; urgency=low
 
   * Refreshed dependencies
