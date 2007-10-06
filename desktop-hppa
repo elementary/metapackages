@@ -65,6 +65,7 @@ hal-device-manager
 hwdb-client-gnome
 language-selector
 lftp
+libgl1-mesa-glx
 libglut3
 libgnome2-perl
 libgnomevfs2-bin

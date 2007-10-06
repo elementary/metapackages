@@ -1,3 +1,21 @@
+ubuntu-meta (1.76) gutsy; urgency=low
+
+  * Refreshed dependencies
+  * Added app-install-data-commercial to desktop-recommends-i386,
+    desktop-recommends-amd64, desktop-recommends-powerpc, desktop-
+    recommends-ia64, desktop-recommends-sparc, desktop-recommends-hppa,
+    desktop-recommends-lpia
+  * Added avahi-autoipd to desktop-recommends-hppa
+  * Added dbus-x11 to mobile-hppa
+  * Added libgl1-mesa-glx to desktop-hppa
+  * Removed dselect from standard-recommends-i386, standard-recommends-
+    amd64, standard-recommends-powerpc, standard-recommends-ia64,
+    standard-recommends-sparc, standard-recommends-hppa, standard-
+    recommends-lpia
+  * Removed gnome-games from desktop-recommends-ia64
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Sat, 06 Oct 2007 13:08:09 +0200
+
 ubuntu-meta (1.75) gutsy; urgency=low
 
   * Refreshed dependencies

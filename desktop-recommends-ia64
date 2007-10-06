@@ -1,3 +1,4 @@
+app-install-data-commercial
 apport-gtk
 avahi-autoipd
 bluez-cups
@@ -28,7 +29,6 @@ gcc
 gimp
 gimp-print
 gnome-accessibility-themes
-gnome-games
 gnome-mag
 gnome-orca
 gnome-screensaver

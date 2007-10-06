@@ -1,6 +1,5 @@
 apparmor-utils
 command-not-found
-dselect
 fdutils
 iputils-arping
 iputils-tracepath
