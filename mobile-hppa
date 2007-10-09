@@ -1,5 +1,6 @@
 bluetooth
 bluez-gnome
+contacts-snapshot
 dbus-x11
 gnome-keyring-manager
 gnome-ppp

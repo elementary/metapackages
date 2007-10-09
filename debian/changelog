@@ -1,3 +1,13 @@
+ubuntu-meta (1.77) gutsy; urgency=low
+
+  * Refreshed dependencies
+  * Added contacts-snapshot to mobile-hppa
+  * Removed openoffice.org from desktop-recommends-powerpc
+  * Removed openoffice.org-evolution from desktop-recommends-powerpc
+  * Removed openoffice.org-gnome from desktop-recommends-powerpc
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Tue, 09 Oct 2007 06:43:18 +0100
+
 ubuntu-meta (1.76) gutsy; urgency=low
 
   * Refreshed dependencies
