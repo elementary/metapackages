@@ -4,6 +4,7 @@ cheese
 claws-mail
 contacts-snapshot
 dbus-x11
+galculator
 gnome-keyring-manager
 gnome-ppp
 gstreamer0.10-alsa
@@ -20,6 +21,7 @@ matchbox-keyboard
 matchbox-window-manager
 midbrowser
 mobile-basic-flash
+moblin-chat
 moblin-keyboard-manager
 network-manager-gnome
 ppp

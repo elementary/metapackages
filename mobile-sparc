@@ -4,6 +4,7 @@ cheese
 claws-mail
 contacts-snapshot
 dbus-x11
+galculator
 gnome-keyring-manager
 gnome-ppp
 gstreamer0.10-alsa
@@ -18,6 +19,7 @@ language-pack-en
 matchbox-keyboard
 matchbox-window-manager
 midbrowser
+moblin-chat
 moblin-keyboard-manager
 network-manager-gnome
 ppp

@@ -1,3 +1,14 @@
+ubuntu-meta (1.78) gutsy; urgency=low
+
+  * Refreshed dependencies
+  * Added galculator to mobile-i386, mobile-amd64, mobile-powerpc,
+    mobile-ia64, mobile-sparc, mobile-hppa, mobile-lpia
+  * Added midbrowser to mobile-hppa
+  * Added moblin-chat to mobile-i386, mobile-amd64, mobile-powerpc,
+    mobile-ia64, mobile-sparc, mobile-hppa, mobile-lpia
+
+ -- Tollef Fog Heen <tfheen@ubuntu.com>  Mon, 15 Oct 2007 09:24:20 +0200
+
 ubuntu-meta (1.77) gutsy; urgency=low
 
   * Refreshed dependencies
