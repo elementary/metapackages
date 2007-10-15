@@ -16,11 +16,13 @@ hildon-control-panel
 hildon-desktop
 hildon-theme-mobile-basic
 language-pack-en
+marquee-plugins
 matchbox-keyboard
 matchbox-window-manager
 midbrowser
 moblin-chat
 moblin-keyboard-manager
+moblin-media
 network-manager-gnome
 ppp
 sdk-default-icons

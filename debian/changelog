@@ -1,3 +1,12 @@
+ubuntu-meta (1.79) gutsy; urgency=low
+
+  * Refreshed dependencies
+  * Added marquee-plugins to mobile-sparc
+  * Added moblin-media to mobile-i386, mobile-amd64, mobile-powerpc,
+    mobile-ia64, mobile-sparc, mobile-hppa, mobile-lpia
+
+ -- Tollef Fog Heen <tfheen@ubuntu.com>  Mon, 15 Oct 2007 21:43:52 +0200
+
 ubuntu-meta (1.78) gutsy; urgency=low
 
   * Refreshed dependencies
