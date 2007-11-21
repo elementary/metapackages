@@ -1,3 +1,73 @@
+ubuntu-meta (1.80) hardy; urgency=low
+
+  * update.cfg:
+    - Switch to Hardy.
+    - Use bzr+ssh:// instead of sftp:// for faster seed branch checkout.
+  * Refreshed dependencies
+  * Added evolution-webcal to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * Added fbreader to mobile-i386, mobile-amd64, mobile-powerpc, mobile-
+    ia64, mobile-sparc, mobile-lpia
+  * Added foomatic-db-hpijs to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * Added friendly-recovery to standard-recommends-i386, standard-
+    recommends-amd64, standard-recommends-powerpc, standard-recommends-
+    ia64, standard-recommends-sparc, standard-recommends-hppa, standard-
+    recommends-lpia
+  * Added gstreamer0.10-pulseaudio to desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa
+  * Added gthumb to desktop-recommends-i386, desktop-recommends-amd64,
+    desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Added hildon-desktop to mobile-hppa
+  * Added marquee-plugins to mobile-hppa
+  * Added matchbox-keyboard to mobile-hppa
+  * Added moblin-applets to mobile-i386, mobile-amd64, mobile-powerpc,
+    mobile-ia64, mobile-sparc, mobile-hppa, mobile-lpia
+  * Added moblin-keyboard-manager to mobile-hppa
+  * Added pidgin-otr to desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Added pulseaudio to desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa, desktop-lpia
+  * Added pulseaudio-module-gconf to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * Added pulseaudio-module-hal to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * Added serpentine to desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Added sound-juicer to desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Added vino to desktop-recommends-i386, desktop-recommends-amd64,
+    desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Removed evolution-webcal from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa, desktop-lpia
+  * Removed foomatic-db-hpijs from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa, desktop-lpia
+  * Removed gstreamer0.10-esd from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa, desktop-lpia
+  * Removed gthumb from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa, desktop-lpia
+  * Removed serpentine from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa, desktop-lpia
+  * Removed sound-juicer from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa, desktop-lpia
+  * Removed vino from desktop-i386, desktop-amd64, desktop-powerpc,
+    desktop-ia64, desktop-sparc, desktop-hppa, desktop-lpia
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 21 Nov 2007 16:24:44 +0100
+
 ubuntu-meta (1.79) gutsy; urgency=low
 
   * Refreshed dependencies

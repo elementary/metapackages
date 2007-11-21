@@ -4,6 +4,7 @@ cheese
 claws-mail
 contacts-snapshot
 dbus-x11
+fbreader
 galculator
 gnome-keyring-manager
 gnome-ppp
@@ -21,6 +22,7 @@ matchbox-keyboard
 matchbox-window-manager
 midbrowser
 mobile-basic-flash
+moblin-applets
 moblin-chat
 moblin-keyboard-manager
 moblin-media

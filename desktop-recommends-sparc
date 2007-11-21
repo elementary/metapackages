@@ -20,11 +20,13 @@ espeak
 evolution
 evolution-exchange
 evolution-plugins
+evolution-webcal
 example-content
 f-spot
 firefox
 firefox-gnome-support
 foo2zjs
+foomatic-db-hpijs
 gcc
 gimp
 gimp-print
@@ -34,6 +36,7 @@ gnome-mag
 gnome-orca
 gnome-screensaver
 gnome-user-guide
+gthumb
 hal-cups-utils
 hplip
 landscape-client
@@ -48,12 +51,17 @@ min12xxw
 network-manager-gnome
 onboard
 pidgin
+pidgin-otr
 powernowd
+pulseaudio-module-gconf
+pulseaudio-module-hal
 pxljr
 restricted-manager
 rhythmbox
 scim
 scim-gtk2-immodule
+serpentine
+sound-juicer
 splix
 tomboy
 totem
@@ -73,6 +81,7 @@ ttf-thai-tlwg
 ttf-unfonts-core
 ubufox
 ubuntu-docs
+vino
 wvdial
 xcursor-themes
 xdg-utils

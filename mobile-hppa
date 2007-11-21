@@ -9,11 +9,16 @@ gstreamer0.10-alsa
 gstreamer0.10-plugins-base
 gstreamer0.10-plugins-good
 gstreamer0.10-x
+hildon-desktop
 hildon-theme-mobile-basic
 language-pack-en
+marquee-plugins
+matchbox-keyboard
 matchbox-window-manager
 midbrowser
+moblin-applets
 moblin-chat
+moblin-keyboard-manager
 moblin-media
 network-manager-gnome
 ppp
