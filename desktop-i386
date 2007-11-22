@@ -72,7 +72,6 @@ libglut3
 libgnome2-perl
 libgnomevfs2-bin
 libgnomevfs2-extra
-libpam-foreground
 libpt-plugins-v4l
 libpt-plugins-v4l2
 libsasl2-modules
