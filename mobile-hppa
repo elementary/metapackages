@@ -9,6 +9,7 @@ gstreamer0.10-alsa
 gstreamer0.10-plugins-base
 gstreamer0.10-plugins-good
 gstreamer0.10-x
+gtk2-engines-sapwood
 hildon-desktop
 hildon-theme-mobile-basic
 language-pack-en
@@ -23,4 +24,5 @@ moblin-media
 network-manager-gnome
 ppp
 sdk-default-icons
+tasks
 wvdial

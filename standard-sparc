@@ -13,7 +13,6 @@ iptables
 logrotate
 lshw
 lsof
-ltrace
 man-db
 manpages
 mime-support

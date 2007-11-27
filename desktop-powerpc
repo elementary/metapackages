@@ -58,7 +58,6 @@ gtk2-engines
 gtk2-engines-pixbuf
 gucharmap
 hal
-hal-device-manager
 hwdb-client-gnome
 language-selector
 lftp
