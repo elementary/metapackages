@@ -63,6 +63,7 @@ sysklogd
 system-services
 tar
 tasksel
+tcpd
 tzdata
 ubuntu-keyring
 udev

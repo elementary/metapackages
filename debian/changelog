@@ -1,3 +1,14 @@
+ubuntu-meta (1.83) hardy; urgency=low
+
+  * Refreshed dependencies
+  * Added tcpd to minimal-i386, minimal-amd64, minimal-powerpc, minimal-
+    ia64, minimal-sparc, minimal-hppa, minimal-lpia
+  * Removed gnudoku from mobile-recommends-i386, mobile-recommends-
+    amd64, mobile-recommends-powerpc, mobile-recommends-ia64, mobile-
+    recommends-sparc, mobile-recommends-hppa, mobile-recommends-lpia
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Mon, 03 Dec 2007 17:46:40 +0000
+
 ubuntu-meta (1.82) hardy; urgency=low
 
   * Refreshed dependencies
