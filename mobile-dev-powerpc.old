@@ -1,0 +1,5 @@
+build-essential
+libglib2.0-doc
+libgtk2.0-doc
+libhildon-1-dev
+xserver-xephyr

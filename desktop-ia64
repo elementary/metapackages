@@ -82,6 +82,7 @@ openprinting-ppds
 pnm2ppa
 powermanagement-interface
 pulseaudio
+pulseaudio-esound-compat
 readahead
 rss-glx
 screen

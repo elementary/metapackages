@@ -78,6 +78,7 @@ notification-daemon
 openprinting-ppds
 pnm2ppa
 pulseaudio
+pulseaudio-esound-compat
 readahead
 rss-glx
 screen
