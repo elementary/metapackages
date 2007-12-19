@@ -50,9 +50,11 @@ make
 min12xxw
 network-manager-gnome
 onboard
-openoffice.org
+openoffice.org-calc
 openoffice.org-evolution
 openoffice.org-gnome
+openoffice.org-impress
+openoffice.org-writer
 pidgin
 pidgin-otr
 powernowd

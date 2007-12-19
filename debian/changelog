@@ -1,3 +1,22 @@
+ubuntu-meta (1.85) hardy; urgency=low
+
+  * Refreshed dependencies
+  * Added cheese to mobile-hppa
+  * Added fbreader to mobile-hppa
+  * Added hildon-control-panel to mobile-hppa
+  * Added libhildon-1-0-dbg to mobile-dev-hppa
+  * Added libhildon-1-dev to mobile-dev-hppa
+  * Added openoffice.org-calc to desktop-recommends-i386, desktop-
+    recommends-amd64
+  * Added openoffice.org-impress to desktop-recommends-i386, desktop-
+    recommends-amd64
+  * Added openoffice.org-writer to desktop-recommends-i386, desktop-
+    recommends-amd64
+  * Removed openoffice.org from desktop-recommends-i386, desktop-
+    recommends-amd64
+
+ -- Steve Langasek <vorlon@debian.org>  Wed, 19 Dec 2007 02:41:15 -0800
+
 ubuntu-meta (1.84) hardy; urgency=low
 
   * Refreshed dependencies

@@ -8,6 +8,8 @@ libdbus-glib-1-doc
 libdbus-qt-1-dev
 libglib2.0-doc
 libgtk2.0-doc
+libhildon-1-0-dbg
+libhildon-1-dev
 libhildon-thumbnail-dev
 libhildon-thumbnail0-dbg
 libhildondesktop-dev
