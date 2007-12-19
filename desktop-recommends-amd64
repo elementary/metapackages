@@ -51,7 +51,6 @@ min12xxw
 network-manager-gnome
 onboard
 openoffice.org-calc
-openoffice.org-evolution
 openoffice.org-gnome
 openoffice.org-impress
 openoffice.org-writer
@@ -75,13 +74,13 @@ tracker
 tracker-search-tool
 ttf-arabeyes
 ttf-arphic-uming
-ttf-gentium
 ttf-indic-fonts-core
 ttf-kochi-gothic
 ttf-kochi-mincho
 ttf-lao
 ttf-malayalam-fonts
 ttf-mgopen
+ttf-sil-gentium
 ttf-thai-tlwg
 ttf-unfonts-core
 ubufox
