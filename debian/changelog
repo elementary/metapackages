@@ -1,3 +1,32 @@
+ubuntu-meta (1.87) hardy; urgency=low
+
+  * Refreshed dependencies
+  * Added brasero to desktop-recommends-i386, desktop-recommends-amd64,
+    desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Added claws-mail to mobile-hppa
+  * Added libhildonfm2-dbg to mobile-dev-hppa
+  * Added mobile-basic-flash to mobile-sparc, mobile-hppa
+  * Added transmission-gtk to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * Added vinagre to desktop-recommends-i386, desktop-recommends-amd64,
+    desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Removed gnome-btdownload from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa, desktop-lpia
+  * Removed gthumb from desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Removed serpentine from desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Removed xvnc4viewer from desktop-i386, desktop-amd64, desktop-
+    powerpc, desktop-ia64, desktop-sparc, desktop-hppa, desktop-lpia
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 14 Jan 2008 18:30:14 +0100
+
 ubuntu-meta (1.86) hardy; urgency=low
 
   * Refreshed dependencies

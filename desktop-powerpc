@@ -32,7 +32,6 @@ gimp-python
 gnome-about
 gnome-app-install
 gnome-applets
-gnome-btdownload
 gnome-control-center
 gnome-icon-theme
 gnome-keyring-manager
@@ -111,7 +110,6 @@ xorg
 xscreensaver-data
 xscreensaver-gl
 xterm
-xvnc4viewer
 yelp
 zenity
 zip

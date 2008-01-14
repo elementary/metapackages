@@ -1,6 +1,7 @@
 bluetooth
 bluez-gnome
 cheese
+claws-mail
 contacts-snapshot
 dbus-x11
 fbreader
@@ -20,6 +21,7 @@ marquee-plugins
 matchbox-keyboard
 matchbox-window-manager
 midbrowser
+mobile-basic-flash
 moblin-applets
 moblin-chat
 moblin-keyboard-manager

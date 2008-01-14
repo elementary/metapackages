@@ -5,6 +5,7 @@ bluez-cups
 bluez-gnome
 bluez-utils
 bogofilter
+brasero
 brltty
 brltty-x11
 bug-buddy
@@ -35,7 +36,6 @@ gnome-mag
 gnome-orca
 gnome-screensaver
 gnome-user-guide
-gthumb
 hal-cups-utils
 hplip
 landscape-client
@@ -58,13 +58,13 @@ restricted-manager
 rhythmbox
 scim
 scim-gtk2-immodule
-serpentine
 sound-juicer
 splix
 totem
 totem-mozilla
 tracker
 tracker-search-tool
+transmission-gtk
 ttf-arabeyes
 ttf-arphic-uming
 ttf-indic-fonts-core
@@ -78,6 +78,7 @@ ttf-thai-tlwg
 ttf-unfonts-core
 ubufox
 ubuntu-docs
+vinagre
 vino
 wvdial
 xcursor-themes
