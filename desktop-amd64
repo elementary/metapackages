@@ -37,7 +37,6 @@ gnome-app-install
 gnome-applets
 gnome-control-center
 gnome-icon-theme
-gnome-keyring-manager
 gnome-media
 gnome-menus
 gnome-netstatus-applet
@@ -69,8 +68,8 @@ libglut3
 libgnome2-perl
 libgnomevfs2-bin
 libgnomevfs2-extra
-libpt-plugins-v4l
-libpt-plugins-v4l2
+libpt-1.10.10-plugins-v4l
+libpt-1.10.10-plugins-v4l2
 libsasl2-modules
 libxp6
 metacity
@@ -88,6 +87,7 @@ rss-glx
 screen
 screensaver-default-images
 scrollkeeper
+seahorse
 slocate
 smbclient
 ssh-askpass-gnome

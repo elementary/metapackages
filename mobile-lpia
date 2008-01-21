@@ -6,7 +6,6 @@ contacts-snapshot
 dbus-x11
 fbreader
 galculator
-gnome-keyring-manager
 gnome-ppp
 gstreamer0.10-alsa
 gstreamer0.10-plugins-base
@@ -29,5 +28,6 @@ moblin-media
 network-manager-gnome
 ppp
 sdk-default-icons
+seahorse
 tasks
 wvdial
