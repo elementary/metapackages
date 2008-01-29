@@ -1,0 +1,16 @@
+apparmor-utils
+command-not-found
+fdutils
+friendly-recovery
+iputils-arping
+iputils-tracepath
+mtr-tiny
+ntfs-3g
+openssh-client
+ppp
+pppconfig
+pppoeconf
+reiserfsprogs
+tcpdump
+telnet
+update-manager-core

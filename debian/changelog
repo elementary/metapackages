@@ -1,3 +1,18 @@
+ubuntu-meta (1.89) hardy; urgency=low
+
+  * Refreshed dependencies
+  * Added gnome-volume-manager to mobile-i386, mobile-amd64, mobile-
+    powerpc, mobile-ia64, mobile-sparc, mobile-hppa, mobile-lpia
+  * Added jockey-gtk to desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Removed restricted-manager from desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+
+ -- Steve Kowalik <stevenk@ubuntu.com>  Tue, 29 Jan 2008 11:04:30 +1100
+
 ubuntu-meta (1.88) hardy; urgency=low
 
   * Refreshed dependencies
