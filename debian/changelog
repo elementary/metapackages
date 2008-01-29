@@ -1,3 +1,15 @@
+ubuntu-meta (1.90) hardy; urgency=low
+
+  * Refreshed dependencies
+  * Added system-config-printer-gnome to desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa, desktop-
+    lpia
+  * Removed system-config-printer from desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa, desktop-
+    lpia
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Tue, 29 Jan 2008 15:04:48 +0000
+
 ubuntu-meta (1.89) hardy; urgency=low
 
   * Refreshed dependencies
