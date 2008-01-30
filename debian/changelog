@@ -1,3 +1,11 @@
+ubuntu-meta (1.91) hardy; urgency=low
+
+  * Refreshed dependencies
+  * Removed moblin-chat from mobile-i386, mobile-amd64, mobile-powerpc,
+    mobile-ia64, mobile-sparc, mobile-hppa, mobile-lpia
+
+ -- Steve Kowalik <stevenk@ubuntu.com>  Wed, 30 Jan 2008 16:37:37 -0800
+
 ubuntu-meta (1.90) hardy; urgency=low
 
   * Refreshed dependencies
