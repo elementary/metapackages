@@ -1,3 +1,11 @@
+ubuntu-meta (1.92) hardy; urgency=low
+
+  * Refreshed dependencies
+  * Added liferea to mobile-i386, mobile-amd64, mobile-powerpc, mobile-
+    ia64, mobile-sparc, mobile-hppa, mobile-lpia
+
+ -- Steve Kowalik <stevenk@ubuntu.com>  Fri, 01 Feb 2008 10:22:50 +1100
+
 ubuntu-meta (1.91) hardy; urgency=low
 
   * Refreshed dependencies
