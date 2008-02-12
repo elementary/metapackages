@@ -5,7 +5,6 @@ alacarte
 anacron
 avahi-daemon
 bc
-cdparanoia
 consolekit
 cupsys
 cupsys-bsd
@@ -15,7 +14,6 @@ dc
 dcraw
 desktop-file-utils
 doc-base
-dvd+rw-tools
 eog
 evince
 fast-user-switch-applet
@@ -23,7 +21,6 @@ file-roller
 foomatic-db
 foomatic-db-engine
 foomatic-filters
-fortune-mod
 gcalctool
 gconf-editor
 gdebi
@@ -103,7 +100,6 @@ unzip
 update-notifier
 usplash
 usplash-theme-ubuntu
-wodim
 x-ttcidfont-conf
 xdg-user-dirs
 xdg-user-dirs-gtk

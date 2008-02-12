@@ -23,5 +23,6 @@ psmisc
 rsync
 strace
 time
+ufw
 w3m
 wget

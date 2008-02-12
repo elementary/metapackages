@@ -9,6 +9,7 @@ brasero
 brltty
 brltty-x11
 bug-buddy
+cdparanoia
 compiz
 contact-lookup-applet
 cups-pdf
@@ -16,6 +17,7 @@ deskbar-applet
 discover1
 displayconfig-gtk
 diveintopython
+dvd+rw-tools
 ekiga
 espeak
 evolution
@@ -27,6 +29,7 @@ firefox
 firefox-gnome-support
 foo2zjs
 foomatic-db-hpijs
+fortune-mod
 gcc
 gimp
 gimp-gnomevfs
@@ -82,6 +85,7 @@ ubufox
 ubuntu-docs
 vinagre
 vino
+wodim
 wvdial
 xcursor-themes
 xdg-utils
