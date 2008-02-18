@@ -2,6 +2,8 @@ acpi
 acpi-support
 acpid
 alacarte
+alsa-base
+alsa-utils
 anacron
 apmd
 avahi-daemon
@@ -86,7 +88,6 @@ screen
 screensaver-default-images
 scrollkeeper
 seahorse
-slocate
 smbclient
 ssh-askpass-gnome
 synaptic

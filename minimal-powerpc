@@ -1,6 +1,4 @@
 adduser
-alsa-base
-alsa-utils
 apt
 apt-utils
 aptitude

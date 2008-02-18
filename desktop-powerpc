@@ -1,4 +1,6 @@
 alacarte
+alsa-base
+alsa-utils
 anacron
 avahi-daemon
 bc
@@ -82,7 +84,6 @@ screen
 screensaver-default-images
 scrollkeeper
 seahorse
-slocate
 smbclient
 ssh-askpass-gnome
 synaptic
