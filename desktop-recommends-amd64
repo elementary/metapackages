@@ -14,7 +14,6 @@ compiz
 contact-lookup-applet
 cups-pdf
 deskbar-applet
-discover1
 displayconfig-gtk
 diveintopython
 dvd+rw-tools
@@ -42,6 +41,7 @@ gnome-screensaver
 gnome-user-guide
 hal-cups-utils
 hplip
+im-switch
 jockey-gtk
 landscape-client
 laptop-detect
@@ -52,6 +52,7 @@ libpam-gnome-keyring
 linux-headers-generic
 make
 min12xxw
+mousetweaks
 network-manager-gnome
 onboard
 openoffice.org-calc
@@ -66,6 +67,8 @@ pulseaudio-module-hal
 pxljr
 rhythmbox
 scim
+scim-bridge-agent
+scim-bridge-client-gtk
 scim-gtk2-immodule
 sound-juicer
 splix
@@ -94,5 +97,4 @@ wodim
 wvdial
 xcursor-themes
 xdg-utils
-xresprobe
 xsane

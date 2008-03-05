@@ -1,3 +1,40 @@
+ubuntu-meta (1.95) hardy; urgency=low
+
+  * Refreshed dependencies
+  * Added im-switch to desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Added mousetweaks to desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Added scim-bridge-agent to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * Added scim-bridge-client-gtk to desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+  * Added software-properties-gtk to desktop-i386, desktop-amd64,
+    desktop-powerpc, desktop-ia64, desktop-sparc, desktop-hppa, desktop-
+    lpia
+  * Added tasks-hildon to mobile-i386, mobile-amd64, mobile-powerpc,
+    mobile-ia64, mobile-sparc, mobile-hppa, mobile-lpia
+  * Removed discover1 from desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Removed tasks from mobile-i386, mobile-amd64, mobile-powerpc,
+    mobile-ia64, mobile-sparc, mobile-hppa, mobile-lpia
+  * Removed xresprobe from desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Moved manpages to standard-recommends-i386, standard-recommends-
+    amd64, standard-recommends-powerpc, standard-recommends-ia64,
+    standard-recommends-sparc, standard-recommends-hppa, standard-
+    recommends-lpia
+
+ -- Michael Vogt <mvo@ubuntu.com>  Wed, 05 Mar 2008 10:37:34 +0100
+
 ubuntu-meta (1.94) hardy; urgency=low
 
   * Refreshed dependencies
