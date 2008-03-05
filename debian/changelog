@@ -1,3 +1,16 @@
+ubuntu-meta (1.96) hardy; urgency=low
+
+  * Refreshed dependencies
+  * Removed ttf-mgopen from desktop-recommends-i386, desktop-recommends-
+    amd64, desktop-recommends-powerpc, desktop-recommends-ia64, desktop-
+    recommends-sparc, desktop-recommends-hppa, desktop-recommends-lpia
+  * Removed ttf-sil-gentium from desktop-recommends-i386, desktop-
+    recommends-amd64, desktop-recommends-powerpc, desktop-recommends-
+    ia64, desktop-recommends-sparc, desktop-recommends-hppa, desktop-
+    recommends-lpia
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Wed, 05 Mar 2008 11:37:53 -0800
+
 ubuntu-meta (1.95) hardy; urgency=low
 
   * Refreshed dependencies
