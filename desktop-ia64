@@ -58,7 +58,7 @@ gtk2-engines
 gtk2-engines-pixbuf
 gucharmap
 hal
-hwdb-client-gnome
+hwtest-gtk
 language-selector
 lftp
 libgl1-mesa-glx

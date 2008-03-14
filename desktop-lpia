@@ -59,7 +59,7 @@ gtk2-engines-pixbuf
 gucharmap
 hal
 hotkey-setup
-hwdb-client-gnome
+hwtest-gtk
 language-selector
 lftp
 libgl1-mesa-glx

@@ -13,6 +13,7 @@ iptables
 logrotate
 lshw
 lsof
+ltrace
 man-db
 mime-support
 nano
