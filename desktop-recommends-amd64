@@ -39,6 +39,7 @@ gnome-mag
 gnome-orca
 gnome-screensaver
 gnome-user-guide
+gvfs-fuse
 hal-cups-utils
 hplip
 im-switch
@@ -53,6 +54,7 @@ linux-headers-generic
 make
 min12xxw
 mousetweaks
+nautilus-share
 network-manager-gnome
 onboard
 openoffice.org-calc
@@ -64,6 +66,7 @@ pidgin-otr
 powernowd
 pulseaudio-module-gconf
 pulseaudio-module-hal
+pulseaudio-module-x11
 pxljr
 rhythmbox
 scim

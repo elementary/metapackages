@@ -1,4 +1,5 @@
 apparmor-utils
+bash-completion
 command-not-found
 fdutils
 friendly-recovery
