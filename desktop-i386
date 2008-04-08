@@ -8,6 +8,7 @@ anacron
 apmd
 avahi-daemon
 bc
+ca-certificates
 consolekit
 cupsys
 cupsys-bsd
@@ -62,6 +63,7 @@ hal
 hotkey-setup
 hwtest-gtk
 language-selector
+launchpad-integration
 lftp
 libgl1-mesa-glx
 libglut3
