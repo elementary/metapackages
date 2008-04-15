@@ -32,8 +32,10 @@ iputils-ping
 less
 libc6-sparc64b
 libc6-sparc64v
+libc6-sparc64v2
 libc6-sparcv9b
 libc6-sparcv9v
+libc6-sparcv9v2
 libfribidi0
 locales
 login
@@ -76,5 +78,6 @@ usbutils
 util-linux
 util-linux-locales
 vim-tiny
+whiptail
 wireless-tools
 wpasupplicant

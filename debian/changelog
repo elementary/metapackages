@@ -1,3 +1,37 @@
+ubuntu-meta (1.100) hardy; urgency=low
+
+  * Refreshed dependencies
+  * Added hildon-desktop-dbg to mobile-dev-i386, mobile-dev-amd64,
+    mobile-dev-powerpc, mobile-dev-ia64, mobile-dev-sparc, mobile-dev-
+    hppa, mobile-dev-lpia
+  * Added libc6-sparc64v2 to minimal-sparc
+  * Added libc6-sparcv9v2 to minimal-sparc
+  * Added whiptail to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa, minimal-lpia
+  * Removed libhildon-1-0-dbg from mobile-dev-i386, mobile-dev-amd64,
+    mobile-dev-powerpc, mobile-dev-ia64, mobile-dev-sparc, mobile-dev-
+    hppa, mobile-dev-lpia
+  * Removed libhildon-thumbnail0-dbg from mobile-dev-i386, mobile-dev-
+    amd64, mobile-dev-powerpc, mobile-dev-ia64, mobile-dev-sparc,
+    mobile-dev-hppa, mobile-dev-lpia
+  * Removed libhildondesktop0-dbg from mobile-dev-i386, mobile-dev-
+    amd64, mobile-dev-powerpc, mobile-dev-ia64, mobile-dev-sparc,
+    mobile-dev-hppa, mobile-dev-lpia
+  * Removed libhildonfm2-dbg from mobile-dev-i386, mobile-dev-amd64,
+    mobile-dev-powerpc, mobile-dev-ia64, mobile-dev-sparc, mobile-dev-
+    hppa, mobile-dev-lpia
+  * Removed libhildonhelp0-dbg from mobile-dev-i386, mobile-dev-amd64,
+    mobile-dev-powerpc, mobile-dev-ia64, mobile-dev-sparc, mobile-dev-
+    hppa, mobile-dev-lpia
+  * Removed libhildonmime0-dbg from mobile-dev-i386, mobile-dev-amd64,
+    mobile-dev-powerpc, mobile-dev-ia64, mobile-dev-sparc, mobile-dev-
+    hppa, mobile-dev-lpia
+  * Removed libhildonwm0-dbg from mobile-dev-i386, mobile-dev-amd64,
+    mobile-dev-powerpc, mobile-dev-ia64, mobile-dev-sparc, mobile-dev-
+    hppa, mobile-dev-lpia
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Tue, 15 Apr 2008 13:05:48 -0700
+
 ubuntu-meta (1.99) hardy; urgency=low
 
   * Refreshed dependencies

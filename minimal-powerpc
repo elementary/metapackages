@@ -74,5 +74,6 @@ usbutils
 util-linux
 util-linux-locales
 vim-tiny
+whiptail
 wireless-tools
 wpasupplicant
