@@ -1,3 +1,14 @@
+ubuntu-meta (1.101) hardy; urgency=low
+
+  * Refreshed dependencies
+  * Added alsa-utils to mobile-i386, mobile-amd64, mobile-powerpc,
+    mobile-ia64, mobile-sparc, mobile-hppa, mobile-lpia
+  * Removed gij from desktop-recommends-i386, desktop-recommends-amd64
+  * Removed sdk-default-icons from mobile-i386, mobile-amd64, mobile-powerpc,
+    mobile-ia64, mobile-sparc, mobile-hppa, mobile-lpia
+
+ -- Steve Kowalik <stevenk@ubuntu.com>  Mon, 21 Apr 2008 18:05:54 +1000
+
 ubuntu-meta (1.100) hardy; urgency=low
 
   * Refreshed dependencies

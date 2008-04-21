@@ -1,3 +1,4 @@
+alsa-utils
 bluetooth
 bluez-gnome
 cheese
@@ -29,7 +30,6 @@ moblin-keyboard-manager
 moblin-media
 network-manager-gnome
 ppp
-sdk-default-icons
 seahorse
 tasks-hildon
 wvdial
