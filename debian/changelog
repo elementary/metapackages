@@ -1,3 +1,47 @@
+ubuntu-meta (1.103) intrepid; urgency=low
+
+  * update.cfg:
+    - Switch to Intrepid.
+    - Drop seed_map/* lines, which germinate-update-metapackage now knows
+      how to compute by itself. (Requires germinate >= 0.42.)
+    - Use ports archive for sparc.
+
+  * Refreshed dependencies
+  * Added alsa-base to mobile
+  * Added libdbus-ocaml-dev to mobile-dev [amd64 i386 ia64 lpia powerpc
+    sparc]
+  * Added openoffice.org-calc to desktop-recommends [powerpc]
+  * Added openoffice.org-gnome to desktop-recommends [powerpc]
+  * Added openoffice.org-impress to desktop-recommends [powerpc]
+  * Added openoffice.org-writer to desktop-recommends [powerpc]
+  * Removed base-files from minimal
+  * Removed base-passwd from minimal
+  * Removed bash from minimal
+  * Removed bsdutils from minimal
+  * Removed coreutils from minimal
+  * Removed dash from minimal
+  * Removed debianutils from minimal
+  * Removed diff from minimal
+  * Removed dpkg from minimal
+  * Removed e2fsprogs from minimal
+  * Removed findutils from minimal
+  * Removed grep from minimal
+  * Removed gzip from minimal
+  * Removed hostname from minimal
+  * Removed login from minimal
+  * Removed mktemp from minimal
+  * Removed mount from minimal
+  * Removed ncurses-base from minimal
+  * Removed ncurses-bin from minimal
+  * Removed perl-base from minimal
+  * Removed python-minimal from minimal
+  * Removed sed from minimal
+  * Removed tar from minimal
+  * Removed util-linux from minimal
+  * Moved avahi-daemon to desktop-recommends
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Tue, 24 Jun 2008 11:08:33 +0100
+
 ubuntu-meta (1.102) hardy; urgency=low
 
   * Refreshed dependencies

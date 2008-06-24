@@ -6,6 +6,7 @@ hildon-desktop-dbg
 libdbus-1-dev
 libdbus-glib-1-dev
 libdbus-glib-1-doc
+libdbus-ocaml-dev
 libdbus-qt-1-dev
 libglib2.0-doc
 libgtk2.0-doc

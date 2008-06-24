@@ -6,7 +6,6 @@ alsa-base
 alsa-utils
 anacron
 apmd
-avahi-daemon
 bc
 ca-certificates
 consolekit

@@ -1,6 +1,7 @@
 app-install-data-commercial
 apport-gtk
 avahi-autoipd
+avahi-daemon
 bluez-cups
 bluez-gnome
 bluez-utils
@@ -58,6 +59,10 @@ mousetweaks
 nautilus-share
 network-manager-gnome
 onboard
+openoffice.org-calc
+openoffice.org-gnome
+openoffice.org-impress
+openoffice.org-writer
 pidgin
 pidgin-otr
 powernowd

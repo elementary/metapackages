@@ -1,6 +1,7 @@
 app-install-data-commercial
 apport-gtk
 avahi-autoipd
+avahi-daemon
 bluez-cups
 bluez-gnome
 bluez-utils

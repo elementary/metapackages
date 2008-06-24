@@ -5,7 +5,6 @@ alacarte
 alsa-base
 alsa-utils
 anacron
-avahi-daemon
 bc
 ca-certificates
 consolekit
