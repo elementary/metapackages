@@ -44,23 +44,3 @@ Description: The Ubuntu desktop system
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
 
-Package: ubuntu-mobile
-Architecture: any
-Depends: ${ubuntu-mobile:Depends}
-Recommends: ${ubuntu-mobile:Recommends}
-Description: The Ubuntu mobile system
- This package depends on all of the packages in the Ubuntu mobile system
- .
- It is also used to help ensure proper upgrades, so it is recommended that
- it not be removed.
-
-Package: ubuntu-mobile-dev
-Architecture: any
-Depends: ${ubuntu-mobile-dev:Depends}
-Recommends: ${ubuntu-mobile-dev:Recommends}
-Description: Development environment for Ubuntu Mobile
- This is all packages included in the Ubuntu Mobile development
- environment.
- .
- It is also used to help ensure proper upgrades, so it is recommended that
- it not be removed.

@@ -1,20 +1,16 @@
 #!/usr/bin/make -f
 
-#export DH_VERBOSE=1
-
 clean:
 	dh_testdir
 	dh_clean
-
 	rm -rf build-stamp *.old debootstrap-dir
 
 DEB_BUILD_ARCH:=$(shell dpkg-architecture -qDEB_BUILD_ARCH)
 
 build: build-stamp
-build-stamp:	minimal-$(DEB_BUILD_ARCH) standard-$(DEB_BUILD_ARCH) desktop-$(DEB_BUILD_ARCH)
+build-stamp: minimal-$(DEB_BUILD_ARCH) standard-$(DEB_BUILD_ARCH) desktop-$(DEB_BUILD_ARCH)
 	dh_clean
-
-	for seed in minimal standard desktop mobile mobile-dev; do \
+	for seed in minimal standard desktop; do \
 		package=ubuntu-$$seed; \
 		(printf "$$package:Depends="; perl -pe 's/\n/, /g'  $$seed-$(DEB_BUILD_ARCH); echo) \
 			>> debian/$$package.substvars; \
@@ -26,16 +22,16 @@ build-stamp:	minimal-$(DEB_BUILD_ARCH) standard-$(DEB_BUILD_ARCH) desktop-$(DEB_
 install: build-stamp
 
 binary-arch: install
-	dh_testdir -a
-	dh_testroot -a
-	dh_installdocs -a
-	dh_installchangelogs -a
-	dh_compress -a
-	dh_fixperms -a
-	dh_installdeb -a
-	dh_gencontrol -a
-	dh_md5sums -a
-	dh_builddeb -a
+	dh_testdir -s
+	dh_testroot -s
+	dh_installdocs -s
+	dh_installchangelogs -s
+	dh_compress -s
+	dh_fixperms -s
+	dh_installdeb -s
+	dh_gencontrol -s
+	dh_md5sums -s
+	dh_builddeb -s
 
 binary-indep:
 	dh_testdir -i

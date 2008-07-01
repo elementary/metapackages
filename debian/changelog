@@ -1,3 +1,61 @@
+ubuntu-meta (1.104) intrepid; urgency=low
+
+  * Refreshed dependencies
+  * Added base-files to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa, minimal-lpia
+  * Added base-passwd to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa, minimal-lpia
+  * Added bash to minimal-i386, minimal-amd64, minimal-powerpc, minimal-
+    ia64, minimal-sparc, minimal-hppa, minimal-lpia
+  * Added bsdutils to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa, minimal-lpia
+  * Added coreutils to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa, minimal-lpia
+  * Added dash to minimal-i386, minimal-amd64, minimal-powerpc, minimal-
+    ia64, minimal-sparc, minimal-hppa, minimal-lpia
+  * Added debianutils to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa, minimal-lpia
+  * Added diff to minimal-i386, minimal-amd64, minimal-powerpc, minimal-
+    ia64, minimal-sparc, minimal-hppa, minimal-lpia
+  * Added dpkg to minimal-i386, minimal-amd64, minimal-powerpc, minimal-
+    ia64, minimal-sparc, minimal-hppa, minimal-lpia
+  * Added e2fsprogs to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa, minimal-lpia
+  * Added findutils to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa, minimal-lpia
+  * Added grep to minimal-i386, minimal-amd64, minimal-powerpc, minimal-
+    ia64, minimal-sparc, minimal-hppa, minimal-lpia
+  * Added gzip to minimal-i386, minimal-amd64, minimal-powerpc, minimal-
+    ia64, minimal-sparc, minimal-hppa, minimal-lpia
+  * Added hostname to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa, minimal-lpia
+  * Added login to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa, minimal-lpia
+  * Added mktemp to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa, minimal-lpia
+  * Added mount to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa, minimal-lpia
+  * Added ncurses-base to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa, minimal-lpia
+  * Added ncurses-bin to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa, minimal-lpia
+  * Added perl-base to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa, minimal-lpia
+  * Added python-minimal to minimal-i386, minimal-amd64, minimal-
+    powerpc, minimal-ia64, minimal-sparc, minimal-hppa, minimal-lpia
+  * Added sed to minimal-i386, minimal-amd64, minimal-powerpc, minimal-
+    ia64, minimal-sparc, minimal-hppa, minimal-lpia
+  * Added tar to minimal-i386, minimal-amd64, minimal-powerpc, minimal-
+    ia64, minimal-sparc, minimal-hppa, minimal-lpia
+  * Added util-linux to minimal-i386, minimal-amd64, minimal-powerpc,
+    minimal-ia64, minimal-sparc, minimal-hppa, minimal-lpia
+  * Drop mobile seeds, packages, and packages list as these were moved to
+    mobile-meta.
+  * Cleanup rules.
+  * Call dh_* -s instead of -a.
+
+ -- Loic Minier <lool@dooz.org>  Tue, 01 Jul 2008 19:32:58 +0200
+
 ubuntu-meta (1.103) intrepid; urgency=low
 
   * update.cfg:
