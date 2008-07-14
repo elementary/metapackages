@@ -5,9 +5,9 @@ anacron
 bc
 ca-certificates
 consolekit
-cupsys
-cupsys-bsd
-cupsys-client
+cups
+cups-bsd
+cups-client
 cupsys-driver-gutenprint
 dc
 dcraw

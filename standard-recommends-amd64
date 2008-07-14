@@ -1,7 +1,6 @@
 apparmor-utils
 bash-completion
 command-not-found
-fdutils
 friendly-recovery
 iputils-arping
 iputils-tracepath
@@ -16,5 +15,6 @@ pppoeconf
 reiserfsprogs
 tcpdump
 telnet
+ufw
 update-manager-core
 uuid-runtime

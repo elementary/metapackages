@@ -3,7 +3,7 @@ Section: metapackages
 Priority: optional
 Maintainer: Matt Zimmerman <mdz@ubuntu.com>
 Standards-Version: 3.7.3
-Build-Depends: debhelper (>= 4), germinate (>= 0.42)
+Build-Depends: debhelper (>= 4), germinate (>= 1.0)
 
 Package: ubuntu-minimal
 Architecture: any

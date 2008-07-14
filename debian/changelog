@@ -1,3 +1,45 @@
+ubuntu-meta (1.105) intrepid; urgency=low
+
+  * Bump germinate build-dependency to 1.0 so that Essential packages don't
+    get added back to ubuntu-minimal again.
+
+  * Refreshed dependencies
+  * Added cups to desktop
+  * Added cups-bsd to desktop
+  * Added cups-client to desktop
+  * Removed base-files from minimal
+  * Removed base-passwd from minimal
+  * Removed bash from minimal
+  * Removed bsdutils from minimal
+  * Removed coreutils from minimal
+  * Removed cups-pdf from desktop-recommends
+  * Removed cupsys from desktop
+  * Removed cupsys-bsd from desktop
+  * Removed cupsys-client from desktop
+  * Removed dash from minimal
+  * Removed debianutils from minimal
+  * Removed diff from minimal
+  * Removed dpkg from minimal
+  * Removed e2fsprogs from minimal
+  * Removed fdutils from standard-recommends
+  * Removed findutils from minimal
+  * Removed grep from minimal
+  * Removed gzip from minimal
+  * Removed hostname from minimal
+  * Removed login from minimal
+  * Removed mktemp from minimal
+  * Removed mount from minimal
+  * Removed ncurses-base from minimal
+  * Removed ncurses-bin from minimal
+  * Removed perl-base from minimal
+  * Removed python-minimal from minimal
+  * Removed sed from minimal
+  * Removed tar from minimal
+  * Removed util-linux from minimal
+  * Moved ufw to standard-recommends
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Mon, 14 Jul 2008 10:54:09 +0100
+
 ubuntu-meta (1.104) intrepid; urgency=low
 
   * Refreshed dependencies
