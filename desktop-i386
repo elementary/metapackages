@@ -83,11 +83,11 @@ pnm2ppa
 powermanagement-interface
 pulseaudio
 pulseaudio-esound-compat
+rarian-compat
 readahead
 rss-glx
 screen
 screensaver-default-images
-scrollkeeper
 seahorse
 smbclient
 software-properties-gtk
