@@ -1,7 +1,6 @@
 adduser
 apt
 apt-utils
-aptitude
 bzip2
 console-setup
 console-tools
@@ -9,14 +8,12 @@ debconf
 dhcp3-client
 eject
 ethtool
-gettext-base
 gnupg
 ifupdown
 initramfs-tools
 iproute
 iputils-ping
 less
-libfribidi0
 locales
 lsb-release
 makedev
@@ -28,8 +25,6 @@ netbase
 netcat
 ntpdate
 passwd
-pciutils
-pcmciautils
 procps
 python
 startup-tasks
@@ -37,15 +32,12 @@ sudo
 sysklogd
 system-services
 tasksel
-tcpd
 tzdata
 ubuntu-keyring
 udev
 upstart
 upstart-compat-sysv
 upstart-logd
-usbutils
-util-linux-locales
 vim-tiny
 whiptail
 wireless-tools

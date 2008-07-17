@@ -9,7 +9,6 @@ file
 ftp
 hdparm
 info
-inputattach
 iptables
 logrotate
 lshw
@@ -20,10 +19,12 @@ memtest86+
 mime-support
 nano
 parted
+pciutils
 popularity-contest
 psmisc
 rsync
 strace
 time
+usbutils
 w3m
 wget

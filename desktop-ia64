@@ -59,6 +59,7 @@ gtk2-engines-pixbuf
 gucharmap
 hal
 hwtest-gtk
+inputattach
 language-selector
 launchpad-integration
 lftp
@@ -77,6 +78,7 @@ nautilus-cd-burner
 nautilus-sendto
 notification-daemon
 openprinting-ppds
+pcmciautils
 pnm2ppa
 powermanagement-interface
 pulseaudio

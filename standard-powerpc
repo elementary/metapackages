@@ -9,7 +9,6 @@ ftp
 hdparm
 hfsutils
 info
-inputattach
 iptables
 logrotate
 lshw
@@ -19,10 +18,12 @@ man-db
 mime-support
 nano
 parted
+pciutils
 popularity-contest
 psmisc
 rsync
 strace
 time
+usbutils
 w3m
 wget
