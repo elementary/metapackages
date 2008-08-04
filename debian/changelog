@@ -1,3 +1,18 @@
+ubuntu-meta (1.108) intrepid; urgency=low
+
+  * Refreshed dependencies
+  * Added gdm-guest-session to desktop-recommends
+  * Removed linux-headers-hppa32 from desktop-recommends [hppa]
+  * Removed linux-headers-hppa64 from desktop-recommends [hppa]
+  * Removed linux-headers-itanium from desktop-recommends [ia64]
+  * Removed linux-headers-mckinley from desktop-recommends [ia64]
+  * Removed linux-headers-powerpc from desktop-recommends [powerpc]
+  * Removed linux-headers-powerpc64-smp from desktop-recommends
+    [powerpc]
+  * Removed linux-headers-sparc64 from desktop-recommends [sparc]
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 04 Aug 2008 12:06:00 +0200
+
 ubuntu-meta (1.107) intrepid; urgency=low
 
   * Refreshed dependencies

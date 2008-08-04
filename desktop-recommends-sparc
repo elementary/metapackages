@@ -31,6 +31,7 @@ foo2zjs
 foomatic-db-hpijs
 fortune-mod
 gcc
+gdm-guest-session
 gimp
 gimp-gnomevfs
 gnome-accessibility-themes
@@ -50,7 +51,6 @@ libdeskbar-tracker
 libgl1-mesa-dri
 libnss-mdns
 libpam-gnome-keyring
-linux-headers-sparc64
 make
 min12xxw
 mousetweaks
