@@ -1,3 +1,11 @@
+ubuntu-meta (1.109) intrepid; urgency=low
+
+  * Refreshed dependencies
+  * Added libpam-ck-connector to desktop
+  * Removed gnome-volume-manager from desktop
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 05 Aug 2008 10:26:39 +0200
+
 ubuntu-meta (1.108) intrepid; urgency=low
 
   * Refreshed dependencies

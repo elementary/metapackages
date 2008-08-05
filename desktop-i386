@@ -51,7 +51,6 @@ gnome-system-tools
 gnome-terminal
 gnome-themes
 gnome-utils
-gnome-volume-manager
 gstreamer0.10-alsa
 gstreamer0.10-plugins-base-apps
 gstreamer0.10-pulseaudio
@@ -70,6 +69,7 @@ libglut3
 libgnome2-perl
 libgnomevfs2-bin
 libgnomevfs2-extra
+libpam-ck-connector
 libpt-1.10.10-plugins-v4l
 libpt-1.10.10-plugins-v4l2
 libsasl2-modules
