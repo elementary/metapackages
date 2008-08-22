@@ -12,7 +12,7 @@ consolekit
 cups
 cups-bsd
 cups-client
-cupsys-driver-gutenprint
+cups-driver-gutenprint
 dc
 dcraw
 desktop-file-utils

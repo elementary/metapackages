@@ -1,3 +1,11 @@
+ubuntu-meta (1.110) intrepid; urgency=low
+
+  * Refreshed dependencies
+  * Added cups-driver-gutenprint to desktop
+  * Removed cupsys-driver-gutenprint from desktop
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Fri, 22 Aug 2008 14:41:59 +0100
+
 ubuntu-meta (1.109) intrepid; urgency=low
 
   * Refreshed dependencies
