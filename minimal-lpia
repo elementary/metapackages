@@ -3,7 +3,6 @@ apt
 apt-utils
 bzip2
 console-setup
-console-tools
 debconf
 dhcp3-client
 eject
@@ -13,6 +12,7 @@ ifupdown
 initramfs-tools
 iproute
 iputils-ping
+kbd
 less
 locales
 lsb-release

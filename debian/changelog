@@ -1,3 +1,12 @@
+ubuntu-meta (1.111) intrepid; urgency=low
+
+  * Refreshed dependencies
+  * Added kbd to minimal
+  * Removed bug-buddy from desktop-recommends
+  * Removed console-tools from minimal
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Wed, 27 Aug 2008 14:12:35 +0100
+
 ubuntu-meta (1.110) intrepid; urgency=low
 
   * Refreshed dependencies
