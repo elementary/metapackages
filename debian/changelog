@@ -1,3 +1,13 @@
+ubuntu-meta (1.112) intrepid; urgency=low
+
+  * Refreshed dependencies
+  * Added aptitude to standard
+  * Removed ttf-malayalam-fonts from desktop-recommends
+  * Moved gnome-pilot-conduits to desktop-recommends
+  * Moved tsclient to desktop-recommends
+
+ -- Daniel Holbach <daniel.holbach@ubuntu.com>  Tue, 02 Sep 2008 12:05:05 +0200
+
 ubuntu-meta (1.111) intrepid; urgency=low
 
   * Refreshed dependencies

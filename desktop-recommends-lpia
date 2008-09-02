@@ -36,6 +36,7 @@ gnome-accessibility-themes
 gnome-games
 gnome-mag
 gnome-orca
+gnome-pilot-conduits
 gnome-screensaver
 gnome-user-guide
 gvfs-fuse
@@ -73,13 +74,13 @@ totem-mozilla
 tracker
 tracker-search-tool
 transmission-gtk
+tsclient
 ttf-arabeyes
 ttf-arphic-uming
 ttf-indic-fonts-core
 ttf-kochi-gothic
 ttf-kochi-mincho
 ttf-lao
-ttf-malayalam-fonts
 ttf-thai-tlwg
 ttf-unfonts-core
 ubufox

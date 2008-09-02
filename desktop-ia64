@@ -41,7 +41,6 @@ gnome-menus
 gnome-netstatus-applet
 gnome-nettool
 gnome-panel
-gnome-pilot-conduits
 gnome-power-manager
 gnome-session
 gnome-spell
@@ -95,7 +94,6 @@ ssh-askpass-gnome
 synaptic
 system-config-printer-gnome
 tangerine-icon-theme
-tsclient
 ttf-bitstream-vera
 ttf-dejavu-core
 ttf-freefont
