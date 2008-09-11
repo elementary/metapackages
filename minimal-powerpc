@@ -6,7 +6,6 @@ console-setup
 debconf
 dhcp3-client
 eject
-ethtool
 gnupg
 ifupdown
 initramfs-tools
@@ -19,7 +18,6 @@ lsb-release
 mac-fdisk
 makedev
 mawk
-mii-diag
 module-init-tools
 net-tools
 netbase

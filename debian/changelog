@@ -1,3 +1,12 @@
+ubuntu-meta (1.113) intrepid; urgency=low
+
+  * Refreshed dependencies
+  * Removed ethtool from minimal
+  * Removed landscape-client from desktop-recommends
+  * Removed mii-diag from minimal
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Thu, 11 Sep 2008 11:29:18 +0100
+
 ubuntu-meta (1.112) intrepid; urgency=low
 
   * Refreshed dependencies
