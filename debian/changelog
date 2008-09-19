@@ -1,3 +1,13 @@
+ubuntu-meta (1.114) intrepid; urgency=low
+
+  * Remove universe from consideration during update, since we no longer
+    need it to process the mobile seed.
+  * Refreshed dependencies
+  * Added powermanagement-interface to desktop [lpia]
+  * Removed displayconfig-gtk from desktop-recommends
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Fri, 19 Sep 2008 02:38:33 +0100
+
 ubuntu-meta (1.113) intrepid; urgency=low
 
   * Refreshed dependencies

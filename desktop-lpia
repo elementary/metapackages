@@ -80,6 +80,7 @@ notification-daemon
 openprinting-ppds
 pcmciautils
 pnm2ppa
+powermanagement-interface
 pulseaudio
 pulseaudio-esound-compat
 rarian-compat
