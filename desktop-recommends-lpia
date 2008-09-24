@@ -43,6 +43,7 @@ hal-cups-utils
 hplip
 im-switch
 jockey-gtk
+landscape-common
 laptop-detect
 libdeskbar-tracker
 libgl1-mesa-dri

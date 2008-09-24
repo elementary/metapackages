@@ -1,3 +1,11 @@
+ubuntu-meta (1.115) intrepid; urgency=low
+
+  * Refreshed dependencies
+  * Added landscape-common to desktop-recommends
+  * Added libcanberra-gnome to desktop
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Wed, 24 Sep 2008 17:34:17 -0700
+
 ubuntu-meta (1.114) intrepid; urgency=low
 
   * Remove universe from consideration during update, since we no longer
