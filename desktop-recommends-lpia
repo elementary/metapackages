@@ -31,6 +31,7 @@ gcc
 gdm-guest-session
 gimp
 gimp-gnomevfs
+gimp-python
 gnome-accessibility-themes
 gnome-games
 gnome-mag
@@ -49,6 +50,7 @@ libdeskbar-tracker
 libgl1-mesa-dri
 libnss-mdns
 libpam-gnome-keyring
+linux-headers-lpia
 make
 min12xxw
 mousetweaks

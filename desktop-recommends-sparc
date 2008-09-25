@@ -32,6 +32,7 @@ gcc
 gdm-guest-session
 gimp
 gimp-gnomevfs
+gimp-python
 gnome-accessibility-themes
 gnome-games
 gnome-mag

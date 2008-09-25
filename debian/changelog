@@ -1,3 +1,11 @@
+ubuntu-meta (1.116) intrepid; urgency=low
+
+  * Refreshed dependencies
+  * Added linux-headers-lpia to desktop-recommends [lpia]
+  * Moved gimp-python to desktop-recommends (LP: #224230)
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Thu, 25 Sep 2008 17:05:48 -0700
+
 ubuntu-meta (1.115) intrepid; urgency=low
 
   * Refreshed dependencies
