@@ -1,3 +1,10 @@
+ubuntu-meta (1.117) intrepid; urgency=low
+
+  * Refreshed dependencies
+  * Removed landscape-common from desktop-recommends
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Mon, 29 Sep 2008 19:51:28 -0700
+
 ubuntu-meta (1.116) intrepid; urgency=low
 
   * Refreshed dependencies
