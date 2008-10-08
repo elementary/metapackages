@@ -31,8 +31,6 @@ fortune-mod
 gcc
 gdm-guest-session
 gimp
-gimp-gnomevfs
-gimp-python
 gnome-accessibility-themes
 gnome-mag
 gnome-orca

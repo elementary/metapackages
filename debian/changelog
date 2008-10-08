@@ -1,3 +1,11 @@
+ubuntu-meta (1.119) intrepid; urgency=low
+
+  * Refreshed dependencies
+  * Removed gimp-gnomevfs from desktop-recommends
+  * Removed gimp-python from desktop-recommends
+
+ -- Evan Dandrea <evand@ubuntu.com>  Wed, 08 Oct 2008 20:51:25 -0400
+
 ubuntu-meta (1.118) intrepid; urgency=low
 
   * Refreshed dependencies
