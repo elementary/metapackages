@@ -50,6 +50,7 @@ libdeskbar-tracker
 libgl1-mesa-dri
 libnss-mdns
 libpam-gnome-keyring
+linux-headers-sparc64
 make
 min12xxw
 mousetweaks

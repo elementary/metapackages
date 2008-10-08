@@ -49,6 +49,8 @@ libdeskbar-tracker
 libgl1-mesa-dri
 libnss-mdns
 libpam-gnome-keyring
+linux-headers-itanium
+linux-headers-mckinley
 make
 min12xxw
 mousetweaks

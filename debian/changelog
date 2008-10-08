@@ -1,3 +1,17 @@
+ubuntu-meta (1.118) intrepid; urgency=low
+
+  * Refreshed dependencies
+  * Added gstreamer0.10-schroedinger to desktop
+  * Added linux-headers-hppa32 to desktop-recommends [hppa]
+  * Added linux-headers-hppa64 to desktop-recommends [hppa]
+  * Added linux-headers-itanium to desktop-recommends [ia64]
+  * Added linux-headers-mckinley to desktop-recommends [ia64]
+  * Added linux-headers-powerpc to desktop-recommends [powerpc]
+  * Added linux-headers-powerpc64-smp to desktop-recommends [powerpc]
+  * Added linux-headers-sparc64 to desktop-recommends [sparc]
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Wed, 08 Oct 2008 13:21:24 +0100
+
 ubuntu-meta (1.117) intrepid; urgency=low
 
   * Refreshed dependencies
