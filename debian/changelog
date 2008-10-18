@@ -1,3 +1,10 @@
+ubuntu-meta (1.121) intrepid; urgency=low
+
+  * Refreshed dependencies
+  * Removed usb-creator from desktop-recommends [hppa ia64 powerpc sparc]
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Sat, 18 Oct 2008 10:30:50 +0100
+
 ubuntu-meta (1.120) intrepid; urgency=low
 
   * Refreshed dependencies
