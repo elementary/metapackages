@@ -45,5 +45,3 @@ upstart-compat-sysv
 upstart-logd
 vim-tiny
 whiptail
-wireless-tools
-wpasupplicant
