@@ -1,3 +1,10 @@
+ubuntu-meta (1.123) intrepid; urgency=low
+
+  * Refreshed dependencies
+  * Removed diveintopython from desktop-recommends (LP: #241920)
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 24 Oct 2008 10:45:57 +0200
+
 ubuntu-meta (1.122) intrepid; urgency=low
 
   * Refreshed dependencies
