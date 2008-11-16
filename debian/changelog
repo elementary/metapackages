@@ -1,3 +1,12 @@
+ubuntu-meta (1.125) jaunty; urgency=low
+
+  * Refreshed dependencies
+  * Removed ttf-dejavu-core from desktop [amd64 hppa i386 ia64 lpia
+    powerpc sparc]
+  * Add armel support.
+
+ -- Matthias Klose <doko@ubuntu.com>  Sun, 16 Nov 2008 21:11:54 +0100
+
 ubuntu-meta (1.124) intrepid; urgency=low
 
   * Refreshed dependencies
