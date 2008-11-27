@@ -42,6 +42,7 @@ gnome-nettool
 gnome-panel
 gnome-power-manager
 gnome-session
+gnome-session-canberra
 gnome-spell
 gnome-system-monitor
 gnome-system-tools
@@ -62,7 +63,6 @@ inputattach
 language-selector
 launchpad-integration
 lftp
-libcanberra-gnome
 libgl1-mesa-glx
 libglut3
 libgnome2-perl
@@ -97,6 +97,7 @@ synaptic
 system-config-printer-gnome
 tangerine-icon-theme
 ttf-bitstream-vera
+ttf-dejavu-core
 ttf-freefont
 ubuntu-artwork
 ubuntu-sounds
