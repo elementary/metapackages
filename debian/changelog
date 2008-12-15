@@ -1,3 +1,13 @@
+ubuntu-meta (1.127) jaunty; urgency=low
+
+  * Refreshed dependencies
+  * Added ttf-sazanami-gothic to desktop-recommends
+  * Added ttf-sazanami-mincho to desktop-recommends
+  * Removed ttf-kochi-gothic from desktop-recommends
+  * Removed ttf-kochi-mincho from desktop-recommends
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Mon, 15 Dec 2008 05:56:19 +0000
+
 ubuntu-meta (1.126) jaunty; urgency=low
 
   * Refreshed dependencies
