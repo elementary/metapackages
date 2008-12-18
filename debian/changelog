@@ -1,3 +1,14 @@
+ubuntu-meta (1.128) jaunty; urgency=low
+
+  * Refreshed dependencies
+  * Removed acpi from desktop [amd64 i386 ia64 lpia]
+  * Removed powermanagement-interface from desktop [amd64 i386 ia64 lpia
+    powerpc]
+  * Moved acpi-support to desktop-recommends [amd64 i386 ia64 lpia]
+  * Moved hotkey-setup to desktop-recommends [amd64 i386 lpia]
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Thu, 18 Dec 2008 07:24:06 +0000
+
 ubuntu-meta (1.127) jaunty; urgency=low
 
   * Refreshed dependencies

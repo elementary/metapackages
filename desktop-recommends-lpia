@@ -1,3 +1,4 @@
+acpi-support
 app-install-data-partner
 apport-gtk
 avahi-autoipd
@@ -38,6 +39,7 @@ gnome-screensaver
 gnome-user-guide
 gvfs-fuse
 hal-cups-utils
+hotkey-setup
 hplip
 im-switch
 jockey-gtk
