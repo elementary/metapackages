@@ -27,5 +27,4 @@ rsync
 strace
 time
 usbutils
-w3m
 wget

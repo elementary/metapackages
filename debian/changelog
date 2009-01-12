@@ -1,3 +1,10 @@
+ubuntu-meta (1.129) jaunty; urgency=low
+
+  * Refreshed dependencies
+  * Moved w3m to standard-recommends
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Mon, 12 Jan 2009 10:28:36 +0000
+
 ubuntu-meta (1.128) jaunty; urgency=low
 
   * Refreshed dependencies
