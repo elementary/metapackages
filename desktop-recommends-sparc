@@ -41,7 +41,6 @@ hplip
 im-switch
 jockey-gtk
 laptop-detect
-libdeskbar-tracker
 libgl1-mesa-dri
 libnss-mdns
 libpam-gnome-keyring
@@ -68,7 +67,6 @@ splix
 tomboy
 totem
 totem-mozilla
-tracker-search-tool
 transmission-gtk
 tsclient
 ttf-arabeyes
