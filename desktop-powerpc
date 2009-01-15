@@ -60,7 +60,6 @@ language-selector
 launchpad-integration
 lftp
 libgl1-mesa-glx
-libglut3
 libgnome2-perl
 libgnomevfs2-bin
 libgnomevfs2-extra
@@ -71,7 +70,6 @@ libsasl2-modules
 libxp6
 metacity
 nautilus
-nautilus-cd-burner
 nautilus-sendto
 notification-daemon
 openprinting-ppds

@@ -1,3 +1,15 @@
+ubuntu-meta (1.130) jaunty; urgency=low
+
+  * Refreshed dependencies
+  * Removed deskbar-applet from desktop-recommends
+  * Removed fortune-mod from desktop-recommends
+  * Removed libglut3 from desktop
+  * Removed nautilus-cd-burner from desktop
+  * Removed tracker from desktop-recommends
+  * Removed wvdial from desktop-recommends
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Thu, 15 Jan 2009 14:51:53 +0000
+
 ubuntu-meta (1.129) jaunty; urgency=low
 
   * Refreshed dependencies

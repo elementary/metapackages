@@ -13,7 +13,6 @@ brltty-x11
 cdparanoia
 compiz
 contact-lookup-applet
-deskbar-applet
 dvd+rw-tools
 ekiga
 espeak
@@ -27,7 +26,6 @@ firefox
 firefox-gnome-support
 foo2zjs
 foomatic-db-hpijs
-fortune-mod
 gcc
 gdm-guest-session
 gimp
@@ -71,7 +69,6 @@ splix
 tomboy
 totem
 totem-mozilla
-tracker
 tracker-search-tool
 transmission-gtk
 tsclient
@@ -88,7 +85,6 @@ ubuntu-docs
 vinagre
 vino
 wodim
-wvdial
 xcursor-themes
 xdg-utils
 xsane
