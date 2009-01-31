@@ -5,6 +5,7 @@ alsa-utils
 anacron
 bc
 ca-certificates
+checkbox-gtk
 consolekit
 cups
 cups-bsd
@@ -55,7 +56,6 @@ gtk2-engines
 gtk2-engines-pixbuf
 gucharmap
 hal
-hwtest-gtk
 inputattach
 language-selector
 launchpad-integration

@@ -2,7 +2,7 @@ Source: ubuntu-meta
 Section: metapackages
 Priority: optional
 Maintainer: Matt Zimmerman <mdz@ubuntu.com>
-Standards-Version: 3.7.3
+Standards-Version: 3.8.0
 Build-Depends: debhelper (>= 4), germinate (>= 1.0)
 
 Package: ubuntu-minimal

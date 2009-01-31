@@ -1,3 +1,16 @@
+ubuntu-meta (1.132) jaunty; urgency=low
+
+  * Refreshed dependencies
+  * Added checkbox-gtk to desktop [amd64 armel hppa ia64 lpia powerpc
+    sparc]
+  * Removed hwtest-gtk from desktop [amd64 armel hppa ia64 lpia powerpc
+    sparc]
+  * Added libwmf0.2-7-gtk to desktop-recommends [amd64 armel hppa ia64
+    lpia powerpc sparc]
+  * Bump up Standards-Version to 3.8.0.
+
+ -- Loic Minier <lool@dooz.org>  Sat, 31 Jan 2009 22:28:04 +0100
+
 ubuntu-meta (1.131) jaunty; urgency=low
 
   * Refreshed dependencies

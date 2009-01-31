@@ -43,6 +43,7 @@ laptop-detect
 libgl1-mesa-dri
 libnss-mdns
 libpam-gnome-keyring
+libwmf0.2-7-gtk
 make
 min12xxw
 mousetweaks
