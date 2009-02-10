@@ -1,3 +1,11 @@
+ubuntu-meta (1.133) jaunty; urgency=low
+
+  * Refreshed dependencies
+  * Added apt-transport-https to standard-recommends
+  * Added gnome-codec-install to desktop-recommends
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Tue, 10 Feb 2009 18:05:46 +0000
+
 ubuntu-meta (1.132) jaunty; urgency=low
 
   * Refreshed dependencies

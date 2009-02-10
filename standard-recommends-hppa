@@ -1,4 +1,5 @@
 apparmor-utils
+apt-transport-https
 bash-completion
 command-not-found
 friendly-recovery
