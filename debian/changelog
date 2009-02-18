@@ -1,3 +1,12 @@
+ubuntu-meta (1.135) jaunty; urgency=low
+
+  * Refreshed dependencies
+  * Added indicator-messages to desktop-recommends [hppa]
+  * Removed gnome-spell from desktop
+  * Removed powernowd from desktop-recommends
+
+ -- Scott James Remnant <scott@ubuntu.com>  Wed, 18 Feb 2009 17:34:46 +0000
+
 ubuntu-meta (1.134) jaunty; urgency=low
 
   * Refreshed dependencies

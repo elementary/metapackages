@@ -39,6 +39,7 @@ gvfs-fuse
 hal-cups-utils
 hplip
 im-switch
+indicator-messages
 jockey-gtk
 laptop-detect
 libgl1-mesa-dri
@@ -55,7 +56,6 @@ network-manager-gnome
 onboard
 pidgin
 pidgin-otr
-powernowd
 pulseaudio-module-gconf
 pulseaudio-module-hal
 pulseaudio-module-x11
