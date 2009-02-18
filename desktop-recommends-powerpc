@@ -17,6 +17,7 @@ ekiga
 espeak
 evolution
 evolution-exchange
+evolution-indicator
 evolution-plugins
 evolution-webcal
 example-content
@@ -40,6 +41,7 @@ gvfs-fuse
 hal-cups-utils
 hplip
 im-switch
+indicator-messages
 jockey-gtk
 laptop-detect
 libgl1-mesa-dri
