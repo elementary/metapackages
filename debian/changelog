@@ -1,3 +1,13 @@
+ubuntu-meta (1.136) jaunty; urgency=low
+
+  * Refreshed dependencies
+  * Added notify-osd to desktop [amd64 hppa i386 ia64 lpia powerpc
+    sparc]
+  * Removed alsdorf from desktop [amd64 hppa i386 ia64 lpia powerpc
+    sparc]
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 18 Feb 2009 22:21:45 +0100
+
 ubuntu-meta (1.135) jaunty; urgency=low
 
   * Refreshed dependencies

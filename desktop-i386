@@ -2,7 +2,6 @@ acpid
 alacarte
 alsa-base
 alsa-utils
-alsdorf
 anacron
 apmd
 bc
@@ -73,6 +72,7 @@ libxp6
 metacity
 nautilus
 nautilus-sendto
+notify-osd
 openprinting-ppds
 pcmciautils
 pnm2ppa
