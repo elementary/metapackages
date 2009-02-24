@@ -1,3 +1,14 @@
+ubuntu-meta (1.137) jaunty; urgency=low
+
+  * Refreshed dependencies
+  * Added computer-janitor to desktop-recommends
+  * Added evolution-indicator to desktop-recommends [ia64]
+  * Added indicator-messages to desktop-recommends [ia64]
+  * Added notify-osd to desktop [armel]
+  * Added pidgin-libnotify to desktop-recommends (LP: #332719)
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 24 Feb 2009 00:21:49 +0100
+
 ubuntu-meta (1.136) jaunty; urgency=low
 
   * Refreshed dependencies

@@ -11,6 +11,7 @@ brltty
 brltty-x11
 cdparanoia
 compiz
+computer-janitor
 contact-lookup-applet
 dvd+rw-tools
 ekiga
@@ -55,6 +56,7 @@ nautilus-share
 network-manager-gnome
 onboard
 pidgin
+pidgin-libnotify
 pidgin-otr
 pulseaudio-module-gconf
 pulseaudio-module-hal

@@ -11,6 +11,7 @@ brltty
 brltty-x11
 cdparanoia
 compiz
+computer-janitor
 contact-lookup-applet
 dvd+rw-tools
 ekiga
@@ -62,6 +63,7 @@ openoffice.org-impress
 openoffice.org-math
 openoffice.org-writer
 pidgin
+pidgin-libnotify
 pidgin-otr
 pulseaudio-module-gconf
 pulseaudio-module-hal
