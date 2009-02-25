@@ -1,3 +1,13 @@
+ubuntu-meta (1.138) jaunty; urgency=low
+
+  * Refreshed dependencies
+  * Added computer-janitor-gtk to desktop-recommends
+  * Removed computer-janitor from desktop-recommends
+  * Removed libpt-1.10.10-plugins-v4l from desktop
+  * Removed libpt-1.10.10-plugins-v4l2 from desktop
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 25 Feb 2009 15:13:32 +0100
+
 ubuntu-meta (1.137) jaunty; urgency=low
 
   * Refreshed dependencies
