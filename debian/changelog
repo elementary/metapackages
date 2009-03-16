@@ -1,3 +1,12 @@
+ubuntu-meta (1.139) jaunty; urgency=low
+
+  * Refreshed dependencies
+  * Added evolution-indicator to desktop-recommends [hppa]
+  * desktop: Replace gnome-themes with gnome-themes-selected and
+    gnome-themes-ubuntu. (LP: #335888)
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 16 Mar 2009 15:11:52 +0100
+
 ubuntu-meta (1.138) jaunty; urgency=low
 
   * Refreshed dependencies

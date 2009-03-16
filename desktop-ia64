@@ -45,7 +45,8 @@ gnome-session-canberra
 gnome-system-monitor
 gnome-system-tools
 gnome-terminal
-gnome-themes
+gnome-themes-selected
+gnome-themes-ubuntu
 gnome-utils
 gstreamer0.10-alsa
 gstreamer0.10-plugins-base-apps
