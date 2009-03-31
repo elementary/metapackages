@@ -1,3 +1,18 @@
+ubuntu-meta (1.140) jaunty; urgency=low
+
+  * Refreshed dependencies
+  * Added libc6-vfp to minimal [armel]
+  * Added linux-headers-imx51 to desktop-recommends [armel]
+  * Added openoffice.org-calc to desktop-recommends [armel]
+  * Added openoffice.org-gnome to desktop-recommends [armel]
+  * Added openoffice.org-impress to desktop-recommends [armel]
+  * Added openoffice.org-math to desktop-recommends [armel]
+  * Added openoffice.org-writer to desktop-recommends [armel]
+  * Removed gnome-netstatus-applet from desktop
+  * Removed linux-headers-mckinley from desktop-recommends [ia64]
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Tue, 31 Mar 2009 12:46:58 +0200
+
 ubuntu-meta (1.139) jaunty; urgency=low
 
   * Refreshed dependencies
