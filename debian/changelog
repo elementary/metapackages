@@ -1,3 +1,14 @@
+ubuntu-meta (1.141) karmic; urgency=low
+
+  * update.cfg:
+    - Switch to Karmic.
+
+  * Refreshed dependencies
+  * Removed usplash from desktop [hppa ia64]
+  * Removed usplash-theme-ubuntu from desktop [hppa ia64] (LP: #368677)
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Wed, 29 Apr 2009 00:11:12 +0100
+
 ubuntu-meta (1.140) jaunty; urgency=low
 
   * Refreshed dependencies
