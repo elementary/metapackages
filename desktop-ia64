@@ -54,7 +54,6 @@ gstreamer0.10-schroedinger
 gtk2-engines
 gtk2-engines-pixbuf
 gucharmap
-hal
 inputattach
 language-selector
 launchpad-integration

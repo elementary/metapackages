@@ -1,3 +1,12 @@
+ubuntu-meta (1.142) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Added udev-extras to standard
+  * Removed hal from desktop
+  * Removed linux-headers-itanium from desktop-recommends [ia64]
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 12 May 2009 08:24:28 +0200
+
 ubuntu-meta (1.141) karmic; urgency=low
 
   * update.cfg:
