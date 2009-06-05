@@ -14,7 +14,6 @@ compiz
 computer-janitor-gtk
 contact-lookup-applet
 dvd+rw-tools
-ekiga
 espeak
 evolution
 evolution-exchange
@@ -70,8 +69,6 @@ scim-bridge-client-gtk
 scim-gtk2-immodule
 splix
 tomboy
-totem
-totem-mozilla
 transmission-gtk
 tsclient
 ttf-arabeyes

@@ -15,7 +15,6 @@ compiz
 computer-janitor-gtk
 contact-lookup-applet
 dvd+rw-tools
-ekiga
 espeak
 evolution
 evolution-exchange
@@ -49,6 +48,7 @@ libgl1-mesa-dri
 libnss-mdns
 libpam-gnome-keyring
 libwmf0.2-7-gtk
+linux-headers-ia64
 make
 min12xxw
 mousetweaks
