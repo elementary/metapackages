@@ -17,6 +17,7 @@ locales
 lsb-release
 makedev
 mawk
+mktemp
 module-init-tools
 net-tools
 netbase
