@@ -1,3 +1,13 @@
+ubuntu-meta (1.145) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Added pulseaudio-module-bluetooth to desktop-recommends [amd64 armel
+    i386 ia64 powerpc sparc]
+  * Removed gnome-pilot-conduits from desktop-recommends (LP: #334446)
+  * Removed mktemp from minimal
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 15 Jun 2009 12:25:56 +0200
+
 ubuntu-meta (1.144) karmic; urgency=low
 
   * Refreshed dependencies

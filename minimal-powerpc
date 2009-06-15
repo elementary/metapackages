@@ -18,7 +18,6 @@ lsb-release
 mac-fdisk
 makedev
 mawk
-mktemp
 module-init-tools
 net-tools
 netbase

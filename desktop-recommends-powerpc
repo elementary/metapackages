@@ -34,7 +34,6 @@ gnome-codec-install
 gnome-games
 gnome-mag
 gnome-orca
-gnome-pilot-conduits
 gnome-screensaver
 gnome-user-guide
 gvfs-fuse
@@ -64,6 +63,7 @@ openoffice.org-writer
 pidgin
 pidgin-libnotify
 pidgin-otr
+pulseaudio-module-bluetooth
 pulseaudio-module-gconf
 pulseaudio-module-hal
 pulseaudio-module-x11

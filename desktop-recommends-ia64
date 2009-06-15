@@ -34,7 +34,6 @@ gnome-accessibility-themes
 gnome-codec-install
 gnome-mag
 gnome-orca
-gnome-pilot-conduits
 gnome-screensaver
 gnome-user-guide
 gvfs-fuse
@@ -58,6 +57,7 @@ onboard
 pidgin
 pidgin-libnotify
 pidgin-otr
+pulseaudio-module-bluetooth
 pulseaudio-module-gconf
 pulseaudio-module-hal
 pulseaudio-module-x11
