@@ -1,3 +1,12 @@
+ubuntu-meta (1.146) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Added empathy to desktop-recommends
+  * Removed pidgin from desktop-recommends
+  * Removed pidgin-otr from desktop-recommends
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 17 Jun 2009 13:38:04 +0200
+
 ubuntu-meta (1.145) karmic; urgency=low
 
   * Refreshed dependencies
