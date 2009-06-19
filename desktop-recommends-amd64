@@ -15,7 +15,6 @@ compiz
 computer-janitor-gtk
 contact-lookup-applet
 dvd+rw-tools
-empathy
 espeak
 evolution
 evolution-exchange
@@ -61,7 +60,9 @@ openoffice.org-gnome
 openoffice.org-impress
 openoffice.org-math
 openoffice.org-writer
+pidgin
 pidgin-libnotify
+pidgin-otr
 pulseaudio-module-bluetooth
 pulseaudio-module-gconf
 pulseaudio-module-hal
