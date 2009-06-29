@@ -21,6 +21,7 @@ evolution-indicator
 evolution-plugins
 evolution-webcal
 example-content
+f-spot
 firefox
 firefox-gnome-support
 foo2zjs
@@ -72,6 +73,7 @@ scim-bridge-agent
 scim-bridge-client-gtk
 scim-gtk2-immodule
 splix
+tomboy
 totem
 totem-mozilla
 transmission-gtk

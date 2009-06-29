@@ -25,6 +25,5 @@ psmisc
 rsync
 strace
 time
-udev-extras
 usbutils
 wget
