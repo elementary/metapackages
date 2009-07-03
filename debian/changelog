@@ -1,3 +1,11 @@
+ubuntu-meta (1.149) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Removed fast-user-switch-applet from desktop
+  * Removed pulseaudio-module-hal from desktop-recommends
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 03 Jul 2009 09:33:05 +0200
+
 ubuntu-meta (1.148) karmic; urgency=low
 
   * Refreshed dependencies

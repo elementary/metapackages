@@ -59,7 +59,6 @@ pidgin-libnotify
 pidgin-otr
 pulseaudio-module-bluetooth
 pulseaudio-module-gconf
-pulseaudio-module-hal
 pulseaudio-module-x11
 pxljr
 rhythmbox
