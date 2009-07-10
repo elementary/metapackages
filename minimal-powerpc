@@ -28,16 +28,12 @@ pmac-fdisk
 powerpc-utils
 procps
 python
-startup-tasks
 sudo
 sysklogd
-system-services
 tasksel
 tzdata
 ubuntu-keyring
 udev
 upstart
-upstart-compat-sysv
-upstart-logd
 vim-tiny
 whiptail

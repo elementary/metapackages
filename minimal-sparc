@@ -32,16 +32,12 @@ passwd
 procps
 python
 sparc-utils
-startup-tasks
 sudo
 sysklogd
-system-services
 tasksel
 tzdata
 ubuntu-keyring
 udev
 upstart
-upstart-compat-sysv
-upstart-logd
 vim-tiny
 whiptail
