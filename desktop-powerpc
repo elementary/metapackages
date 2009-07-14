@@ -69,7 +69,6 @@ nautilus-sendto
 notify-osd
 openprinting-ppds
 pbbuttonsd
-pcmciautils
 pnm2ppa
 pulseaudio
 pulseaudio-esound-compat

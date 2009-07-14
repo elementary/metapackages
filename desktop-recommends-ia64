@@ -15,6 +15,7 @@ compiz
 computer-janitor-gtk
 contact-lookup-applet
 dvd+rw-tools
+empathy
 espeak
 evolution
 evolution-exchange
@@ -54,9 +55,8 @@ mousetweaks
 nautilus-share
 network-manager-gnome
 onboard
-pidgin
+pcmciautils
 pidgin-libnotify
-pidgin-otr
 pulseaudio-module-bluetooth
 pulseaudio-module-gconf
 pulseaudio-module-x11
