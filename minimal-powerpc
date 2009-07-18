@@ -28,8 +28,8 @@ pmac-fdisk
 powerpc-utils
 procps
 python
+rsyslog
 sudo
-sysklogd
 tasksel
 tzdata
 ubuntu-keyring

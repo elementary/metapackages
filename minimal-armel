@@ -26,8 +26,8 @@ ntpdate
 passwd
 procps
 python
+rsyslog
 sudo
-sysklogd
 tasksel
 tzdata
 ubuntu-keyring

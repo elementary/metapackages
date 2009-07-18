@@ -31,9 +31,9 @@ ntpdate
 passwd
 procps
 python
+rsyslog
 sparc-utils
 sudo
-sysklogd
 tasksel
 tzdata
 ubuntu-keyring
