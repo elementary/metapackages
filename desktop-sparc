@@ -58,8 +58,6 @@ launchpad-integration
 lftp
 libgl1-mesa-glx
 libgnome2-perl
-libgnomevfs2-bin
-libgnomevfs2-extra
 libpam-ck-connector
 libsasl2-modules
 libxp6

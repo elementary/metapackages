@@ -1,3 +1,11 @@
+ubuntu-meta (1.155) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Removed libgnomevfs2-bin from desktop
+  * Removed libgnomevfs2-extra from desktop
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 21 Jul 2009 01:12:07 +0200
+
 ubuntu-meta (1.154) karmic; urgency=low
 
   * Refreshed dependencies
