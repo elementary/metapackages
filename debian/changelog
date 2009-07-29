@@ -1,3 +1,11 @@
+ubuntu-meta (1.156) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Removed contact-lookup-applet from desktop-recommends
+  * Removed hal-cups-utils from desktop-recommends
+
+ -- Steve Kowalik <stevenk@ubuntu.com>  Wed, 29 Jul 2009 18:30:03 +1000
+
 ubuntu-meta (1.155) karmic; urgency=low
 
   * Refreshed dependencies

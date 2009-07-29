@@ -13,7 +13,6 @@ brltty-x11
 cdparanoia
 compiz
 computer-janitor-gtk
-contact-lookup-applet
 dvd+rw-tools
 empathy
 espeak
@@ -39,7 +38,6 @@ gnome-orca
 gnome-screensaver
 gnome-user-guide
 gvfs-fuse
-hal-cups-utils
 hplip
 im-switch
 indicator-messages
