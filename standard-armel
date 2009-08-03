@@ -16,7 +16,6 @@ lsof
 ltrace
 man-db
 mime-support
-nano
 parted
 pciutils
 popularity-contest

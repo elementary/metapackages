@@ -1,3 +1,13 @@
+ubuntu-meta (1.157) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Added openoffice.org-help-en-us to desktop-recommends
+  * Added usb-creator-gtk to desktop-recommends [amd64 i386 lpia]
+  * Removed usb-creator from desktop-recommends [amd64 i386 lpia]
+  * Moved nano to standard-recommends
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 03 Aug 2009 15:24:53 +0100
+
 ubuntu-meta (1.156) karmic; urgency=low
 
   * Refreshed dependencies
