@@ -1,3 +1,17 @@
+ubuntu-meta (1.158) karmic; urgency=low
+
+  * Convert to debhelper v7, with the new debhelper addon in germinate 1.18.
+  * Policy version 3.8.2.
+  * Update GPL application text, using a gnu.org URL rather than an outdated
+    FSF postal address.
+
+  * Refreshed dependencies
+  * Added gnome-disk-utility to desktop-recommends
+  * Removed acpid from desktop [amd64 i386 ia64 lpia]
+  * Removed reiserfsprogs from standard-recommends
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Mon, 10 Aug 2009 23:48:21 +0100
+
 ubuntu-meta (1.157) karmic; urgency=low
 
   * Refreshed dependencies

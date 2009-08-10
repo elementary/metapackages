@@ -2,13 +2,13 @@ Source: ubuntu-meta
 Section: metapackages
 Priority: optional
 Maintainer: Matt Zimmerman <mdz@ubuntu.com>
-Standards-Version: 3.8.0
-Build-Depends: debhelper (>= 4), germinate (>= 1.0)
+Standards-Version: 3.8.2
+Build-Depends: debhelper (>= 7.0.8), germinate (>= 1.18)
 
 Package: ubuntu-minimal
 Architecture: any
-Depends: ${ubuntu-minimal:Depends}
-Recommends: ${ubuntu-minimal:Recommends}
+Depends: ${germinate:Depends}
+Recommends: ${germinate:Recommends}
 Description: Minimal core of Ubuntu
  This package depends on all of the packages in the Ubuntu minimal system,
  that is a functional command-line system with the following capabilities:
@@ -24,8 +24,8 @@ Description: Minimal core of Ubuntu
 
 Package: ubuntu-standard
 Architecture: any
-Depends: ${ubuntu-standard:Depends}
-Recommends: ${ubuntu-standard:Recommends}
+Depends: ${germinate:Depends}
+Recommends: ${germinate:Recommends}
 Description: The Ubuntu standard system
  This package depends on all of the packages in the Ubuntu standard system.
  This set of packages provides a comfortable command-line Unix-like
@@ -36,8 +36,8 @@ Description: The Ubuntu standard system
 
 Package: ubuntu-desktop
 Architecture: any
-Depends: ${ubuntu-desktop:Depends}
-Recommends: ${ubuntu-desktop:Recommends}
+Depends: ${germinate:Depends}
+Recommends: ${germinate:Recommends}
 Description: The Ubuntu desktop system
  This package depends on all of the packages in the Ubuntu desktop system
  .
