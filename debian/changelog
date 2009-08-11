@@ -1,3 +1,12 @@
+ubuntu-meta (1.159) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Added gnome-bluetooth to desktop-recommends
+  * Added xsplash to desktop
+  * Removed bluez-gnome from desktop-recommends
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Tue, 11 Aug 2009 18:11:09 -0700
+
 ubuntu-meta (1.158) karmic; urgency=low
 
   * Convert to debhelper v7, with the new debhelper addon in germinate 1.18.

@@ -4,7 +4,6 @@ apport-gtk
 avahi-autoipd
 avahi-daemon
 bluez-cups
-bluez-gnome
 bluez-utils
 bogofilter
 brasero
@@ -30,6 +29,7 @@ gcc
 gdm-guest-session
 gimp
 gnome-accessibility-themes
+gnome-bluetooth
 gnome-codec-install
 gnome-disk-utility
 gnome-games
