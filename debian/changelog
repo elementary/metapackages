@@ -1,3 +1,12 @@
+ubuntu-meta (1.161) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Added ttf-dejavu-core to desktop
+  * Removed foomatic-db-hpijs from desktop-recommends
+  * Removed ttf-dejavu from desktop
+
+ -- Evan Dandrea <evand@ubuntu.com>  Thu, 20 Aug 2009 12:21:31 +0100
+
 ubuntu-meta (1.160) karmic; urgency=low
 
   * Refreshed dependencies
