@@ -64,6 +64,7 @@ scim-bridge-agent
 scim-bridge-client-gtk
 scim-gtk2-immodule
 splix
+telepathy-idle
 totem
 totem-mozilla
 transmission-gtk

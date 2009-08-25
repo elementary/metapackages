@@ -52,6 +52,7 @@ gstreamer0.10-schroedinger
 gtk2-engines
 gtk2-engines-pixbuf
 gucharmap
+indicator-applet-session
 inputattach
 language-selector
 launchpad-integration
@@ -70,13 +71,13 @@ pnm2ppa
 pulseaudio
 pulseaudio-esound-compat
 rarian-compat
-readahead
 rss-glx
 screen
 screensaver-default-images
 seahorse
 smbclient
 software-properties-gtk
+sreadahead
 ssh-askpass-gnome
 synaptic
 system-config-printer-gnome
