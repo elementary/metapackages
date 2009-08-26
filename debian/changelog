@@ -1,3 +1,29 @@
+ubuntu-meta (1.163) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Added ibus to desktop-recommends [amd64 armel ia64 lpia powerpc
+    sparc]
+  * Added ibus-gtk to desktop-recommends [amd64 armel ia64 lpia powerpc
+    sparc]
+  * Added ibus-m17n to desktop-recommends [amd64 armel ia64 lpia powerpc
+    sparc]
+  * Added ibus-table to desktop-recommends [amd64 armel ia64 lpia
+    powerpc sparc]
+  * Added indicator-applet-session to desktop [sparc]
+  * Added ttf-kacst to desktop-recommends
+  * Added ttf-vlgothic to desktop-recommends
+  * Added ttf-wqy-zenhei to desktop-recommends
+  * Removed scim from desktop-recommends
+  * Removed scim-bridge-agent from desktop-recommends
+  * Removed scim-bridge-client-gtk from desktop-recommends
+  * Removed scim-gtk2-immodule from desktop-recommends
+  * Removed ttf-arabeyes from desktop-recommends
+  * Removed ttf-arphic-uming from desktop-recommends
+  * Removed ttf-sazanami-gothic from desktop-recommends
+  * Removed ttf-sazanami-mincho from desktop-recommends
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 26 Aug 2009 22:15:37 +0200
+
 ubuntu-meta (1.162) karmic; urgency=low
 
   * Refreshed dependencies
