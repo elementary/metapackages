@@ -16,6 +16,7 @@ dvd+rw-tools
 empathy
 espeak
 evolution
+evolution-couchdb
 evolution-exchange
 evolution-indicator
 evolution-plugins
@@ -39,9 +40,14 @@ gnome-screensaver
 gnome-user-guide
 gvfs-fuse
 hplip
+ibus
+ibus-gtk
+ibus-m17n
+ibus-table
 im-switch
 indicator-messages
 jockey-gtk
+kerneloops-daemon
 laptop-detect
 libgl1-mesa-dri
 libnss-mdns
@@ -66,6 +72,7 @@ pulseaudio-module-gconf
 pulseaudio-module-x11
 pxljr
 rhythmbox
+speech-dispatcher
 splix
 telepathy-idle
 tomboy

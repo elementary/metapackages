@@ -1,3 +1,16 @@
+ubuntu-meta (1.164) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Added evolution-couchdb to desktop-recommends
+  * Added ibus to desktop-recommends [i386]
+  * Added ibus-gtk to desktop-recommends [i386]
+  * Added ibus-m17n to desktop-recommends [i386]
+  * Added ibus-table to desktop-recommends [i386]
+  * Added kerneloops-daemon to desktop-recommends
+  * Added speech-dispatcher to desktop-recommends
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 31 Aug 2009 17:41:11 +0200
+
 ubuntu-meta (1.163) karmic; urgency=low
 
   * Refreshed dependencies
