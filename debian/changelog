@@ -1,3 +1,14 @@
+ubuntu-meta (1.165) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Removed openoffice.org-calc from desktop-recommends [armel]
+  * Removed openoffice.org-gnome from desktop-recommends [armel]
+  * Removed openoffice.org-impress from desktop-recommends [armel]
+  * Removed openoffice.org-math from desktop-recommends [armel]
+  * Removed openoffice.org-writer from desktop-recommends [armel]
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Wed, 02 Sep 2009 15:38:27 +0200
+
 ubuntu-meta (1.164) karmic; urgency=low
 
   * Refreshed dependencies
