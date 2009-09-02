@@ -1,3 +1,10 @@
+ubuntu-meta (1.166) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Added language-support-translations-en to desktop [armel]
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Wed, 02 Sep 2009 20:41:57 +0200
+
 ubuntu-meta (1.165) karmic; urgency=low
 
   * Refreshed dependencies
