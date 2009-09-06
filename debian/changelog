@@ -1,3 +1,17 @@
+ubuntu-meta (1.167) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Added openoffice.org-calc to desktop-recommends [armel]
+  * Added openoffice.org-gnome to desktop-recommends [armel]
+  * Added openoffice.org-impress to desktop-recommends [armel]
+  * Added openoffice.org-math to desktop-recommends [armel]
+  * Added openoffice.org-writer to desktop-recommends [armel]
+  * Removed language-support-translations-en from desktop [armel]
+  * Removed openoffice.org-help-en-us from desktop-recommends [ia64 lpia
+    sparc]
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Sun, 06 Sep 2009 12:02:05 +0200
+
 ubuntu-meta (1.166) karmic; urgency=low
 
   * Refreshed dependencies
