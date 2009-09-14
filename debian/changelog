@@ -1,3 +1,10 @@
+ubuntu-meta (1.168) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Removed libc6-vfp from minimal [armel]
+
+ -- Steve Kowalik <stevenk@ubuntu.com>  Mon, 14 Sep 2009 12:48:10 +1000
+
 ubuntu-meta (1.167) karmic; urgency=low
 
   * Refreshed dependencies

@@ -13,7 +13,6 @@ iproute
 iputils-ping
 kbd
 less
-libc6-vfp
 locales
 lsb-release
 makedev
