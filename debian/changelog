@@ -1,3 +1,11 @@
+ubuntu-meta (1.169) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Removed gnome-app-install from desktop
+  * Added software-store to desktop
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Tue, 15 Sep 2009 18:47:38 -0700
+
 ubuntu-meta (1.168) karmic; urgency=low
 
   * Refreshed dependencies

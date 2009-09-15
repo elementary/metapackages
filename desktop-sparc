@@ -28,7 +28,6 @@ gedit
 genisoimage
 ghostscript-x
 gnome-about
-gnome-app-install
 gnome-applets
 gnome-control-center
 gnome-icon-theme
@@ -77,6 +76,7 @@ screensaver-default-images
 seahorse
 smbclient
 software-properties-gtk
+software-store
 ssh-askpass-gnome
 synaptic
 system-config-printer-gnome
