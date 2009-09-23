@@ -2,12 +2,12 @@ Source: ubuntu-meta
 Section: metapackages
 Priority: optional
 Maintainer: Matt Zimmerman <mdz@ubuntu.com>
-Standards-Version: 3.8.2
+Standards-Version: 3.8.3
 Build-Depends: debhelper (>= 7.0.8), germinate (>= 1.18)
 
 Package: ubuntu-minimal
 Architecture: any
-Depends: ${germinate:Depends}
+Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: Minimal core of Ubuntu
  This package depends on all of the packages in the Ubuntu minimal system,
@@ -24,7 +24,7 @@ Description: Minimal core of Ubuntu
 
 Package: ubuntu-standard
 Architecture: any
-Depends: ${germinate:Depends}
+Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: The Ubuntu standard system
  This package depends on all of the packages in the Ubuntu standard system.
@@ -36,7 +36,7 @@ Description: The Ubuntu standard system
 
 Package: ubuntu-desktop
 Architecture: any
-Depends: ${germinate:Depends}
+Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: The Ubuntu desktop system
  This package depends on all of the packages in the Ubuntu desktop system
