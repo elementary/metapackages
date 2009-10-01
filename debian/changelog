@@ -1,3 +1,10 @@
+ubuntu-meta (1.172) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Added libgd2-xpm to desktop
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Thu, 01 Oct 2009 07:19:30 -0700
+
 ubuntu-meta (1.171) karmic; urgency=low
 
   * Refreshed dependencies
