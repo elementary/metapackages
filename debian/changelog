@@ -1,3 +1,11 @@
+ubuntu-meta (1.173) karmic; urgency=low
+
+  * Refreshed dependencies
+  * Added openoffice.org-style-human to desktop-recommends [amd64 armel
+    i386 powerpc]
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Tue, 13 Oct 2009 15:50:08 -0700
+
 ubuntu-meta (1.172) karmic; urgency=low
 
   * Refreshed dependencies
