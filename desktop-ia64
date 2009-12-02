@@ -76,7 +76,6 @@ seahorse
 smbclient
 software-center
 software-properties-gtk
-sreadahead
 ssh-askpass-gnome
 synaptic
 system-config-printer-gnome
@@ -87,6 +86,7 @@ ubuntu-sounds
 unzip
 update-manager
 update-notifier
+ureadahead
 wireless-tools
 wpasupplicant
 x-ttcidfont-conf

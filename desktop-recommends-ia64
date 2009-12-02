@@ -1,4 +1,5 @@
 acpi-support
+aisleriot
 app-install-data-partner
 apport-gtk
 avahi-autoipd
@@ -28,15 +29,18 @@ firefox-gnome-support
 foo2zjs
 gcc
 gdm-guest-session
-gimp
 gnome-accessibility-themes
 gnome-bluetooth
 gnome-codec-install
 gnome-disk-utility
 gnome-mag
+gnome-mahjongg
 gnome-orca
 gnome-screensaver
+gnome-sudoku
 gnome-user-guide
+gnometris
+gnomine
 gvfs-fuse
 hplip
 ibus

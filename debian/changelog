@@ -1,3 +1,21 @@
+ubuntu-meta (1.176) lucid; urgency=low
+
+  * update.cfg: Switch to lucid.
+  * Refreshed dependencies
+  * Added aisleriot to desktop-recommends
+  * Added diff to minimal
+  * Added gnome-mahjongg to desktop-recommends
+  * Added gnome-sudoku to desktop-recommends
+  * Added gnometris to desktop-recommends
+  * Added gnomine to desktop-recommends
+  * Added ureadahead to desktop [amd64 armel i386 ia64 lpia sparc]
+  * Removed gimp from desktop-recommends
+  * Removed gnome-games from desktop-recommends [amd64 armel i386 lpia
+    powerpc sparc]
+  * Removed sreadahead from desktop [amd64 armel i386 ia64 lpia powerpc]
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 02 Dec 2009 10:26:14 +0100
+
 ubuntu-meta (1.175) karmic; urgency=low
 
   * Refreshed dependencies
