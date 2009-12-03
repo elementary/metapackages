@@ -1,3 +1,13 @@
+ubuntu-meta (1.177) lucid; urgency=low
+
+  * Refreshed dependencies
+  * Remove lpia, which is being decommissioned (see
+    https://blueprints.launchpad.net/ubuntu/+spec/mobile-lucid-lpia-future).
+  * Added ureadahead to minimal [amd64 armel i386 ia64 sparc]
+  * Removed ureadahead from desktop [amd64 armel i386 ia64 sparc]
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Thu, 03 Dec 2009 17:10:12 +0000
+
 ubuntu-meta (1.176) lucid; urgency=low
 
   * update.cfg: Switch to lucid.

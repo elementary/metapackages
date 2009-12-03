@@ -34,5 +34,6 @@ tzdata
 ubuntu-keyring
 udev
 upstart
+ureadahead
 vim-tiny
 whiptail
