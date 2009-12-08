@@ -5,7 +5,6 @@ bzip2
 console-setup
 debconf
 dhcp3-client
-diff
 eject
 gnupg
 ifupdown

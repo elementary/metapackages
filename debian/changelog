@@ -1,3 +1,10 @@
+ubuntu-meta (1.178) lucid; urgency=low
+
+  * Refreshed dependencies
+  * Removed diff from minimal
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Tue, 08 Dec 2009 18:24:43 +0000
+
 ubuntu-meta (1.177) lucid; urgency=low
 
   * Refreshed dependencies
