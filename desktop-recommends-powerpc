@@ -38,7 +38,6 @@ gnome-orca
 gnome-screensaver
 gnome-sudoku
 gnome-user-guide
-gnometris
 gnomine
 gvfs-fuse
 hplip
@@ -71,10 +70,12 @@ openoffice.org-math
 openoffice.org-style-human
 openoffice.org-writer
 pcmciautils
+pm-utils-powersave-policy
 pulseaudio-module-bluetooth
 pulseaudio-module-gconf
 pulseaudio-module-x11
 pxljr
+quadrapassel
 rhythmbox
 speech-dispatcher
 splix
