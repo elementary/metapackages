@@ -27,6 +27,7 @@ f-spot
 firefox
 firefox-gnome-support
 foo2zjs
+gbrainy
 gcc
 gdm-guest-session
 gnome-accessibility-themes
@@ -70,6 +71,7 @@ openoffice.org-math
 openoffice.org-style-human
 openoffice.org-writer
 pcmciautils
+pitivi
 pm-utils-powersave-policy
 pulseaudio-module-bluetooth
 pulseaudio-module-gconf

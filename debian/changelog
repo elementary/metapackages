@@ -1,3 +1,12 @@
+ubuntu-meta (1.182) lucid; urgency=low
+
+  * Refreshed dependencies
+  * Added gbrainy to desktop-recommends
+  * Added pitivi to desktop-recommends
+  * Added ureadahead to minimal [powerpc]
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Thu, 07 Jan 2010 10:27:14 +0100
+
 ubuntu-meta (1.181) lucid; urgency=low
 
   * Refreshed dependencies

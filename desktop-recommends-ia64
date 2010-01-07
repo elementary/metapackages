@@ -27,6 +27,7 @@ f-spot
 firefox
 firefox-gnome-support
 foo2zjs
+gbrainy
 gcc
 gdm-guest-session
 gnome-accessibility-themes
@@ -63,6 +64,7 @@ nautilus-share
 network-manager-gnome
 onboard
 pcmciautils
+pitivi
 pm-utils-powersave-policy
 pulseaudio-module-bluetooth
 pulseaudio-module-gconf
