@@ -1,3 +1,11 @@
+ubuntu-meta (1.183) lucid; urgency=low
+
+  * Refreshed dependencies
+  * Added dash to minimal
+  * Added plymouth to standard-recommends
+
+ -- Scott James Remnant <scott@ubuntu.com>  Mon, 11 Jan 2010 13:54:58 +0000
+
 ubuntu-meta (1.182) lucid; urgency=low
 
   * Refreshed dependencies

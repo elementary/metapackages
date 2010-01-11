@@ -3,6 +3,7 @@ apt
 apt-utils
 bzip2
 console-setup
+dash
 debconf
 dhcp3-client
 eject
