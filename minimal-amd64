@@ -21,7 +21,7 @@ mawk
 module-init-tools
 net-tools
 netbase
-netcat
+netcat-openbsd
 ntpdate
 passwd
 procps

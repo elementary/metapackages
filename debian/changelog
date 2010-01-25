@@ -1,3 +1,17 @@
+ubuntu-meta (1.184) lucid; urgency=low
+
+  * Refreshed dependencies
+  * Added busybox-static to standard
+  * Added libsdl1.2debian-pulseaudio to desktop
+  * Added netcat-openbsd to minimal
+  * Added ttf-wqy-microhei to desktop-recommends
+  * Removed consolekit from desktop
+  * Removed cups-driver-gutenprint from desktop
+  * Removed dcraw from desktop
+  * Removed netcat from minimal
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Mon, 25 Jan 2010 00:13:47 -0800
+
 ubuntu-meta (1.183) lucid; urgency=low
 
   * Refreshed dependencies

@@ -1,5 +1,6 @@
 aptitude
 at
+busybox-static
 cpio
 cron
 dmidecode

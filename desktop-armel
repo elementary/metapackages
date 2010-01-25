@@ -6,13 +6,10 @@ apmd
 bc
 ca-certificates
 checkbox-gtk
-consolekit
 cups
 cups-bsd
 cups-client
-cups-driver-gutenprint
 dc
-dcraw
 desktop-file-utils
 doc-base
 eog
@@ -61,6 +58,7 @@ libgl1-mesa-glx
 libgnome2-perl
 libpam-ck-connector
 libsasl2-modules
+libsdl1.2debian-pulseaudio
 libxp6
 metacity
 nautilus
