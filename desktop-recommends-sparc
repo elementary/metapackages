@@ -71,6 +71,7 @@ pulseaudio-module-x11
 pxljr
 quadrapassel
 rhythmbox
+simple-scan
 speech-dispatcher
 splix
 telepathy-idle
@@ -95,4 +96,3 @@ vino
 wodim
 xcursor-themes
 xdg-utils
-xsane
