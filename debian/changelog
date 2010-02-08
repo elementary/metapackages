@@ -1,3 +1,15 @@
+ubuntu-meta (1.186) lucid; urgency=low
+
+  * Refreshed dependencies
+  * Added language-selector-common to standard
+  * Added ttf-liberation to desktop-recommends
+  * Removed firefox from desktop-recommends [sparc]
+  * Removed firefox-gnome-support from desktop-recommends [sparc]
+  * Removed inputattach from desktop [sparc]
+  * Removed ttf-wqy-zenhei from desktop-recommends
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 08 Feb 2010 16:48:23 +0100
+
 ubuntu-meta (1.185) lucid; urgency=low
 
   * Refreshed dependencies

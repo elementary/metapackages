@@ -12,6 +12,7 @@ ftp
 hdparm
 info
 iptables
+language-selector-common
 logrotate
 lshw
 lsof

@@ -23,8 +23,6 @@ evolution-plugins
 evolution-webcal
 example-content
 f-spot
-firefox
-firefox-gnome-support
 foo2zjs
 gbrainy
 gcc
@@ -83,11 +81,11 @@ tsclient
 ttf-indic-fonts-core
 ttf-kacst
 ttf-lao
+ttf-liberation
 ttf-thai-tlwg
 ttf-unfonts-core
 ttf-vlgothic
 ttf-wqy-microhei
-ttf-wqy-zenhei
 ubufox
 ubuntu-docs
 ubuntuone-client-gnome

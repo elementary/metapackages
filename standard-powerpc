@@ -12,6 +12,7 @@ hdparm
 hfsutils
 info
 iptables
+language-selector-common
 logrotate
 lshw
 lsof
