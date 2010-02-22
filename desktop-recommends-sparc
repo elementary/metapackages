@@ -3,9 +3,12 @@ app-install-data-partner
 apport-gtk
 avahi-autoipd
 avahi-daemon
+bluez
+bluez-alsa
 bluez-cups
-bluez-utils
+bluez-gstreamer
 bogofilter
+branding-ubuntu
 brasero
 brltty
 brltty-x11
@@ -62,6 +65,7 @@ network-manager-gnome
 onboard
 pcmciautils
 pitivi
+plymouth-x11
 pm-utils-powersave-policy
 pulseaudio-module-bluetooth
 pulseaudio-module-gconf

@@ -1,3 +1,17 @@
+ubuntu-meta (1.187) lucid; urgency=low
+
+  * Refreshed dependencies
+  * Added bluez to desktop-recommends
+  * Added bluez-alsa to desktop-recommends
+  * Added bluez-gstreamer to desktop-recommends
+  * Added branding-ubuntu to desktop-recommends
+  * Added inputattach to desktop [sparc]
+  * Added irqbalance to standard-recommends
+  * Added plymouth-x11 to desktop-recommends
+  * Removed bluez-utils from desktop-recommends
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Mon, 22 Feb 2010 17:10:05 -0800
+
 ubuntu-meta (1.186) lucid; urgency=low
 
   * Refreshed dependencies

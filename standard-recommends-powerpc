@@ -5,6 +5,7 @@ command-not-found
 friendly-recovery
 iputils-arping
 iputils-tracepath
+irqbalance
 manpages
 mlocate
 mtr-tiny
