@@ -1,3 +1,10 @@
+ubuntu-meta (1.189) lucid; urgency=low
+
+  * Refreshed dependencies
+  * Added libgail-gnome-module to desktop-recommends
+
+ -- Luke Yelavich <themuso@ubuntu.com>  Tue, 02 Mar 2010 10:55:45 +1100
+
 ubuntu-meta (1.188) lucid; urgency=low
 
   * Refreshed dependencies

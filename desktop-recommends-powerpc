@@ -54,6 +54,7 @@ indicator-messages
 jockey-gtk
 kerneloops-daemon
 laptop-detect
+libgail-gnome-module
 libgl1-mesa-dri
 libnss-mdns
 libpam-gnome-keyring
