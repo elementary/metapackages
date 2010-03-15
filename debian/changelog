@@ -1,3 +1,11 @@
+ubuntu-meta (1.190) lucid; urgency=low
+
+  * Refreshed dependencies
+  * Added network-manager-pptp to desktop-recommends (LP: #107738)
+  * Added network-manager-pptp-gnome to desktop-recommends
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 15 Mar 2010 07:51:48 +0100
+
 ubuntu-meta (1.189) lucid; urgency=low
 
   * Refreshed dependencies
