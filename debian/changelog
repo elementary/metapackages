@@ -1,3 +1,11 @@
+ubuntu-meta (1.191) lucid; urgency=low
+
+  * Refreshed dependencies
+  * Added policykit-desktop-privileges to desktop-recommends (LP: #455694)
+  * Removed xsplash from desktop
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 22 Mar 2010 16:23:23 +0100
+
 ubuntu-meta (1.190) lucid; urgency=low
 
   * Refreshed dependencies

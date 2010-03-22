@@ -73,6 +73,7 @@ pcmciautils
 pitivi
 plymouth-x11
 pm-utils-powersave-policy
+policykit-desktop-privileges
 pulseaudio-module-bluetooth
 pulseaudio-module-gconf
 pulseaudio-module-x11
