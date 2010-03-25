@@ -57,6 +57,7 @@ libgl1-mesa-glx
 libgnome2-perl
 libpam-ck-connector
 libsasl2-modules
+libsdl1.2debian
 libsdl1.2debian-pulseaudio
 libxp6
 metacity
