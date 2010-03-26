@@ -1,3 +1,13 @@
+ubuntu-meta (1.193) lucid; urgency=low
+
+  * Refreshed dependencies
+  * Added plymouth-theme-ubuntu-logo to standard-recommends [amd64 armel
+    i386 ia64]
+  * Added plymouth-theme-ubuntu-text to standard-recommends [amd64 armel
+    i386 ia64]
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Fri, 26 Mar 2010 22:14:31 -0700
+
 ubuntu-meta (1.192) lucid; urgency=low
 
   * Refreshed dependencies
