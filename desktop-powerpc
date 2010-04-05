@@ -66,6 +66,7 @@ nautilus-sendto
 notify-osd
 openprinting-ppds
 pbbuttonsd
+plymouth-theme-ubuntu-logo
 pnm2ppa
 pulseaudio
 pulseaudio-esound-compat
