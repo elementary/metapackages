@@ -71,6 +71,7 @@ network-manager-pptp-gnome
 onboard
 pcmciautils
 pitivi
+plymouth-theme-ubuntu-logo
 plymouth-x11
 pm-utils-powersave-policy
 policykit-desktop-privileges
@@ -91,9 +92,10 @@ totem-mozilla
 transmission-gtk
 tsclient
 ttf-indic-fonts-core
-ttf-kacst
+ttf-kacst-one
 ttf-lao
 ttf-liberation
+ttf-punjabi-fonts
 ttf-thai-tlwg
 ttf-unfonts-core
 ttf-vlgothic

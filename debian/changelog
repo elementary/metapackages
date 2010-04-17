@@ -1,3 +1,13 @@
+ubuntu-meta (1.196) lucid; urgency=low
+
+  * Refreshed dependencies
+  * Added ttf-kacst-one to desktop-recommends
+  * Added ttf-punjabi-fonts to desktop-recommends
+  * Removed ttf-kacst from desktop-recommends
+  * Moved plymouth-theme-ubuntu-logo to desktop-recommends
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Sat, 17 Apr 2010 03:13:03 -0700
+
 ubuntu-meta (1.195) lucid; urgency=low
 
   * Refreshed dependencies
