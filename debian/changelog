@@ -1,3 +1,12 @@
+ubuntu-meta (1.198) maverick; urgency=low
+
+  * update.cfg: Switch to maverick.
+  * Convert to source format 3.0 (native).
+  * Refreshed dependencies
+  * Removed libc6-i686 from minimal [i386]
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Thu, 20 May 2010 23:53:27 +0100
+
 ubuntu-meta (1.197) lucid; urgency=low
 
   * Refreshed dependencies
