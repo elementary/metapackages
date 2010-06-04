@@ -35,7 +35,6 @@ python
 rsyslog
 sparc-utils
 sudo
-tasksel
 tzdata
 ubuntu-keyring
 udev

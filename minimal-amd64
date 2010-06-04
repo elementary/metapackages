@@ -28,7 +28,6 @@ procps
 python
 rsyslog
 sudo
-tasksel
 tzdata
 ubuntu-keyring
 udev
