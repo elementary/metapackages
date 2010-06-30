@@ -1,3 +1,22 @@
+ubuntu-meta (1.200) maverick; urgency=low
+
+  * Refreshed dependencies
+  * Added unclutter to desktop-recommends
+  * Removed bootchart from desktop-recommends [armel]
+  * Removed dash from minimal
+  * Removed dvd+rw-tools from desktop-recommends
+  * Removed openoffice.org-calc from desktop-recommends [armel]
+  * Removed openoffice.org-gnome from desktop-recommends [armel]
+  * Removed openoffice.org-help-en-us from desktop-recommends [armel]
+  * Removed openoffice.org-impress from desktop-recommends [armel]
+  * Removed openoffice.org-math from desktop-recommends [armel]
+  * Removed openoffice.org-style-human from desktop-recommends [armel]
+  * Removed openoffice.org-writer from desktop-recommends [armel]
+  * Removed pybootchartgui from desktop-recommends [armel]
+  * Removed wodim from desktop-recommends
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 30 Jun 2010 10:45:36 +0200
+
 ubuntu-meta (1.199) maverick; urgency=low
 
   * Remove remaining traces of hppa and lpia.

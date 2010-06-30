@@ -16,7 +16,6 @@ brltty-x11
 cdparanoia
 compiz
 computer-janitor-gtk
-dvd+rw-tools
 empathy
 espeak
 evolution
@@ -104,8 +103,8 @@ ttf-wqy-microhei
 ubufox
 ubuntu-docs
 ubuntuone-client-gnome
+unclutter
 vinagre
 vino
-wodim
 xcursor-themes
 xdg-utils

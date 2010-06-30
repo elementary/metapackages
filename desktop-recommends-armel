@@ -8,14 +8,12 @@ bluez-alsa
 bluez-cups
 bluez-gstreamer
 bogofilter
-bootchart
 branding-ubuntu
 brasero
 brltty
 brltty-x11
 cdparanoia
 computer-janitor-gtk
-dvd+rw-tools
 empathy
 espeak
 evolution
@@ -69,13 +67,6 @@ network-manager-gnome
 network-manager-pptp
 network-manager-pptp-gnome
 onboard
-openoffice.org-calc
-openoffice.org-gnome
-openoffice.org-help-en-us
-openoffice.org-impress
-openoffice.org-math
-openoffice.org-style-human
-openoffice.org-writer
 pcmciautils
 pitivi
 plymouth-theme-ubuntu-logo
@@ -86,7 +77,6 @@ pulseaudio-module-bluetooth
 pulseaudio-module-gconf
 pulseaudio-module-x11
 pxljr
-pybootchartgui
 quadrapassel
 rhythmbox
 rhythmbox-ubuntuone-music-store
@@ -112,8 +102,8 @@ ttf-wqy-microhei
 ubufox
 ubuntu-docs
 ubuntuone-client-gnome
+unclutter
 vinagre
 vino
-wodim
 xcursor-themes
 xdg-utils
