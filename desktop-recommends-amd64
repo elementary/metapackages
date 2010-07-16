@@ -79,7 +79,6 @@ pcmciautils
 pitivi
 plymouth-theme-ubuntu-logo
 plymouth-x11
-pm-utils-powersave-policy
 policykit-desktop-privileges
 pulseaudio-module-bluetooth
 pulseaudio-module-gconf
@@ -110,7 +109,6 @@ ttf-wqy-microhei
 ubufox
 ubuntu-docs
 ubuntuone-client-gnome
-unclutter
 usb-creator-gtk
 vinagre
 vino

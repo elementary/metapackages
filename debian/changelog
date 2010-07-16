@@ -1,3 +1,11 @@
+ubuntu-meta (1.201) maverick; urgency=low
+
+  * Refreshed dependencies
+  * Removed pm-utils-powersave-policy from desktop-recommends
+  * Removed unclutter from desktop-recommends
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 16 Jul 2010 06:58:07 +0200
+
 ubuntu-meta (1.200) maverick; urgency=low
 
   * Refreshed dependencies
