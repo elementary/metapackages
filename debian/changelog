@@ -1,3 +1,20 @@
+ubuntu-meta (1.202) maverick; urgency=low
+
+  * Refreshed dependencies
+  * Added ibus-pinyin to desktop-recommends
+  * Added ibus-pinyin-db-android to desktop-recommends
+  * Added shotwell to desktop-recommends
+  * Removed bogofilter from desktop-recommends
+  * Removed cdparanoia from desktop-recommends
+  * Removed f-spot from desktop-recommends
+  * Removed gdebi from desktop
+  * Removed ibus-m17n from desktop-recommends
+  * Removed libgl1-mesa-dri from desktop-recommends
+  * Removed libgl1-mesa-glx from desktop
+  * Removed plymouth-x11 from desktop-recommends
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Sat, 21 Aug 2010 09:58:51 +0200
+
 ubuntu-meta (1.201) maverick; urgency=low
 
   * Refreshed dependencies

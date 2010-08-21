@@ -20,7 +20,6 @@ foomatic-db-engine
 foomatic-filters
 gcalctool
 gconf-editor
-gdebi
 gdm
 gedit
 genisoimage
@@ -54,7 +53,6 @@ language-selector
 launchpad-integration
 lftp
 libgd2-xpm
-libgl1-mesa-glx
 libgnome2-perl
 libpam-ck-connector
 libsasl2-modules

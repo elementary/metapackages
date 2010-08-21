@@ -7,12 +7,10 @@ bluez
 bluez-alsa
 bluez-cups
 bluez-gstreamer
-bogofilter
 branding-ubuntu
 brasero
 brltty
 brltty-x11
-cdparanoia
 compiz
 computer-janitor-gtk
 empathy
@@ -24,7 +22,6 @@ evolution-indicator
 evolution-plugins
 evolution-webcal
 example-content
-f-spot
 firefox
 firefox-gnome-support
 foo2zjs
@@ -46,7 +43,8 @@ gvfs-fuse
 hplip
 ibus
 ibus-gtk
-ibus-m17n
+ibus-pinyin
+ibus-pinyin-db-android
 ibus-table
 im-switch
 indicator-messages
@@ -54,7 +52,6 @@ jockey-gtk
 kerneloops-daemon
 laptop-detect
 libgail-gnome-module
-libgl1-mesa-dri
 libnss-mdns
 libpam-gnome-keyring
 libwmf0.2-7-gtk
@@ -76,7 +73,6 @@ openoffice.org-writer
 pcmciautils
 pitivi
 plymouth-theme-ubuntu-logo
-plymouth-x11
 policykit-desktop-privileges
 pulseaudio-module-bluetooth
 pulseaudio-module-gconf
@@ -85,6 +81,7 @@ pxljr
 quadrapassel
 rhythmbox
 rhythmbox-ubuntuone-music-store
+shotwell
 simple-scan
 speech-dispatcher
 splix
