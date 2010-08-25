@@ -1,3 +1,10 @@
+ubuntu-meta (1.203) maverick; urgency=low
+
+  * Refreshed dependencies
+  * Removed linux-headers-imx51 from desktop-recommends [armel]
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Wed, 25 Aug 2010 19:26:39 +0000
+
 ubuntu-meta (1.202) maverick; urgency=low
 
   * Refreshed dependencies
