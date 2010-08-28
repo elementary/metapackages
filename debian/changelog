@@ -1,3 +1,11 @@
+ubuntu-meta (1.204) maverick; urgency=low
+
+  * Removed support for ia64 and sparc.
+  * Refreshed dependencies
+  * Removed iputils-arping from standard-recommends
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Sat, 28 Aug 2010 01:21:39 +0100
+
 ubuntu-meta (1.203) maverick; urgency=low
 
   * Refreshed dependencies

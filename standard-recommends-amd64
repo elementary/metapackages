@@ -3,7 +3,6 @@ apt-transport-https
 bash-completion
 command-not-found
 friendly-recovery
-iputils-arping
 iputils-tracepath
 irqbalance
 manpages
