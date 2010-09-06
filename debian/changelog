@@ -1,3 +1,12 @@
+ubuntu-meta (1.205) maverick; urgency=low
+
+  * Refreshed dependencies
+  * Added foomatic-db-compressed-ppds to desktop
+  * Removed foomatic-db from desktop
+  * Removed foomatic-db-engine from desktop
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Mon, 06 Sep 2010 11:39:21 +0100
+
 ubuntu-meta (1.204) maverick; urgency=low
 
   * Removed support for ia64 and sparc.

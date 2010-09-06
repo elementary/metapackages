@@ -14,8 +14,7 @@ doc-base
 eog
 evince
 file-roller
-foomatic-db
-foomatic-db-engine
+foomatic-db-compressed-ppds
 foomatic-filters
 gcalctool
 gconf-editor
