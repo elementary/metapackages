@@ -1,3 +1,10 @@
+ubuntu-meta (1.206) maverick; urgency=low
+
+  * Refreshed dependencies
+  * Added ubuntu-extras-keyring to desktop (LP: #645436)
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Sun, 26 Sep 2010 18:04:39 +0100
+
 ubuntu-meta (1.205) maverick; urgency=low
 
   * Refreshed dependencies

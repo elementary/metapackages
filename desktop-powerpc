@@ -79,6 +79,7 @@ system-config-printer-gnome
 ttf-dejavu-core
 ttf-freefont
 ubuntu-artwork
+ubuntu-extras-keyring
 ubuntu-sounds
 unzip
 update-manager
