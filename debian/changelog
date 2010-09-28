@@ -1,3 +1,10 @@
+ubuntu-meta (1.207) maverick; urgency=low
+
+  * Refreshed dependencies
+  * Added ttf-ubuntu-font-family to desktop
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 28 Sep 2010 07:52:44 +0100
+
 ubuntu-meta (1.206) maverick; urgency=low
 
   * Refreshed dependencies
