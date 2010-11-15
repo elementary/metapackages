@@ -2,6 +2,7 @@ alacarte
 alsa-base
 alsa-utils
 anacron
+baobab
 bc
 ca-certificates
 checkbox-gtk
@@ -31,14 +32,15 @@ gnome-menus
 gnome-nettool
 gnome-panel
 gnome-power-manager
+gnome-screenshot
+gnome-search-tool
 gnome-session
 gnome-session-canberra
+gnome-system-log
 gnome-system-monitor
-gnome-system-tools
 gnome-terminal
 gnome-themes-selected
 gnome-themes-ubuntu
-gnome-utils
 gstreamer0.10-alsa
 gstreamer0.10-plugins-base-apps
 gstreamer0.10-pulseaudio
@@ -51,7 +53,6 @@ language-selector
 launchpad-integration
 lftp
 libgd2-xpm
-libgnome2-perl
 libpam-ck-connector
 libsasl2-modules
 libsdl1.2debian

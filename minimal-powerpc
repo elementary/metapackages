@@ -4,13 +4,13 @@ apt-utils
 bzip2
 console-setup
 debconf
-dhcp3-client
 eject
 gnupg
 ifupdown
 initramfs-tools
 iproute
 iputils-ping
+isc-dhcp-client
 kbd
 less
 locales

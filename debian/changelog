@@ -1,3 +1,19 @@
+ubuntu-meta (1.208) natty; urgency=low
+
+  * update.cfg: Switch to natty.
+  * Refreshed dependencies
+  * Added baobab to desktop
+  * Added gnome-screenshot to desktop
+  * Added gnome-search-tool to desktop
+  * Added gnome-system-log to desktop
+  * Added isc-dhcp-client to minimal
+  * Removed dhcp3-client from minimal
+  * Removed gnome-system-tools from desktop
+  * Removed gnome-utils from desktop
+  * Removed libgnome2-perl from desktop
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Mon, 15 Nov 2010 15:19:18 +0000
+
 ubuntu-meta (1.207) maverick; urgency=low
 
   * Refreshed dependencies
