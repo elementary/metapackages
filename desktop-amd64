@@ -67,7 +67,6 @@ pnm2ppa
 pulseaudio
 pulseaudio-esound-compat
 rarian-compat
-screen
 screensaver-default-images
 seahorse
 smbclient
@@ -81,6 +80,7 @@ ttf-freefont
 ubuntu-artwork
 ubuntu-extras-keyring
 ubuntu-sounds
+unity
 unzip
 update-manager
 update-notifier
