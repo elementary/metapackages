@@ -25,6 +25,7 @@ ntpdate
 passwd
 procps
 python
+python2.7
 rsyslog
 sudo
 tzdata
