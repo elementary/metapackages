@@ -1,3 +1,13 @@
+ubuntu-meta (1.212) natty; urgency=low
+
+  * Refreshed dependencies
+  * Added banshee to desktop-recommends
+  * Added banshee-extension-ubuntuonemusicstore to desktop-recommends
+  * Removed rhythmbox from desktop-recommends
+  * Removed rhythmbox-ubuntuone-music-store from desktop-recommends
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 07 Jan 2011 12:28:47 +0100
+
 ubuntu-meta (1.211) natty; urgency=low
 
   * Refreshed dependencies

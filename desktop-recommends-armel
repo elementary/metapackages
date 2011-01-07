@@ -3,6 +3,8 @@ app-install-data-partner
 apport-gtk
 avahi-autoipd
 avahi-daemon
+banshee
+banshee-extension-ubuntuonemusicstore
 bluez
 bluez-alsa
 bluez-cups
@@ -71,8 +73,6 @@ pulseaudio-module-gconf
 pulseaudio-module-x11
 pxljr
 quadrapassel
-rhythmbox
-rhythmbox-ubuntuone-music-store
 shotwell
 simple-scan
 speech-dispatcher
