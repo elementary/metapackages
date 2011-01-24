@@ -1,3 +1,34 @@
+ubuntu-meta (1.213) natty; urgency=low
+
+  * Refreshed dependencies
+  * Added libreoffice-calc to desktop-recommends [amd64 i386 powerpc]
+  * Added libreoffice-gnome to desktop-recommends [amd64 i386 powerpc]
+  * Added libreoffice-help-en-us to desktop-recommends [amd64 i386
+    powerpc]
+  * Added libreoffice-impress to desktop-recommends [amd64 i386 powerpc]
+  * Added libreoffice-math to desktop-recommends [amd64 i386 powerpc]
+  * Added libreoffice-style-galaxy to desktop-recommends [amd64 i386
+    powerpc]
+  * Added libreoffice-writer to desktop-recommends [amd64 i386 powerpc]
+  * Removed openoffice.org-calc from desktop-recommends [amd64 i386
+    powerpc]
+  * Removed openoffice.org-gnome from desktop-recommends [amd64 i386
+    powerpc]
+  * Removed openoffice.org-help-en-us from desktop-recommends [amd64
+    i386 powerpc]
+  * Removed openoffice.org-impress from desktop-recommends [amd64 i386
+    powerpc]
+  * Removed openoffice.org-math from desktop-recommends [amd64 i386
+    powerpc]
+  * Removed openoffice.org-style-human from desktop-recommends [amd64
+    i386 powerpc]
+  * Removed openoffice.org-writer from desktop-recommends [amd64 i386
+    powerpc]
+  * Removed quadrapassel from desktop-recommends
+  * Removed w3m from standard-recommends
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 24 Jan 2011 07:59:44 +0100
+
 ubuntu-meta (1.212) natty; urgency=low
 
   * Refreshed dependencies

@@ -56,6 +56,13 @@ laptop-detect
 libgail-gnome-module
 libnss-mdns
 libpam-gnome-keyring
+libreoffice-calc
+libreoffice-gnome
+libreoffice-help-en-us
+libreoffice-impress
+libreoffice-math
+libreoffice-style-galaxy
+libreoffice-writer
 libwmf0.2-7-gtk
 linux-headers-generic
 make
@@ -66,13 +73,6 @@ network-manager-gnome
 network-manager-pptp
 network-manager-pptp-gnome
 onboard
-openoffice.org-calc
-openoffice.org-gnome
-openoffice.org-help-en-us
-openoffice.org-impress
-openoffice.org-math
-openoffice.org-style-human
-openoffice.org-writer
 pcmciautils
 pitivi
 plymouth-theme-ubuntu-logo
@@ -81,7 +81,6 @@ pulseaudio-module-bluetooth
 pulseaudio-module-gconf
 pulseaudio-module-x11
 pxljr
-quadrapassel
 shotwell
 simple-scan
 speech-dispatcher
