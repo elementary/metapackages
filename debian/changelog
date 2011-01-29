@@ -1,3 +1,13 @@
+ubuntu-meta (1.214) natty; urgency=low
+
+  * Refreshed dependencies
+  * Added libreoffice-style-tango to desktop-recommends [amd64 i386
+    powerpc]
+  * Removed libreoffice-style-galaxy from desktop-recommends [amd64 i386
+    powerpc]
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Sat, 29 Jan 2011 17:18:00 +0100
+
 ubuntu-meta (1.213) natty; urgency=low
 
   * Refreshed dependencies
