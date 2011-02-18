@@ -28,6 +28,7 @@ foo2zjs
 gbrainy
 gcc
 gdm-guest-session
+ginn
 gnome-accessibility-themes
 gnome-bluetooth
 gnome-codec-install
@@ -55,7 +56,6 @@ libgail-gnome-module
 libnss-mdns
 libpam-gnome-keyring
 libwmf0.2-7-gtk
-linux-headers-dove
 make
 min12xxw
 mousetweaks

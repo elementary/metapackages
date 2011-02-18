@@ -1,3 +1,11 @@
+ubuntu-meta (1.215) natty; urgency=low
+
+  * Refreshed dependencies
+  * Added ginn to desktop-recommends
+  * Removed linux-headers-dove from desktop-recommends [armel]
+
+ -- Didier Roche <didrocks@ubuntu.com>  Fri, 18 Feb 2011 10:21:45 +0100
+
 ubuntu-meta (1.214) natty; urgency=low
 
   * Refreshed dependencies
