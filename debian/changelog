@@ -1,3 +1,14 @@
+ubuntu-meta (1.217) natty; urgency=low
+
+  * Refreshed dependencies
+  * Added libreoffice-style-human to desktop-recommends [amd64 i386
+    powerpc]
+  * Added nvidia-common to desktop [amd64 i386] (LP: #704597)
+  * Removed libreoffice-style-tango from desktop-recommends [amd64 i386
+    powerpc]
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 28 Feb 2011 12:21:50 +0100
+
 ubuntu-meta (1.216) natty; urgency=low
 
   * Refreshed dependencies
