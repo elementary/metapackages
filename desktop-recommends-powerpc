@@ -1,4 +1,3 @@
-aisleriot
 app-install-data-partner
 apport-gtk
 avahi-autoipd
@@ -9,7 +8,6 @@ bluez
 bluez-alsa
 bluez-cups
 bluez-gstreamer
-branding-ubuntu
 brasero
 brltty
 brltty-x11
@@ -26,7 +24,6 @@ example-content
 firefox
 firefox-gnome-support
 foo2zjs
-gbrainy
 gcc
 gdm-guest-session
 ginn
@@ -35,12 +32,9 @@ gnome-bluetooth
 gnome-codec-install
 gnome-disk-utility
 gnome-mag
-gnome-mahjongg
 gnome-orca
 gnome-screensaver
-gnome-sudoku
 gnome-user-guide
-gnomine
 gvfs-fuse
 hplip
 ibus

@@ -1,3 +1,16 @@
+ubuntu-meta (1.218) natty; urgency=low
+
+  * Refreshed dependencies
+  * Added rfkill to desktop
+  * Removed aisleriot from desktop-recommends [powerpc]
+  * Removed branding-ubuntu from desktop-recommends [powerpc]
+  * Removed gbrainy from desktop-recommends [powerpc]
+  * Removed gnome-mahjongg from desktop-recommends [powerpc]
+  * Removed gnome-sudoku from desktop-recommends [powerpc]
+  * Removed gnomine from desktop-recommends [powerpc]
+
+ -- Luke Yelavich <themuso@ubuntu.com>  Fri, 01 Apr 2011 23:02:53 +1100
+
 ubuntu-meta (1.217) natty; urgency=low
 
   * Refreshed dependencies

@@ -69,6 +69,7 @@ pnm2ppa
 pulseaudio
 pulseaudio-esound-compat
 rarian-compat
+rfkill
 screensaver-default-images
 seahorse
 smbclient
