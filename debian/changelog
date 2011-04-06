@@ -1,3 +1,10 @@
+ubuntu-meta (1.219) natty; urgency=low
+
+  * Refreshed dependencies
+  * Added overlay-scrollbar to desktop-recommends
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 06 Apr 2011 23:12:11 +0200
+
 ubuntu-meta (1.218) natty; urgency=low
 
   * Refreshed dependencies
