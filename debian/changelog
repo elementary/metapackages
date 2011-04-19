@@ -1,3 +1,11 @@
+ubuntu-meta (1.220) natty; urgency=low
+
+  * Refreshed dependencies
+  * Added xul-ext-ubufox to desktop-recommends
+  * Removed ubufox from desktop-recommends (LP: #751431)
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 19 Apr 2011 11:14:49 +0200
+
 ubuntu-meta (1.219) natty; urgency=low
 
   * Refreshed dependencies

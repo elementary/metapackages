@@ -104,7 +104,6 @@ ttf-thai-tlwg
 ttf-ubuntu-font-family
 ttf-unfonts-core
 ttf-wqy-microhei
-ubufox
 ubuntu-docs
 ubuntuone-client-gnome
 usb-creator-gtk
@@ -112,3 +111,4 @@ vinagre
 vino
 xcursor-themes
 xdg-utils
+xul-ext-ubufox
