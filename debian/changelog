@@ -1,3 +1,11 @@
+ubuntu-meta (1.222) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Added libnotify-bin to desktop
+  * Added unity-2d to desktop
+
+ -- Didier Roche <didrocks@ubuntu.com>  Thu, 26 May 2011 16:33:30 +0200
+
 ubuntu-meta (1.221) oneiric; urgency=low
 
   * update.cfg: switch to oneiric.

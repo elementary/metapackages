@@ -55,6 +55,7 @@ language-selector-gnome
 launchpad-integration
 lftp
 libgd2-xpm
+libnotify-bin
 libpam-ck-connector
 libsasl2-modules
 libsdl1.2debian
@@ -84,6 +85,7 @@ ubuntu-artwork
 ubuntu-extras-keyring
 ubuntu-sounds
 unity
+unity-2d
 unzip
 update-manager
 update-notifier
