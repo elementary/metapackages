@@ -1,3 +1,24 @@
+ubuntu-meta (1.223) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Removed alacarte from desktop
+  * Removed compiz from desktop-recommends [amd64 i386 powerpc]
+  * Removed desktop-file-utils from desktop
+  * Removed gconf-editor from desktop
+  * Removed gnome-about from desktop
+  * Removed gnome-applets from desktop
+  * Removed gnome-icon-theme from desktop
+  * Removed gnome-panel from desktop
+  * Removed gnome-system-tools from desktop
+  * Removed gnome-themes-ubuntu from desktop
+  * Removed gtk2-engines from desktop
+  * Removed gtk2-engines-pixbuf from desktop
+  * Removed metacity from desktop
+  * Removed pulseaudio-esound-compat from desktop
+  * debian/control: Bump Standards-Version to 3.9.2 (no changes necessary).
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 27 May 2011 09:04:47 +0200
+
 ubuntu-meta (1.222) oneiric; urgency=low
 
   * Refreshed dependencies

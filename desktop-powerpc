@@ -1,4 +1,3 @@
-alacarte
 alsa-base
 alsa-utils
 anacron
@@ -10,7 +9,6 @@ cups
 cups-bsd
 cups-client
 dc
-desktop-file-utils
 doc-base
 eog
 evince
@@ -18,19 +16,14 @@ file-roller
 foomatic-db-compressed-ppds
 foomatic-filters
 gcalctool
-gconf-editor
 gdm
 gedit
 genisoimage
 ghostscript-x
-gnome-about
-gnome-applets
 gnome-control-center
-gnome-icon-theme
 gnome-media
 gnome-menus
 gnome-nettool
-gnome-panel
 gnome-power-manager
 gnome-screenshot
 gnome-search-tool
@@ -38,15 +31,11 @@ gnome-session
 gnome-session-canberra
 gnome-system-log
 gnome-system-monitor
-gnome-system-tools
 gnome-terminal
 gnome-themes-selected
-gnome-themes-ubuntu
 gstreamer0.10-alsa
 gstreamer0.10-plugins-base-apps
 gstreamer0.10-pulseaudio
-gtk2-engines
-gtk2-engines-pixbuf
 gucharmap
 indicator-applet-session
 inputattach
@@ -60,7 +49,6 @@ libsasl2-modules
 libsdl1.2debian
 libsdl1.2debian-pulseaudio
 libxp6
-metacity
 nautilus
 nautilus-sendto
 notify-osd
@@ -68,7 +56,6 @@ openprinting-ppds
 pbbuttonsd
 pnm2ppa
 pulseaudio
-pulseaudio-esound-compat
 rarian-compat
 rfkill
 screensaver-default-images
