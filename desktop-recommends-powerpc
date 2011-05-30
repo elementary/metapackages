@@ -11,7 +11,6 @@ bluez-gstreamer
 brasero
 brltty
 brltty-x11
-computer-janitor-gtk
 empathy
 espeak
 evolution
@@ -42,7 +41,6 @@ ibus-pinyin
 ibus-pinyin-db-android
 ibus-table
 im-switch
-indicator-messages
 jockey-gtk
 kerneloops-daemon
 laptop-detect
@@ -67,7 +65,6 @@ network-manager-pptp-gnome
 onboard
 overlay-scrollbar
 pcmciautils
-pitivi
 plymouth-theme-ubuntu-logo
 policykit-desktop-privileges
 pulseaudio-module-bluetooth

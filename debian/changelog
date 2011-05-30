@@ -1,3 +1,13 @@
+ubuntu-meta (1.224) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Removed computer-janitor-gtk from desktop-recommends
+  * Removed indicator-applet-session from desktop
+  * Removed indicator-messages from desktop-recommends
+  * Removed pitivi from desktop-recommends
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 30 May 2011 15:31:41 +0200
+
 ubuntu-meta (1.223) oneiric; urgency=low
 
   * Refreshed dependencies
