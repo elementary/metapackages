@@ -1,6 +1,7 @@
 aisleriot
 app-install-data-partner
 apport-gtk
+at-spi2-core
 avahi-autoipd
 avahi-daemon
 banshee
@@ -12,9 +13,7 @@ bluez-gstreamer
 branding-ubuntu
 brasero
 brltty
-brltty-x11
 empathy
-espeak
 evolution
 evolution-exchange
 evolution-indicator
@@ -32,7 +31,6 @@ gnome-accessibility-themes
 gnome-bluetooth
 gnome-codec-install
 gnome-disk-utility
-gnome-mag
 gnome-mahjongg
 gnome-orca
 gnome-screensaver
@@ -50,7 +48,6 @@ im-switch
 jockey-gtk
 kerneloops-daemon
 laptop-detect
-libgail-gnome-module
 libnss-mdns
 libpam-gnome-keyring
 libwmf0.2-7-gtk

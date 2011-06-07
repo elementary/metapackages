@@ -1,3 +1,15 @@
+ubuntu-meta (1.226) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Added at-spi2-core to desktop-recommends
+  * Removed brltty-x11 from desktop-recommends
+  * Removed espeak from desktop-recommends
+  * Removed gnome-mag from desktop-recommends
+  * Removed libgail-gnome-module from desktop-recommends
+  * Removed smbclient from desktop
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 07 Jun 2011 08:32:10 +0200
+
 ubuntu-meta (1.225) oneiric; urgency=low
 
   * Refreshed dependencies
