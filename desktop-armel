@@ -17,7 +17,6 @@ file-roller
 foomatic-db-compressed-ppds
 foomatic-filters
 gcalctool
-gdm
 gedit
 genisoimage
 ghostscript-x
@@ -49,6 +48,7 @@ libsasl2-modules
 libsdl1.2debian
 libsdl1.2debian-pulseaudio
 libxp6
+lightdm
 nautilus
 nautilus-sendto
 notify-osd
