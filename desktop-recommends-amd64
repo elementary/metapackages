@@ -48,6 +48,8 @@ im-switch
 jockey-gtk
 kerneloops-daemon
 laptop-detect
+libatk-adaptor
+libgail-3-common
 libnss-mdns
 libpam-gnome-keyring
 libreoffice-calc

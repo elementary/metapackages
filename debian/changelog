@@ -1,3 +1,11 @@
+ubuntu-meta (1.228) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Added libatk-adaptor to desktop-recommends
+  * Added libgail-3-common to desktop-recommends
+
+ -- Luke Yelavich <themuso@ubuntu.com>  Wed, 15 Jun 2011 14:55:01 +1000
+
 ubuntu-meta (1.227) oneiric; urgency=low
 
   * Refreshed dependencies
