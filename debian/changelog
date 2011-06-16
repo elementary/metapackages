@@ -1,3 +1,10 @@
+ubuntu-meta (1.230) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Added debconf-i18n to minimal
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Thu, 16 Jun 2011 20:56:18 +0100
+
 ubuntu-meta (1.229) oneiric; urgency=low
 
   * Refreshed dependencies
