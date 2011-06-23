@@ -14,6 +14,7 @@ bluez-gstreamer
 branding-ubuntu
 brasero
 brltty
+deja-dup
 empathy
 evolution
 evolution-exchange
@@ -50,6 +51,7 @@ kerneloops-daemon
 laptop-detect
 libatk-adaptor
 libgail-3-common
+libgail-common
 libnss-mdns
 libpam-gnome-keyring
 libreoffice-calc
@@ -77,6 +79,7 @@ pulseaudio-module-bluetooth
 pulseaudio-module-gconf
 pulseaudio-module-x11
 pxljr
+qt-at-spi
 shotwell
 simple-scan
 speech-dispatcher

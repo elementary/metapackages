@@ -1,3 +1,13 @@
+ubuntu-meta (1.231) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Added deja-dup to desktop-recommends
+  * Added libgail-common to desktop-recommends
+  * Added qt-at-spi to desktop-recommends
+  * Removed synaptic from desktop
+
+ -- Michael Terry <mterry@ubuntu.com>  Thu, 23 Jun 2011 11:10:58 -0400
+
 ubuntu-meta (1.230) oneiric; urgency=low
 
   * Refreshed dependencies
