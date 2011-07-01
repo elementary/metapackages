@@ -15,11 +15,6 @@ brasero
 brltty
 deja-dup
 empathy
-evolution
-evolution-exchange
-evolution-indicator
-evolution-plugins
-evolution-webcal
 example-content
 firefox
 firefox-gnome-support
@@ -76,6 +71,8 @@ simple-scan
 speech-dispatcher
 splix
 telepathy-idle
+thunderbird
+thunderbird-gnome-support
 totem
 totem-mozilla
 transmission-gtk
