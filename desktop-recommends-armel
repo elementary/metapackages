@@ -35,9 +35,8 @@ gnomine
 gvfs-fuse
 hplip
 ibus
-ibus-gtk
-ibus-pinyin
-ibus-pinyin-db-android
+ibus-gtk3
+ibus-sunpinyin
 ibus-table
 im-switch
 jockey-gtk
@@ -68,11 +67,13 @@ pxljr
 qt-at-spi
 shotwell
 simple-scan
+sni-qt
 speech-dispatcher
 splix
 telepathy-idle
 thunderbird
 thunderbird-gnome-support
+tomboy
 totem
 totem-mozilla
 transmission-gtk

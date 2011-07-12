@@ -1,3 +1,16 @@
+ubuntu-meta (1.233) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Added ibus-gtk3 to desktop-recommends
+  * Added ibus-sunpinyin to desktop-recommends
+  * Added sni-qt to desktop-recommends
+  * Added tomboy to desktop-recommends
+  * Removed ibus-gtk from desktop-recommends
+  * Removed ibus-pinyin from desktop-recommends
+  * Removed ibus-pinyin-db-android from desktop-recommends
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 12 Jul 2011 16:29:37 +0200
+
 ubuntu-meta (1.232) oneiric; urgency=low
 
   * Refreshed dependencies
