@@ -36,7 +36,8 @@ gvfs-fuse
 hplip
 ibus
 ibus-gtk3
-ibus-sunpinyin
+ibus-pinyin
+ibus-pinyin-db-android
 ibus-table
 im-switch
 jockey-gtk
