@@ -1,3 +1,9 @@
+ubuntu-meta (1.235) oneiric; urgency=low
+
+  * Added xdiagnose
+
+ -- Bryce Harrington <bryce@ubuntu.com>  Thu, 21 Jul 2011 16:41:34 -0700
+
 ubuntu-meta (1.234) oneiric; urgency=low
 
   * Refreshed dependencies
