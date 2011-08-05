@@ -36,6 +36,7 @@ gstreamer0.10-alsa
 gstreamer0.10-plugins-base-apps
 gstreamer0.10-pulseaudio
 gucharmap
+gwibber
 inputattach
 language-selector-gnome
 launchpad-integration

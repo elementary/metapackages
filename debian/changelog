@@ -1,3 +1,11 @@
+ubuntu-meta (1.236) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Added gwibber to desktop
+  * Added ubuntuone-control-panel-gtk to desktop-recommends
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Fri, 05 Aug 2011 14:15:34 -0400
+
 ubuntu-meta (1.235) oneiric; urgency=low
 
   * Added xdiagnose
