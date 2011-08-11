@@ -11,6 +11,9 @@ bluez-cups
 bluez-gstreamer
 brasero
 brltty
+cups
+cups-bsd
+cups-client
 deja-dup
 empathy
 example-content
@@ -91,7 +94,6 @@ ttf-ubuntu-font-family
 ttf-unfonts-core
 ttf-wqy-microhei
 ubuntu-docs
-ubuntuone-client-gnome
 ubuntuone-control-panel-gtk
 vinagre
 vino

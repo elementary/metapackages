@@ -1,3 +1,17 @@
+ubuntu-meta (1.237) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Removed screensaver-default-images from desktop
+  * (temporarily) Removed ubuntuone-client-gnome from desktop-recommends 
+    (it does not exist in the archive currently which breaks image builds)
+  * Removed xscreensaver-data from desktop
+  * Removed xscreensaver-gl from desktop
+  * Moved cups to desktop-recommends
+  * Moved cups-bsd to desktop-recommends
+  * Moved cups-client to desktop-recommends
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Thu, 11 Aug 2011 13:40:04 +0200
+
 ubuntu-meta (1.236) oneiric; urgency=low
 
   * Refreshed dependencies

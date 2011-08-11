@@ -6,9 +6,6 @@ baobab
 bc
 ca-certificates
 checkbox-gtk
-cups
-cups-bsd
-cups-client
 dc
 doc-base
 eog
@@ -57,7 +54,6 @@ pnm2ppa
 pulseaudio
 rarian-compat
 rfkill
-screensaver-default-images
 seahorse
 software-center
 software-properties-gtk
@@ -81,8 +77,6 @@ xdg-user-dirs-gtk
 xdiagnose
 xkb-data
 xorg
-xscreensaver-data
-xscreensaver-gl
 xterm
 yelp
 zenity
