@@ -1,3 +1,13 @@
+ubuntu-meta (1.239) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Added c2esp to desktop-recommends
+  * Added ptouch-driver to desktop-recommends
+  * Added rastertosag-gdi to desktop-recommends
+  * LP: #823545
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 15 Aug 2011 11:09:52 +0200
+
 ubuntu-meta (1.238) oneiric; urgency=low
 
   * Refreshed dependencies
