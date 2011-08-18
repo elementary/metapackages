@@ -1,3 +1,12 @@
+ubuntu-meta (1.240) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Removed gnome-user-guide from desktop-recommends
+  * Moved at-spi2-core to desktop (LP: #828105)
+  * Moved libatk-adaptor to desktop
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Thu, 18 Aug 2011 06:36:35 +0200
+
 ubuntu-meta (1.239) oneiric; urgency=low
 
   * Refreshed dependencies

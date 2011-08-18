@@ -2,6 +2,7 @@ alsa-base
 alsa-utils
 anacron
 apmd
+at-spi2-core
 baobab
 bc
 ca-certificates
@@ -39,6 +40,7 @@ inputattach
 language-selector-gnome
 launchpad-integration
 lftp
+libatk-adaptor
 libgd2-xpm
 libnotify-bin
 libpam-ck-connector

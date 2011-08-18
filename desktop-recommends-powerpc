@@ -1,6 +1,5 @@
 app-install-data-partner
 apport-gtk
-at-spi2-core
 avahi-autoipd
 avahi-daemon
 banshee
@@ -29,7 +28,6 @@ gnome-codec-install
 gnome-disk-utility
 gnome-orca
 gnome-screensaver
-gnome-user-guide
 gvfs-fuse
 hplip
 ibus
@@ -41,7 +39,6 @@ im-switch
 jockey-gtk
 kerneloops-daemon
 laptop-detect
-libatk-adaptor
 libgail-3-common
 libgail-common
 libnss-mdns

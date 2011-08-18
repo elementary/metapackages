@@ -2,7 +2,6 @@ acpi-support
 aisleriot
 app-install-data-partner
 apport-gtk
-at-spi2-core
 avahi-autoipd
 avahi-daemon
 banshee
@@ -35,7 +34,6 @@ gnome-mahjongg
 gnome-orca
 gnome-screensaver
 gnome-sudoku
-gnome-user-guide
 gnomine
 gvfs-fuse
 hplip
@@ -48,7 +46,6 @@ im-switch
 jockey-gtk
 kerneloops-daemon
 laptop-detect
-libatk-adaptor
 libgail-3-common
 libgail-common
 libnss-mdns
