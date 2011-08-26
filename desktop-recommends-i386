@@ -5,7 +5,6 @@ apport-gtk
 avahi-autoipd
 avahi-daemon
 banshee
-banshee-extension-ubuntuonemusicstore
 bluez
 bluez-alsa
 bluez-cups
@@ -102,7 +101,6 @@ ttf-ubuntu-font-family
 ttf-unfonts-core
 ttf-wqy-microhei
 ubuntu-docs
-ubuntuone-control-panel-gtk
 usb-creator-gtk
 vinagre
 vino

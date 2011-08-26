@@ -1,3 +1,13 @@
+ubuntu-meta (1.241) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Removed banshee-extension-ubuntuonemusicstore from desktop-
+    recommends [amd64 armel powerpc] (LP: #833824)
+  * Removed ubuntuone-control-panel-gtk from desktop-recommends [amd64
+    armel powerpc] (LP: #833824)
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Fri, 26 Aug 2011 13:46:36 -0400
+
 ubuntu-meta (1.240) oneiric; urgency=low
 
   * Refreshed dependencies
