@@ -1,3 +1,10 @@
+ubuntu-meta (1.242) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Added ubuntuone-installer to desktop-recommends
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 29 Aug 2011 11:30:18 +0200
+
 ubuntu-meta (1.241) oneiric; urgency=low
 
   * Refreshed dependencies
