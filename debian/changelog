@@ -1,3 +1,16 @@
+ubuntu-meta (1.243) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Put back ubuntuone packages (LP: #856405):
+    - Added banshee-extension-ubuntuonemusicstore to desktop-recommends
+    - Added ubuntuone-client-gnome to desktop-recommends
+    - Added ubuntuone-control-panel-gtk to desktop-recommends
+    - Removed ubuntuone-installer from desktop-recommends
+      (Note: will still be on the image due to reverse recommends of
+      deja-dup).
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Thu, 22 Sep 2011 17:10:01 +0200
+
 ubuntu-meta (1.242) oneiric; urgency=low
 
   * Refreshed dependencies
