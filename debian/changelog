@@ -1,3 +1,10 @@
+ubuntu-meta (1.244) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Added gnome-font-viewer to desktop (LP: #839407)
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 26 Sep 2011 12:05:54 +0200
+
 ubuntu-meta (1.243) oneiric; urgency=low
 
   * Refreshed dependencies
