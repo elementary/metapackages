@@ -3,8 +3,6 @@ app-install-data-partner
 apport-gtk
 avahi-autoipd
 avahi-daemon
-banshee
-banshee-extension-ubuntuonemusicstore
 bluez
 bluez-alsa
 bluez-cups
@@ -69,6 +67,7 @@ pulseaudio-module-x11
 pxljr
 qt-at-spi
 rastertosag-gdi
+rhythmbox
 shotwell
 simple-scan
 sni-qt
