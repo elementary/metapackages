@@ -1,3 +1,18 @@
+ubuntu-meta (1.246) precise; urgency=low
+
+  * update.cfg: Switch to precise.
+  * Refreshed dependencies
+  * Added fonts-kacst-one to desktop-recommends
+  * Added fonts-lao to desktop-recommends
+  * Added fonts-liberation to desktop-recommends
+  * Added fonts-nanum to desktop-recommends
+  * Removed ttf-kacst-one from desktop-recommends
+  * Removed ttf-lao from desktop-recommends
+  * Removed ttf-liberation from desktop-recommends
+  * Removed ttf-unfonts-core from desktop-recommends
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 14 Nov 2011 10:31:38 +0100
+
 ubuntu-meta (1.245) oneiric; urgency=low
 
   * Refreshed dependencies
