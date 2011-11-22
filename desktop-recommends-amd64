@@ -49,7 +49,6 @@ im-switch
 jockey-gtk
 kerneloops-daemon
 laptop-detect
-libgail-3-common
 libgail-common
 libnss-mdns
 libpam-gnome-keyring
