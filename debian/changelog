@@ -1,3 +1,10 @@
+ubuntu-meta (1.250) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added gvfs-bin to desktop (LP: #893056)
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 23 Nov 2011 17:17:57 +0100
+
 ubuntu-meta (1.249) precise; urgency=low
 
   * Refreshed dependencies
