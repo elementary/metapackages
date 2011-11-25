@@ -4,8 +4,6 @@ app-install-data-partner
 apport-gtk
 avahi-autoipd
 avahi-daemon
-banshee
-banshee-extension-ubuntuonemusicstore
 bluez
 bluez-alsa
 bluez-cups
@@ -27,7 +25,6 @@ fonts-lao
 fonts-liberation
 fonts-nanum
 foo2zjs
-gbrainy
 gcc
 ginn
 gnome-accessibility-themes
@@ -80,6 +77,7 @@ pulseaudio-module-x11
 pxljr
 qt-at-spi
 rastertosag-gdi
+rhythmbox
 shotwell
 simple-scan
 sni-qt
@@ -88,7 +86,6 @@ splix
 telepathy-idle
 thunderbird
 thunderbird-gnome-support
-tomboy
 totem
 totem-mozilla
 transmission-gtk

@@ -24,7 +24,6 @@ fonts-lao
 fonts-liberation
 fonts-nanum
 foo2zjs
-gbrainy
 gcc
 ginn
 gnome-accessibility-themes
@@ -78,7 +77,6 @@ splix
 telepathy-idle
 thunderbird
 thunderbird-gnome-support
-tomboy
 totem
 totem-mozilla
 transmission-gtk

@@ -1,3 +1,16 @@
+ubuntu-meta (1.251) precise; urgency=low
+
+  * Refreshed dependencies for
+    https://blueprints.launchpad.net/ubuntu/+spec/desktop-p-default-apps:
+  * Added rhythmbox to desktop-recommends [amd64 i386 powerpc]
+  * Removed banshee from desktop-recommends [amd64 i386 powerpc]
+  * Removed banshee-extension-ubuntuonemusicstore from desktop-
+    recommends [amd64 i386 powerpc]
+  * Removed gbrainy from desktop-recommends [amd64 armel i386]
+  * Removed tomboy from desktop-recommends
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 25 Nov 2011 10:38:54 +0100
+
 ubuntu-meta (1.250) precise; urgency=low
 
   * Refreshed dependencies
