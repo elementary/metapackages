@@ -1,3 +1,9 @@
+ubuntu-meta (1.252) precise; urgency=low
+
+  * Add armhf.
+
+ -- Loïc Minier <loic.minier@ubuntu.com>  Mon, 05 Dec 2011 11:11:29 +0100
+
 ubuntu-meta (1.251) precise; urgency=low
 
   * Refreshed dependencies for
