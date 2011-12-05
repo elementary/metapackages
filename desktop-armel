@@ -48,7 +48,6 @@ libnotify-bin
 libpam-ck-connector
 libsasl2-modules
 libsdl1.2debian
-libsdl1.2debian-pulseaudio
 libxp6
 lightdm
 nautilus

@@ -1,3 +1,14 @@
+ubuntu-meta (1.253) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added rhythmbox to desktop-recommends [armhf]
+  * Added shotwell to desktop-recommends [armhf]
+  * Added yelp to desktop [armhf]
+  * Added zenity to desktop [armhf]
+  * Removed libsdl1.2debian-pulseaudio from desktop (LP: #898147)
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 05 Dec 2011 13:37:01 +0100
+
 ubuntu-meta (1.252) precise; urgency=low
 
   * Add armhf.
