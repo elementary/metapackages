@@ -18,6 +18,7 @@ gcalctool
 gedit
 genisoimage
 ghostscript-x
+gnome-control-center
 gnome-font-viewer
 gnome-media
 gnome-menus
@@ -35,11 +36,13 @@ gstreamer0.10-plugins-base-apps
 gstreamer0.10-pulseaudio
 gucharmap
 gvfs-bin
+gwibber
 inputattach
 language-selector-gnome
 launchpad-integration
 lftp
 libatk-adaptor
+libatk-adaptor-schemas
 libgd2-xpm
 libnotify-bin
 libpam-ck-connector
@@ -48,6 +51,7 @@ libsdl1.2debian
 libxp6
 lightdm
 nautilus
+nautilus-sendto
 notify-osd
 openprinting-ppds
 pnm2ppa
@@ -64,6 +68,7 @@ ttf-freefont
 ubuntu-artwork
 ubuntu-extras-keyring
 ubuntu-sounds
+unity
 unity-2d
 unity-greeter
 unzip

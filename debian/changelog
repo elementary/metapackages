@@ -1,3 +1,25 @@
+ubuntu-meta (1.254) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added deja-dup to desktop-recommends [armhf]
+  * Added empathy to desktop-recommends [armhf]
+  * Added fonts-khmeros-core to desktop-recommends
+  * Added fonts-takao-pgothic to desktop-recommends
+  * Added gnome-bluetooth to desktop-recommends [armhf]
+  * Added gnome-control-center to desktop [armhf]
+  * Added gwibber to desktop [armhf]
+  * Added libatk-adaptor-schemas to desktop
+  * Added ltrace to standard [armhf]
+  * Added nautilus-sendto to desktop [armhf]
+  * Added network-manager-gnome to desktop-recommends [armhf]
+  * Added pulseaudio-module-bluetooth to desktop-recommends [armhf]
+  * Added ubuntuone-client-gnome to desktop-recommends [armhf]
+  * Added unity to desktop [armhf]
+  * Removed ttf-khmeros-core from desktop-recommends
+  * Removed ttf-takao-pgothic from desktop-recommends
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 09 Dec 2011 06:35:43 +0100
+
 ubuntu-meta (1.253) precise; urgency=low
 
   * Refreshed dependencies

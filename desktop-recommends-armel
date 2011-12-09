@@ -20,9 +20,11 @@ example-content
 firefox
 firefox-gnome-support
 fonts-kacst-one
+fonts-khmeros-core
 fonts-lao
 fonts-liberation
 fonts-nanum
+fonts-takao-pgothic
 foo2zjs
 gcc
 ginn
@@ -81,9 +83,7 @@ totem
 totem-mozilla
 transmission-gtk
 ttf-indic-fonts-core
-ttf-khmeros-core
 ttf-punjabi-fonts
-ttf-takao-pgothic
 ttf-thai-tlwg
 ttf-ubuntu-font-family
 ttf-wqy-microhei
