@@ -1,3 +1,11 @@
+ubuntu-meta (1.255) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added linux-headers-generic-pae to desktop-recommends [i386]
+  * Removed linux-headers-generic from desktop-recommends [i386]
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Tue, 10 Jan 2012 10:52:56 +0000
+
 ubuntu-meta (1.254) precise; urgency=low
 
   * Refreshed dependencies
