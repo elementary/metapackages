@@ -1,7 +1,7 @@
 Source: ubuntu-meta
 Section: metapackages
 Priority: optional
-Maintainer: Matt Zimmerman <mdz@ubuntu.com>
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
 Standards-Version: 3.9.2
 Build-Depends: debhelper (>= 7.0.8), germinate (>= 1.18)
 

@@ -1,3 +1,9 @@
+ubuntu-meta (1.256) precise; urgency=low
+
+  * Change maintainer at Matt's request, to ubuntu-devel-discuss.
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Thu, 12 Jan 2012 13:03:25 +0000
+
 ubuntu-meta (1.255) precise; urgency=low
 
   * Refreshed dependencies
