@@ -1,3 +1,12 @@
+ubuntu-meta (1.257) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added mahjongg to desktop-recommends [amd64 armel armhf i386]
+  * Removed gnome-mahjongg from desktop-recommends [amd64 armel armhf
+    i386]
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Wed, 18 Jan 2012 20:24:22 -0700
+
 ubuntu-meta (1.256) precise; urgency=low
 
   * Change maintainer at Matt's request, to ubuntu-devel-discuss.

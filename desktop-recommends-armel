@@ -31,7 +31,6 @@ ginn
 gnome-accessibility-themes
 gnome-bluetooth
 gnome-disk-utility
-gnome-mahjongg
 gnome-orca
 gnome-screensaver
 gnome-sudoku
@@ -51,6 +50,7 @@ libgail-common
 libnss-mdns
 libpam-gnome-keyring
 libwmf0.2-7-gtk
+mahjongg
 make
 min12xxw
 mousetweaks
