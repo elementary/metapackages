@@ -10,7 +10,6 @@ bluez-gstreamer
 branding-ubuntu
 brasero
 brltty
-c2esp
 cups
 cups-bsd
 cups-client
@@ -63,6 +62,7 @@ overlay-scrollbar
 pcmciautils
 plymouth-theme-ubuntu-logo
 policykit-desktop-privileges
+printer-driver-c2esp
 ptouch-driver
 pulseaudio-module-bluetooth
 pulseaudio-module-gconf

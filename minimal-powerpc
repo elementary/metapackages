@@ -29,6 +29,7 @@ pmac-fdisk
 powerpc-utils
 procps
 python
+resolvconf
 rsyslog
 sudo
 tzdata
