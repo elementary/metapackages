@@ -24,6 +24,7 @@ fonts-lao
 fonts-liberation
 fonts-nanum
 fonts-takao-pgothic
+fonts-thai-tlwg
 foo2zjs
 gcc
 ginn
@@ -70,7 +71,9 @@ pulseaudio-module-x11
 pxljr
 qt-at-spi
 rastertosag-gdi
+remmina
 rhythmbox
+rhythmbox-ubuntuone
 shotwell
 simple-scan
 sni-qt
@@ -84,13 +87,11 @@ totem-mozilla
 transmission-gtk
 ttf-indic-fonts-core
 ttf-punjabi-fonts
-ttf-thai-tlwg
 ttf-ubuntu-font-family
 ttf-wqy-microhei
 ubuntu-docs
 ubuntuone-client-gnome
 ubuntuone-control-panel-gtk
-vinagre
 vino
 xcursor-themes
 xdg-utils

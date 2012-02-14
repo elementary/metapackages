@@ -26,7 +26,6 @@ gnome-menus
 gnome-nettool
 gnome-power-manager
 gnome-screenshot
-gnome-search-tool
 gnome-session
 gnome-session-canberra
 gnome-system-log
@@ -77,7 +76,6 @@ update-manager
 update-notifier
 wireless-tools
 wpasupplicant
-x-ttcidfont-conf
 xdg-user-dirs
 xdg-user-dirs-gtk
 xdiagnose

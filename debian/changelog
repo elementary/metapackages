@@ -1,3 +1,16 @@
+ubuntu-meta (1.259) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added fonts-thai-tlwg to desktop-recommends
+  * Added remmina to desktop-recommends
+  * Added rhythmbox-ubuntuone to desktop-recommends
+  * Removed gnome-search-tool from desktop
+  * Removed ttf-thai-tlwg from desktop-recommends
+  * Removed vinagre from desktop-recommends
+  * Removed x-ttcidfont-conf from desktop
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 14 Feb 2012 13:41:47 +0100
+
 ubuntu-meta (1.258) precise; urgency=low
 
   * Refreshed dependencies
