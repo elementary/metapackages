@@ -36,7 +36,6 @@ gstreamer0.10-plugins-base-apps
 gstreamer0.10-pulseaudio
 gucharmap
 gvfs-bin
-gwibber
 inputattach
 language-selector-gnome
 launchpad-integration
@@ -54,7 +53,7 @@ nautilus
 nautilus-sendto
 notify-osd
 openprinting-ppds
-pnm2ppa
+printer-driver-pnm2ppa
 pulseaudio
 rarian-compat
 rfkill

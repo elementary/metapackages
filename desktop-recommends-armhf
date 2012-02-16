@@ -1,3 +1,4 @@
+activity-log-manager-control-center
 aisleriot
 app-install-data-partner
 apport-gtk
@@ -25,7 +26,6 @@ fonts-liberation
 fonts-nanum
 fonts-takao-pgothic
 fonts-thai-tlwg
-foo2zjs
 gcc
 ginn
 gnome-accessibility-themes
@@ -36,6 +36,7 @@ gnome-screensaver
 gnome-sudoku
 gnomine
 gvfs-fuse
+gwibber
 hplip
 ibus
 ibus-gtk3
@@ -52,7 +53,6 @@ libpam-gnome-keyring
 libwmf0.2-7-gtk
 mahjongg
 make
-min12xxw
 mousetweaks
 nautilus-share
 network-manager-gnome
@@ -64,13 +64,16 @@ pcmciautils
 plymouth-theme-ubuntu-logo
 policykit-desktop-privileges
 printer-driver-c2esp
-ptouch-driver
+printer-driver-foo2zjs
+printer-driver-min12xxw
+printer-driver-ptouch
+printer-driver-pxljr
+printer-driver-sag-gdi
+printer-driver-splix
 pulseaudio-module-bluetooth
 pulseaudio-module-gconf
 pulseaudio-module-x11
-pxljr
 qt-at-spi
-rastertosag-gdi
 remmina
 rhythmbox
 rhythmbox-ubuntuone
@@ -78,7 +81,6 @@ shotwell
 simple-scan
 sni-qt
 speech-dispatcher
-splix
 telepathy-idle
 thunderbird
 thunderbird-gnome-support
