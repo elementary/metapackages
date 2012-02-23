@@ -73,6 +73,7 @@ printer-driver-splix
 pulseaudio-module-bluetooth
 pulseaudio-module-gconf
 pulseaudio-module-x11
+python-aptdaemon.pkcompat
 qt-at-spi
 remmina
 rhythmbox
@@ -95,6 +96,7 @@ ubuntu-docs
 ubuntuone-client-gnome
 ubuntuone-control-panel-gtk
 vino
+whoopsie
 xcursor-themes
 xdg-utils
 xul-ext-ubufox
