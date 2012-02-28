@@ -7,7 +7,6 @@ baobab
 bc
 ca-certificates
 checkbox-qt
-dc
 dmz-cursor-theme
 doc-base
 eog
@@ -39,7 +38,6 @@ gvfs-bin
 inputattach
 language-selector-gnome
 launchpad-integration
-lftp
 libatk-adaptor
 libatk-adaptor-schemas
 libgd2-xpm

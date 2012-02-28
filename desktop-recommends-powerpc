@@ -9,6 +9,7 @@ bluez-cups
 bluez-gstreamer
 brasero
 brltty
+cmap-adobe-japan2
 cups
 cups-bsd
 cups-client
@@ -46,6 +47,8 @@ laptop-detect
 libgail-common
 libnss-mdns
 libpam-gnome-keyring
+libproxy1-plugin-gsettings
+libproxy1-plugin-networkmanager
 libreoffice-calc
 libreoffice-gnome
 libreoffice-help-en-us

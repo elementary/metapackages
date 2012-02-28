@@ -1,3 +1,14 @@
+ubuntu-meta (1.262) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added cmap-adobe-japan2 to desktop-recommends
+  * Added libproxy1-plugin-gsettings to desktop-recommends
+  * Added libproxy1-plugin-networkmanager to desktop-recommends
+  * Removed dc from desktop
+  * Removed lftp from desktop
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 28 Feb 2012 09:58:25 +0100
+
 ubuntu-meta (1.261) precise; urgency=low
 
   * Refreshed dependencies

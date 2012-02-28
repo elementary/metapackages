@@ -11,6 +11,7 @@ bluez-gstreamer
 branding-ubuntu
 brasero
 brltty
+cmap-adobe-japan2
 cups
 cups-bsd
 cups-client
@@ -50,6 +51,8 @@ laptop-detect
 libgail-common
 libnss-mdns
 libpam-gnome-keyring
+libproxy1-plugin-gsettings
+libproxy1-plugin-networkmanager
 libwmf0.2-7-gtk
 mahjongg
 make
