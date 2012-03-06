@@ -1,3 +1,11 @@
+ubuntu-meta (1.263) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added ubuntuone-installer to desktop-recommends
+  * Removed ubuntuone-control-panel-gtk from desktop-recommends
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 06 Mar 2012 16:17:53 +0100
+
 ubuntu-meta (1.262) precise; urgency=low
 
   * Refreshed dependencies
