@@ -53,6 +53,7 @@ libnss-mdns
 libpam-gnome-keyring
 libproxy1-plugin-gsettings
 libproxy1-plugin-networkmanager
+libqt4-sql-sqlite
 libwmf0.2-7-gtk
 mahjongg
 make
