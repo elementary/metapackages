@@ -47,6 +47,7 @@ ibus-table
 im-switch
 jockey-gtk
 kerneloops-daemon
+landscape-client-ui-install
 laptop-detect
 libgail-common
 libnss-mdns
@@ -81,6 +82,7 @@ python-aptdaemon.pkcompat
 qt-at-spi
 remmina
 rhythmbox
+rhythmbox-plugin-magnatune
 rhythmbox-ubuntuone
 shotwell
 simple-scan

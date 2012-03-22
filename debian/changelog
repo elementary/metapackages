@@ -1,3 +1,11 @@
+ubuntu-meta (1.265) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added landscape-client-ui-install to desktop-recommends (LP: #961606)
+  * Added rhythmbox-plugin-magnatune to desktop-recommends
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Thu, 22 Mar 2012 21:21:39 +0100
+
 ubuntu-meta (1.264) precise; urgency=low
 
   * Refreshed dependencies
