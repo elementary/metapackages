@@ -39,7 +39,6 @@ inputattach
 language-selector-gnome
 launchpad-integration
 libatk-adaptor
-libatk-adaptor-schemas
 libgd2-xpm
 libnotify-bin
 libpam-ck-connector

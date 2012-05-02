@@ -1,3 +1,11 @@
+ubuntu-meta (1.268) quantal; urgency=low
+
+  * Update for quantal.
+  * Refreshed dependencies
+  * Removed libatk-adaptor-schemas from desktop
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Wed, 02 May 2012 14:54:20 -0700
+
 ubuntu-meta (1.267) precise; urgency=low
 
   * Refreshed dependencies to fix oversized PowerPC images
