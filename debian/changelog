@@ -1,3 +1,10 @@
+ubuntu-meta (1.269) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Removed launchpad-integration from desktop
+
+ -- Robert Ancell <robert.ancell@canonical.com>  Tue, 15 May 2012 12:29:27 +1200
+
 ubuntu-meta (1.268) quantal; urgency=low
 
   * Update for quantal.
