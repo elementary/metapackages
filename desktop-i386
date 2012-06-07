@@ -47,7 +47,6 @@ lightdm
 nautilus
 nautilus-sendto
 notify-osd
-nvidia-common
 openprinting-ppds
 printer-driver-pnm2ppa
 pulseaudio
@@ -58,8 +57,8 @@ software-properties-gtk
 ssh-askpass-gnome
 system-config-printer-gnome
 ttf-dejavu-core
-ttf-freefont
 ubuntu-artwork
+ubuntu-drivers-common
 ubuntu-extras-keyring
 ubuntu-sounds
 unity

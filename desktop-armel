@@ -58,8 +58,8 @@ software-properties-gtk
 ssh-askpass-gnome
 system-config-printer-gnome
 ttf-dejavu-core
-ttf-freefont
 ubuntu-artwork
+ubuntu-drivers-common
 ubuntu-extras-keyring
 ubuntu-sounds
 unity

@@ -1,3 +1,13 @@
+ubuntu-meta (1.271) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added ubuntu-drivers-common to desktop
+  * Removed cmap-adobe-japan2 from desktop-recommends (LP: #1009928)
+  * Removed nvidia-common from desktop [amd64 i386]
+  * Removed ttf-freefont from desktop
+
+ -- Mathieu Trudel-Lapierre <mathieu-tl@ubuntu.com>  Thu, 07 Jun 2012 15:43:52 -0400
+
 ubuntu-meta (1.270) quantal; urgency=low
 
   * Refreshed dependencies
