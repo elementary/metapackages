@@ -1,4 +1,4 @@
-ubuntu-meta (1.272) quantal; urgency=low
+ubuntu-meta (1.273) quantal; urgency=low
 
   * Refreshed dependencies
   * Added libreoffice-ogltrans to desktop-recommends [amd64 i386]
@@ -10,7 +10,7 @@ ubuntu-meta (1.272) quantal; urgency=low
   * Added python3-aptdaemon.pkcompat to desktop-recommends
   * Removed python-aptdaemon.pkcompat from desktop-recommends
 
- -- Martin Pitt <martin.pitt@ubuntu.com>  Thu, 14 Jun 2012 07:57:23 +0200
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Wed, 13 Jun 2012 23:15:16 -0700
 
 ubuntu-meta (1.271) quantal; urgency=low
 
