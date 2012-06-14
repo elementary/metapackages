@@ -79,7 +79,7 @@ printer-driver-splix
 pulseaudio-module-bluetooth
 pulseaudio-module-gconf
 pulseaudio-module-x11
-python-aptdaemon.pkcompat
+python3-aptdaemon.pkcompat
 qt-at-spi
 remmina
 rhythmbox

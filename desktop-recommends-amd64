@@ -62,6 +62,10 @@ libreoffice-gnome
 libreoffice-help-en-us
 libreoffice-impress
 libreoffice-math
+libreoffice-ogltrans
+libreoffice-pdfimport
+libreoffice-presentation-minimizer
+libreoffice-presenter-console
 libreoffice-style-human
 libreoffice-writer
 libwmf0.2-7-gtk
@@ -88,7 +92,7 @@ printer-driver-splix
 pulseaudio-module-bluetooth
 pulseaudio-module-gconf
 pulseaudio-module-x11
-python-aptdaemon.pkcompat
+python3-aptdaemon.pkcompat
 qt-at-spi
 remmina
 rhythmbox
