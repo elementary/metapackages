@@ -1,3 +1,12 @@
+ubuntu-meta (1.274) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added fonts-lklug-sinhala to desktop-recommends
+  * Added fonts-sil-abyssinica to desktop-recommends (LP: #1015483)
+  * Removed ginn from desktop-recommends
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Sat, 30 Jun 2012 07:14:14 +0100
+
 ubuntu-meta (1.273) quantal; urgency=low
 
   * Refreshed dependencies
