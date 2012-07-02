@@ -61,6 +61,7 @@ ttf-dejavu-core
 ubuntu-artwork
 ubuntu-drivers-common
 ubuntu-extras-keyring
+ubuntu-release-upgrader-gtk
 ubuntu-sounds
 unity
 unity-2d

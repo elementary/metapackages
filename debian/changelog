@@ -1,3 +1,10 @@
+ubuntu-meta (1.275) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added ubuntu-release-upgrader-gtk to desktop
+
+ -- Michael Terry <mterry@ubuntu.com>  Mon, 02 Jul 2012 21:39:31 -0400
+
 ubuntu-meta (1.274) quantal; urgency=low
 
   * Refreshed dependencies
