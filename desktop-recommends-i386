@@ -35,6 +35,7 @@ gcc
 gnome-accessibility-themes
 gnome-bluetooth
 gnome-disk-utility
+gnome-mahjongg
 gnome-orca
 gnome-screensaver
 gnome-sudoku
@@ -71,7 +72,6 @@ libreoffice-style-human
 libreoffice-writer
 libwmf0.2-7-gtk
 linux-headers-generic-pae
-mahjongg
 make
 mousetweaks
 nautilus-share
