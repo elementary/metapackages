@@ -1,3 +1,11 @@
+ubuntu-meta (1.278) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added ubuntuone-control-panel-qt to desktop-recommends
+  * Removed ubuntuone-installer from desktop-recommends
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Fri, 20 Jul 2012 11:16:22 -0600
+
 ubuntu-meta (1.277) quantal; urgency=low
 
   * Refreshed dependencies
