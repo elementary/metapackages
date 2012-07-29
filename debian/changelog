@@ -1,3 +1,11 @@
+ubuntu-meta (1.279) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Removed gnome-nettool from desktop
+  * Removed libsdl1.2debian from desktop
+
+ -- Robert Ancell <robert.ancell@canonical.com>  Sun, 29 Jul 2012 16:17:40 +0200
+
 ubuntu-meta (1.278) quantal; urgency=low
 
   * Refreshed dependencies

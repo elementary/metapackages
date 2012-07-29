@@ -21,7 +21,6 @@ gnome-control-center
 gnome-font-viewer
 gnome-media
 gnome-menus
-gnome-nettool
 gnome-power-manager
 gnome-screenshot
 gnome-session
@@ -41,7 +40,6 @@ libgd2-xpm
 libnotify-bin
 libpam-ck-connector
 libsasl2-modules
-libsdl1.2debian
 libxp6
 lightdm
 nautilus
