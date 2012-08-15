@@ -1,3 +1,15 @@
+ubuntu-meta (1.280) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added fonts-freefont-ttf to desktop
+  * Removed unity-2d from desktop:
+    it would need to be ported to gsettings to continue being installable.
+    However it's unsupported now. Every 2d users are being transitionned to
+    the 3d session. People without graphical acceleration will then use
+    llvmpipe (LP: #1035261)
+
+ -- Didier Roche <didrocks@ubuntu.com>  Wed, 15 Aug 2012 09:17:55 +0200
+
 ubuntu-meta (1.279) quantal; urgency=low
 
   * Refreshed dependencies

@@ -12,6 +12,7 @@ doc-base
 eog
 evince
 file-roller
+fonts-freefont-ttf
 foomatic-db-compressed-ppds
 foomatic-filters
 gcalctool
@@ -62,7 +63,6 @@ ubuntu-extras-keyring
 ubuntu-release-upgrader-gtk
 ubuntu-sounds
 unity
-unity-2d
 unity-greeter
 unzip
 update-manager
