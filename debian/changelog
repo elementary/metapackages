@@ -1,3 +1,10 @@
+ubuntu-meta (1.281) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added ubuntu-default-settings to desktop (LP: #1039792)
+
+ -- Didier Roche <didrocks@ubuntu.com>  Tue, 11 Sep 2012 19:48:15 +0200
+
 ubuntu-meta (1.280) quantal; urgency=low
 
   * Refreshed dependencies
