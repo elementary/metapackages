@@ -58,10 +58,10 @@ ssh-askpass-gnome
 system-config-printer-gnome
 ttf-dejavu-core
 ubuntu-artwork
-ubuntu-default-settings
 ubuntu-drivers-common
 ubuntu-extras-keyring
 ubuntu-release-upgrader-gtk
+ubuntu-settings
 ubuntu-sounds
 unity
 unity-greeter
