@@ -1,3 +1,23 @@
+ubuntu-meta (1.283) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added libreoffice-calc to desktop-recommends [armel armhf]
+  * Added libreoffice-gnome to desktop-recommends [armel armhf]
+  * Added libreoffice-help-en-us to desktop-recommends [armel armhf]
+  * Added libreoffice-impress to desktop-recommends [armel armhf]
+  * Added libreoffice-math to desktop-recommends [armel armhf]
+  * Added libreoffice-ogltrans to desktop-recommends [armhf]
+  * Added libreoffice-pdfimport to desktop-recommends [armel armhf]
+  * Added libreoffice-presentation-minimizer to desktop-recommends
+    [armel armhf]
+  * Added libreoffice-presenter-console to desktop-recommends [armel
+    armhf]
+  * Added libreoffice-style-human to desktop-recommends [armel armhf]
+  * Added libreoffice-writer to desktop-recommends [armel armhf]
+  * Added linux-headers-omap4 to desktop-recommends [armhf]
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Fri, 21 Sep 2012 16:38:09 +0200
+
 ubuntu-meta (1.282) quantal; urgency=low
 
   * Refreshed dependencies

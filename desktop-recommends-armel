@@ -57,6 +57,16 @@ libpam-gnome-keyring
 libproxy1-plugin-gsettings
 libproxy1-plugin-networkmanager
 libqt4-sql-sqlite
+libreoffice-calc
+libreoffice-gnome
+libreoffice-help-en-us
+libreoffice-impress
+libreoffice-math
+libreoffice-pdfimport
+libreoffice-presentation-minimizer
+libreoffice-presenter-console
+libreoffice-style-human
+libreoffice-writer
 libwmf0.2-7-gtk
 make
 mousetweaks
