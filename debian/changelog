@@ -1,3 +1,11 @@
+ubuntu-meta (1.284) quantal-proposed; urgency=low
+
+  * Refreshed dependencies
+  * Added unity-webapps-common to desktop-recommends
+  * Added xul-ext-unity to desktop-recommends
+
+ -- Michael Terry <mterry@ubuntu.com>  Sun, 23 Sep 2012 22:56:56 -0400
+
 ubuntu-meta (1.283) quantal; urgency=low
 
   * Refreshed dependencies
