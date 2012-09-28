@@ -1,3 +1,13 @@
+ubuntu-meta (1.285) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added python3 to minimal
+  * Added python3-minimal to minimal
+  * Removed python from minimal
+  * Removed python-minimal from minimal
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Fri, 28 Sep 2012 11:50:48 +0100
+
 ubuntu-meta (1.284) quantal-proposed; urgency=low
 
   * Refreshed dependencies

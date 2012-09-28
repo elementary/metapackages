@@ -25,8 +25,8 @@ netcat-openbsd
 ntpdate
 passwd
 procps
-python
-python-minimal
+python3
+python3-minimal
 resolvconf
 rsyslog
 sudo
