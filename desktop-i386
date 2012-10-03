@@ -40,6 +40,7 @@ libatk-adaptor
 libgd2-xpm
 libnotify-bin
 libpam-ck-connector
+libpam-xdg-support
 libsasl2-modules
 libxp6
 lightdm

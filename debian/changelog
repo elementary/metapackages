@@ -1,3 +1,10 @@
+ubuntu-meta (1.286) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added libpam-xdg-support to desktop
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Wed, 03 Oct 2012 09:36:40 -0700
+
 ubuntu-meta (1.285) quantal; urgency=low
 
   * Refreshed dependencies
