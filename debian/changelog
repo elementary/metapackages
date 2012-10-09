@@ -1,3 +1,14 @@
+ubuntu-meta (1.287) quantal; urgency=low
+
+  * Refreshed dependencies (LP: #1062448)
+  * Removed libreoffice-pdfimport from desktop-recommends [armel armhf]
+  * Removed libreoffice-presentation-minimizer from desktop-recommends
+    [armel armhf]
+  * Removed libreoffice-presenter-console from desktop-recommends [armel
+    armhf]
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Tue, 09 Oct 2012 19:30:35 +0200
+
 ubuntu-meta (1.286) quantal; urgency=low
 
   * Refreshed dependencies
