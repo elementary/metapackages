@@ -1,3 +1,12 @@
+ubuntu-meta (1.288) raring; urgency=low
+
+  * Updated for raring
+  * Dropped armel
+  * Refreshed dependencies
+  * Added deja-dup-backend-ubuntuone to desktop-recommends
+
+ -- Michael Terry <mterry@ubuntu.com>  Tue, 13 Nov 2012 09:30:09 -0500
+
 ubuntu-meta (1.287) quantal; urgency=low
 
   * Refreshed dependencies (LP: #1062448)

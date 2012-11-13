@@ -16,6 +16,7 @@ cups
 cups-bsd
 cups-client
 deja-dup
+deja-dup-backend-ubuntuone
 empathy
 example-content
 firefox
