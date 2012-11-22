@@ -58,14 +58,6 @@ libpam-gnome-keyring
 libproxy1-plugin-gsettings
 libproxy1-plugin-networkmanager
 libqt4-sql-sqlite
-libreoffice-calc
-libreoffice-gnome
-libreoffice-help-en-us
-libreoffice-impress
-libreoffice-math
-libreoffice-ogltrans
-libreoffice-style-human
-libreoffice-writer
 libwmf0.2-7-gtk
 linux-headers-omap4
 make
@@ -100,8 +92,6 @@ simple-scan
 sni-qt
 speech-dispatcher
 telepathy-idle
-thunderbird
-thunderbird-gnome-support
 totem
 totem-mozilla
 transmission-gtk
@@ -119,3 +109,4 @@ xcursor-themes
 xdg-utils
 xul-ext-ubufox
 xul-ext-unity
+xul-ext-webaccounts
