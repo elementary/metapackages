@@ -32,6 +32,9 @@ gnome-terminal
 gstreamer0.10-alsa
 gstreamer0.10-plugins-base-apps
 gstreamer0.10-pulseaudio
+gstreamer1.0-alsa
+gstreamer1.0-plugins-base-apps
+gstreamer1.0-pulseaudio
 gucharmap
 gvfs-bin
 inputattach
