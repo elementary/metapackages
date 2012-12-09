@@ -49,7 +49,7 @@ ibus-gtk3
 ibus-pinyin
 ibus-pinyin-db-android
 ibus-table
-im-switch
+im-config
 kerneloops-daemon
 landscape-client-ui-install
 laptop-detect
