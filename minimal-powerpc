@@ -29,7 +29,6 @@ pmac-fdisk
 powerpc-utils
 procps
 python3
-python3-minimal
 resolvconf
 rsyslog
 sudo

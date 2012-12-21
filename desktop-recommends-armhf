@@ -59,7 +59,6 @@ libproxy1-plugin-gsettings
 libproxy1-plugin-networkmanager
 libqt4-sql-sqlite
 libwmf0.2-7-gtk
-linux-headers-omap4
 make
 mousetweaks
 nautilus-share

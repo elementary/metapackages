@@ -1,3 +1,13 @@
+ubuntu-meta (1.292) raring; urgency=low
+
+  * Refreshed dependencies
+  * Removed linux-headers-generic from desktop-recommends [amd64]
+  * Removed linux-headers-generic-pae from desktop-recommends [i386]
+  * Removed linux-headers-omap4 from desktop-recommends [armhf]
+  * Removed python3-minimal from minimal
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Fri, 21 Dec 2012 19:51:16 -0700
+
 ubuntu-meta (1.291) raring; urgency=low
 
   * Refreshed dependencies

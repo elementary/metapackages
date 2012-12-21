@@ -26,7 +26,6 @@ ntpdate
 passwd
 procps
 python3
-python3-minimal
 resolvconf
 rsyslog
 sudo
