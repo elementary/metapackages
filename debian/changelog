@@ -1,3 +1,10 @@
+ubuntu-meta (1.293) raring; urgency=low
+
+  * Refreshed dependencies
+  * Removed pulseaudio-module-gconf from desktop-recommends
+
+ -- Michael Terry <mterry@ubuntu.com>  Fri, 01 Feb 2013 17:01:32 -0500
+
 ubuntu-meta (1.292) raring; urgency=low
 
   * Refreshed dependencies

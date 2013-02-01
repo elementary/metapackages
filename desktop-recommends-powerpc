@@ -73,7 +73,6 @@ printer-driver-pxljr
 printer-driver-sag-gdi
 printer-driver-splix
 pulseaudio-module-bluetooth
-pulseaudio-module-gconf
 pulseaudio-module-x11
 python3-aptdaemon.pkcompat
 qt-at-spi
