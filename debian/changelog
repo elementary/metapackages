@@ -1,3 +1,10 @@
+ubuntu-meta (1.294) raring; urgency=low
+
+  * Refreshed dependencies
+  * Removed gnome-media from desktop
+
+ -- Iain Lane <iain.lane@canonical.com>  Thu, 07 Feb 2013 10:46:35 +0000
+
 ubuntu-meta (1.293) raring; urgency=low
 
   * Refreshed dependencies
