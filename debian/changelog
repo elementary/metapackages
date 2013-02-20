@@ -1,3 +1,11 @@
+ubuntu-meta (1.295) raring; urgency=low
+
+  * Refreshed dependencies
+  * Removed libreoffice-presenter-console from desktop-recommends [amd64
+    i386]
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Wed, 20 Feb 2013 10:35:15 +0000
+
 ubuntu-meta (1.294) raring; urgency=low
 
   * Refreshed dependencies
