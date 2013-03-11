@@ -1,3 +1,12 @@
+ubuntu-meta (1.296) raring; urgency=low
+
+  * Remove stale armel files.
+
+  * Refreshed dependencies
+  * Removed libreoffice-help-en-us from desktop-recommends [amd64 i386]
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Mon, 11 Mar 2013 14:04:53 +0000
+
 ubuntu-meta (1.295) raring; urgency=low
 
   * Refreshed dependencies
