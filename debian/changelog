@@ -1,3 +1,10 @@
+ubuntu-meta (1.297) raring; urgency=low
+
+  * Refreshed dependencies
+  * Removed at from standard
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Wed, 27 Mar 2013 09:34:46 -0700
+
 ubuntu-meta (1.296) raring; urgency=low
 
   * Remove stale armel files.
