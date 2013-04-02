@@ -1,3 +1,11 @@
+ubuntu-meta (1.298) raring; urgency=low
+
+  * Refreshed dependencies
+  * gcalctool was renamed gnome-calculator, updated in desktop
+  * Removed gwibber from desktop-recommends
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Tue, 02 Apr 2013 10:43:41 -0400
+
 ubuntu-meta (1.297) raring; urgency=low
 
   * Refreshed dependencies
