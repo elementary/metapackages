@@ -1,3 +1,12 @@
+ubuntu-meta (1.299) raring; urgency=low
+
+  * Refreshed dependencies
+  * Added gnome-control-center-unity to desktop-recommends
+  * Moved gnome-terminal to desktop-recommends
+  * Moved xterm to desktop-recommends
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Wed, 10 Apr 2013 17:47:25 +0200
+
 ubuntu-meta (1.298) raring; urgency=low
 
   * Refreshed dependencies

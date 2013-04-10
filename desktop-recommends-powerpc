@@ -32,9 +32,11 @@ fonts-tibetan-machine
 gcc
 gnome-accessibility-themes
 gnome-bluetooth
+gnome-control-center-unity
 gnome-disk-utility
 gnome-orca
 gnome-screensaver
+gnome-terminal
 gvfs-fuse
 hplip
 ibus
@@ -101,6 +103,7 @@ vino
 whoopsie
 xcursor-themes
 xdg-utils
+xterm
 xul-ext-ubufox
 xul-ext-unity
 xul-ext-webaccounts

@@ -27,7 +27,6 @@ gnome-session
 gnome-session-canberra
 gnome-system-log
 gnome-system-monitor
-gnome-terminal
 gstreamer0.10-alsa
 gstreamer0.10-plugins-base-apps
 gstreamer0.10-pulseaudio
@@ -77,7 +76,6 @@ xdg-user-dirs-gtk
 xdiagnose
 xkb-data
 xorg
-xterm
 yelp
 zenity
 zip
