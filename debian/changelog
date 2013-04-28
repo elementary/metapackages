@@ -1,3 +1,13 @@
+ubuntu-meta (1.300) saucy; urgency=low
+
+  * update.cfg: Switch to saucy.
+  * Refreshed dependencies
+  * Added libpam-systemd to desktop
+  * Removed libpam-ck-connector from desktop
+  * Removed libpam-xdg-support from desktop
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Sun, 28 Apr 2013 07:10:58 -0700
+
 ubuntu-meta (1.299) raring; urgency=low
 
   * Refreshed dependencies

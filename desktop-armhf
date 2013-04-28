@@ -40,8 +40,7 @@ language-selector-gnome
 libatk-adaptor
 libgd2-xpm
 libnotify-bin
-libpam-ck-connector
-libpam-xdg-support
+libpam-systemd
 libsasl2-modules
 libxp6
 lightdm
