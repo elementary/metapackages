@@ -38,7 +38,6 @@ gvfs-bin
 inputattach
 language-selector-gnome
 libatk-adaptor
-libgd2-xpm
 libnotify-bin
 libpam-systemd
 libsasl2-modules

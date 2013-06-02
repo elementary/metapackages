@@ -1,3 +1,10 @@
+ubuntu-meta (1.301) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Removed libgd2-xpm from desktop
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Sun, 02 Jun 2013 10:03:10 +0100
+
 ubuntu-meta (1.300) saucy; urgency=low
 
   * update.cfg: Switch to saucy.
