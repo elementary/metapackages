@@ -1,3 +1,12 @@
+ubuntu-meta (1.302) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added fonts-dejavu-core to desktop
+  * Removed firefox-gnome-support from desktop-recommends
+  * Removed ttf-dejavu-core from desktop
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Mon, 01 Jul 2013 11:53:11 +0100
+
 ubuntu-meta (1.301) saucy; urgency=low
 
   * Refreshed dependencies

@@ -11,6 +11,7 @@ doc-base
 eog
 evince
 file-roller
+fonts-dejavu-core
 fonts-freefont-ttf
 foomatic-db-compressed-ppds
 foomatic-filters
@@ -55,7 +56,6 @@ software-center
 software-properties-gtk
 ssh-askpass-gnome
 system-config-printer-gnome
-ttf-dejavu-core
 ubuntu-artwork
 ubuntu-drivers-common
 ubuntu-extras-keyring
