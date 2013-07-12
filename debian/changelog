@@ -1,3 +1,11 @@
+ubuntu-meta (1.303) saucy; urgency=low
+
+  * Refreshed dependencies (LP: #1196684)
+  * Removed ubuntuone-client-gnome from desktop-recommends
+  * Removed xul-ext-webaccounts from desktop-recommends [powerpc]
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Fri, 12 Jul 2013 15:25:29 -0600
+
 ubuntu-meta (1.302) saucy; urgency=low
 
   * Refreshed dependencies

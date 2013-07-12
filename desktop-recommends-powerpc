@@ -95,7 +95,6 @@ ttf-punjabi-fonts
 ttf-ubuntu-font-family
 ttf-wqy-microhei
 ubuntu-docs
-ubuntuone-client-gnome
 ubuntuone-control-panel-qt
 unity-webapps-common
 vino
@@ -105,4 +104,3 @@ xdg-utils
 xterm
 xul-ext-ubufox
 xul-ext-unity
-xul-ext-webaccounts
