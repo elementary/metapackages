@@ -1,16 +1,16 @@
-Source: ubuntu-meta
+Source: elementary-meta
 Section: metapackages
 Priority: optional
-Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Maintainer: Cody Garver <cody@elementaryos.org>
 Standards-Version: 3.9.2
 Build-Depends: debhelper (>= 7.0.8), germinate (>= 1.18)
 
-Package: ubuntu-minimal
+Package: elementary-minimal
 Architecture: any
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: Minimal core of Ubuntu
- This package depends on all of the packages in the Ubuntu minimal system,
+Description: Minimal core of elementary OS
+ This package depends on all of the packages in the elementary minimal system,
  that is a functional command-line system with the following capabilities:
  .
   - Boot
@@ -22,25 +22,60 @@ Description: Minimal core of Ubuntu
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
 
-Package: ubuntu-standard
+Package: elementary-standard
 Architecture: any
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: The Ubuntu standard system
- This package depends on all of the packages in the Ubuntu standard system.
+Description: elementary OS CLI-only components
+ This package depends on most of non-GUI packages from elementary OS.
+ .
  This set of packages provides a comfortable command-line Unix-like
  environment.
+ .
+ It is used to ensure proper upgrades, so it is recommended that it not be
+ removed.
+
+Package: elementary-desktop
+Architecture: any
+Depends: ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: elementary OS desktop
+ This package installs the complete elementary desktop.
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
 
-Package: ubuntu-desktop
+Package: elementary-artwork
 Architecture: any
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: The Ubuntu desktop system
- This package depends on all of the packages in the Ubuntu desktop system
+Description: elementary artwork
+ This package installs the acclaimed elementary desktop artwork.
  .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
+
+Package: pantheon-shell
+Architecture: any
+Depends: ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: Modern and modular DE-independent desktop shell
+ Pantheon Shell is a modern and modular DE-independent desktop shell
+ developed by elementary Project.
+ .
+ This package installs all components of the shell.
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
+
+Package: pantheon
+Architecture: any
+Depends: ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: Pantheon Desktop Environment
+ Pantheon is a desktop environment based on GNOME with a strong focus on user
+ experience. It's developed by elementary project.
+ .
+ This package installs all Pantheon apps that are shipped with the OS by default.
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
 

@@ -1,3 +1,6 @@
-minimal ubuntu-minimal
-standard ubuntu-standard
-desktop ubuntu-desktop
+minimal elementary-minimal
+standard elementary-standard
+desktop elementary-desktop
+artwork elementary-artwork
+pantheon-shell pantheon-shell
+pantheon pantheon
