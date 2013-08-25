@@ -1,3 +1,143 @@
+elementary-meta (1.304) UNRELEASED; urgency=low
+
+  * Refreshed dependencies
+  * Added contractor to pantheon-recommends [amd64 i386]
+  * Added elementary-artwork to desktop [amd64 i386]
+  * Added elementary-default-settings to desktop-recommends
+  * Added elementary-icon-theme to artwork [amd64 armhf i386]
+  * Added elementary-theme to artwork [amd64 armhf i386]
+  * Added elementary-wallpapers to artwork-recommends [amd64 armhf i386]
+  * Added fonts-elementary-core to desktop-recommends [amd64 i386]
+  * Added fonts-elementary-extra to artwork-recommends [amd64 i386]
+  * Added gala to pantheon-shell-recommends [amd64 i386]
+  * Added gcalctool to desktop-recommends
+  * Added geary to desktop-recommends
+  * Added ginn to desktop-recommends
+  * Added gnome-codec-install to desktop-recommends
+  * Added gnome-session-bin to desktop-recommends
+  * Added indicator-application to desktop-recommends
+  * Added indicator-datetime to desktop-recommends
+  * Added indicator-session to desktop-recommends
+  * Added indicator-sound to desktop-recommends
+  * Added jockey-gtk to desktop-recommends
+  * Added midori-granite to pantheon-recommends [amd64 i386]
+  * Added noise to pantheon-recommends [amd64 i386]
+  * Added p7zip-full to desktop-recommends
+  * Added pantheon to desktop [amd64 i386]
+  * Added pantheon-files to pantheon-recommends [amd64 i386]
+  * Added pantheon-greeter to pantheon-recommends [amd64 i386]
+  * Added pantheon-print to pantheon-recommends [amd64 i386]
+  * Added pantheon-shell to pantheon-recommends [amd64 i386]
+  * Added pantheon-terminal to pantheon-recommends [amd64 i386]
+  * Added pantheon-xsession-settings to pantheon-shell [amd64 armhf
+    i386]
+  * Added plank to pantheon-shell-recommends [amd64 i386]
+  * Added plank-theme-pantheon to artwork-recommends [amd64 armhf i386]
+  * Added pulseaudio-module-gconf to desktop-recommends
+  * Added scratch-text-editor to pantheon-recommends [amd64 i386]
+  * Added slingshot-launcher to pantheon-shell [amd64 i386]
+  * Added switchboard to desktop-recommends [amd64 i386]
+  * Added switchboard-gnome-control-center to desktop-recommends [amd64
+    i386]
+  * Added switchboard-plug-about to desktop-recommends [amd64 i386]
+  * Added switchboard-plug-default-applications to desktop-recommends
+    [amd64 i386]
+  * Added switchboard-plug-keyboard to desktop-recommends [amd64 i386]
+  * Added switchboard-plug-pantheon-shell to desktop-recommends [amd64
+    i386]
+  * Added switchboard-plug-power to desktop-recommends [amd64 i386]
+  * Added tumbler-plugins-extra to desktop-recommends
+  * Added ubuntu-minimal to minimal
+  * Added ubuntu-standard to standard
+  * Added wingpanel to pantheon-shell [amd64 i386]
+  * Removed aisleriot from desktop-recommends [amd64 armhf i386]
+  * Removed apport-gtk from desktop-recommends
+  * Removed baobab from desktop
+  * Removed branding-ubuntu from desktop-recommends [amd64 armhf i386]
+  * Removed brasero from desktop-recommends
+  * Removed checkbox-qt from desktop
+  * Removed deja-dup from desktop-recommends
+  * Removed deja-dup-backend-ubuntuone from desktop-recommends
+  * Removed eog from desktop
+  * Removed firefox from desktop-recommends
+  * Removed gedit from desktop
+  * Removed gnome-calculator from desktop
+  * Removed gnome-control-center from desktop
+  * Removed gnome-control-center-unity from desktop-recommends
+  * Removed gnome-disk-utility from desktop-recommends
+  * Removed gnome-mahjongg from desktop-recommends [amd64 armhf i386]
+  * Removed gnome-session from desktop
+  * Removed gnome-session-canberra from desktop
+  * Removed gnome-sudoku from desktop-recommends [amd64 armhf i386]
+  * Removed gnome-system-log from desktop
+  * Removed gnome-system-monitor from desktop
+  * Removed gnome-terminal from desktop-recommends
+  * Removed gnomine from desktop-recommends [amd64 armhf i386]
+  * Removed gucharmap from desktop
+  * Removed landscape-client-ui-install from desktop-recommends
+  * Removed libqt4-sql-sqlite from desktop-recommends
+  * Removed libreoffice-calc from desktop-recommends [amd64 i386]
+  * Removed libreoffice-gnome from desktop-recommends [amd64 i386]
+  * Removed libreoffice-impress from desktop-recommends [amd64 i386]
+  * Removed libreoffice-math from desktop-recommends [amd64 i386]
+  * Removed libreoffice-ogltrans from desktop-recommends [amd64 i386]
+  * Removed libreoffice-pdfimport from desktop-recommends [amd64 i386]
+  * Removed libreoffice-presentation-minimizer from desktop-recommends
+    [amd64 i386]
+  * Removed libreoffice-style-human from desktop-recommends [amd64 i386]
+  * Removed libreoffice-writer from desktop-recommends [amd64 i386]
+  * Removed nautilus from desktop
+  * Removed nautilus-sendto from desktop
+  * Removed nautilus-share from desktop-recommends
+  * Removed remmina from desktop-recommends
+  * Removed rhythmbox from desktop-recommends
+  * Removed rhythmbox-plugin-magnatune from desktop-recommends
+  * Removed rhythmbox-ubuntuone from desktop-recommends
+  * Removed seahorse from desktop
+  * Removed sni-qt from desktop-recommends
+  * Removed thunderbird from desktop-recommends [amd64 i386 powerpc]
+  * Removed thunderbird-gnome-support from desktop-recommends [amd64
+    i386 powerpc]
+  * Removed totem-mozilla from desktop-recommends
+  * Removed transmission-gtk from desktop-recommends
+  * Removed ubuntu-artwork from desktop
+  * Removed ubuntu-release-upgrader-gtk from desktop
+  * Removed ubuntu-settings from desktop
+  * Removed ubuntu-sounds from desktop
+  * Removed ubuntuone-control-panel-qt from desktop-recommends
+  * Removed unity from desktop
+  * Removed unity-greeter from desktop
+  * Removed unity-webapps-common from desktop-recommends
+  * Removed usb-creator-gtk from desktop-recommends [amd64 i386]
+  * Removed vino from desktop-recommends
+  * Removed xdiagnose from desktop
+  * Removed xul-ext-ubufox from desktop-recommends
+  * Removed xul-ext-unity from desktop-recommends
+  * Removed xul-ext-webaccounts from desktop-recommends [amd64 armhf
+    i386]
+  * Removed yelp from desktop
+  * Moved evince to desktop-recommends
+  * Moved file-roller to desktop-recommends
+  * Moved gnome-font-viewer to desktop-recommends
+  * Moved gnome-menus to desktop-recommends
+  * Moved gnome-power-manager to desktop-recommends
+  * Moved gnome-screenshot to desktop-recommends
+  * Moved gvfs-bin to desktop-recommends
+  * Moved language-selector-gnome to desktop-recommends
+  * Moved lightdm to desktop-recommends
+  * Moved notify-osd to desktop-recommends
+  * Moved pulseaudio to desktop-recommends
+  * Moved software-center to desktop-recommends
+  * Moved software-properties-gtk to desktop-recommends
+  * Moved ssh-askpass-gnome to desktop-recommends
+  * Moved system-config-printer-gnome to desktop-recommends
+  * Moved update-manager to desktop-recommends
+  * Moved update-notifier to desktop-recommends
+  * Moved xdg-user-dirs-gtk to desktop-recommends
+  * Moved zenity to desktop-recommends
+
+ -- Cody Garver <codygarver@asus>  Sun, 25 Aug 2013 09:07:42 -0500
+
 elementary-meta (1.303) saucy; urgency=low
 
   * Refreshed dependencies (LP: #1196684)
