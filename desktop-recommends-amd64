@@ -1,6 +1,8 @@
 acpi-support
 activity-log-manager-control-center
 app-install-data-partner
+apport-gtk
+apport-hooks-elementary
 avahi-autoipd
 avahi-daemon
 bluez
