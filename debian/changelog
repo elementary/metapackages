@@ -1,4 +1,4 @@
-elementary-meta (1.305) UNRELEASED; urgency=low
+elementary-meta (1.306) UNRELEASED; urgency=low
 
   * Refreshed dependencies
   * Added contractor to pantheon-recommends [amd64 i386]
@@ -139,8 +139,10 @@ elementary-meta (1.305) UNRELEASED; urgency=low
   * Added apport-gtk to desktop-recommends
   * Added apport-hooks-elementary to desktop-recommends
   * Added pantheon-wallpaper to pantheon-shell-recommends [amd64 i386]
+  * Refreshed dependencies
+  * Added elementary-os-prerelease to desktop-recommends
 
- -- Cody Garver <codygarver@asus>  Mon, 26 Aug 2013 01:48:41 -0500
+ -- Cody Garver <codygarver@asus>  Mon, 26 Aug 2013 02:55:12 -0500
 
 elementary-meta (1.303) saucy; urgency=low
 
