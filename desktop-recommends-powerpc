@@ -92,7 +92,6 @@ pulseaudio-module-gconf
 pulseaudio-module-x11
 python3-aptdaemon.pkcompat
 qt-at-spi
-shotwell
 simple-scan
 software-center
 software-properties-gtk

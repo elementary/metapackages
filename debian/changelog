@@ -1,4 +1,4 @@
-elementary-meta (1.306) UNRELEASED; urgency=low
+elementary-meta (1.307) UNRELEASED; urgency=low
 
   * Refreshed dependencies
   * Added contractor to pantheon-recommends [amd64 i386]
@@ -141,8 +141,10 @@ elementary-meta (1.306) UNRELEASED; urgency=low
   * Added pantheon-wallpaper to pantheon-shell-recommends [amd64 i386]
   * Refreshed dependencies
   * Added elementary-os-prerelease to desktop-recommends
+  * Refreshed dependencies
+  * Removed shotwell from desktop-recommends [powerpc]
 
- -- Cody Garver <codygarver@asus>  Mon, 26 Aug 2013 02:55:12 -0500
+ -- Cody Garver <cody@elementaryos.org>  Tue, 27 Aug 2013 07:03:22 -0500
 
 elementary-meta (1.303) saucy; urgency=low
 
