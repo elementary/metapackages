@@ -10,6 +10,7 @@ bluez-alsa
 bluez-cups
 bluez-gstreamer
 brltty
+capnet-assist
 cups
 cups-bsd
 cups-client
@@ -58,7 +59,6 @@ indicator-application
 indicator-datetime
 indicator-session
 indicator-sound
-jockey-gtk
 kerneloops-daemon
 language-selector-gnome
 laptop-detect
@@ -81,6 +81,7 @@ p7zip-full
 pcmciautils
 plymouth-theme-ubuntu-logo
 policykit-desktop-privileges
+print-test-page-elementary
 printer-driver-c2esp
 printer-driver-foo2zjs
 printer-driver-min12xxw
@@ -109,7 +110,6 @@ switchboard-plug-pantheon-shell
 switchboard-plug-power
 system-config-printer-gnome
 telepathy-idle
-totem
 ttf-indic-fonts-core
 ttf-punjabi-fonts
 ttf-ubuntu-font-family

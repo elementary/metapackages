@@ -1,4 +1,4 @@
-elementary-meta (1.307) UNRELEASED; urgency=low
+elementary-meta (1.308) UNRELEASED; urgency=low
 
   * Refreshed dependencies
   * Added contractor to pantheon-recommends [amd64 i386]
@@ -143,8 +143,15 @@ elementary-meta (1.307) UNRELEASED; urgency=low
   * Added elementary-os-prerelease to desktop-recommends
   * Refreshed dependencies
   * Removed shotwell from desktop-recommends [powerpc]
+  * Refreshed dependencies
+  * Added audience to pantheon-recommends [amd64 i386]
+  * Added capnet-assist to desktop-recommends [amd64 i386]
+  * Added print-test-page-elementary to desktop-recommends
+  * Added shotwell to desktop-recommends [powerpc]
+  * Removed jockey-gtk from desktop-recommends
+  * Removed totem from desktop-recommends
 
- -- Cody Garver <cody@elementaryos.org>  Tue, 27 Aug 2013 07:03:22 -0500
+ -- Cody Garver <cody@elementaryos.org>  Sun, 01 Sep 2013 07:08:43 -0500
 
 elementary-meta (1.303) saucy; urgency=low
 

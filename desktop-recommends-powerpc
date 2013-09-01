@@ -56,7 +56,6 @@ indicator-application
 indicator-datetime
 indicator-session
 indicator-sound
-jockey-gtk
 kerneloops-daemon
 language-selector-gnome
 laptop-detect
@@ -79,6 +78,7 @@ p7zip-full
 pcmciautils
 plymouth-theme-ubuntu-logo
 policykit-desktop-privileges
+print-test-page-elementary
 printer-driver-c2esp
 printer-driver-foo2zjs
 printer-driver-min12xxw
@@ -92,6 +92,7 @@ pulseaudio-module-gconf
 pulseaudio-module-x11
 python3-aptdaemon.pkcompat
 qt-at-spi
+shotwell
 simple-scan
 software-center
 software-properties-gtk
@@ -99,7 +100,6 @@ speech-dispatcher
 ssh-askpass-gnome
 system-config-printer-gnome
 telepathy-idle
-totem
 ttf-indic-fonts-core
 ttf-punjabi-fonts
 ttf-ubuntu-font-family
