@@ -1,3 +1,12 @@
+ubuntu-meta (1.305) saucy; urgency=low
+
+  * Add arm64 port
+  * Refreshed dependencies
+  * Added dmidecode to standard [armhf]
+  * Added shotwell to desktop-recommends [powerpc]
+
+ -- Dmitrijs Ledkovs <dmitrij.ledkov@ubuntu.com>  Fri, 11 Oct 2013 16:31:01 +0100
+
 ubuntu-meta (1.304) saucy; urgency=low
 
   * Refreshed dependencies
