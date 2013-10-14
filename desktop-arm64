@@ -5,6 +5,7 @@ at-spi2-core
 baobab
 bc
 ca-certificates
+checkbox-qt
 dmz-cursor-theme
 doc-base
 eog
@@ -17,6 +18,7 @@ ghostscript-x
 gnome-calculator
 gnome-font-viewer
 gnome-menus
+gnome-power-manager
 gnome-screenshot
 gnome-session
 gnome-session-canberra
@@ -24,7 +26,12 @@ gnome-system-log
 gnome-system-monitor
 gstreamer0.10-alsa
 gstreamer0.10-plugins-base-apps
+gstreamer0.10-pulseaudio
+gstreamer1.0-alsa
+gstreamer1.0-plugins-base-apps
+gstreamer1.0-pulseaudio
 gucharmap
+gvfs-bin
 inputattach
 language-selector-gnome
 libatk-adaptor
@@ -32,10 +39,13 @@ libnotify-bin
 libpam-systemd
 libsasl2-modules
 libxp6
+lightdm
 notify-osd
 openprinting-ppds
 printer-driver-pnm2ppa
+pulseaudio
 rfkill
+seahorse
 software-center
 software-properties-gtk
 ssh-askpass-gnome
@@ -48,8 +58,12 @@ ubuntu-sounds
 unzip
 update-manager
 wireless-tools
+wpasupplicant
 xdg-user-dirs
 xdg-user-dirs-gtk
 xdiagnose
 xkb-data
+xorg
+yelp
+zenity
 zip

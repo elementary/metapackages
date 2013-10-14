@@ -12,6 +12,7 @@ iptables
 language-selector-common
 logrotate
 lshw
+lsof
 man-db
 mime-support
 parted

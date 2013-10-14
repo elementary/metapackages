@@ -2,11 +2,14 @@ activity-log-manager-control-center
 aisleriot
 app-install-data-partner
 apport-gtk
+avahi-autoipd
+avahi-daemon
 bluez
 bluez-alsa
 bluez-cups
 bluez-gstreamer
 branding-ubuntu
+brltty
 cups
 cups-bsd
 cups-client
@@ -31,8 +34,10 @@ gnome-screensaver
 gnome-sudoku
 gnome-terminal
 gnomine
+gvfs-fuse
 ibus
 ibus-gtk3
+ibus-pinyin
 ibus-pinyin-db-android
 ibus-table
 im-config
@@ -42,6 +47,7 @@ laptop-detect
 libgail-common
 libnss-mdns
 libpam-gnome-keyring
+libqt4-sql-sqlite
 libreoffice-style-human
 libwmf0.2-7-gtk
 make
@@ -58,8 +64,11 @@ printer-driver-ptouch
 printer-driver-pxljr
 printer-driver-sag-gdi
 printer-driver-splix
+pulseaudio-module-bluetooth
+pulseaudio-module-x11
 python3-aptdaemon.pkcompat
 rhythmbox-ubuntuone
+simple-scan
 speech-dispatcher
 telepathy-idle
 ttf-indic-fonts-core

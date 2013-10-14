@@ -1,3 +1,33 @@
+ubuntu-meta (1.306) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added avahi-autoipd to desktop-recommends [arm64]
+  * Added avahi-daemon to desktop-recommends [arm64]
+  * Added brltty to desktop-recommends [arm64]
+  * Added checkbox-qt to desktop [arm64]
+  * Added gnome-power-manager to desktop [arm64]
+  * Added gstreamer0.10-pulseaudio to desktop [arm64]
+  * Added gstreamer1.0-alsa to desktop [arm64]
+  * Added gstreamer1.0-plugins-base-apps to desktop [arm64]
+  * Added gstreamer1.0-pulseaudio to desktop [arm64]
+  * Added gvfs-bin to desktop [arm64]
+  * Added gvfs-fuse to desktop-recommends [arm64]
+  * Added ibus-pinyin to desktop-recommends [arm64]
+  * Added libqt4-sql-sqlite to desktop-recommends [arm64]
+  * Added lightdm to desktop [arm64]
+  * Added lsof to standard [arm64]
+  * Added pulseaudio to desktop [arm64]
+  * Added pulseaudio-module-bluetooth to desktop-recommends [arm64]
+  * Added pulseaudio-module-x11 to desktop-recommends [arm64]
+  * Added seahorse to desktop [arm64]
+  * Added simple-scan to desktop-recommends [arm64]
+  * Added wpasupplicant to desktop [arm64]
+  * Added xorg to desktop [arm64]
+  * Added yelp to desktop [arm64]
+  * Added zenity to desktop [arm64]
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Mon, 14 Oct 2013 02:32:34 +0100
+
 ubuntu-meta (1.305) saucy; urgency=low
 
   * Add arm64 port
