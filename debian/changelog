@@ -1,3 +1,43 @@
+ubuntu-meta (1.307) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added brasero to desktop-recommends [arm64]
+  * Added deja-dup to desktop-recommends [arm64]
+  * Added empathy to desktop-recommends [arm64]
+  * Added evince to desktop [arm64]
+  * Added file-roller to desktop [arm64]
+  * Added gedit to desktop [arm64]
+  * Added gnome-bluetooth to desktop-recommends [arm64]
+  * Added gnome-control-center to desktop [arm64]
+  * Added gnome-control-center-unity to desktop-recommends [arm64]
+  * Added gnome-disk-utility to desktop-recommends [arm64]
+  * Added hplip to desktop-recommends [arm64]
+  * Added libproxy1-plugin-gsettings to desktop-recommends [arm64]
+  * Added libproxy1-plugin-networkmanager to desktop-recommends [arm64]
+  * Added nautilus to desktop [arm64]
+  * Added nautilus-sendto to desktop [arm64]
+  * Added nautilus-share to desktop-recommends [arm64]
+  * Added network-manager-gnome to desktop-recommends [arm64]
+  * Added network-manager-pptp to desktop-recommends [arm64]
+  * Added network-manager-pptp-gnome to desktop-recommends [arm64]
+  * Added qt-at-spi to desktop-recommends [arm64]
+  * Added remmina to desktop-recommends [arm64]
+  * Added rhythmbox to desktop-recommends [arm64]
+  * Added rhythmbox-plugin-magnatune to desktop-recommends [arm64]
+  * Added shotwell to desktop-recommends [arm64]
+  * Added sni-qt to desktop-recommends [arm64]
+  * Added totem to desktop-recommends [arm64]
+  * Added totem-mozilla to desktop-recommends [arm64]
+  * Added ubuntu-drivers-common to desktop [arm64]
+  * Added unity to desktop [arm64]
+  * Added unity-greeter to desktop [arm64]
+  * Added update-notifier to desktop [arm64]
+  * Added vino to desktop-recommends [arm64]
+  * Added whoopsie to desktop-recommends [arm64]
+  * Added xul-ext-webaccounts to desktop-recommends [arm64]
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Wed, 16 Oct 2013 11:29:04 +0100
+
 ubuntu-meta (1.306) saucy; urgency=low
 
   * Refreshed dependencies
