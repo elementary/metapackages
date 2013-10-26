@@ -43,6 +43,7 @@ gnome-power-manager
 gnome-screensaver
 gnome-screenshot
 gnome-session-bin
+gtksourceview-3.0-theme-solarized-elementary
 gvfs-bin
 gvfs-fuse
 hplip

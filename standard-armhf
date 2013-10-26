@@ -1,6 +1,7 @@
 busybox-static
 cpio
 cron
+dmidecode
 dnsutils
 dosfstools
 ed

@@ -9,7 +9,6 @@ eject
 gnupg
 ifupdown
 initramfs-tools
-iproute
 iputils-ping
 isc-dhcp-client
 kbd
