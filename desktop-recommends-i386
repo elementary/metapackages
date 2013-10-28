@@ -58,6 +58,7 @@ ibus-table
 im-config
 indicator-application
 indicator-datetime
+indicator-power
 indicator-session
 indicator-sound
 kerneloops-daemon

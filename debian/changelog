@@ -1,4 +1,4 @@
-elementary-meta (1.309) UNRELEASED; urgency=low
+elementary-meta (1.310) UNRELEASED; urgency=low
 
   * Refreshed dependencies
   * Added contractor to pantheon-recommends [amd64 i386]
@@ -155,8 +155,10 @@ elementary-meta (1.309) UNRELEASED; urgency=low
   * Added gtksourceview-3.0-theme-solarized-elementary to desktop-
     recommends
   * Removed iproute from minimal
+  * Refreshed dependencies
+  * Added indicator-power to desktop-recommends
 
- -- Cody Garver <cody@elementaryos.org>  Sat, 26 Oct 2013 10:24:24 -0500
+ -- Cody Garver <cody@elementaryos.org>  Mon, 28 Oct 2013 09:58:21 -0500
 
 elementary-meta (1.303) saucy; urgency=low
 
