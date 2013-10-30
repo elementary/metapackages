@@ -1,3 +1,10 @@
+ubuntu-meta (1.309) trusty; urgency=low
+
+  * Refreshed dependencies
+  * Added webbrowser-app to desktop-recommends [amd64 armhf i386]
+
+ -- Didier Roche <didrocks@ubuntu.com>  Wed, 30 Oct 2013 18:28:25 -0700
+
 ubuntu-meta (1.308) trusty; urgency=low
 
   * Refreshed dependencies
