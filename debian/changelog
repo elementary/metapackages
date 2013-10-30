@@ -1,3 +1,10 @@
+ubuntu-meta (1.308) trusty; urgency=low
+
+  * Refreshed dependencies
+  * Added cheese to desktop-recommends
+
+ -- Iain Lane <iain.lane@canonical.com>  Wed, 30 Oct 2013 22:01:43 +0000
+
 ubuntu-meta (1.307) saucy; urgency=low
 
   * Refreshed dependencies
