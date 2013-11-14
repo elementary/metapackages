@@ -16,7 +16,6 @@ kbd
 less
 locales
 lsb-release
-mac-fdisk
 makedev
 mawk
 module-init-tools
@@ -25,8 +24,6 @@ netbase
 netcat-openbsd
 ntpdate
 passwd
-pmac-fdisk
-powerpc-utils
 procps
 python3
 resolvconf
@@ -34,7 +31,6 @@ rsyslog
 sudo
 tzdata
 ubuntu-keyring
-ubuntu-minimal
 udev
 upstart
 ureadahead

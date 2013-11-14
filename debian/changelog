@@ -148,22 +148,111 @@ elementary-meta (1.311) UNRELEASED; urgency=low
   * Added audience to pantheon-recommends [amd64 i386]
   * Added capnet-assist to desktop-recommends [amd64 i386]
   * Added print-test-page-elementary to desktop-recommends
+
+ -- Cody Garver <cody@elementaryos.org>  Thu, 14 Nov 2013 18:28:25 -0500
+
+ubuntu-meta (1.309) trusty; urgency=low
+
+  * Refreshed dependencies
+  * Added webbrowser-app to desktop-recommends [amd64 armhf i386]
+
+ -- Didier Roche <didrocks@ubuntu.com>  Wed, 30 Oct 2013 18:28:25 -0700
+
+ubuntu-meta (1.308) trusty; urgency=low
+
+  * Refreshed dependencies
+  * Added cheese to desktop-recommends
+
+ -- Iain Lane <iain.lane@canonical.com>  Wed, 30 Oct 2013 22:01:43 +0000
+
+ubuntu-meta (1.307) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added brasero to desktop-recommends [arm64]
+  * Added deja-dup to desktop-recommends [arm64]
+  * Added empathy to desktop-recommends [arm64]
+  * Added evince to desktop [arm64]
+  * Added file-roller to desktop [arm64]
+  * Added gedit to desktop [arm64]
+  * Added gnome-bluetooth to desktop-recommends [arm64]
+  * Added gnome-control-center to desktop [arm64]
+  * Added gnome-control-center-unity to desktop-recommends [arm64]
+  * Added gnome-disk-utility to desktop-recommends [arm64]
+  * Added hplip to desktop-recommends [arm64]
+  * Added libproxy1-plugin-gsettings to desktop-recommends [arm64]
+  * Added libproxy1-plugin-networkmanager to desktop-recommends [arm64]
+  * Added nautilus to desktop [arm64]
+  * Added nautilus-sendto to desktop [arm64]
+  * Added nautilus-share to desktop-recommends [arm64]
+  * Added network-manager-gnome to desktop-recommends [arm64]
+  * Added network-manager-pptp to desktop-recommends [arm64]
+  * Added network-manager-pptp-gnome to desktop-recommends [arm64]
+  * Added qt-at-spi to desktop-recommends [arm64]
+  * Added remmina to desktop-recommends [arm64]
+  * Added rhythmbox to desktop-recommends [arm64]
+  * Added rhythmbox-plugin-magnatune to desktop-recommends [arm64]
+  * Added shotwell to desktop-recommends [arm64]
+  * Added sni-qt to desktop-recommends [arm64]
+  * Added totem to desktop-recommends [arm64]
+  * Added totem-mozilla to desktop-recommends [arm64]
+  * Added ubuntu-drivers-common to desktop [arm64]
+  * Added unity to desktop [arm64]
+  * Added unity-greeter to desktop [arm64]
+  * Added update-notifier to desktop [arm64]
+  * Added vino to desktop-recommends [arm64]
+  * Added whoopsie to desktop-recommends [arm64]
+  * Added xul-ext-webaccounts to desktop-recommends [arm64]
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Wed, 16 Oct 2013 11:29:04 +0100
+
+ubuntu-meta (1.306) saucy; urgency=low
+
+  * Refreshed dependencies
+  * Added avahi-autoipd to desktop-recommends [arm64]
+  * Added avahi-daemon to desktop-recommends [arm64]
+  * Added brltty to desktop-recommends [arm64]
+  * Added checkbox-qt to desktop [arm64]
+  * Added gnome-power-manager to desktop [arm64]
+  * Added gstreamer0.10-pulseaudio to desktop [arm64]
+  * Added gstreamer1.0-alsa to desktop [arm64]
+  * Added gstreamer1.0-plugins-base-apps to desktop [arm64]
+  * Added gstreamer1.0-pulseaudio to desktop [arm64]
+  * Added gvfs-bin to desktop [arm64]
+  * Added gvfs-fuse to desktop-recommends [arm64]
+  * Added ibus-pinyin to desktop-recommends [arm64]
+  * Added libqt4-sql-sqlite to desktop-recommends [arm64]
+  * Added lightdm to desktop [arm64]
+  * Added lsof to standard [arm64]
+  * Added pulseaudio to desktop [arm64]
+  * Added pulseaudio-module-bluetooth to desktop-recommends [arm64]
+  * Added pulseaudio-module-x11 to desktop-recommends [arm64]
+  * Added seahorse to desktop [arm64]
+  * Added simple-scan to desktop-recommends [arm64]
+  * Added wpasupplicant to desktop [arm64]
+  * Added xorg to desktop [arm64]
+  * Added yelp to desktop [arm64]
+  * Added zenity to desktop [arm64]
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Mon, 14 Oct 2013 02:32:34 +0100
+
+ubuntu-meta (1.305) saucy; urgency=low
+
+  * Add arm64 port
+  * Refreshed dependencies
+  * Added dmidecode to standard [armhf]
   * Added shotwell to desktop-recommends [powerpc]
   * Removed jockey-gtk from desktop-recommends
   * Removed totem from desktop-recommends
-  * Refreshed dependencies
-  * Added dmidecode to standard [armhf]
-  * Added gtksourceview-3.0-theme-solarized-elementary to desktop-
-    recommends
-  * Removed iproute from minimal
-  * Refreshed dependencies
-  * Added indicator-power to desktop-recommends
 
-  [ root ]
+ -- Dmitrijs Ledkovs <dmitrij.ledkov@ubuntu.com>  Fri, 11 Oct 2013 16:31:01 +0100
+
+elementary-meta (1.304) saucy; urgency=low
+
+  * Refreshed dependencies
   * Refreshed dependencies
   * Added indicator-bluetooth to desktop-recommends
 
- -- root <cody@elementaryos.org>  Thu, 31 Oct 2013 13:44:15 +0000
+ -- Cody Garver <cody@elementaryos.org>  Thu, 31 Oct 2013 13:44:15 +0000
 
 elementary-meta (1.303) saucy; urgency=low
 
