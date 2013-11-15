@@ -1,4 +1,4 @@
-elementary-meta (1.312) UNRELEASED; urgency=low
+elementary-meta (1.313) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -242,7 +242,11 @@ elementary-meta (1.312) UNRELEASED; urgency=low
   * Moved xdg-user-dirs-gtk to desktop-recommends [arm64]
   * Moved zenity to desktop-recommends [arm64]
 
- -- Cody Garver <cody@elementaryos.org>  Thu, 14 Nov 2013 17:14:02 -0600
+  [ root ]
+  * Refreshed dependencies
+  * Added plymouth-theme-elementary to desktop-recommends [amd64 i386]
+
+ -- root <cody@elementaryos.org>  Fri, 15 Nov 2013 00:24:39 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
