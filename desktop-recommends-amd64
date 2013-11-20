@@ -18,7 +18,6 @@ elementary-default-settings
 elementary-os-prerelease
 empathy
 evince
-example-content
 file-roller
 fonts-elementary-core
 fonts-kacst-one
@@ -83,7 +82,6 @@ overlay-scrollbar
 p7zip-full
 pcmciautils
 plymouth-theme-elementary
-plymouth-theme-ubuntu-logo
 policykit-desktop-privileges
 print-test-page-elementary
 printer-driver-c2esp
@@ -98,7 +96,6 @@ pulseaudio-module-bluetooth
 pulseaudio-module-gconf
 pulseaudio-module-x11
 python3-aptdaemon.pkcompat
-qt-at-spi
 shotwell
 simple-scan
 software-center
@@ -126,5 +123,4 @@ whoopsie
 xcursor-themes
 xdg-user-dirs-gtk
 xdg-utils
-xterm
 zenity
