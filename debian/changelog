@@ -1,4 +1,4 @@
-elementary-meta (1.314) UNRELEASED; urgency=low
+elementary-meta (1.315) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -250,8 +250,13 @@ elementary-meta (1.314) UNRELEASED; urgency=low
   * Removed plymouth-theme-ubuntu-logo from desktop-recommends
   * Removed qt-at-spi from desktop-recommends
   * Removed xterm from desktop-recommends
+  * Refreshed dependencies
+  * Added fonts-droid to desktop-recommends
+  * Added light-locker to desktop-recommends
+  * Removed gnome-screensaver from desktop-recommends
+  * Removed ttf-wqy-microhei from desktop-recommends
 
- -- root <cody@elementaryos.org>  Wed, 20 Nov 2013 03:04:41 +0000
+ -- root <cody@elementaryos.org>  Fri, 06 Dec 2013 09:54:56 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
