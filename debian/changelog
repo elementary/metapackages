@@ -1,4 +1,4 @@
-elementary-meta (1.315) UNRELEASED; urgency=low
+elementary-meta (1.316) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -255,8 +255,14 @@ elementary-meta (1.315) UNRELEASED; urgency=low
   * Added light-locker to desktop-recommends
   * Removed gnome-screensaver from desktop-recommends
   * Removed ttf-wqy-microhei from desktop-recommends
+  * Refreshed dependencies
+  * Added maya-calendar to pantheon-recommends [amd64 i386]
+  * Removed indicator-bluetooth from desktop-recommends [arm64]
+  * Removed indicator-datetime from desktop-recommends [arm64]
+  * Removed indicator-power from desktop-recommends [arm64]
+  * Removed indicator-sound from desktop-recommends [arm64]
 
- -- root <cody@elementaryos.org>  Fri, 06 Dec 2013 09:54:56 +0000
+ -- root <cody@elementaryos.org>  Tue, 10 Dec 2013 09:38:16 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
