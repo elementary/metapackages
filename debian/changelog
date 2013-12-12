@@ -1,4 +1,4 @@
-elementary-meta (1.317) UNRELEASED; urgency=low
+elementary-meta (1.318) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -263,8 +263,10 @@ elementary-meta (1.317) UNRELEASED; urgency=low
   * Removed indicator-sound from desktop-recommends [arm64]
   * Refreshed dependencies
   * Added snap-photobooth to pantheon-recommends [amd64 i386]
+  * Refreshed dependencies
+  * Added plymouth-theme-elementary-text to desktop-recommends
 
- -- root <cody@elementaryos.org>  Thu, 12 Dec 2013 12:39:39 +0000
+ -- root <cody@elementaryos.org>  Thu, 12 Dec 2013 20:01:37 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
