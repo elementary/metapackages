@@ -1,4 +1,4 @@
-elementary-meta (1.318) UNRELEASED; urgency=low
+elementary-meta (1.319) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -266,7 +266,14 @@ elementary-meta (1.318) UNRELEASED; urgency=low
   * Refreshed dependencies
   * Added plymouth-theme-elementary-text to desktop-recommends
 
- -- root <cody@elementaryos.org>  Thu, 12 Dec 2013 20:01:37 +0000
+  [ Cody Garver ]
+  * Refreshed dependencies
+  * Added switchboard-plug-online-accounts to desktop-recommends [amd64
+    i386]
+  * Removed pantheon-wallpaper from pantheon-shell-recommends [amd64
+    i386]
+
+ -- Cody Garver <cody@elementaryos.org>  Fri, 10 Jan 2014 12:34:05 -0600
 
 ubuntu-meta (1.309) trusty; urgency=low
 
