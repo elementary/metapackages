@@ -31,6 +31,7 @@ fonts-thai-tlwg
 fonts-tibetan-machine
 gcalctool
 gcc
+gdm
 geary
 ginn
 gnome-accessibility-themes
@@ -64,7 +65,6 @@ libproxy1-plugin-gsettings
 libproxy1-plugin-networkmanager
 libwmf0.2-7-gtk
 light-locker
-lightdm
 make
 mousetweaks
 network-manager-gnome
@@ -96,6 +96,7 @@ software-center
 software-properties-gtk
 speech-dispatcher
 ssh-askpass-gnome
+switchboard-gnome-control-center
 system-config-printer-gnome
 telepathy-idle
 ttf-indic-fonts-core

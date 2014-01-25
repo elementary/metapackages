@@ -1,4 +1,4 @@
-elementary-meta (1.319) UNRELEASED; urgency=low
+elementary-meta (1.320) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -272,8 +272,13 @@ elementary-meta (1.319) UNRELEASED; urgency=low
     i386]
   * Removed pantheon-wallpaper from pantheon-shell-recommends [amd64
     i386]
+  * Refreshed dependencies
+  * Added gdm to desktop-recommends
+  * Added switchboard-gnome-control-center to desktop-recommends [arm64
+    armhf powerpc]
+  * Removed lightdm from desktop-recommends
 
- -- Cody Garver <cody@elementaryos.org>  Fri, 10 Jan 2014 12:34:05 -0600
+ -- Cody Garver <cody@elementaryos.org>  Sat, 25 Jan 2014 09:32:06 -0600
 
 ubuntu-meta (1.309) trusty; urgency=low
 
