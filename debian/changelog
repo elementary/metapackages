@@ -1,4 +1,4 @@
-elementary-meta (1.320) UNRELEASED; urgency=low
+elementary-meta (1.321) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -277,8 +277,10 @@ elementary-meta (1.320) UNRELEASED; urgency=low
   * Added switchboard-gnome-control-center to desktop-recommends [arm64
     armhf powerpc]
   * Removed lightdm from desktop-recommends
+  * Refreshed dependencies
+  * Removed pantheon-greeter from pantheon-recommends [amd64 i386]
 
- -- Cody Garver <cody@elementaryos.org>  Sat, 25 Jan 2014 09:32:06 -0600
+ -- Cody Garver <cody@elementaryos.org>  Sat, 25 Jan 2014 10:10:17 -0600
 
 ubuntu-meta (1.309) trusty; urgency=low
 
