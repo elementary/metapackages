@@ -1,4 +1,4 @@
-elementary-meta (1.322) UNRELEASED; urgency=low
+elementary-meta (1.323) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -283,8 +283,12 @@ elementary-meta (1.322) UNRELEASED; urgency=low
   * Added lightdm to desktop-recommends
   * Added pantheon-greeter to pantheon-recommends [amd64 i386]
   * Removed gdm from desktop-recommends
+  * Refreshed dependencies
+  * Removed shotwell from desktop-recommends
+  * Removed switchboard-plug-online-accounts from desktop-recommends
+    [amd64 i386]
 
- -- Cody Garver <cody@elementaryos.org>  Sun, 26 Jan 2014 11:39:17 -0600
+ -- Cody Garver <cody@elementaryos.org>  Mon, 10 Mar 2014 17:51:01 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 

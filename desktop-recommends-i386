@@ -98,7 +98,6 @@ pulseaudio-module-bluetooth
 pulseaudio-module-gconf
 pulseaudio-module-x11
 python3-aptdaemon.pkcompat
-shotwell
 simple-scan
 software-center
 software-properties-gtk
@@ -109,7 +108,6 @@ switchboard-gnome-control-center
 switchboard-plug-about
 switchboard-plug-default-applications
 switchboard-plug-keyboard
-switchboard-plug-online-accounts
 switchboard-plug-pantheon-shell
 switchboard-plug-power
 system-config-printer-gnome
