@@ -1,4 +1,4 @@
-elementary-meta (1.323) UNRELEASED; urgency=low
+elementary-meta (1.324) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -287,8 +287,10 @@ elementary-meta (1.323) UNRELEASED; urgency=low
   * Removed shotwell from desktop-recommends
   * Removed switchboard-plug-online-accounts from desktop-recommends
     [amd64 i386]
+  * Refreshed dependencies
+  * Removed overlay-scrollbar from desktop-recommends
 
- -- Cody Garver <cody@elementaryos.org>  Mon, 10 Mar 2014 17:51:01 -0500
+ -- Cody Garver <cody@elementaryos.org>  Thu, 13 Mar 2014 23:55:17 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 
