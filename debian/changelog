@@ -1,4 +1,4 @@
-elementary-meta (1.324) UNRELEASED; urgency=low
+elementary-meta (1.325) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -289,8 +289,14 @@ elementary-meta (1.324) UNRELEASED; urgency=low
     [amd64 i386]
   * Refreshed dependencies
   * Removed overlay-scrollbar from desktop-recommends
+  * Refreshed dependencies
+  * Added indicator-bluetooth to desktop-recommends [arm64]
+  * Added indicator-power to desktop-recommends [arm64]
+  * Added indicator-sound to desktop-recommends [arm64]
+  * Removed gtksourceview-3.0-theme-solarized-elementary from desktop-
+    recommends
 
- -- Cody Garver <cody@elementaryos.org>  Thu, 13 Mar 2014 23:55:17 -0500
+ -- Cody Garver <cody@elementaryos.org>  Sun, 16 Mar 2014 01:39:28 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 
