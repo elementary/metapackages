@@ -48,7 +48,6 @@ hplip
 ibus
 ibus-gtk3
 ibus-pinyin
-ibus-pinyin-db-android
 ibus-table
 im-config
 indicator-application

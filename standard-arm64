@@ -13,6 +13,7 @@ language-selector-common
 logrotate
 lshw
 lsof
+ltrace
 man-db
 mime-support
 parted

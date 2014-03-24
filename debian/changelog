@@ -1,4 +1,4 @@
-elementary-meta (1.325) UNRELEASED; urgency=low
+elementary-meta (1.326) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -295,8 +295,11 @@ elementary-meta (1.325) UNRELEASED; urgency=low
   * Added indicator-sound to desktop-recommends [arm64]
   * Removed gtksourceview-3.0-theme-solarized-elementary from desktop-
     recommends
+  * Refreshed dependencies
+  * Added ltrace to standard [arm64]
+  * Removed ibus-pinyin-db-android from desktop-recommends
 
- -- Cody Garver <cody@elementaryos.org>  Sun, 16 Mar 2014 01:39:28 -0500
+ -- Cody Garver <cody@elementaryos.org>  Mon, 24 Mar 2014 00:25:55 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 
