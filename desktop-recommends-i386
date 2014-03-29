@@ -106,6 +106,7 @@ switchboard-gnome-control-center
 switchboard-plug-about
 switchboard-plug-default-applications
 switchboard-plug-keyboard
+switchboard-plug-online-accounts
 switchboard-plug-pantheon-shell
 switchboard-plug-power
 system-config-printer-gnome

@@ -1,4 +1,4 @@
-elementary-meta (1.327) UNRELEASED; urgency=low
+elementary-meta (1.328) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -301,8 +301,11 @@ elementary-meta (1.327) UNRELEASED; urgency=low
   * Refreshed dependencies
   * Added gtksourceview-3.0-theme-solarized-elementary to desktop-
     recommends
+  * Refreshed dependencies
+  * Added switchboard-plug-online-accounts to desktop-recommends [amd64
+    i386]
 
- -- Cody Garver <cody@elementaryos.org>  Thu, 27 Mar 2014 23:39:01 -0500
+ -- Cody Garver <cody@elementaryos.org>  Fri, 28 Mar 2014 20:14:41 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 
