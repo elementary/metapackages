@@ -53,6 +53,7 @@ ibus-table
 im-config
 indicator-application
 indicator-bluetooth
+indicator-datetime
 indicator-power
 indicator-session
 indicator-sound
