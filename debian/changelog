@@ -1,4 +1,4 @@
-elementary-meta (1.331) UNRELEASED; urgency=low
+elementary-meta (1.332) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -314,8 +314,10 @@ elementary-meta (1.331) UNRELEASED; urgency=low
     [amd64 i386]
   * Refreshed dependencies
   * Removed activity-log-manager-control-center from desktop-recommends
+  * Refreshed dependencies
+  * Added user-specific-alternatives to desktop-recommends [amd64 i386]
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Thu, 17 Apr 2014 23:22:59 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Wed, 23 Apr 2014 22:36:43 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
