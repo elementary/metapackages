@@ -2,7 +2,7 @@ Source: elementary-meta
 Section: metapackages
 Priority: optional
 Maintainer: Cody Garver <cody@elementaryos.org>
-Standards-Version: 3.9.2
+Standards-Version: 3.9.5
 Build-Depends: debhelper (>= 7.0.8), germinate (>= 1.18)
 
 Package: elementary-minimal
@@ -26,7 +26,7 @@ Package: elementary-standard
 Architecture: any
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: elementary OS CLI-only components
+Description: CLI-only components of elementary OS
  This package depends on most of non-GUI packages from elementary OS.
  .
  This set of packages provides a comfortable command-line Unix-like
@@ -39,7 +39,7 @@ Package: elementary-desktop
 Architecture: any
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: elementary OS desktop
+Description: Complete desktop of elementary OS
  This package installs the complete elementary desktop.
  .
  It is also used to help ensure proper upgrades, so it is recommended that
@@ -49,7 +49,7 @@ Package: elementary-artwork
 Architecture: any
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: elementary artwork
+Description: Artwork of elementary OS
  This package installs the acclaimed elementary desktop artwork.
  .
  It is also used to help ensure proper upgrades, so it is recommended that
@@ -78,4 +78,3 @@ Description: Pantheon Desktop Environment
  This package installs all Pantheon apps that are shipped with the OS by default.
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
-
