@@ -108,6 +108,7 @@ switchboard-plug-keyboard
 switchboard-plug-online-accounts
 switchboard-plug-pantheon-shell
 switchboard-plug-power
+switchboard-plug-security-privacy
 switchboard-plug-startup-applications
 system-config-printer-gnome
 telepathy-idle
