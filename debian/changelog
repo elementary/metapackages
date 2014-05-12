@@ -1,4 +1,4 @@
-elementary-meta (1.334) UNRELEASED; urgency=low
+elementary-meta (1.335) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -321,8 +321,27 @@ elementary-meta (1.334) UNRELEASED; urgency=low
     i386]
   * Refreshed dependencies
   * Added switchboard-plug-locale to desktop-recommends [amd64 i386]
+  * Refreshed dependencies
+  * Added switchboard-plug-gcc-bluetooth to desktop-recommends [amd64
+    i386]
+  * Added switchboard-plug-gcc-color to desktop-recommends [amd64 i386]
+  * Added switchboard-plug-gcc-date to desktop-recommends [amd64 i386]
+  * Added switchboard-plug-gcc-display to desktop-recommends [amd64
+    i386]
+  * Added switchboard-plug-gcc-mouse to desktop-recommends [amd64 i386]
+  * Added switchboard-plug-gcc-network to desktop-recommends [amd64
+    i386]
+  * Added switchboard-plug-gcc-printer to desktop-recommends [amd64
+    i386]
+  * Added switchboard-plug-gcc-region to desktop-recommends [amd64 i386]
+  * Added switchboard-plug-gcc-screen to desktop-recommends [amd64 i386]
+  * Added switchboard-plug-gcc-sound to desktop-recommends [amd64 i386]
+  * Added switchboard-plug-gcc-ua to desktop-recommends [amd64 i386]
+  * Added switchboard-plug-gcc-users to desktop-recommends [amd64 i386]
+  * Added switchboard-plug-gcc-wacom to desktop-recommends [amd64 i386]
+  * Removed switchboard-gnome-control-center from desktop-recommends
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Fri, 02 May 2014 11:40:54 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Mon, 12 May 2014 05:26:54 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
