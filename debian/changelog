@@ -1,4 +1,4 @@
-elementary-meta (1.335) UNRELEASED; urgency=low
+elementary-meta (1.336) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -340,8 +340,11 @@ elementary-meta (1.335) UNRELEASED; urgency=low
   * Added switchboard-plug-gcc-users to desktop-recommends [amd64 i386]
   * Added switchboard-plug-gcc-wacom to desktop-recommends [amd64 i386]
   * Removed switchboard-gnome-control-center from desktop-recommends
+  * Refreshed dependencies
+  * Removed switchboard-plug-gcc-region from desktop-recommends [amd64
+    i386]
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Mon, 12 May 2014 05:26:54 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Sun, 25 May 2014 13:24:46 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
