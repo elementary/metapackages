@@ -1,4 +1,4 @@
-elementary-meta (1.336) UNRELEASED; urgency=low
+elementary-meta (1.337) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -343,8 +343,10 @@ elementary-meta (1.336) UNRELEASED; urgency=low
   * Refreshed dependencies
   * Removed switchboard-plug-gcc-region from desktop-recommends [amd64
     i386]
+  * Refreshed dependencies
+  * Added pantheon-photos to pantheon-recommends [amd64 i386]
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Sun, 25 May 2014 13:24:46 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Mon, 26 May 2014 15:54:03 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
