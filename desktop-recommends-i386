@@ -102,7 +102,7 @@ speech-dispatcher
 ssh-askpass-gnome
 switchboard
 switchboard-plug-about
-switchboard-plug-default-applications
+switchboard-plug-applications
 switchboard-plug-gcc-bluetooth
 switchboard-plug-gcc-color
 switchboard-plug-gcc-date
@@ -121,7 +121,6 @@ switchboard-plug-online-accounts
 switchboard-plug-pantheon-shell
 switchboard-plug-power
 switchboard-plug-security-privacy
-switchboard-plug-startup-applications
 system-config-printer-gnome
 telepathy-idle
 ttf-indic-fonts-core

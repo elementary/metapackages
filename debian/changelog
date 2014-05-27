@@ -1,4 +1,4 @@
-elementary-meta (1.337) UNRELEASED; urgency=low
+elementary-meta (1.338) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -345,8 +345,15 @@ elementary-meta (1.337) UNRELEASED; urgency=low
     i386]
   * Refreshed dependencies
   * Added pantheon-photos to pantheon-recommends [amd64 i386]
+  * Refreshed dependencies
+  * Added switchboard-plug-applications to desktop-recommends [amd64
+    i386]
+  * Removed switchboard-plug-default-applications from desktop-
+    recommends [amd64 i386]
+  * Removed switchboard-plug-startup-applications from desktop-
+    recommends [amd64 i386]
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Mon, 26 May 2014 15:54:03 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Tue, 27 May 2014 13:50:50 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
