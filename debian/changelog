@@ -1,4 +1,4 @@
-elementary-meta (1.338) UNRELEASED; urgency=low
+elementary-meta (1.339) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -352,8 +352,16 @@ elementary-meta (1.338) UNRELEASED; urgency=low
     recommends [amd64 i386]
   * Removed switchboard-plug-startup-applications from desktop-
     recommends [amd64 i386]
+  * Refreshed dependencies
+  * Added fonts-elementary-core to desktop-recommends [arm64 armhf
+    powerpc]
+  * Added fonts-elementary-extra to artwork-recommends [armhf]
+  * Added pantheon-greeter to desktop-recommends [amd64 i386]
+  * Removed pantheon-greeter from pantheon-recommends [amd64 i386]
+  * Removed switchboard-plug-gcc-screen from desktop-recommends [amd64
+    i386]
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Tue, 27 May 2014 13:50:50 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Wed, 11 Jun 2014 21:08:03 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 

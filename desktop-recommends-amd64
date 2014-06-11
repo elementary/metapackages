@@ -78,6 +78,7 @@ network-manager-pptp-gnome
 notify-osd
 onboard
 p7zip-full
+pantheon-greeter
 pcmciautils
 plymouth-theme-elementary
 plymouth-theme-elementary-text
@@ -110,7 +111,6 @@ switchboard-plug-gcc-display
 switchboard-plug-gcc-mouse
 switchboard-plug-gcc-network
 switchboard-plug-gcc-printer
-switchboard-plug-gcc-screen
 switchboard-plug-gcc-sound
 switchboard-plug-gcc-ua
 switchboard-plug-gcc-users
