@@ -102,6 +102,7 @@ software-properties-gtk
 speech-dispatcher
 ssh-askpass-gnome
 switchboard
+switchboard-gnome-control-center-override
 switchboard-plug-about
 switchboard-plug-applications
 switchboard-plug-gcc-bluetooth
