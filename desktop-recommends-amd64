@@ -105,10 +105,10 @@ switchboard
 switchboard-gnome-control-center-override
 switchboard-plug-about
 switchboard-plug-applications
+switchboard-plug-display
 switchboard-plug-gcc-bluetooth
 switchboard-plug-gcc-color
 switchboard-plug-gcc-date
-switchboard-plug-gcc-display
 switchboard-plug-gcc-mouse
 switchboard-plug-gcc-network
 switchboard-plug-gcc-printer
