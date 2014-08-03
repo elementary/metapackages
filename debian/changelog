@@ -1,4 +1,4 @@
-elementary-meta (1.341) UNRELEASED; urgency=low
+elementary-meta (1.342) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -367,8 +367,10 @@ elementary-meta (1.341) UNRELEASED; urgency=low
   * Added switchboard-plug-display to desktop-recommends [amd64 i386]
   * Removed switchboard-plug-gcc-display from desktop-recommends [amd64
     i386]
+  * Refreshed dependencies
+  * Removed system-config-printer-gnome from desktop-recommends
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Wed, 30 Jul 2014 08:43:49 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Sun, 03 Aug 2014 17:26:54 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
