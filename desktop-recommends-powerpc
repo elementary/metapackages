@@ -13,7 +13,6 @@ cups-bsd
 cups-client
 elementary-default-settings
 elementary-os-prerelease
-empathy
 evince
 file-roller
 fonts-droid
@@ -98,7 +97,6 @@ software-properties-gtk
 speech-dispatcher
 ssh-askpass-gnome
 switchboard-gnome-control-center-override
-telepathy-idle
 ttf-indic-fonts-core
 ttf-punjabi-fonts
 ttf-ubuntu-font-family

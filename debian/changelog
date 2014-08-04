@@ -1,4 +1,4 @@
-elementary-meta (1.342) UNRELEASED; urgency=low
+elementary-meta (1.343) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -369,8 +369,11 @@ elementary-meta (1.342) UNRELEASED; urgency=low
     i386]
   * Refreshed dependencies
   * Removed system-config-printer-gnome from desktop-recommends
+  * Refreshed dependencies
+  * Removed empathy from desktop-recommends
+  * Removed telepathy-idle from desktop-recommends
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Sun, 03 Aug 2014 17:26:54 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Mon, 04 Aug 2014 02:16:31 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
