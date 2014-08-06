@@ -2,6 +2,7 @@ apparmor
 apt-transport-https
 bash-completion
 command-not-found
+elementary-os-overlay
 friendly-recovery
 iputils-tracepath
 irqbalance

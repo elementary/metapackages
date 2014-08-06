@@ -1,4 +1,4 @@
-elementary-meta (1.343) UNRELEASED; urgency=low
+elementary-meta (1.344) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -372,8 +372,10 @@ elementary-meta (1.343) UNRELEASED; urgency=low
   * Refreshed dependencies
   * Removed empathy from desktop-recommends
   * Removed telepathy-idle from desktop-recommends
+  * Refreshed dependencies
+  * Added elementary-os-overlay to standard-recommends
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Mon, 04 Aug 2014 02:16:31 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Wed, 06 Aug 2014 21:51:17 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
