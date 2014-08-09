@@ -1,4 +1,4 @@
-elementary-meta (1.345) UNRELEASED; urgency=low
+elementary-meta (1.346) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -376,8 +376,12 @@ elementary-meta (1.345) UNRELEASED; urgency=low
   * Added elementary-os-overlay to standard-recommends
   * Refreshed dependencies
   * Removed notify-osd from desktop-recommends
+  * Refreshed dependencies
+  * Removed libxp6 from desktop
+  * Removed plymouth-theme-ubuntu-text from standard-recommends
+  * Removed popularity-contest from standard
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Sat, 09 Aug 2014 15:59:51 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Sat, 09 Aug 2014 19:06:49 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 

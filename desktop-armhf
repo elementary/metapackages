@@ -23,7 +23,6 @@ libatk-adaptor
 libnotify-bin
 libpam-systemd
 libsasl2-modules
-libxp6
 openprinting-ppds
 printer-driver-pnm2ppa
 rfkill

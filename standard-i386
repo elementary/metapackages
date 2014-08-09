@@ -20,7 +20,6 @@ memtest86+
 mime-support
 parted
 pciutils
-popularity-contest
 psmisc
 rsync
 strace
