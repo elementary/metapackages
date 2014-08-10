@@ -1,4 +1,4 @@
-elementary-meta (1.346) UNRELEASED; urgency=low
+elementary-meta (1.347) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -380,8 +380,10 @@ elementary-meta (1.346) UNRELEASED; urgency=low
   * Removed libxp6 from desktop
   * Removed plymouth-theme-ubuntu-text from standard-recommends
   * Removed popularity-contest from standard
+  * Refreshed dependencies
+  * Added indicator-keyboard to desktop-recommends
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Sat, 09 Aug 2014 19:06:49 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Sun, 10 Aug 2014 20:00:55 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 

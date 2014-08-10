@@ -53,6 +53,7 @@ im-config
 indicator-application
 indicator-bluetooth
 indicator-datetime
+indicator-keyboard
 indicator-power
 indicator-session
 indicator-sound
