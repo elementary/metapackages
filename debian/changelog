@@ -1,4 +1,4 @@
-elementary-meta (1.347) UNRELEASED; urgency=low
+elementary-meta (1.348) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -382,8 +382,11 @@ elementary-meta (1.347) UNRELEASED; urgency=low
   * Removed popularity-contest from standard
   * Refreshed dependencies
   * Added indicator-keyboard to desktop-recommends
+  * Refreshed dependencies
+  * Added cryptsetup to standard-recommends
+  * Added lvm2 to standard-recommends
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Sun, 10 Aug 2014 20:00:55 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Sun, 10 Aug 2014 22:15:10 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
