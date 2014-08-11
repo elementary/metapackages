@@ -1,4 +1,4 @@
-elementary-meta (1.348) UNRELEASED; urgency=low
+elementary-meta (1.349) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -385,8 +385,10 @@ elementary-meta (1.348) UNRELEASED; urgency=low
   * Refreshed dependencies
   * Added cryptsetup to standard-recommends
   * Added lvm2 to standard-recommends
+  * Refreshed dependencies
+  * Removed ubuntu-standard from standard
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Sun, 10 Aug 2014 22:15:10 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Mon, 11 Aug 2014 19:05:01 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
