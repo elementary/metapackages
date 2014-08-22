@@ -1,4 +1,4 @@
-elementary-meta (1.349) UNRELEASED; urgency=low
+elementary-meta (1.350) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -387,8 +387,10 @@ elementary-meta (1.349) UNRELEASED; urgency=low
   * Added lvm2 to standard-recommends
   * Refreshed dependencies
   * Removed ubuntu-standard from standard
+  * Refreshed dependencies
+  * Removed memtest86+ from standard [amd64 i386]
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Mon, 11 Aug 2014 19:05:01 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Fri, 22 Aug 2014 09:50:32 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
