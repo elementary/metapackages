@@ -1,4 +1,4 @@
-elementary-meta (1.350) UNRELEASED; urgency=low
+elementary-meta (1.351) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -389,8 +389,13 @@ elementary-meta (1.350) UNRELEASED; urgency=low
   * Removed ubuntu-standard from standard
   * Refreshed dependencies
   * Removed memtest86+ from standard [amd64 i386]
+  * Refreshed dependencies
+  * Added plymouth-theme-elementary to desktop-recommends [arm64 armhf
+    powerpc]
+  * Added switchboard-plug-notifications to desktop-recommends [amd64
+    i386]
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Fri, 22 Aug 2014 09:50:32 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Sun, 16 Nov 2014 23:25:38 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 

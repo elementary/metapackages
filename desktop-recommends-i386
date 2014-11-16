@@ -117,6 +117,7 @@ switchboard-plug-gcc-users
 switchboard-plug-gcc-wacom
 switchboard-plug-keyboard
 switchboard-plug-locale
+switchboard-plug-notifications
 switchboard-plug-online-accounts
 switchboard-plug-pantheon-shell
 switchboard-plug-power
