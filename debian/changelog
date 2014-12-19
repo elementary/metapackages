@@ -1,4 +1,4 @@
-elementary-meta (1.351) UNRELEASED; urgency=low
+elementary-meta (1.352) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -394,8 +394,11 @@ elementary-meta (1.351) UNRELEASED; urgency=low
     powerpc]
   * Added switchboard-plug-notifications to desktop-recommends [amd64
     i386]
+  * Refreshed dependencies
+  * Removed plank-theme-pantheon from artwork-recommends [amd64 armhf
+    i386]
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Sun, 16 Nov 2014 23:25:38 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Fri, 19 Dec 2014 22:37:27 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
