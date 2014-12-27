@@ -104,6 +104,7 @@ switchboard
 switchboard-gnome-control-center-override
 switchboard-plug-about
 switchboard-plug-applications
+switchboard-plug-datetime
 switchboard-plug-display
 switchboard-plug-gcc-bluetooth
 switchboard-plug-gcc-color
