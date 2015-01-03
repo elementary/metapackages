@@ -60,7 +60,6 @@ indicator-power
 indicator-session
 indicator-sound
 kerneloops-daemon
-language-selector-gnome
 laptop-detect
 libgail-common
 libnss-mdns

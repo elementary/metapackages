@@ -1,4 +1,4 @@
-elementary-meta (1.354) UNRELEASED; urgency=low
+elementary-meta (1.355) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -402,8 +402,10 @@ elementary-meta (1.354) UNRELEASED; urgency=low
     i386]
   * Refreshed dependencies
   * Added switchboard-plug-datetime to desktop-recommends [amd64 i386]
+  * Refreshed dependencies
+  * Removed language-selector-gnome from desktop-recommends
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Sat, 27 Dec 2014 00:06:32 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Sat, 03 Jan 2015 04:28:33 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
