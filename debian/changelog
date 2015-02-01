@@ -1,4 +1,4 @@
-elementary-meta (1.357) UNRELEASED; urgency=low
+elementary-meta (1.358) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -409,8 +409,11 @@ elementary-meta (1.357) UNRELEASED; urgency=low
   * Refreshed dependencies
   * Added pantheon-calculator to pantheon-recommends [amd64 i386]
   * Removed gcalctool from desktop-recommends
+  * Refreshed dependencies
+  * Added gnome-screensaver to desktop-recommends
+  * Removed light-locker from desktop-recommends
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Thu, 15 Jan 2015 08:31:28 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Sun, 01 Feb 2015 19:37:46 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 

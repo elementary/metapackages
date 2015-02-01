@@ -38,6 +38,7 @@ gnome-font-viewer
 gnome-menus
 gnome-orca
 gnome-power-manager
+gnome-screensaver
 gnome-screenshot
 gnome-session-bin
 gtksourceview-3.0-theme-solarized-elementary
@@ -64,7 +65,6 @@ libpam-gnome-keyring
 libproxy1-plugin-gsettings
 libproxy1-plugin-networkmanager
 libwmf0.2-7-gtk
-light-locker
 lightdm
 make
 mousetweaks
