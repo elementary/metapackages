@@ -12,6 +12,7 @@ cups
 cups-bsd
 cups-client
 elementary-default-settings
+elementary-dpms-helper
 elementary-os-prerelease
 evince
 file-roller

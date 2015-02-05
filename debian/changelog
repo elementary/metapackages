@@ -1,4 +1,4 @@
-elementary-meta (1.359) UNRELEASED; urgency=low
+elementary-meta (1.360) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -415,8 +415,10 @@ elementary-meta (1.359) UNRELEASED; urgency=low
   * Refreshed dependencies
   * Added light-locker to desktop-recommends
   * Removed gnome-screensaver from desktop-recommends
+  * Refreshed dependencies
+  * Added elementary-dpms-helper to desktop-recommends
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Wed, 04 Feb 2015 01:47:21 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Thu, 05 Feb 2015 21:02:03 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
