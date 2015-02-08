@@ -111,7 +111,6 @@ switchboard-plug-gcc-network
 switchboard-plug-gcc-printer
 switchboard-plug-gcc-sound
 switchboard-plug-gcc-ua
-switchboard-plug-gcc-users
 switchboard-plug-gcc-wacom
 switchboard-plug-keyboard
 switchboard-plug-locale
@@ -120,6 +119,7 @@ switchboard-plug-online-accounts
 switchboard-plug-pantheon-shell
 switchboard-plug-power
 switchboard-plug-security-privacy
+switchboard-plug-users
 ttf-indic-fonts-core
 ttf-punjabi-fonts
 ttf-ubuntu-font-family

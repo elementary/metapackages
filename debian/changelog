@@ -1,4 +1,4 @@
-elementary-meta (1.360) UNRELEASED; urgency=low
+elementary-meta (1.361) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -417,8 +417,12 @@ elementary-meta (1.360) UNRELEASED; urgency=low
   * Removed gnome-screensaver from desktop-recommends
   * Refreshed dependencies
   * Added elementary-dpms-helper to desktop-recommends
+  * Refreshed dependencies
+  * Added switchboard-plug-users to desktop-recommends [amd64 i386]
+  * Removed switchboard-plug-gcc-users from desktop-recommends [amd64
+    i386]
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Thu, 05 Feb 2015 21:02:03 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Sun, 08 Feb 2015 18:56:41 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
