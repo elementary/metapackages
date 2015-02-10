@@ -1,4 +1,4 @@
-elementary-meta (1.361) UNRELEASED; urgency=low
+elementary-meta (1.362) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -421,8 +421,10 @@ elementary-meta (1.361) UNRELEASED; urgency=low
   * Added switchboard-plug-users to desktop-recommends [amd64 i386]
   * Removed switchboard-plug-gcc-users from desktop-recommends [amd64
     i386]
+  * Refreshed dependencies
+  * Removed dmz-cursor-theme from desktop
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Sun, 08 Feb 2015 18:56:41 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Tue, 10 Feb 2015 03:15:47 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
