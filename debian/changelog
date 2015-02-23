@@ -1,4 +1,4 @@
-elementary-meta (1.362) UNRELEASED; urgency=low
+elementary-meta (1.363) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -423,8 +423,11 @@ elementary-meta (1.362) UNRELEASED; urgency=low
     i386]
   * Refreshed dependencies
   * Removed dmz-cursor-theme from desktop
+  * Refreshed dependencies
+  * Removed gtksourceview-3.0-theme-solarized-elementary from desktop-
+    recommends
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Tue, 10 Feb 2015 03:15:47 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Mon, 23 Feb 2015 02:46:03 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
