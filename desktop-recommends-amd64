@@ -129,6 +129,7 @@ update-notifier
 user-specific-alternatives
 whoopsie
 xcursor-themes
+xdg-user-dirs
 xdg-user-dirs-gtk
 xdg-utils
 zenity

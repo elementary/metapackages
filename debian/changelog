@@ -1,4 +1,4 @@
-elementary-meta (1.364) UNRELEASED; urgency=low
+elementary-meta (1.365) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -433,8 +433,10 @@ elementary-meta (1.364) UNRELEASED; urgency=low
   * Added powerpc-ibm-utils to minimal [powerpc]
   * Removed foomatic-filters from desktop
   * Removed module-init-tools from minimal
+  * Refreshed dependencies
+  * Moved xdg-user-dirs to desktop-recommends
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Wed, 25 Feb 2015 07:27:49 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Wed, 25 Feb 2015 07:43:58 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 

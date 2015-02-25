@@ -30,7 +30,6 @@ ubuntu-extras-keyring
 unzip
 wireless-tools
 wpasupplicant
-xdg-user-dirs
 xkb-data
 xorg
 zip
