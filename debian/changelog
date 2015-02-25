@@ -1,4 +1,4 @@
-elementary-meta (1.365) UNRELEASED; urgency=low
+elementary-meta (1.366) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -435,8 +435,10 @@ elementary-meta (1.365) UNRELEASED; urgency=low
   * Removed module-init-tools from minimal
   * Refreshed dependencies
   * Moved xdg-user-dirs to desktop-recommends
+  * Refreshed dependencies
+  * Removed bluez-gstreamer from desktop-recommends
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Wed, 25 Feb 2015 07:43:58 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Wed, 25 Feb 2015 08:36:29 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 

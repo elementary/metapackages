@@ -7,7 +7,6 @@ avahi-daemon
 bluez
 bluez-alsa
 bluez-cups
-bluez-gstreamer
 brltty
 cups
 cups-bsd
