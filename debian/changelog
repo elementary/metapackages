@@ -1,4 +1,4 @@
-elementary-meta (1.366) UNRELEASED; urgency=low
+elementary-meta (1.367) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -437,8 +437,33 @@ elementary-meta (1.366) UNRELEASED; urgency=low
   * Moved xdg-user-dirs to desktop-recommends
   * Refreshed dependencies
   * Removed bluez-gstreamer from desktop-recommends
+  * Refreshed dependencies
+  * Added btrfs-tools to live
+  * Added cifs-utils to live
+  * Added elementary-live-settings to live
+  * Added gparted to live
+  * Added hfsplus to live [powerpc]
+  * Added hunspell-en-us to live
+  * Added jfsutils to live
+  * Added language-pack-de to live [i386 powerpc]
+  * Added language-pack-en to live
+  * Added language-pack-es to live
+  * Added language-pack-gnome-de to live [i386 powerpc]
+  * Added language-pack-gnome-en to live
+  * Added language-pack-gnome-es to live
+  * Added language-pack-gnome-pt to live [i386 powerpc]
+  * Added language-pack-gnome-zh-hans to live
+  * Added language-pack-pt to live [i386 powerpc]
+  * Added language-pack-zh-hans to live
+  * Added libreoffice-help-en-us to live [amd64 i386]
+  * Added reiserfsprogs to live
+  * Added ubiquity-frontend-gtk to live
+  * Added ubiquity-slideshow-ubuntu to live
+  * Added ubiquity-ubuntu-artwork to live
+  * Added wamerican to live
+  * Added xfsprogs to live
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Wed, 25 Feb 2015 08:36:29 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Wed, 25 Feb 2015 09:32:31 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
