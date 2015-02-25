@@ -9,7 +9,6 @@ elementary-artwork
 fonts-dejavu-core
 fonts-freefont-ttf
 foomatic-db-compressed-ppds
-foomatic-filters
 genisoimage
 ghostscript-x
 gstreamer0.10-alsa
@@ -23,6 +22,7 @@ libatk-adaptor
 libnotify-bin
 libpam-systemd
 libsasl2-modules
+memtest86+
 openprinting-ppds
 pantheon
 printer-driver-pnm2ppa

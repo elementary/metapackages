@@ -13,12 +13,12 @@ iproute2
 iputils-ping
 isc-dhcp-client
 kbd
+kmod
 less
 locales
 lsb-release
 makedev
 mawk
-module-init-tools
 net-tools
 netbase
 netcat-openbsd

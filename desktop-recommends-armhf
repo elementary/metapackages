@@ -11,6 +11,7 @@ brltty
 cups
 cups-bsd
 cups-client
+cups-filters
 elementary-default-settings
 elementary-dpms-helper
 elementary-os-prerelease

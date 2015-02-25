@@ -8,7 +8,6 @@ doc-base
 fonts-dejavu-core
 fonts-freefont-ttf
 foomatic-db-compressed-ppds
-foomatic-filters
 genisoimage
 ghostscript-x
 gstreamer0.10-alsa

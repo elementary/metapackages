@@ -1,4 +1,4 @@
-elementary-meta (1.363) UNRELEASED; urgency=low
+elementary-meta (1.364) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -426,8 +426,15 @@ elementary-meta (1.363) UNRELEASED; urgency=low
   * Refreshed dependencies
   * Removed gtksourceview-3.0-theme-solarized-elementary from desktop-
     recommends
+  * Refreshed dependencies
+  * Added cups-filters to desktop-recommends
+  * Added kmod to minimal
+  * Added memtest86+ to desktop [amd64 i386]
+  * Added powerpc-ibm-utils to minimal [powerpc]
+  * Removed foomatic-filters from desktop
+  * Removed module-init-tools from minimal
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Mon, 23 Feb 2015 02:46:03 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Wed, 25 Feb 2015 07:27:49 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
