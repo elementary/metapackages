@@ -22,7 +22,6 @@ libatk-adaptor
 libnotify-bin
 libpam-systemd
 libsasl2-modules
-memtest86+
 openprinting-ppds
 pantheon
 printer-driver-pnm2ppa

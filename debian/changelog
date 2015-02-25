@@ -1,4 +1,4 @@
-elementary-meta (1.367) UNRELEASED; urgency=low
+elementary-meta (1.368) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -462,8 +462,11 @@ elementary-meta (1.367) UNRELEASED; urgency=low
   * Added ubiquity-ubuntu-artwork to live
   * Added wamerican to live
   * Added xfsprogs to live
+  * Refreshed dependencies
+  * Removed libreoffice-help-en-us from live [amd64 i386]
+  * Removed memtest86+ from desktop [amd64 i386]
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Wed, 25 Feb 2015 09:32:31 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Wed, 25 Feb 2015 09:48:55 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
