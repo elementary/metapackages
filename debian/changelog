@@ -1,4 +1,4 @@
-elementary-meta (1.368) UNRELEASED; urgency=low
+elementary-meta (1.369) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -465,8 +465,10 @@ elementary-meta (1.368) UNRELEASED; urgency=low
   * Refreshed dependencies
   * Removed libreoffice-help-en-us from live [amd64 i386]
   * Removed memtest86+ from desktop [amd64 i386]
+  * Refreshed dependencies
+  * Added capnet-assist to desktop-recommends [amd64 i386]
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Wed, 25 Feb 2015 09:48:55 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Tue, 10 Mar 2015 21:58:10 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
