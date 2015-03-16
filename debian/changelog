@@ -1,4 +1,4 @@
-elementary-meta (1.370) UNRELEASED; urgency=low
+elementary-meta (1.371) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -470,8 +470,19 @@ elementary-meta (1.370) UNRELEASED; urgency=low
   * Refreshed dependencies
   * Added elementary-printer-test-page to desktop-recommends
   * Removed print-test-page-elementary from desktop-recommends
+  * Refreshed dependencies
+  * Added build-essential to elementary-sdk [amd64 armhf i386]
+  * Added bzr to elementary-sdk [amd64 armhf i386]
+  * Added cmake to elementary-sdk [amd64 armhf i386]
+  * Added devscripts to elementary-sdk [amd64 armhf i386]
+  * Added gobject-introspection to elementary-sdk [amd64 armhf i386]
+  * Added libgirepository1.0-dev to elementary-sdk [amd64 armhf i386]
+  * Added libgranite-dev to elementary-sdk [amd64 armhf i386]
+  * Added libgtk-3-dev to elementary-sdk [amd64 armhf i386]
+  * Added python3-debian to elementary-sdk [amd64 armhf i386]
+  * Added valac to elementary-sdk [amd64 armhf i386]
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Mon, 16 Mar 2015 22:17:40 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Mon, 16 Mar 2015 22:31:59 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
