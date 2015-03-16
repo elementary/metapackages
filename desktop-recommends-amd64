@@ -16,6 +16,7 @@ cups-filters
 elementary-default-settings
 elementary-dpms-helper
 elementary-os-prerelease
+elementary-printer-test-page
 evince
 file-roller
 fonts-droid
@@ -80,7 +81,6 @@ pcmciautils
 plymouth-theme-elementary
 plymouth-theme-elementary-text
 policykit-desktop-privileges
-print-test-page-elementary
 printer-driver-c2esp
 printer-driver-foo2zjs
 printer-driver-min12xxw
