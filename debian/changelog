@@ -1,4 +1,4 @@
-elementary-meta (1.371) UNRELEASED; urgency=low
+elementary-meta (1.372) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -481,8 +481,24 @@ elementary-meta (1.371) UNRELEASED; urgency=low
   * Added libgtk-3-dev to elementary-sdk [amd64 armhf i386]
   * Added python3-debian to elementary-sdk [amd64 armhf i386]
   * Added valac to elementary-sdk [amd64 armhf i386]
+  * Refreshed dependencies
+  * Added audience to pantheon-recommends [armhf]
+  * Added contractor to pantheon-recommends [armhf]
+  * Added elementary-artwork to desktop [armhf]
+  * Added gala to pantheon-shell-recommends [armhf]
+  * Added noise to pantheon-recommends [armhf]
+  * Added pantheon to desktop [armhf]
+  * Added pantheon-shell to pantheon-recommends [armhf]
+  * Added plank to pantheon-shell-recommends [armhf]
+  * Added slingshot-launcher to pantheon-shell [armhf]
+  * Added snap-photobooth to pantheon-recommends [armhf]
+  * Added switchboard to desktop-recommends [armhf]
+  * Added wingpanel to pantheon-shell [armhf]
+  * Removed apport-gtk from desktop-recommends
+  * Removed apport-hooks-elementary from desktop-recommends
+  * Removed elementary-os-prerelease from desktop-recommends
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Mon, 16 Mar 2015 22:31:59 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Mon, 30 Mar 2015 16:10:09 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 

@@ -1,6 +1,4 @@
 app-install-data-partner
-apport-gtk
-apport-hooks-elementary
 avahi-autoipd
 avahi-daemon
 bluez
@@ -13,7 +11,6 @@ cups-client
 cups-filters
 elementary-default-settings
 elementary-dpms-helper
-elementary-os-prerelease
 elementary-printer-test-page
 evince
 file-roller
@@ -95,6 +92,7 @@ software-center
 software-properties-gtk
 speech-dispatcher
 ssh-askpass-gnome
+switchboard
 switchboard-gnome-control-center-override
 ttf-indic-fonts-core
 ttf-punjabi-fonts
