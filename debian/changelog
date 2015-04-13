@@ -1,4 +1,4 @@
-elementary-meta (1.372) UNRELEASED; urgency=low
+elementary-meta (1.373) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -497,8 +497,40 @@ elementary-meta (1.372) UNRELEASED; urgency=low
   * Removed apport-gtk from desktop-recommends
   * Removed apport-hooks-elementary from desktop-recommends
   * Removed elementary-os-prerelease from desktop-recommends
+  * Refreshed dependencies
+  * Added capnet-assist to desktop-recommends [armhf]
+  * Added maya-calendar to pantheon-recommends [armhf]
+  * Added midori-granite to pantheon-recommends [armhf]
+  * Added pantheon-calculator to pantheon-recommends [armhf]
+  * Added pantheon-files to pantheon-recommends [armhf]
+  * Added pantheon-greeter to desktop-recommends [armhf]
+  * Added pantheon-photos to pantheon-recommends [armhf]
+  * Added pantheon-print to pantheon-recommends [armhf]
+  * Added pantheon-terminal to pantheon-recommends [armhf]
+  * Added scratch-text-editor to pantheon-recommends [armhf]
+  * Added switchboard-plug-about to desktop-recommends [armhf]
+  * Added switchboard-plug-applications to desktop-recommends [armhf]
+  * Added switchboard-plug-datetime to desktop-recommends [armhf]
+  * Added switchboard-plug-display to desktop-recommends [armhf]
+  * Added switchboard-plug-gcc-bluetooth to desktop-recommends [armhf]
+  * Added switchboard-plug-gcc-color to desktop-recommends [armhf]
+  * Added switchboard-plug-gcc-mouse to desktop-recommends [armhf]
+  * Added switchboard-plug-gcc-network to desktop-recommends [armhf]
+  * Added switchboard-plug-gcc-printer to desktop-recommends [armhf]
+  * Added switchboard-plug-gcc-sound to desktop-recommends [armhf]
+  * Added switchboard-plug-gcc-ua to desktop-recommends [armhf]
+  * Added switchboard-plug-gcc-wacom to desktop-recommends [armhf]
+  * Added switchboard-plug-keyboard to desktop-recommends [armhf]
+  * Added switchboard-plug-locale to desktop-recommends [armhf]
+  * Added switchboard-plug-notifications to desktop-recommends [armhf]
+  * Added switchboard-plug-pantheon-shell to desktop-recommends [armhf]
+  * Added switchboard-plug-power to desktop-recommends [armhf]
+  * Added switchboard-plug-security-privacy to desktop-recommends
+    [armhf]
+  * Added switchboard-plug-users to desktop-recommends [armhf]
+  * Added user-specific-alternatives to desktop-recommends [armhf]
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Mon, 30 Mar 2015 16:10:09 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Mon, 13 Apr 2015 06:15:29 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
