@@ -1,4 +1,4 @@
-elementary-meta (1.373) UNRELEASED; urgency=low
+elementary-meta (1.374) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -529,8 +529,13 @@ elementary-meta (1.373) UNRELEASED; urgency=low
     [armhf]
   * Added switchboard-plug-users to desktop-recommends [armhf]
   * Added user-specific-alternatives to desktop-recommends [armhf]
+  * Refreshed dependencies
+  * Added btrfs-tools to standard-recommends
+  * Added jfsutils to standard-recommends
+  * Removed btrfs-tools from live
+  * Removed jfsutils from live
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Mon, 13 Apr 2015 06:15:29 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Mon, 13 Apr 2015 06:39:33 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
