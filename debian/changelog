@@ -1,4 +1,4 @@
-elementary-meta (1.374) UNRELEASED; urgency=low
+elementary-meta (1.375) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -534,8 +534,12 @@ elementary-meta (1.374) UNRELEASED; urgency=low
   * Added jfsutils to standard-recommends
   * Removed btrfs-tools from live
   * Removed jfsutils from live
+  * Refreshed dependencies
+  * Added switchboard-plug-networking to desktop-recommends [amd64 i386]
+  * Removed switchboard-plug-gcc-network from desktop-recommends [amd64
+    armhf i386]
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Mon, 13 Apr 2015 06:39:33 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Tue, 23 Jun 2015 11:40:14 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
