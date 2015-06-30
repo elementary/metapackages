@@ -1,4 +1,4 @@
-elementary-meta (1.376) UNRELEASED; urgency=low
+elementary-meta (1.377) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -540,8 +540,19 @@ elementary-meta (1.376) UNRELEASED; urgency=low
     armhf i386]
   * Refreshed dependencies
   * Removed avahi-autoipd from desktop-recommends
+  * Refreshed dependencies
+  * Added geoclue-geonames to desktop-recommends
+  * Added geoclue-gpsd to desktop-recommends
+  * Added geoclue-gsmloc to desktop-recommends
+  * Added geoclue-gypsy to desktop-recommends
+  * Added geoclue-localnet to desktop-recommends
+  * Added geoclue-nominatim to desktop-recommends
+  * Added geoclue-plazes to desktop-recommends
+  * Added geoclue-skyhook to desktop-recommends
+  * Added geoclue-ubuntu-geoip to desktop-recommends
+  * Added geoclue-yahoo to desktop-recommends
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Mon, 29 Jun 2015 05:08:54 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Tue, 30 Jun 2015 09:35:06 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
