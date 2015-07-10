@@ -1,4 +1,4 @@
-elementary-meta (1.377) UNRELEASED; urgency=low
+elementary-meta (1.378) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -551,8 +551,10 @@ elementary-meta (1.377) UNRELEASED; urgency=low
   * Added geoclue-skyhook to desktop-recommends
   * Added geoclue-ubuntu-geoip to desktop-recommends
   * Added geoclue-yahoo to desktop-recommends
+  * Refreshed dependencies
+  * Removed geoclue-plazes from desktop-recommends
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Tue, 30 Jun 2015 09:35:06 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Fri, 10 Jul 2015 02:38:03 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
