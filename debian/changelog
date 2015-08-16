@@ -1,4 +1,4 @@
-elementary-meta (1.379) UNRELEASED; urgency=low
+elementary-meta (1.380) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -567,8 +567,21 @@ elementary-meta (1.379) UNRELEASED; urgency=low
   * Removed geoclue-yahoo from desktop-recommends
   * Removed switchboard-plug-networking from desktop-recommends [amd64
     i386]
+  * Refreshed dependencies
+  * Added geoclue-geonames to desktop-recommends
+  * Added geoclue-gpsd to desktop-recommends
+  * Added geoclue-gsmloc to desktop-recommends
+  * Added geoclue-gypsy to desktop-recommends
+  * Added geoclue-localnet to desktop-recommends
+  * Added geoclue-nominatim to desktop-recommends
+  * Added geoclue-skyhook to desktop-recommends
+  * Added geoclue-ubuntu-geoip to desktop-recommends
+  * Added geoclue-yahoo to desktop-recommends
+  * Added switchboard-plug-networking to desktop-recommends [amd64 i386]
+  * Removed switchboard-plug-gcc-network from desktop-recommends [amd64
+    armhf i386]
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Thu, 13 Aug 2015 18:48:22 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Sun, 16 Aug 2015 09:47:53 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 

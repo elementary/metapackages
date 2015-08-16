@@ -28,6 +28,15 @@ fonts-thai-tlwg
 fonts-tibetan-machine
 gcc
 geary
+geoclue-geonames
+geoclue-gpsd
+geoclue-gsmloc
+geoclue-gypsy
+geoclue-localnet
+geoclue-nominatim
+geoclue-skyhook
+geoclue-ubuntu-geoip
+geoclue-yahoo
 ginn
 gnome-accessibility-themes
 gnome-bluetooth
