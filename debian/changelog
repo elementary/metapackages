@@ -1,4 +1,4 @@
-elementary-meta (1.380) UNRELEASED; urgency=low
+elementary-meta (1.381) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -580,8 +580,13 @@ elementary-meta (1.380) UNRELEASED; urgency=low
   * Added switchboard-plug-networking to desktop-recommends [amd64 i386]
   * Removed switchboard-plug-gcc-network from desktop-recommends [amd64
     armhf i386]
+  * Refreshed dependencies
+  * Added switchboard-plug-mouse-touchpad to desktop-recommends [amd64
+    i386]
+  * Removed switchboard-plug-gcc-mouse from desktop-recommends [amd64
+    armhf i386]
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Sun, 16 Aug 2015 09:47:53 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Sat, 29 Aug 2015 17:08:51 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 

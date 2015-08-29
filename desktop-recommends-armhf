@@ -110,7 +110,6 @@ switchboard-plug-datetime
 switchboard-plug-display
 switchboard-plug-gcc-bluetooth
 switchboard-plug-gcc-color
-switchboard-plug-gcc-mouse
 switchboard-plug-gcc-printer
 switchboard-plug-gcc-sound
 switchboard-plug-gcc-ua
