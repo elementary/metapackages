@@ -105,6 +105,7 @@ speech-dispatcher
 ssh-askpass-gnome
 switchboard
 switchboard-gnome-control-center-override
+switchboard-plug-a11y
 switchboard-plug-about
 switchboard-plug-applications
 switchboard-plug-datetime
@@ -113,7 +114,6 @@ switchboard-plug-gcc-bluetooth
 switchboard-plug-gcc-color
 switchboard-plug-gcc-printer
 switchboard-plug-gcc-sound
-switchboard-plug-gcc-ua
 switchboard-plug-gcc-wacom
 switchboard-plug-keyboard
 switchboard-plug-locale
