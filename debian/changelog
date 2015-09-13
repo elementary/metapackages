@@ -1,4 +1,4 @@
-elementary-meta (1.382) UNRELEASED; urgency=low
+elementary-meta (1.383) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -589,8 +589,15 @@ elementary-meta (1.382) UNRELEASED; urgency=low
   * Added switchboard-plug-a11y to desktop-recommends [amd64 i386]
   * Removed switchboard-plug-gcc-ua from desktop-recommends [amd64 armhf
     i386]
+  * Refreshed dependencies
+  * Added gsignond to desktop-recommends [amd64 i386]
+  * Added gsignond-extension-pantheon to desktop-recommends [amd64 i386]
+  * Added gsignond-plugin-lastfm to desktop-recommends [amd64 i386]
+  * Added gsignond-plugin-oauth to desktop-recommends [amd64 i386]
+  * Added switchboard-plug-parental-controls to desktop-recommends
+    [amd64 i386]
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Fri, 11 Sep 2015 19:08:00 +0000
+ -- RabbitBot <rabbitbot@elementaryos.org>  Sun, 13 Sep 2015 16:32:52 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 

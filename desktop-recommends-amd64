@@ -49,6 +49,10 @@ gnome-orca
 gnome-power-manager
 gnome-screenshot
 gnome-session-bin
+gsignond
+gsignond-extension-pantheon
+gsignond-plugin-lastfm
+gsignond-plugin-oauth
 gvfs-bin
 gvfs-fuse
 hplip
@@ -122,6 +126,7 @@ switchboard-plug-networking
 switchboard-plug-notifications
 switchboard-plug-online-accounts
 switchboard-plug-pantheon-shell
+switchboard-plug-parental-controls
 switchboard-plug-power
 switchboard-plug-security-privacy
 switchboard-plug-users
