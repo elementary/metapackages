@@ -22,6 +22,7 @@ pciutils
 psmisc
 rsync
 strace
+systemd-sysv
 time
 usbutils
 wget

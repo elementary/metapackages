@@ -17,15 +17,12 @@ kmod
 less
 locales
 lsb-release
-mac-fdisk
 makedev
 mawk
 net-tools
 netbase
 netcat-openbsd
-ntpdate
 passwd
-pmac-fdisk
 powerpc-ibm-utils
 powerpc-utils
 procps
@@ -37,7 +34,6 @@ tzdata
 ubuntu-keyring
 ubuntu-minimal
 udev
-upstart
 ureadahead
 vim-tiny
 whiptail

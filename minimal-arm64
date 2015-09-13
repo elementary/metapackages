@@ -22,7 +22,6 @@ mawk
 net-tools
 netbase
 netcat-openbsd
-ntpdate
 passwd
 procps
 python3
@@ -33,7 +32,6 @@ tzdata
 ubuntu-keyring
 ubuntu-minimal
 udev
-upstart
 ureadahead
 vim-tiny
 whiptail

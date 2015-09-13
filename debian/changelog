@@ -1,4 +1,4 @@
-elementary-meta (1.383) UNRELEASED; urgency=low
+elementary-meta (1.384) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -597,7 +597,91 @@ elementary-meta (1.383) UNRELEASED; urgency=low
   * Added switchboard-plug-parental-controls to desktop-recommends
     [amd64 i386]
 
- -- RabbitBot <rabbitbot@elementaryos.org>  Sun, 13 Sep 2015 16:32:52 +0000
+  [ Cody Garver ]
+  * Refreshed dependencies
+  * Added dmidecode to standard [arm64]
+  * Added fcitx to live
+  * Added fcitx-frontend-gtk2 to live
+  * Added fcitx-frontend-gtk3 to live
+  * Added fcitx-frontend-qt4 to live
+  * Added fcitx-frontend-qt5 to live
+  * Added fcitx-module-cloudpinyin to live
+  * Added fcitx-pinyin to live
+  * Added fcitx-table to live
+  * Added fcitx-ui-classic to live
+  * Added fcitx-ui-qimpanel to live
+  * Added fonts-guru to desktop-recommends
+  * Added ibus-gtk to desktop-recommends
+  * Added printer-driver-brlaser to desktop-recommends
+  * Added switchboard-plug-gcc-ua to desktop-recommends [amd64 i386]
+  * Added systemd-sysv to standard
+  * Added ttf-ancient-fonts-symbola to desktop-recommends
+  * Removed audience from pantheon-recommends [armhf]
+  * Removed bluez-alsa from desktop-recommends
+  * Removed capnet-assist from desktop-recommends [armhf]
+  * Removed contractor from pantheon-recommends [armhf]
+  * Removed elementary-artwork from desktop [armhf]
+  * Removed elementary-os-overlay from standard-recommends
+  * Removed gala from pantheon-shell-recommends [armhf]
+  * Removed ginn from desktop-recommends
+  * Removed gsignond from desktop-recommends [amd64 i386]
+  * Removed gsignond-extension-pantheon from desktop-recommends [amd64
+    i386]
+  * Removed gsignond-plugin-lastfm from desktop-recommends [amd64 i386]
+  * Removed gsignond-plugin-oauth from desktop-recommends [amd64 i386]
+  * Removed gstreamer0.10-alsa from desktop
+  * Removed gstreamer0.10-plugins-base-apps from desktop
+  * Removed gstreamer0.10-pulseaudio from desktop
+  * Removed ibus-pinyin from desktop-recommends
+  * Removed mac-fdisk from minimal [powerpc]
+  * Removed maya-calendar from pantheon-recommends [armhf]
+  * Removed midori-granite from pantheon-recommends [armhf]
+  * Removed noise from pantheon-recommends [armhf]
+  * Removed ntpdate from minimal
+  * Removed pantheon from desktop [armhf]
+  * Removed pantheon-calculator from pantheon-recommends [armhf]
+  * Removed pantheon-files from pantheon-recommends [armhf]
+  * Removed pantheon-greeter from desktop-recommends [armhf]
+  * Removed pantheon-photos from pantheon-recommends [armhf]
+  * Removed pantheon-print from pantheon-recommends [armhf]
+  * Removed pantheon-shell from pantheon-recommends [armhf]
+  * Removed pantheon-terminal from pantheon-recommends [armhf]
+  * Removed pmac-fdisk from minimal [powerpc]
+  * Removed scratch-text-editor from pantheon-recommends [armhf]
+  * Removed slingshot-launcher from pantheon-shell [armhf]
+  * Removed snap-photobooth from pantheon-recommends [armhf]
+  * Removed switchboard from desktop-recommends [armhf]
+  * Removed switchboard-plug-a11y from desktop-recommends [amd64 i386]
+  * Removed switchboard-plug-about from desktop-recommends [armhf]
+  * Removed switchboard-plug-applications from desktop-recommends
+    [armhf]
+  * Removed switchboard-plug-datetime from desktop-recommends [armhf]
+  * Removed switchboard-plug-display from desktop-recommends [armhf]
+  * Removed switchboard-plug-gcc-bluetooth from desktop-recommends
+    [armhf]
+  * Removed switchboard-plug-gcc-color from desktop-recommends [armhf]
+  * Removed switchboard-plug-gcc-printer from desktop-recommends [armhf]
+  * Removed switchboard-plug-gcc-sound from desktop-recommends [armhf]
+  * Removed switchboard-plug-gcc-wacom from desktop-recommends [armhf]
+  * Removed switchboard-plug-keyboard from desktop-recommends [armhf]
+  * Removed switchboard-plug-locale from desktop-recommends [armhf]
+  * Removed switchboard-plug-notifications from desktop-recommends
+    [armhf]
+  * Removed switchboard-plug-pantheon-shell from desktop-recommends
+    [armhf]
+  * Removed switchboard-plug-parental-controls from desktop-recommends
+    [amd64 i386]
+  * Removed switchboard-plug-power from desktop-recommends [armhf]
+  * Removed switchboard-plug-security-privacy from desktop-recommends
+    [armhf]
+  * Removed switchboard-plug-users from desktop-recommends [armhf]
+  * Removed ttf-punjabi-fonts from desktop-recommends
+  * Removed ubuntu-extras-keyring from desktop
+  * Removed upstart from minimal
+  * Removed user-specific-alternatives from desktop-recommends [armhf]
+  * Removed wingpanel from pantheon-shell [armhf]
+
+ -- Cody Garver <codygarver@ubuntu>  Sun, 13 Sep 2015 11:04:07 -0700
 
 ubuntu-meta (1.309) trusty; urgency=low
 

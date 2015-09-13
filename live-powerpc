@@ -1,5 +1,15 @@
 cifs-utils
 elementary-live-settings
+fcitx
+fcitx-frontend-gtk2
+fcitx-frontend-gtk3
+fcitx-frontend-qt4
+fcitx-frontend-qt5
+fcitx-module-cloudpinyin
+fcitx-pinyin
+fcitx-table
+fcitx-ui-classic
+fcitx-ui-qimpanel
 gparted
 hfsplus
 hunspell-en-us

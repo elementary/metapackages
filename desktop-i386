@@ -11,9 +11,6 @@ fonts-freefont-ttf
 foomatic-db-compressed-ppds
 genisoimage
 ghostscript-x
-gstreamer0.10-alsa
-gstreamer0.10-plugins-base-apps
-gstreamer0.10-pulseaudio
 gstreamer1.0-alsa
 gstreamer1.0-plugins-base-apps
 gstreamer1.0-pulseaudio
@@ -27,7 +24,6 @@ pantheon
 printer-driver-pnm2ppa
 rfkill
 ubuntu-drivers-common
-ubuntu-extras-keyring
 unzip
 wireless-tools
 wpasupplicant

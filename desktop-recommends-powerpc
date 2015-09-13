@@ -1,7 +1,6 @@
 app-install-data-partner
 avahi-daemon
 bluez
-bluez-alsa
 bluez-cups
 brltty
 cups
@@ -15,6 +14,7 @@ evince
 file-roller
 fonts-droid
 fonts-elementary-core
+fonts-guru
 fonts-kacst-one
 fonts-khmeros-core
 fonts-lao
@@ -37,7 +37,6 @@ geoclue-nominatim
 geoclue-skyhook
 geoclue-ubuntu-geoip
 geoclue-yahoo
-ginn
 gnome-accessibility-themes
 gnome-bluetooth
 gnome-codec-install
@@ -51,8 +50,8 @@ gvfs-bin
 gvfs-fuse
 hplip
 ibus
+ibus-gtk
 ibus-gtk3
-ibus-pinyin
 ibus-table
 im-config
 indicator-application
@@ -83,6 +82,7 @@ pcmciautils
 plymouth-theme-elementary
 plymouth-theme-elementary-text
 policykit-desktop-privileges
+printer-driver-brlaser
 printer-driver-c2esp
 printer-driver-foo2zjs
 printer-driver-min12xxw
@@ -101,8 +101,8 @@ software-properties-gtk
 speech-dispatcher
 ssh-askpass-gnome
 switchboard-gnome-control-center-override
+ttf-ancient-fonts-symbola
 ttf-indic-fonts-core
-ttf-punjabi-fonts
 ttf-ubuntu-font-family
 tumbler-plugins-extra
 update-manager
