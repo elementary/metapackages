@@ -1,4 +1,4 @@
-elementary-meta (1.384) UNRELEASED; urgency=low
+elementary-meta (1.385) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -680,8 +680,20 @@ elementary-meta (1.384) UNRELEASED; urgency=low
   * Removed upstart from minimal
   * Removed user-specific-alternatives from desktop-recommends [armhf]
   * Removed wingpanel from pantheon-shell [armhf]
+  * Refreshed dependencies
+  * Added apport-gtk to desktop-recommends
+  * Added apport-hooks-elementary to desktop-recommends
+  * Added elementary-os-prerelease to desktop-recommends
+  * Added gsignond to desktop-recommends [amd64 i386]
+  * Added gsignond-extension-pantheon to desktop-recommends [amd64 i386]
+  * Added gsignond-plugin-lastfm to desktop-recommends [amd64 i386]
+  * Added gsignond-plugin-oauth to desktop-recommends [amd64 i386]
+  * Added switchboard-plug-a11y to desktop-recommends [amd64 i386]
+  * Added switchboard-plug-parental-controls to desktop-recommends
+    [amd64 i386]
+  * Removed switchboard-plug-gcc-ua from desktop-recommends [amd64 i386]
 
- -- Cody Garver <codygarver@ubuntu>  Sun, 13 Sep 2015 11:04:07 -0700
+ -- Cody Garver <codygarver@ubuntu>  Mon, 14 Sep 2015 19:49:25 -0700
 
 ubuntu-meta (1.309) trusty; urgency=low
 

@@ -1,5 +1,7 @@
 acpi-support
 app-install-data-partner
+apport-gtk
+apport-hooks-elementary
 avahi-daemon
 bluez
 bluez-cups
@@ -11,6 +13,7 @@ cups-client
 cups-filters
 elementary-default-settings
 elementary-dpms-helper
+elementary-os-prerelease
 elementary-printer-test-page
 evince
 file-roller
@@ -48,6 +51,10 @@ gnome-orca
 gnome-power-manager
 gnome-screenshot
 gnome-session-bin
+gsignond
+gsignond-extension-pantheon
+gsignond-plugin-lastfm
+gsignond-plugin-oauth
 gvfs-bin
 gvfs-fuse
 hplip
@@ -105,6 +112,7 @@ speech-dispatcher
 ssh-askpass-gnome
 switchboard
 switchboard-gnome-control-center-override
+switchboard-plug-a11y
 switchboard-plug-about
 switchboard-plug-applications
 switchboard-plug-datetime
@@ -113,7 +121,6 @@ switchboard-plug-gcc-bluetooth
 switchboard-plug-gcc-color
 switchboard-plug-gcc-printer
 switchboard-plug-gcc-sound
-switchboard-plug-gcc-ua
 switchboard-plug-gcc-wacom
 switchboard-plug-keyboard
 switchboard-plug-locale
@@ -122,6 +129,7 @@ switchboard-plug-networking
 switchboard-plug-notifications
 switchboard-plug-online-accounts
 switchboard-plug-pantheon-shell
+switchboard-plug-parental-controls
 switchboard-plug-power
 switchboard-plug-security-privacy
 switchboard-plug-users
