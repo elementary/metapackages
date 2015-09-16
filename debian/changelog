@@ -1,4 +1,4 @@
-elementary-meta (1.386) UNRELEASED; urgency=low
+elementary-meta (1.387) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -695,8 +695,10 @@ elementary-meta (1.386) UNRELEASED; urgency=low
   * Refreshed dependencies
   * Added screenshot-tool to pantheon-recommends [amd64 i386]
   * Removed gnome-screenshot from desktop-recommends
+  * Refreshed dependencies
+  * Added elementary-os-overlay to standard-recommends
 
- -- Cody Garver <cody@elementary.io>  Tue, 15 Sep 2015 22:51:37 -0700
+ -- Cody Garver <cody@elementary.io>  Wed, 16 Sep 2015 04:38:02 -0700
 
 ubuntu-meta (1.309) trusty; urgency=low
 
