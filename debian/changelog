@@ -1,4 +1,4 @@
-elementary-meta (1.385) UNRELEASED; urgency=low
+elementary-meta (1.386) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -692,8 +692,11 @@ elementary-meta (1.385) UNRELEASED; urgency=low
   * Added switchboard-plug-parental-controls to desktop-recommends
     [amd64 i386]
   * Removed switchboard-plug-gcc-ua from desktop-recommends [amd64 i386]
+  * Refreshed dependencies
+  * Added screenshot-tool to pantheon-recommends [amd64 i386]
+  * Removed gnome-screenshot from desktop-recommends
 
- -- Cody Garver <codygarver@ubuntu>  Mon, 14 Sep 2015 19:49:25 -0700
+ -- Cody Garver <cody@elementary.io>  Tue, 15 Sep 2015 22:51:37 -0700
 
 ubuntu-meta (1.309) trusty; urgency=low
 
