@@ -1,4 +1,4 @@
-elementary-meta (1.387) UNRELEASED; urgency=low
+elementary-meta (1.388) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -697,8 +697,10 @@ elementary-meta (1.387) UNRELEASED; urgency=low
   * Removed gnome-screenshot from desktop-recommends
   * Refreshed dependencies
   * Added elementary-os-overlay to standard-recommends
+  * Refreshed dependencies
+  * Removed pulseaudio-module-gconf from desktop-recommends
 
- -- Cody Garver <cody@elementary.io>  Wed, 16 Sep 2015 04:38:02 -0700
+ -- Cody Garver <cody@elementary.io>  Wed, 16 Sep 2015 16:53:10 -0700
 
 ubuntu-meta (1.309) trusty; urgency=low
 
