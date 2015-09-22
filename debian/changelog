@@ -1,4 +1,4 @@
-elementary-meta (1.388) UNRELEASED; urgency=low
+elementary-meta (1.389) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -699,8 +699,15 @@ elementary-meta (1.388) UNRELEASED; urgency=low
   * Added elementary-os-overlay to standard-recommends
   * Refreshed dependencies
   * Removed pulseaudio-module-gconf from desktop-recommends
+  * Refreshed dependencies
+  * Added evolution-data-server-google2 to desktop-recommends [amd64
+    i386]
+  * Added evolution-data-server-outlook to desktop-recommends [amd64
+    i386]
+  * Added evolution-data-server-pantheon-online-accounts to desktop-
+    recommends [amd64 i386]
 
- -- Cody Garver <cody@elementary.io>  Wed, 16 Sep 2015 16:53:10 -0700
+ -- Cody Garver <cody@elementary.io>  Tue, 22 Sep 2015 03:19:58 -0700
 
 ubuntu-meta (1.309) trusty; urgency=low
 
