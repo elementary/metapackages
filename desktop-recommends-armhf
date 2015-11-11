@@ -42,7 +42,6 @@ geoclue-ubuntu-geoip
 geoclue-yahoo
 gnome-accessibility-themes
 gnome-bluetooth
-gnome-codec-install
 gnome-font-viewer
 gnome-menus
 gnome-orca
@@ -56,13 +55,6 @@ ibus-gtk
 ibus-gtk3
 ibus-table
 im-config
-indicator-application
-indicator-bluetooth
-indicator-datetime
-indicator-keyboard
-indicator-power
-indicator-session
-indicator-sound
 kerneloops-daemon
 laptop-detect
 libgail-common
@@ -96,6 +88,7 @@ pulseaudio
 pulseaudio-module-bluetooth
 pulseaudio-module-x11
 python3-aptdaemon.pkcompat
+sessioninstaller
 simple-scan
 software-center
 software-properties-gtk

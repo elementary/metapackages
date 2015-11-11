@@ -1,4 +1,4 @@
-elementary-meta (1.389) UNRELEASED; urgency=low
+elementary-meta (1.390) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -707,7 +707,35 @@ elementary-meta (1.389) UNRELEASED; urgency=low
   * Added evolution-data-server-pantheon-online-accounts to desktop-
     recommends [amd64 i386]
 
- -- Cody Garver <cody@elementary.io>  Tue, 22 Sep 2015 03:19:58 -0700
+  [ root ]
+  * Refreshed dependencies
+  * Added fcitx-hangul to live
+  * Added fcitx-mozc to live [amd64 armhf i386]
+  * Added fcitx-unikey to live
+  * Added sessioninstaller to desktop-recommends
+  * Added wingpanel to desktop-recommends [amd64 i386]
+  * Added wingpanel-indicator-bluetooth to desktop-recommends [amd64
+    i386]
+  * Added wingpanel-indicator-datetime to desktop-recommends [amd64
+    i386]
+  * Added wingpanel-indicator-launcher to desktop-recommends [amd64
+    i386]
+  * Added wingpanel-indicator-network to desktop-recommends [amd64 i386]
+  * Added wingpanel-indicator-notifications to desktop-recommends [amd64
+    i386]
+  * Added wingpanel-indicator-power to desktop-recommends [amd64 i386]
+  * Added wingpanel-indicator-session to desktop-recommends [amd64 i386]
+  * Added wingpanel-indicator-sound to desktop-recommends [amd64 i386]
+  * Removed gnome-codec-install from desktop-recommends
+  * Removed indicator-application from desktop-recommends
+  * Removed indicator-bluetooth from desktop-recommends
+  * Removed indicator-datetime from desktop-recommends
+  * Removed indicator-keyboard from desktop-recommends
+  * Removed indicator-power from desktop-recommends
+  * Removed indicator-session from desktop-recommends
+  * Removed indicator-sound from desktop-recommends
+
+ -- root <root@lindog>  Wed, 11 Nov 2015 20:54:42 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 

@@ -5,11 +5,13 @@ fcitx-frontend-gtk2
 fcitx-frontend-gtk3
 fcitx-frontend-qt4
 fcitx-frontend-qt5
+fcitx-hangul
 fcitx-module-cloudpinyin
 fcitx-pinyin
 fcitx-table
 fcitx-ui-classic
 fcitx-ui-qimpanel
+fcitx-unikey
 gparted
 hfsplus
 hunspell-en-us
