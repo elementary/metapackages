@@ -113,7 +113,6 @@ switchboard-plug-datetime
 switchboard-plug-display
 switchboard-plug-gcc-bluetooth
 switchboard-plug-gcc-color
-switchboard-plug-gcc-printer
 switchboard-plug-gcc-sound
 switchboard-plug-gcc-wacom
 switchboard-plug-keyboard
@@ -125,6 +124,7 @@ switchboard-plug-online-accounts
 switchboard-plug-pantheon-shell
 switchboard-plug-parental-controls
 switchboard-plug-power
+switchboard-plug-printers
 switchboard-plug-security-privacy
 switchboard-plug-users
 ttf-ancient-fonts-symbola

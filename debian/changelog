@@ -1,4 +1,4 @@
-elementary-meta (1.390) UNRELEASED; urgency=low
+elementary-meta (1.391) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -734,8 +734,12 @@ elementary-meta (1.390) UNRELEASED; urgency=low
   * Removed indicator-power from desktop-recommends
   * Removed indicator-session from desktop-recommends
   * Removed indicator-sound from desktop-recommends
+  * Refreshed dependencies
+  * Added switchboard-plug-printers to desktop-recommends [amd64 i386]
+  * Removed switchboard-plug-gcc-printer from desktop-recommends [amd64
+    i386]
 
- -- root <root@lindog>  Wed, 11 Nov 2015 20:54:42 +0000
+ -- root <root@elementary.build1>  Fri, 13 Nov 2015 23:54:44 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
