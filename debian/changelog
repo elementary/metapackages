@@ -1,4 +1,4 @@
-elementary-meta (1.391) UNRELEASED; urgency=low
+elementary-meta (1.392) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -738,8 +738,11 @@ elementary-meta (1.391) UNRELEASED; urgency=low
   * Added switchboard-plug-printers to desktop-recommends [amd64 i386]
   * Removed switchboard-plug-gcc-printer from desktop-recommends [amd64
     i386]
+  * Refreshed dependencies
+  * Added appcenter to pantheon-recommends [amd64 i386]
+  * Removed software-center from desktop-recommends
 
- -- root <root@elementary.build1>  Fri, 13 Nov 2015 23:54:44 +0000
+ -- root <root@elementary.build1>  Sun, 15 Nov 2015 17:48:07 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 

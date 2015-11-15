@@ -100,7 +100,6 @@ pulseaudio-module-x11
 python3-aptdaemon.pkcompat
 sessioninstaller
 simple-scan
-software-center
 software-properties-gtk
 speech-dispatcher
 ssh-askpass-gnome
