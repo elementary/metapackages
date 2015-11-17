@@ -1,4 +1,4 @@
-elementary-meta (1.393) UNRELEASED; urgency=low
+elementary-meta (1.394) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -743,8 +743,13 @@ elementary-meta (1.393) UNRELEASED; urgency=low
   * Removed software-center from desktop-recommends
   * Refreshed dependencies
   * Removed app-install-data-partner from desktop-recommends
+  * Refreshed dependencies
+  * Added libgala-dev to elementary-sdk [amd64 i386]
+  * Added libswitchboard-2.0-dev to elementary-sdk [amd64 i386]
+  * Added libwingpanel-2.0-dev to elementary-sdk [amd64 i386]
+  * Added scratch-text-editor to elementary-sdk-recommends [amd64 i386]
 
- -- root <root@elementary.build1>  Tue, 17 Nov 2015 03:23:23 +0000
+ -- root <root@elementary.build1>  Tue, 17 Nov 2015 21:05:04 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
