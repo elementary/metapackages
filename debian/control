@@ -1,7 +1,7 @@
 Source: elementary-meta
 Section: metapackages
 Priority: optional
-Maintainer: Cody Garver <cody@elementaryos.org>
+Maintainer: Cody Garver <cody@elementary.io>
 Standards-Version: 3.9.5
 Build-Depends: debhelper (>= 7.0.8), germinate (>= 1.18)
 
