@@ -78,3 +78,10 @@ Description: Pantheon Desktop Environment
  This package installs all Pantheon apps that are shipped with the OS by default.
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
+
+Package: elementary-sdk
+Architecture: any
+Depends: ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: elementary Developer Kit
+ Contains recommended packages for developing applications for elementary OS.
