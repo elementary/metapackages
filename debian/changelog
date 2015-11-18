@@ -1,4 +1,4 @@
-elementary-meta (1.394) UNRELEASED; urgency=low
+elementary-meta (1.395) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -748,8 +748,10 @@ elementary-meta (1.394) UNRELEASED; urgency=low
   * Added libswitchboard-2.0-dev to elementary-sdk [amd64 i386]
   * Added libwingpanel-2.0-dev to elementary-sdk [amd64 i386]
   * Added scratch-text-editor to elementary-sdk-recommends [amd64 i386]
+  * Refreshed dependencies
+  * Added gtk-3-examples to elementary-sdk
 
- -- root <root@elementary.build1>  Tue, 17 Nov 2015 21:05:04 +0000
+ -- root <root@elementary.build1>  Wed, 18 Nov 2015 00:30:00 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 

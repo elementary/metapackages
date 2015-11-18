@@ -3,6 +3,7 @@ bzr
 cmake
 devscripts
 gobject-introspection
+gtk-3-examples
 libgirepository1.0-dev
 libgranite-dev
 libgtk-3-dev
