@@ -1,4 +1,4 @@
-elementary-meta (1.395) UNRELEASED; urgency=low
+elementary-meta (1.396) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -750,8 +750,11 @@ elementary-meta (1.395) UNRELEASED; urgency=low
   * Added scratch-text-editor to elementary-sdk-recommends [amd64 i386]
   * Refreshed dependencies
   * Added gtk-3-examples to elementary-sdk
+  * Refreshed dependencies
+  * Added pantheon-mail to pantheon-recommends [amd64 i386]
+  * Removed geary from desktop-recommends
 
- -- root <root@elementary.build1>  Wed, 18 Nov 2015 00:30:00 +0000
+ -- root <root@elementary.build1>  Thu, 19 Nov 2015 23:07:32 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
