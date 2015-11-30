@@ -1,4 +1,4 @@
-elementary-meta (1.397) UNRELEASED; urgency=low
+elementary-meta (1.398) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -758,8 +758,11 @@ elementary-meta (1.397) UNRELEASED; urgency=low
   * Removed make from desktop-recommends
   * Removed network-manager-pptp from desktop-recommends
   * Removed ssh-askpass-gnome from desktop-recommends
+  * Refreshed dependencies
+  * Added dconf-editor to elementary-sdk
+  * Removed python3-aptdaemon.pkcompat from desktop-recommends
 
- -- root <root@elementary.build1>  Mon, 30 Nov 2015 05:18:43 +0000
+ -- root <root@elementary.build1>  Mon, 30 Nov 2015 12:52:26 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 

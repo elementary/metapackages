@@ -1,6 +1,7 @@
 build-essential
 bzr
 cmake
+dconf-editor
 devscripts
 gobject-introspection
 gtk-3-examples
