@@ -33,7 +33,6 @@ fonts-sil-padauk
 fonts-takao-pgothic
 fonts-thai-tlwg
 fonts-tibetan-machine
-gcc
 geoclue-geonames
 geoclue-gpsd
 geoclue-gsmloc
@@ -72,10 +71,8 @@ libproxy1-plugin-networkmanager
 libwmf0.2-7-gtk
 light-locker
 lightdm
-make
 mousetweaks
 network-manager-gnome
-network-manager-pptp
 network-manager-pptp-gnome
 onboard
 p7zip-full
@@ -100,7 +97,6 @@ sessioninstaller
 simple-scan
 software-properties-gtk
 speech-dispatcher
-ssh-askpass-gnome
 switchboard
 switchboard-gnome-control-center-override
 switchboard-plug-a11y

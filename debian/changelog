@@ -1,4 +1,4 @@
-elementary-meta (1.396) UNRELEASED; urgency=low
+elementary-meta (1.397) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -753,8 +753,13 @@ elementary-meta (1.396) UNRELEASED; urgency=low
   * Refreshed dependencies
   * Added pantheon-mail to pantheon-recommends [amd64 i386]
   * Removed geary from desktop-recommends
+  * Refreshed dependencies
+  * Removed gcc from desktop-recommends
+  * Removed make from desktop-recommends
+  * Removed network-manager-pptp from desktop-recommends
+  * Removed ssh-askpass-gnome from desktop-recommends
 
- -- root <root@elementary.build1>  Thu, 19 Nov 2015 23:07:32 +0000
+ -- root <root@elementary.build1>  Mon, 30 Nov 2015 05:18:43 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
