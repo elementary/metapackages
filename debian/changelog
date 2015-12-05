@@ -1,4 +1,4 @@
-elementary-meta (1.398) UNRELEASED; urgency=low
+elementary-meta (1.399) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -761,8 +761,12 @@ elementary-meta (1.398) UNRELEASED; urgency=low
   * Refreshed dependencies
   * Added dconf-editor to elementary-sdk
   * Removed python3-aptdaemon.pkcompat from desktop-recommends
+  * Refreshed dependencies
+  * Removed software-properties-gtk from desktop-recommends
+  * Removed update-manager from desktop-recommends
+  * Removed update-notifier from desktop-recommends
 
- -- root <root@elementary.build1>  Mon, 30 Nov 2015 12:52:26 +0000
+ -- root <root@elementary.build1>  Sat, 05 Dec 2015 21:17:15 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 

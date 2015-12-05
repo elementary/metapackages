@@ -84,15 +84,12 @@ pulseaudio-module-bluetooth
 pulseaudio-module-x11
 sessioninstaller
 simple-scan
-software-properties-gtk
 speech-dispatcher
 switchboard-gnome-control-center-override
 ttf-ancient-fonts-symbola
 ttf-indic-fonts-core
 ttf-ubuntu-font-family
 tumbler-plugins-extra
-update-manager
-update-notifier
 whoopsie
 xcursor-themes
 xdg-user-dirs

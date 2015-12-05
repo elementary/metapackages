@@ -94,7 +94,6 @@ pulseaudio-module-bluetooth
 pulseaudio-module-x11
 sessioninstaller
 simple-scan
-software-properties-gtk
 speech-dispatcher
 switchboard
 switchboard-gnome-control-center-override
@@ -123,8 +122,6 @@ ttf-ancient-fonts-symbola
 ttf-indic-fonts-core
 ttf-ubuntu-font-family
 tumbler-plugins-extra
-update-manager
-update-notifier
 user-specific-alternatives
 whoopsie
 wingpanel
