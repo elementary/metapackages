@@ -1,4 +1,4 @@
-elementary-meta (1.399) UNRELEASED; urgency=low
+elementary-meta (1.400) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -765,8 +765,10 @@ elementary-meta (1.399) UNRELEASED; urgency=low
   * Removed software-properties-gtk from desktop-recommends
   * Removed update-manager from desktop-recommends
   * Removed update-notifier from desktop-recommends
+  * Refreshed dependencies
+  * Removed update-manager-core from standard-recommends
 
- -- root <root@elementary.build1>  Sat, 05 Dec 2015 21:17:15 +0000
+ -- root <root@elementary.build1>  Mon, 07 Dec 2015 22:59:10 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
