@@ -1,4 +1,4 @@
-elementary-meta (1.400) UNRELEASED; urgency=low
+elementary-meta (1.401) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -767,8 +767,11 @@ elementary-meta (1.400) UNRELEASED; urgency=low
   * Removed update-notifier from desktop-recommends
   * Refreshed dependencies
   * Removed update-manager-core from standard-recommends
+  * Refreshed dependencies
+  * Removed wingpanel-indicator-launcher from desktop-recommends [amd64
+    i386]
 
- -- root <root@elementary.build1>  Mon, 07 Dec 2015 22:59:10 +0000
+ -- root <root@elementary.build1>  Mon, 14 Dec 2015 02:50:59 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
