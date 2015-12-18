@@ -1,4 +1,4 @@
-elementary-meta (1.401) UNRELEASED; urgency=low
+elementary-meta (1.402) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -770,8 +770,10 @@ elementary-meta (1.401) UNRELEASED; urgency=low
   * Refreshed dependencies
   * Removed wingpanel-indicator-launcher from desktop-recommends [amd64
     i386]
+  * Refreshed dependencies
+  * Added switchboard-plug-sharing to desktop-recommends [amd64 i386]
 
- -- root <root@elementary.build1>  Mon, 14 Dec 2015 02:50:59 +0000
+ -- root <root@elementary.build1>  Fri, 18 Dec 2015 19:15:20 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
