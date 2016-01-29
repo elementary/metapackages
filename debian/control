@@ -85,3 +85,10 @@ Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: elementary Developer Kit
  Contains recommended packages for developing applications for elementary OS.
+
+Package: elementary-live
+Architecture: any
+Depends: ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: elementary Live Settings
+ Configuration for the elementary OS live session
