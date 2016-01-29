@@ -1,4 +1,4 @@
-elementary-meta (1.403) UNRELEASED; urgency=low
+elementary-meta (1.404) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -777,8 +777,11 @@ elementary-meta (1.403) UNRELEASED; urgency=low
   * Added fonts-arphic-uming to live
   * Removed evolution-data-server-google2 from desktop-recommends [amd64
     i386]
+  * Refreshed dependencies
+  * Added bcmwl-kernel-source to live [amd64 i386]
+  * Removed ubiquity-slideshow-ubuntu from live
 
- -- root <root@elementary.build1>  Fri, 29 Jan 2016 20:27:38 +0000
+ -- root <root@elementary.build1>  Fri, 29 Jan 2016 21:28:16 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 

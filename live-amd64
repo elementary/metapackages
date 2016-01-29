@@ -1,3 +1,4 @@
+bcmwl-kernel-source
 cifs-utils
 elementary-live-settings
 fcitx
@@ -25,7 +26,6 @@ language-pack-gnome-zh-hans
 language-pack-zh-hans
 reiserfsprogs
 ubiquity-frontend-gtk
-ubiquity-slideshow-ubuntu
 ubiquity-ubuntu-artwork
 wamerican
 xfsprogs
