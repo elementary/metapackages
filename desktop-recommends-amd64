@@ -18,7 +18,6 @@ evince
 evolution-data-server-outlook
 evolution-data-server-pantheon-online-accounts
 file-roller
-fonts-droid
 fonts-elementary-core
 fonts-guru
 fonts-kacst-one
@@ -27,15 +26,14 @@ fonts-lao
 fonts-liberation
 fonts-lklug-sinhala
 fonts-nanum
+fonts-noto-cjk
 fonts-sil-abyssinica
 fonts-sil-padauk
 fonts-takao-pgothic
 fonts-thai-tlwg
 fonts-tibetan-machine
 geoclue-geonames
-geoclue-gpsd
 geoclue-gsmloc
-geoclue-gypsy
 geoclue-localnet
 geoclue-nominatim
 geoclue-skyhook
@@ -119,7 +117,6 @@ switchboard-plug-security-privacy
 switchboard-plug-sharing
 switchboard-plug-users
 ttf-ancient-fonts-symbola
-ttf-indic-fonts-core
 ttf-ubuntu-font-family
 tumbler-plugins-extra
 user-specific-alternatives

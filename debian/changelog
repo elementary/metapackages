@@ -1,4 +1,4 @@
-elementary-meta (1.404) UNRELEASED; urgency=low
+elementary-meta (1.405) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -780,8 +780,14 @@ elementary-meta (1.404) UNRELEASED; urgency=low
   * Refreshed dependencies
   * Added bcmwl-kernel-source to live [amd64 i386]
   * Removed ubiquity-slideshow-ubuntu from live
+  * Refreshed dependencies
+  * Added fonts-noto-cjk to desktop-recommends
+  * Removed fonts-droid from desktop-recommends
+  * Removed geoclue-gpsd from desktop-recommends
+  * Removed geoclue-gypsy from desktop-recommends
+  * Removed ttf-indic-fonts-core from desktop-recommends
 
- -- root <root@elementary.build1>  Fri, 29 Jan 2016 21:28:16 +0000
+ -- root <root@elementary.build1>  Sun, 20 Mar 2016 11:49:35 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 

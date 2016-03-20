@@ -14,7 +14,6 @@ elementary-os-prerelease
 elementary-printer-test-page
 evince
 file-roller
-fonts-droid
 fonts-elementary-core
 fonts-guru
 fonts-kacst-one
@@ -23,15 +22,14 @@ fonts-lao
 fonts-liberation
 fonts-lklug-sinhala
 fonts-nanum
+fonts-noto-cjk
 fonts-sil-abyssinica
 fonts-sil-padauk
 fonts-takao-pgothic
 fonts-thai-tlwg
 fonts-tibetan-machine
 geoclue-geonames
-geoclue-gpsd
 geoclue-gsmloc
-geoclue-gypsy
 geoclue-localnet
 geoclue-nominatim
 geoclue-skyhook
@@ -87,7 +85,6 @@ simple-scan
 speech-dispatcher
 switchboard-gnome-control-center-override
 ttf-ancient-fonts-symbola
-ttf-indic-fonts-core
 ttf-ubuntu-font-family
 tumbler-plugins-extra
 whoopsie
