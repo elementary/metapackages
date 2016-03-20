@@ -10,7 +10,7 @@ Architecture: any
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: Minimal core of elementary OS
- This package depends on all of the packages in the elementary minimal system,
+ This metapackage depends on all of the packages in the elementary minimal system,
  that is a functional command-line system with the following capabilities:
  .
   - Boot
@@ -27,7 +27,7 @@ Architecture: any
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: CLI-only components of elementary OS
- This package depends on most of non-GUI packages from elementary OS.
+ This metapackage depends on most of non-GUI packages from elementary OS.
  .
  This set of packages provides a comfortable command-line Unix-like
  environment.
@@ -40,7 +40,7 @@ Architecture: any
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: Complete desktop of elementary OS
- This package installs the complete elementary desktop.
+ This metapackage installs the complete elementary desktop.
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
@@ -50,7 +50,7 @@ Architecture: any
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: Artwork of elementary OS
- This package installs the acclaimed elementary desktop artwork.
+ This metapackage installs the acclaimed elementary desktop artwork.
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
@@ -63,7 +63,7 @@ Description: Modern and modular DE-independent desktop shell
  Pantheon Shell is a modern and modular DE-independent desktop shell
  developed by elementary Project.
  .
- This package installs all components of the shell.
+ This metapackage installs all components of the shell.
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
 
@@ -75,7 +75,7 @@ Description: Pantheon Desktop Environment
  Pantheon is a desktop environment based on GNOME with a strong focus on user
  experience. It's developed by elementary project.
  .
- This package installs all Pantheon apps that are shipped with the OS by default.
+ This metapackage installs all Pantheon apps that are shipped with the OS by default.
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
 
