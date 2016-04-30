@@ -133,4 +133,5 @@ xcursor-themes
 xdg-user-dirs
 xdg-user-dirs-gtk
 xdg-utils
+xserver-xorg-input-libinput
 zenity
