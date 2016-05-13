@@ -1,4 +1,4 @@
-elementary-meta (1.406) UNRELEASED; urgency=low
+elementary-meta (1.407) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -788,8 +788,11 @@ elementary-meta (1.406) UNRELEASED; urgency=low
   * Removed ttf-indic-fonts-core from desktop-recommends
   * Refreshed dependencies
   * Added xserver-xorg-input-libinput to desktop-recommends
+  * Refreshed dependencies
+  * Removed switchboard-plug-parental-controls from desktop-recommends
+    [amd64 i386]
 
- -- root <root@elementary.build1>  Sat, 30 Apr 2016 06:00:53 +0000
+ -- root <root@elementary.build1>  Fri, 13 May 2016 06:01:34 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
