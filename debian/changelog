@@ -1,4 +1,4 @@
-elementary-meta (1.408) UNRELEASED; urgency=low
+elementary-meta (1.409) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -794,8 +794,10 @@ elementary-meta (1.408) UNRELEASED; urgency=low
   * Refreshed dependencies
   * Added wingpanel-indicator-keyboard to desktop-recommends [amd64
     i386]
+  * Refreshed dependencies
+  * Removed xserver-xorg-input-libinput from desktop-recommends
 
- -- root <root@elementary.build1>  Thu, 19 May 2016 09:52:50 +0000
+ -- root <root@elementary.build1>  Thu, 02 Jun 2016 20:10:59 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
