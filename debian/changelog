@@ -1,4 +1,4 @@
-elementary-meta (1.409) UNRELEASED; urgency=low
+elementary-meta (1.410) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -796,8 +796,11 @@ elementary-meta (1.409) UNRELEASED; urgency=low
     i386]
   * Refreshed dependencies
   * Removed xserver-xorg-input-libinput from desktop-recommends
+  * Refreshed dependencies
+  * Added switchboard-plug-parental-controls to desktop-recommends
+    [amd64 i386]
 
- -- root <root@elementary.build1>  Thu, 02 Jun 2016 20:10:59 +0000
+ -- root <root@elementary.build1>  Sat, 04 Jun 2016 13:55:00 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
