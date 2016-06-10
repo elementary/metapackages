@@ -1,4 +1,4 @@
-elementary-meta (1.411) UNRELEASED; urgency=low
+elementary-meta (1.412) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1151,8 +1151,14 @@ elementary-meta (1.411) UNRELEASED; urgency=low
   * Removed ppp from standard-recommends [amd64 armhf i386]
   * Removed pppconfig from standard-recommends [amd64 armhf i386]
   * Removed pppoeconf from standard-recommends [amd64 armhf i386]
+  * Refreshed dependencies
+  * Added elementary-artwork to desktop [arm64]
+  * Added epiphany-browser to pantheon-recommends
+  * Added pantheon to desktop [arm64]
+  * Added pantheon-shell to pantheon-recommends [arm64]
+  * Removed midori-granite from pantheon-recommends
 
- -- root <root@elementary.build1>  Fri, 10 Jun 2016 05:55:46 +0000
+ -- root <root@elementary.build1>  Fri, 10 Jun 2016 21:09:15 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 

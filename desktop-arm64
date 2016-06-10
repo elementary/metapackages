@@ -5,6 +5,7 @@ at-spi2-core
 bc
 ca-certificates
 doc-base
+elementary-artwork
 fonts-dejavu-core
 fonts-freefont-ttf
 foomatic-db-compressed-ppds
@@ -18,6 +19,7 @@ libatk-adaptor
 libnotify-bin
 libsasl2-modules
 openprinting-ppds
+pantheon
 printer-driver-pnm2ppa
 rfkill
 ubuntu-drivers-common
