@@ -17,9 +17,6 @@ nano
 ntfs-3g
 openssh-client
 plymouth
-ppp
-pppconfig
-pppoeconf
 tcpdump
 telnet
 ufw
