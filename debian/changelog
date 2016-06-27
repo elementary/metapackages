@@ -1,4 +1,4 @@
-elementary-meta (1.412) UNRELEASED; urgency=low
+elementary-meta (1.413) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1157,8 +1157,10 @@ elementary-meta (1.412) UNRELEASED; urgency=low
   * Added pantheon to desktop [arm64]
   * Added pantheon-shell to pantheon-recommends [arm64]
   * Removed midori-granite from pantheon-recommends
+  * Refreshed dependencies
+  * Added cmake-elementary to elementary-sdk-recommends
 
- -- root <root@elementary.build1>  Fri, 10 Jun 2016 21:09:15 +0000
+ -- root <root@elementary.build1>  Mon, 27 Jun 2016 23:26:23 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
