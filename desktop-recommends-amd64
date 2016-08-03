@@ -73,6 +73,7 @@ network-manager-gnome
 network-manager-pptp-gnome
 onboard
 p7zip-full
+pantheon-agent-polkit
 pantheon-greeter
 pcmciautils
 plymouth-theme-elementary

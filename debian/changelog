@@ -1,4 +1,4 @@
-elementary-meta (1.413) UNRELEASED; urgency=low
+elementary-meta (1.414) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1160,7 +1160,11 @@ elementary-meta (1.413) UNRELEASED; urgency=low
   * Refreshed dependencies
   * Added cmake-elementary to elementary-sdk-recommends
 
- -- root <root@elementary.build1>  Mon, 27 Jun 2016 23:26:23 +0000
+  [ RabbitBot ]
+  * Refreshed dependencies
+  * Added pantheon-agent-polkit to desktop-recommends
+
+ -- RabbitBot <rabbitbot@elementary.io>  Wed, 03 Aug 2016 23:01:45 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 
