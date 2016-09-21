@@ -1,4 +1,4 @@
-elementary-meta (1.414) UNRELEASED; urgency=low
+elementary-meta (1.415) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1163,8 +1163,10 @@ elementary-meta (1.414) UNRELEASED; urgency=low
   [ RabbitBot ]
   * Refreshed dependencies
   * Added pantheon-agent-polkit to desktop-recommends
+  * Refreshed dependencies
+  * Added git to elementary-sdk
 
- -- RabbitBot <rabbitbot@elementary.io>  Wed, 03 Aug 2016 23:01:45 +0000
+ -- RabbitBot <rabbitbot@elementary.io>  Wed, 21 Sep 2016 09:36:43 +0000
 
 ubuntu-meta (1.309) trusty; urgency=low
 

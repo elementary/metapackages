@@ -3,6 +3,7 @@ bzr
 cmake
 dconf-editor
 devscripts
+git
 gobject-introspection
 gtk-3-examples
 libgala-dev
