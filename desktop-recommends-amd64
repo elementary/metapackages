@@ -98,9 +98,9 @@ switchboard-gnome-control-center-override
 switchboard-plug-a11y
 switchboard-plug-about
 switchboard-plug-applications
+switchboard-plug-bluetooth
 switchboard-plug-datetime
 switchboard-plug-display
-switchboard-plug-gcc-bluetooth
 switchboard-plug-gcc-color
 switchboard-plug-gcc-sound
 switchboard-plug-gcc-wacom

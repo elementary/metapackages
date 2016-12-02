@@ -1,4 +1,4 @@
-elementary-meta (1.415) UNRELEASED; urgency=low
+elementary-meta (1.416) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1166,7 +1166,12 @@ elementary-meta (1.415) UNRELEASED; urgency=low
   * Refreshed dependencies
   * Added git to elementary-sdk
 
- -- RabbitBot <rabbitbot@elementary.io>  Wed, 21 Sep 2016 09:36:43 +0000
+  [ Cody Garver ]
+  * Refreshed dependencies
+  * Added switchboard-plug-bluetooth to desktop-recommends
+  * Removed switchboard-plug-gcc-bluetooth from desktop-recommends
+
+ -- Cody Garver <cody@elementary.io>  Fri, 02 Dec 2016 08:11:37 -0600
 
 ubuntu-meta (1.309) trusty; urgency=low
 
