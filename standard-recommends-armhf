@@ -4,11 +4,11 @@ bash-completion
 btrfs-tools
 command-not-found
 cryptsetup
-elementary-os-overlay
 friendly-recovery
 iputils-tracepath
 irqbalance
 jfsutils
+libnss-resolve
 lvm2
 manpages
 mlocate
@@ -20,4 +20,5 @@ plymouth
 tcpdump
 telnet
 ufw
+ureadahead
 uuid-runtime

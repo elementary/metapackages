@@ -1,4 +1,4 @@
-elementary-meta (1.416) UNRELEASED; urgency=low
+elementary-meta (1.417) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1170,8 +1170,34 @@ elementary-meta (1.416) UNRELEASED; urgency=low
   * Refreshed dependencies
   * Added switchboard-plug-bluetooth to desktop-recommends
   * Removed switchboard-plug-gcc-bluetooth from desktop-recommends
+  * Refreshed dependencies
+  * Added avahi-autoipd to desktop-recommends
+  * Added fwupd to desktop-recommends
+  * Added fwupdate to desktop-recommends
+  * Added fwupdate-signed to desktop-recommends
+  * Added init to minimal
+  * Added kerneloops to desktop-recommends
+  * Added libnss-resolve to standard-recommends
+  * Added memtest86+ to desktop-recommends [amd64 i386]
+  * Added nplan to minimal
+  * Added packagekit to desktop-recommends
+  * Added snapd to desktop-recommends
+  * Added ureadahead to standard-recommends
+  * Removed elementary-live-settings from live
+  * Removed elementary-os-overlay from standard-recommends
+  * Removed gnupg from minimal
+  * Removed ifupdown from minimal
+  * Removed kerneloops-daemon from desktop-recommends
+  * Removed lightdm from desktop-recommends
+  * Removed makedev from minimal
+  * Removed net-tools from minimal
+  * Removed pulseaudio-module-x11 from desktop-recommends
+  * Removed systemd-sysv from standard
+  * Removed tumbler-plugins-extra from desktop-recommends
+  * Removed ureadahead from minimal
+  * Moved rsyslog to minimal-recommends
 
- -- Cody Garver <cody@elementary.io>  Fri, 02 Dec 2016 08:11:37 -0600
+ -- Cody Garver <cody@elementary.io>  Sat, 22 Jul 2017 04:59:50 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 

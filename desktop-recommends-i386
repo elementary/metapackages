@@ -1,6 +1,7 @@
 acpi-support
 apport-gtk
 apport-hooks-elementary
+avahi-autoipd
 avahi-daemon
 bluez
 bluez-cups
@@ -32,6 +33,9 @@ fonts-sil-padauk
 fonts-takao-pgothic
 fonts-thai-tlwg
 fonts-tibetan-machine
+fwupd
+fwupdate
+fwupdate-signed
 geoclue-geonames
 geoclue-gsmloc
 geoclue-localnet
@@ -58,7 +62,7 @@ ibus-gtk
 ibus-gtk3
 ibus-table
 im-config
-kerneloops-daemon
+kerneloops
 laptop-detect
 libgail-common
 libnss-mdns
@@ -67,12 +71,13 @@ libproxy1-plugin-gsettings
 libproxy1-plugin-networkmanager
 libwmf0.2-7-gtk
 light-locker
-lightdm
+memtest86+
 mousetweaks
 network-manager-gnome
 network-manager-pptp-gnome
 onboard
 p7zip-full
+packagekit
 pantheon-agent-polkit
 pantheon-greeter
 pcmciautils
@@ -89,9 +94,9 @@ printer-driver-sag-gdi
 printer-driver-splix
 pulseaudio
 pulseaudio-module-bluetooth
-pulseaudio-module-x11
 sessioninstaller
 simple-scan
+snapd
 speech-dispatcher
 switchboard
 switchboard-gnome-control-center-override
@@ -119,7 +124,6 @@ switchboard-plug-sharing
 switchboard-plug-users
 ttf-ancient-fonts-symbola
 ttf-ubuntu-font-family
-tumbler-plugins-extra
 user-specific-alternatives
 whoopsie
 wingpanel
