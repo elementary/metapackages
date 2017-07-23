@@ -90,7 +90,6 @@ printer-driver-sag-gdi
 printer-driver-splix
 pulseaudio-module-bluetooth
 simple-scan
-snapd
 speech-dispatcher
 switchboard
 switchboard-gnome-control-center-override

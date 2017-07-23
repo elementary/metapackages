@@ -69,7 +69,6 @@ libproxy1-plugin-gsettings
 libproxy1-plugin-networkmanager
 libwmf0.2-7-gtk
 light-locker
-memtest86+
 mousetweaks
 network-manager-gnome
 network-manager-pptp-gnome
@@ -92,7 +91,6 @@ printer-driver-sag-gdi
 printer-driver-splix
 pulseaudio-module-bluetooth
 simple-scan
-snapd
 speech-dispatcher
 switchboard
 switchboard-gnome-control-center-override

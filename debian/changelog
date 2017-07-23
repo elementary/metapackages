@@ -1,4 +1,4 @@
-elementary-meta (1.418) UNRELEASED; urgency=low
+elementary-meta (1.419) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1254,8 +1254,12 @@ elementary-meta (1.418) UNRELEASED; urgency=low
   * Moved xdg-user-dirs to desktop
   * Moved xdg-user-dirs-gtk to desktop
   * Moved zenity to desktop
+  * Refreshed dependencies
+  * Removed memtest86+ from desktop-recommends [amd64 i386]
+  * Removed snapd from desktop-recommends
+  * Removed ubuntu-minimal from minimal
 
- -- Cody Garver <cody@elementary.io>  Sat, 22 Jul 2017 23:18:09 -0500
+ -- Cody Garver <cody@elementary.io>  Sun, 23 Jul 2017 01:05:57 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 

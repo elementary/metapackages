@@ -27,7 +27,6 @@ resolvconf
 sudo
 tzdata
 ubuntu-keyring
-ubuntu-minimal
 udev
 vim-tiny
 whiptail
