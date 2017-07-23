@@ -46,7 +46,6 @@ geoclue-yahoo
 gnome-accessibility-themes
 gnome-bluetooth
 gnome-font-viewer
-gnome-menus
 gnome-orca
 gnome-power-manager
 gnome-session-bin
@@ -54,7 +53,6 @@ gsignond
 gsignond-extension-pantheon
 gsignond-plugin-lastfm
 gsignond-plugin-oauth
-gvfs-bin
 gvfs-fuse
 hplip
 ibus
@@ -92,9 +90,7 @@ printer-driver-ptouch
 printer-driver-pxljr
 printer-driver-sag-gdi
 printer-driver-splix
-pulseaudio
 pulseaudio-module-bluetooth
-sessioninstaller
 simple-scan
 snapd
 speech-dispatcher
@@ -136,7 +132,4 @@ wingpanel-indicator-power
 wingpanel-indicator-session
 wingpanel-indicator-sound
 xcursor-themes
-xdg-user-dirs
-xdg-user-dirs-gtk
 xdg-utils
-zenity

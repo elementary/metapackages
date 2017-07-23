@@ -11,9 +11,11 @@ fonts-freefont-ttf
 foomatic-db-compressed-ppds
 genisoimage
 ghostscript-x
+gnome-menus
 gstreamer1.0-alsa
 gstreamer1.0-plugins-base-apps
 gstreamer1.0-pulseaudio
+gvfs-bin
 inputattach
 libatk-adaptor
 libnotify-bin
@@ -21,11 +23,15 @@ libsasl2-modules
 openprinting-ppds
 pantheon
 printer-driver-pnm2ppa
+pulseaudio
 rfkill
 ubuntu-drivers-common
 unzip
 wireless-tools
 wpasupplicant
+xdg-user-dirs
+xdg-user-dirs-gtk
 xkb-data
 xorg
+zenity
 zip

@@ -1,4 +1,4 @@
-elementary-meta (1.417) UNRELEASED; urgency=low
+elementary-meta (1.418) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1196,8 +1196,66 @@ elementary-meta (1.417) UNRELEASED; urgency=low
   * Removed tumbler-plugins-extra from desktop-recommends
   * Removed ureadahead from minimal
   * Moved rsyslog to minimal-recommends
+  * Refreshed dependencies
+  * Added elementary-os-overlay to standard-recommends
+  * Added hunspell-de-at-frami to live
+  * Added hunspell-de-ch-frami to live
+  * Added hunspell-de-de-frami to live
+  * Added hunspell-en-au to live
+  * Added hunspell-en-ca to live
+  * Added hunspell-en-gb to live
+  * Added hunspell-en-za to live
+  * Added hunspell-es to live
+  * Added hunspell-fr to live
+  * Added hunspell-it to live
+  * Added hunspell-pt-br to live
+  * Added hunspell-pt-pt to live
+  * Added hunspell-ru to live
+  * Added hyphen-de to live
+  * Added hyphen-en-ca to live
+  * Added hyphen-en-gb to live
+  * Added hyphen-en-us to live
+  * Added hyphen-fr to live
+  * Added hyphen-it to live
+  * Added hyphen-pt-br to live
+  * Added hyphen-pt-pt to live
+  * Added hyphen-ru to live
+  * Added language-pack-de to live [amd64 arm64 armhf]
+  * Added language-pack-fr to live
+  * Added language-pack-gnome-de to live [amd64 arm64 armhf]
+  * Added language-pack-gnome-fr to live
+  * Added language-pack-gnome-it to live
+  * Added language-pack-gnome-pt to live [amd64 arm64 armhf]
+  * Added language-pack-gnome-ru to live
+  * Added language-pack-it to live
+  * Added language-pack-pt to live [amd64 arm64 armhf]
+  * Added language-pack-ru to live
+  * Added mythes-de to live
+  * Added mythes-de-ch to live
+  * Added mythes-en-au to live
+  * Added mythes-en-us to live
+  * Added mythes-fr to live
+  * Added mythes-it to live
+  * Added mythes-pt-pt to live
+  * Added mythes-ru to live
+  * Added wbrazilian to live
+  * Added wbritish to live
+  * Added wfrench to live
+  * Added witalian to live
+  * Added wngerman to live
+  * Added wogerman to live
+  * Added wportuguese to live
+  * Added wspanish to live
+  * Added wswiss to live
+  * Removed sessioninstaller from desktop-recommends
+  * Moved gnome-menus to desktop
+  * Moved gvfs-bin to desktop
+  * Moved pulseaudio to desktop
+  * Moved xdg-user-dirs to desktop
+  * Moved xdg-user-dirs-gtk to desktop
+  * Moved zenity to desktop
 
- -- Cody Garver <cody@elementary.io>  Sat, 22 Jul 2017 04:59:50 -0500
+ -- Cody Garver <cody@elementary.io>  Sat, 22 Jul 2017 23:18:09 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 
