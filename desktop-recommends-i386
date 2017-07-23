@@ -1,6 +1,4 @@
 acpi-support
-apport-gtk
-apport-hooks-elementary
 avahi-autoipd
 avahi-daemon
 bluez
