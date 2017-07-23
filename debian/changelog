@@ -1,4 +1,4 @@
-elementary-meta (1.421) UNRELEASED; urgency=low
+elementary-meta (1.422) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1266,8 +1266,10 @@ elementary-meta (1.421) UNRELEASED; urgency=low
   * Refreshed dependencies
   * Removed apport-gtk from desktop-recommends
   * Removed apport-hooks-elementary from desktop-recommends
+  * Refreshed dependencies
+  * Removed whoopsie from desktop-recommends
 
- -- Cody Garver <cody@elementary.io>  Sun, 23 Jul 2017 15:41:34 -0500
+ -- Cody Garver <cody@elementary.io>  Sun, 23 Jul 2017 18:31:01 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 
