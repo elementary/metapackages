@@ -100,9 +100,6 @@ switchboard-plug-applications
 switchboard-plug-bluetooth
 switchboard-plug-datetime
 switchboard-plug-display
-switchboard-plug-gcc-color
-switchboard-plug-gcc-sound
-switchboard-plug-gcc-wacom
 switchboard-plug-keyboard
 switchboard-plug-locale
 switchboard-plug-mouse-touchpad
@@ -115,6 +112,7 @@ switchboard-plug-power
 switchboard-plug-printers
 switchboard-plug-security-privacy
 switchboard-plug-sharing
+switchboard-plug-sound
 switchboard-plug-users
 ttf-ancient-fonts-symbola
 ttf-ubuntu-font-family
