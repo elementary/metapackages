@@ -1,4 +1,4 @@
-elementary-meta (1.422) UNRELEASED; urgency=low
+elementary-meta (1.423) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1268,8 +1268,26 @@ elementary-meta (1.422) UNRELEASED; urgency=low
   * Removed apport-hooks-elementary from desktop-recommends
   * Refreshed dependencies
   * Removed whoopsie from desktop-recommends
+  * Refreshed dependencies
+  * Removed hyphen-de from live
+  * Removed hyphen-en-ca from live
+  * Removed hyphen-en-gb from live
+  * Removed hyphen-en-us from live
+  * Removed hyphen-fr from live
+  * Removed hyphen-it from live
+  * Removed hyphen-pt-br from live
+  * Removed hyphen-pt-pt from live
+  * Removed hyphen-ru from live
+  * Removed mythes-de from live
+  * Removed mythes-de-ch from live
+  * Removed mythes-en-au from live
+  * Removed mythes-en-us from live
+  * Removed mythes-fr from live
+  * Removed mythes-it from live
+  * Removed mythes-pt-pt from live
+  * Removed mythes-ru from live
 
- -- Cody Garver <cody@elementary.io>  Sun, 23 Jul 2017 18:31:01 -0500
+ -- Cody Garver <cody@elementary.io>  Sun, 23 Jul 2017 19:32:55 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 
