@@ -1,4 +1,4 @@
-elementary-meta (1.423) UNRELEASED; urgency=low
+elementary-meta (1.424) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1286,8 +1286,10 @@ elementary-meta (1.423) UNRELEASED; urgency=low
   * Removed mythes-it from live
   * Removed mythes-pt-pt from live
   * Removed mythes-ru from live
+  * Refreshed dependencies
+  * Added ubiquity-slideshow-elementary to live
 
- -- Cody Garver <cody@elementary.io>  Sun, 23 Jul 2017 19:32:55 -0500
+ -- Cody Garver <cody@elementary.io>  Wed, 26 Jul 2017 23:29:50 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 
