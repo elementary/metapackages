@@ -1,4 +1,4 @@
-elementary-meta (1.424) UNRELEASED; urgency=low
+elementary-meta (1.425) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1288,8 +1288,22 @@ elementary-meta (1.424) UNRELEASED; urgency=low
   * Removed mythes-ru from live
   * Refreshed dependencies
   * Added ubiquity-slideshow-elementary to live
+  * Refreshed dependencies
+  * Removed fcitx from live
+  * Removed fcitx-frontend-gtk2 from live
+  * Removed fcitx-frontend-gtk3 from live
+  * Removed fcitx-frontend-qt4 from live
+  * Removed fcitx-frontend-qt5 from live
+  * Removed fcitx-hangul from live
+  * Removed fcitx-module-cloudpinyin from live
+  * Removed fcitx-mozc from live [amd64 armhf i386]
+  * Removed fcitx-pinyin from live
+  * Removed fcitx-table from live
+  * Removed fcitx-ui-classic from live
+  * Removed fcitx-ui-qimpanel from live
+  * Removed fcitx-unikey from live
 
- -- Cody Garver <cody@elementary.io>  Wed, 26 Jul 2017 23:29:50 -0500
+ -- Cody Garver <cody@elementary.io>  Thu, 27 Jul 2017 21:44:44 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 

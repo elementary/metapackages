@@ -1,17 +1,4 @@
 cifs-utils
-fcitx
-fcitx-frontend-gtk2
-fcitx-frontend-gtk3
-fcitx-frontend-qt4
-fcitx-frontend-qt5
-fcitx-hangul
-fcitx-module-cloudpinyin
-fcitx-mozc
-fcitx-pinyin
-fcitx-table
-fcitx-ui-classic
-fcitx-ui-qimpanel
-fcitx-unikey
 fonts-arphic-ukai
 fonts-arphic-uming
 fwupdate-signed
