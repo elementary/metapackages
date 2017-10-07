@@ -17,13 +17,13 @@ less
 locales
 lsb-release
 mawk
+mount
 netbase
 netcat-openbsd
 nplan
 passwd
 procps
 python3
-resolvconf
 sudo
 tzdata
 ubuntu-keyring

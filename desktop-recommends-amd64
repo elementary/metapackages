@@ -88,7 +88,6 @@ printer-driver-pxljr
 printer-driver-sag-gdi
 printer-driver-splix
 pulseaudio-module-bluetooth
-simple-scan
 speech-dispatcher
 switchboard
 switchboard-gnome-control-center-override
