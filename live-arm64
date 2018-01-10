@@ -3,6 +3,7 @@ fonts-arphic-ukai
 fonts-arphic-uming
 fwupdate-signed
 gparted
+gtk-im-libthai
 hunspell-de-at-frami
 hunspell-de-ch-frami
 hunspell-de-de-frami
@@ -17,6 +18,15 @@ hunspell-it
 hunspell-pt-br
 hunspell-pt-pt
 hunspell-ru
+ibus-chewing
+ibus-hangul
+ibus-m17n
+ibus-mozc
+ibus-sunpinyin
+ibus-table-cangjie
+ibus-table-quick-classic
+ibus-table-wubi
+ibus-unikey
 language-pack-de
 language-pack-en
 language-pack-es

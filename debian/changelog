@@ -1,4 +1,4 @@
-elementary-meta (1.426) UNRELEASED; urgency=low
+elementary-meta (1.427) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1306,8 +1306,35 @@ elementary-meta (1.426) UNRELEASED; urgency=low
   * Added mount to minimal
   * Removed resolvconf from minimal
   * Removed simple-scan from desktop-recommends
+  * Refreshed dependencies
+  * Added fonts-indic to desktop-recommends
+  * Added gstreamer1.0-packagekit to desktop
+  * Added gtk-im-libthai to live
+  * Added ibus-chewing to live
+  * Added ibus-hangul to live
+  * Added ibus-m17n to live
+  * Added ibus-mozc to live
+  * Added ibus-sunpinyin to live
+  * Added ibus-table-cangjie to live
+  * Added ibus-table-quick-classic to live
+  * Added ibus-table-wubi to live
+  * Added ibus-unikey to live
+  * Added meson to elementary-sdk
+  * Added network-manager to desktop-recommends
+  * Added network-manager-config-connectivity-ubuntu to desktop-
+    recommends
+  * Added sensible-utils to minimal
+  * Added ubuntu-advantage-tools to minimal
+  * Removed apt-transport-https from standard-recommends
+  * Removed fonts-guru from desktop-recommends
+  * Removed fonts-nanum from desktop-recommends
+  * Removed fonts-takao-pgothic from desktop-recommends
+  * Removed libnss-resolve from standard-recommends
+  * Removed network-manager-gnome from desktop-recommends
+  * Removed onboard from desktop-recommends
+  * Removed snap-photobooth from pantheon-recommends
 
- -- Cody Garver <cody@elementary.io>  Fri, 06 Oct 2017 23:02:49 -0500
+ -- Cody Garver <cody@elementary.io>  Tue, 09 Jan 2018 21:19:02 -0600
 
 ubuntu-meta (1.309) trusty; urgency=low
 

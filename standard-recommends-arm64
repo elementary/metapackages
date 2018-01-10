@@ -1,5 +1,4 @@
 apparmor
-apt-transport-https
 bash-completion
 btrfs-tools
 command-not-found
@@ -9,7 +8,6 @@ friendly-recovery
 iputils-tracepath
 irqbalance
 jfsutils
-libnss-resolve
 lvm2
 manpages
 mlocate

@@ -13,6 +13,7 @@ genisoimage
 ghostscript-x
 gnome-menus
 gstreamer1.0-alsa
+gstreamer1.0-packagekit
 gstreamer1.0-plugins-base-apps
 gstreamer1.0-pulseaudio
 gvfs-bin
