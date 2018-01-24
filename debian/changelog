@@ -1,4 +1,4 @@
-elementary-meta (1.428) UNRELEASED; urgency=low
+elementary-meta (1.429) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1338,8 +1338,12 @@ elementary-meta (1.428) UNRELEASED; urgency=low
     pantheon-recommends [amd64]
   * Removed scratch-text-editor from elementary-sdk-recommends, pantheon-
     recommends
+  * Refreshed dependencies
+  * Added io.elementary.code to elementary-sdk-recommends [arm64 armhf],
+    pantheon-recommends [arm64 armhf]
+  * Added wingpanel-indicator-nightlight to desktop-recommends
 
- -- Cody Garver <cody@elementary.io>  Tue, 16 Jan 2018 08:01:43 -0600
+ -- Cody Garver <cody@elementary.io>  Wed, 24 Jan 2018 13:38:24 -0600
 
 ubuntu-meta (1.309) trusty; urgency=low
 
