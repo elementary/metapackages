@@ -21,6 +21,7 @@ mime-support
 parted
 pciutils
 psmisc
+resolvconf
 rsync
 strace
 time
