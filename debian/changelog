@@ -1,4 +1,4 @@
-elementary-meta (1.430) UNRELEASED; urgency=low
+elementary-meta (1.431) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1344,8 +1344,13 @@ elementary-meta (1.430) UNRELEASED; urgency=low
   * Added wingpanel-indicator-nightlight to desktop-recommends
   * Refreshed dependencies
   * Added resolvconf to standard
+  * Refreshed dependencies
+  * Added libu2f-udev to desktop
+  * Added openresolv to standard
+  * Added printer-driver-m2300w to desktop-recommends
+  * Removed resolvconf from standard
 
- -- Cody Garver <cody@elementary.io>  Wed, 14 Feb 2018 11:41:17 -0600
+ -- Cody Garver <cody@elementary.io>  Thu, 22 Feb 2018 13:57:50 -0600
 
 ubuntu-meta (1.309) trusty; urgency=low
 

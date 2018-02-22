@@ -21,6 +21,7 @@ inputattach
 libatk-adaptor
 libnotify-bin
 libsasl2-modules
+libu2f-udev
 openprinting-ppds
 pantheon
 printer-driver-pnm2ppa
