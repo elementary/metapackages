@@ -41,7 +41,6 @@ geoclue-yahoo
 gnome-accessibility-themes
 gnome-bluetooth
 gnome-font-viewer
-gnome-orca
 gnome-power-manager
 gnome-session-bin
 gsignond
@@ -68,6 +67,7 @@ mousetweaks
 network-manager
 network-manager-config-connectivity-ubuntu
 network-manager-pptp-gnome
+orca
 p7zip-full
 packagekit
 pantheon-agent-polkit
@@ -109,7 +109,6 @@ switchboard-plug-security-privacy
 switchboard-plug-sharing
 switchboard-plug-sound
 switchboard-plug-users
-ttf-ancient-fonts-symbola
 ttf-ubuntu-font-family
 user-specific-alternatives
 wingpanel

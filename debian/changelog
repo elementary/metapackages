@@ -1,4 +1,4 @@
-elementary-meta (1.431) UNRELEASED; urgency=low
+elementary-meta (1.432) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1349,8 +1349,15 @@ elementary-meta (1.431) UNRELEASED; urgency=low
   * Added openresolv to standard
   * Added printer-driver-m2300w to desktop-recommends
   * Removed resolvconf from standard
+  * Refreshed dependencies
+  * Added ibus-libpinyin to live
+  * Added orca to desktop-recommends
+  * Added spice-vdagent to desktop
+  * Removed gnome-orca from desktop-recommends
+  * Removed ibus-sunpinyin from live
+  * Removed ttf-ancient-fonts-symbola from desktop-recommends
 
- -- Cody Garver <cody@elementary.io>  Thu, 22 Feb 2018 13:57:50 -0600
+ -- Cody Garver <cody@elementary.io>  Tue, 27 Feb 2018 01:08:41 -0600
 
 ubuntu-meta (1.309) trusty; urgency=low
 
