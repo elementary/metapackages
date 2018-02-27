@@ -1,7 +1,6 @@
 apparmor
 bash-completion
 btrfs-tools
-command-not-found
 cryptsetup
 elementary-os-overlay
 friendly-recovery
@@ -15,6 +14,7 @@ mtr-tiny
 nano
 ntfs-3g
 openssh-client
+packagekit-command-not-found
 plymouth
 tcpdump
 telnet

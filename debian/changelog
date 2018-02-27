@@ -1,4 +1,4 @@
-elementary-meta (1.433) UNRELEASED; urgency=low
+elementary-meta (1.434) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1358,8 +1358,11 @@ elementary-meta (1.433) UNRELEASED; urgency=low
   * Removed ttf-ancient-fonts-symbola from desktop-recommends
   * Refreshed dependencies
   * Removed openresolv from standard
+  * Refreshed dependencies
+  * Added packagekit-command-not-found to standard-recommends
+  * Removed command-not-found from standard-recommends
 
- -- Cody Garver <cody@elementary.io>  Tue, 27 Feb 2018 01:49:48 -0600
+ -- Cody Garver <cody@elementary.io>  Tue, 27 Feb 2018 03:22:04 -0600
 
 ubuntu-meta (1.309) trusty; urgency=low
 
