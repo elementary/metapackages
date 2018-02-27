@@ -18,7 +18,6 @@ lsof
 ltrace
 man-db
 mime-support
-openresolv
 parted
 pciutils
 psmisc

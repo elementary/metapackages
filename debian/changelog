@@ -1,4 +1,4 @@
-elementary-meta (1.432) UNRELEASED; urgency=low
+elementary-meta (1.433) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1356,8 +1356,10 @@ elementary-meta (1.432) UNRELEASED; urgency=low
   * Removed gnome-orca from desktop-recommends
   * Removed ibus-sunpinyin from live
   * Removed ttf-ancient-fonts-symbola from desktop-recommends
+  * Refreshed dependencies
+  * Removed openresolv from standard
 
- -- Cody Garver <cody@elementary.io>  Tue, 27 Feb 2018 01:08:41 -0600
+ -- Cody Garver <cody@elementary.io>  Tue, 27 Feb 2018 01:49:48 -0600
 
 ubuntu-meta (1.309) trusty; urgency=low
 
