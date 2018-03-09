@@ -1,4 +1,4 @@
-elementary-meta (1.434) UNRELEASED; urgency=low
+elementary-meta (1.435) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1361,8 +1361,10 @@ elementary-meta (1.434) UNRELEASED; urgency=low
   * Refreshed dependencies
   * Added packagekit-command-not-found to standard-recommends
   * Removed command-not-found from standard-recommends
+  * Refreshed dependencies
+  * Added io.elementary.sound-theme to artwork-recommends
 
- -- Cody Garver <cody@elementary.io>  Tue, 27 Feb 2018 03:22:04 -0600
+ -- Cody Garver <cody@elementary.io>  Fri, 09 Mar 2018 13:32:46 -0600
 
 ubuntu-meta (1.309) trusty; urgency=low
 
