@@ -1,4 +1,4 @@
-elementary-meta (1.435) UNRELEASED; urgency=low
+elementary-meta (1.436) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1363,8 +1363,10 @@ elementary-meta (1.435) UNRELEASED; urgency=low
   * Removed command-not-found from standard-recommends
   * Refreshed dependencies
   * Added io.elementary.sound-theme to artwork-recommends
+  * Refreshed dependencies
+  * Added pantheon-agent-geoclue2 to desktop-recommends
 
- -- Cody Garver <cody@elementary.io>  Fri, 09 Mar 2018 13:32:46 -0600
+ -- Cody Garver <cody@elementary.io>  Mon, 12 Mar 2018 20:44:09 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 
