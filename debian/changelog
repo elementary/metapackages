@@ -1,4 +1,4 @@
-elementary-meta (1.437) UNRELEASED; urgency=low
+elementary-meta (1.438) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1367,8 +1367,12 @@ elementary-meta (1.437) UNRELEASED; urgency=low
   * Added pantheon-agent-geoclue2 to desktop-recommends
   * Refreshed dependencies
   * Added io.elementary.shortcut-overlay to pantheon-recommends
+  * Refreshed dependencies
+  * Added dmraid to live
+  * Added fonts-ubuntu to desktop-recommends
+  * Removed ttf-ubuntu-font-family from desktop-recommends
 
- -- Cody Garver <cody@elementary.io>  Wed, 14 Mar 2018 20:45:23 -0500
+ -- Cody Garver <cody@elementary.io>  Tue, 20 Mar 2018 03:13:31 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 

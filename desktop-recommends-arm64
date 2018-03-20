@@ -28,6 +28,7 @@ fonts-sil-abyssinica
 fonts-sil-padauk
 fonts-thai-tlwg
 fonts-tibetan-machine
+fonts-ubuntu
 fwupd
 fwupdate
 fwupdate-signed
@@ -110,7 +111,6 @@ switchboard-plug-security-privacy
 switchboard-plug-sharing
 switchboard-plug-sound
 switchboard-plug-users
-ttf-ubuntu-font-family
 user-specific-alternatives
 wingpanel
 wingpanel-indicator-bluetooth
