@@ -1,4 +1,4 @@
-elementary-meta (1.438) UNRELEASED; urgency=low
+elementary-meta (1.439) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1371,8 +1371,10 @@ elementary-meta (1.438) UNRELEASED; urgency=low
   * Added dmraid to live
   * Added fonts-ubuntu to desktop-recommends
   * Removed ttf-ubuntu-font-family from desktop-recommends
+  * Refreshed dependencies
+  * Added io.elementary.camera to pantheon-recommends
 
- -- Cody Garver <cody@elementary.io>  Tue, 20 Mar 2018 03:13:31 -0500
+ -- Cody Garver <cody@elementary.io>  Tue, 20 Mar 2018 04:29:13 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 
