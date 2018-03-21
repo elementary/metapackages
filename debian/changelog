@@ -1,4 +1,4 @@
-elementary-meta (1.439) UNRELEASED; urgency=low
+elementary-meta (1.440) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1373,8 +1373,11 @@ elementary-meta (1.439) UNRELEASED; urgency=low
   * Removed ttf-ubuntu-font-family from desktop-recommends
   * Refreshed dependencies
   * Added io.elementary.camera to pantheon-recommends
+  * Refreshed dependencies
+  * Added command-not-found to standard-recommends
+  * Removed packagekit-command-not-found from standard-recommends
 
- -- Cody Garver <cody@elementary.io>  Tue, 20 Mar 2018 04:29:13 -0500
+ -- Cody Garver <cody@elementary.io>  Wed, 21 Mar 2018 05:54:05 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 
