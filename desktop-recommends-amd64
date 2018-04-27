@@ -10,7 +10,6 @@ cups-bsd
 cups-client
 cups-filters
 elementary-default-settings
-elementary-dpms-helper
 elementary-os-prerelease
 elementary-printer-test-page
 evince
@@ -56,6 +55,7 @@ ibus-gtk
 ibus-gtk3
 ibus-table
 im-config
+io.elementary.dpms-helper
 kerneloops
 laptop-detect
 libgail-common

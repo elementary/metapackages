@@ -1,4 +1,4 @@
-elementary-meta (1.440) UNRELEASED; urgency=low
+elementary-meta (1.441) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1376,8 +1376,11 @@ elementary-meta (1.440) UNRELEASED; urgency=low
   * Refreshed dependencies
   * Added command-not-found to standard-recommends
   * Removed packagekit-command-not-found from standard-recommends
+  * Refreshed dependencies
+  * Added io.elementary.dpms-helper to desktop-recommends
+  * Removed elementary-dpms-helper from desktop-recommends
 
- -- Cody Garver <cody@elementary.io>  Wed, 21 Mar 2018 05:54:05 -0500
+ -- Cody Garver <cody@elementary.io>  Fri, 27 Apr 2018 05:28:43 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 
