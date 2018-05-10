@@ -5,6 +5,7 @@ dconf-editor
 devscripts
 git
 gobject-introspection
+granite-demo
 gtk-3-examples
 libgala-dev
 libgirepository1.0-dev

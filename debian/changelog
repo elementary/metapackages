@@ -1,4 +1,4 @@
-elementary-meta (1.441) UNRELEASED; urgency=low
+elementary-meta (1.442) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1379,8 +1379,10 @@ elementary-meta (1.441) UNRELEASED; urgency=low
   * Refreshed dependencies
   * Added io.elementary.dpms-helper to desktop-recommends
   * Removed elementary-dpms-helper from desktop-recommends
+  * Refreshed dependencies
+  * Added granite-demo to elementary-sdk
 
- -- Cody Garver <cody@elementary.io>  Fri, 27 Apr 2018 05:28:43 -0500
+ -- Cody Garver <cody@elementary.io>  Thu, 10 May 2018 16:44:58 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 
