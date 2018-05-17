@@ -4,6 +4,7 @@ contractor
 epiphany-browser
 io.elementary.camera
 io.elementary.code
+io.elementary.print
 io.elementary.shortcut-overlay
 maya-calendar
 noise
@@ -11,7 +12,6 @@ pantheon-calculator
 pantheon-files
 pantheon-mail
 pantheon-photos
-pantheon-print
 pantheon-shell
 pantheon-terminal
 screenshot-tool

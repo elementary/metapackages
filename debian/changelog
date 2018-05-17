@@ -1,4 +1,4 @@
-elementary-meta (1.443) UNRELEASED; urgency=low
+elementary-meta (1.444) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1384,8 +1384,11 @@ elementary-meta (1.443) UNRELEASED; urgency=low
   * Refreshed dependencies
   * Removed switchboard-gnome-control-center-override from desktop-
     recommends
+  * Refreshed dependencies
+  * Added io.elementary.print to pantheon-recommends [amd64]
+  * Removed pantheon-print from pantheon-recommends
 
- -- Cody Garver <cody@elementary.io>  Thu, 17 May 2018 07:09:33 -0500
+ -- Cody Garver <cody@elementary.io>  Thu, 17 May 2018 10:24:34 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 
