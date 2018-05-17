@@ -90,7 +90,6 @@ printer-driver-splix
 pulseaudio-module-bluetooth
 speech-dispatcher
 switchboard
-switchboard-gnome-control-center-override
 switchboard-plug-a11y
 switchboard-plug-about
 switchboard-plug-applications

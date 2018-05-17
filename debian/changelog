@@ -1,4 +1,4 @@
-elementary-meta (1.442) UNRELEASED; urgency=low
+elementary-meta (1.443) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1381,8 +1381,11 @@ elementary-meta (1.442) UNRELEASED; urgency=low
   * Removed elementary-dpms-helper from desktop-recommends
   * Refreshed dependencies
   * Added granite-demo to elementary-sdk
+  * Refreshed dependencies
+  * Removed switchboard-gnome-control-center-override from desktop-
+    recommends
 
- -- Cody Garver <cody@elementary.io>  Thu, 10 May 2018 16:44:58 -0500
+ -- Cody Garver <cody@elementary.io>  Thu, 17 May 2018 07:09:33 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 
