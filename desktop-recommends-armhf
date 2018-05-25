@@ -44,7 +44,6 @@ gnome-font-viewer
 gnome-power-manager
 gnome-session-bin
 gsignond
-gsignond-extension-pantheon
 gsignond-plugin-lastfm
 gsignond-plugin-oauth
 gvfs-fuse
