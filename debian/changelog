@@ -1,4 +1,4 @@
-elementary-meta (1.444) UNRELEASED; urgency=low
+elementary-meta (1.445) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1387,8 +1387,10 @@ elementary-meta (1.444) UNRELEASED; urgency=low
   * Refreshed dependencies
   * Added io.elementary.print to pantheon-recommends [amd64]
   * Removed pantheon-print from pantheon-recommends
+  * Refreshed dependencies
+  * Added io.elementary.print to pantheon-recommends [arm64 armhf]
 
- -- Cody Garver <cody@elementary.io>  Thu, 17 May 2018 10:24:34 -0500
+ -- Cody Garver <cody@elementary.io>  Fri, 25 May 2018 10:54:56 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 
