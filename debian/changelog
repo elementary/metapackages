@@ -1,4 +1,4 @@
-elementary-meta (1.446) UNRELEASED; urgency=low
+elementary-meta (1.447) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1391,8 +1391,10 @@ elementary-meta (1.446) UNRELEASED; urgency=low
   * Added io.elementary.print to pantheon-recommends [arm64 armhf]
   * Refreshed dependencies
   * Removed gsignond-extension-pantheon from desktop-recommends
+  * Refreshed dependencies
+  * Removed user-specific-alternatives from desktop-recommends
 
- -- Cody Garver <cody@elementary.io>  Fri, 25 May 2018 11:01:06 -0500
+ -- Cody Garver <cody@elementary.io>  Sun, 27 May 2018 21:55:59 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 
