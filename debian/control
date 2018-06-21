@@ -6,7 +6,7 @@ Standards-Version: 3.9.5
 Build-Depends: debhelper (>= 7.0.8), germinate (>= 1.18)
 
 Package: elementary-minimal
-Architecture: any
+Architecture: amd64 arm64 armel
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: Minimal core of elementary OS
@@ -23,7 +23,7 @@ Description: Minimal core of elementary OS
  it not be removed.
 
 Package: elementary-standard
-Architecture: any
+Architecture: amd64 arm64 armel
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: CLI-only components of elementary OS
@@ -36,7 +36,7 @@ Description: CLI-only components of elementary OS
  removed.
 
 Package: elementary-desktop
-Architecture: any
+Architecture: amd64 arm64 armel
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: Complete desktop of elementary OS
@@ -46,7 +46,7 @@ Description: Complete desktop of elementary OS
  it not be removed.
 
 Package: elementary-artwork
-Architecture: any
+Architecture: amd64 arm64 armel
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: Artwork of elementary OS
@@ -56,7 +56,7 @@ Description: Artwork of elementary OS
  it not be removed.
 
 Package: pantheon-shell
-Architecture: any
+Architecture: amd64 arm64 armel
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: Modern and modular DE-independent desktop shell
@@ -68,7 +68,7 @@ Description: Modern and modular DE-independent desktop shell
  it not be removed.
 
 Package: pantheon
-Architecture: any
+Architecture: amd64 arm64 armel
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: Pantheon Desktop Environment
@@ -80,14 +80,14 @@ Description: Pantheon Desktop Environment
  it not be removed.
 
 Package: elementary-sdk
-Architecture: any
+Architecture: amd64 arm64 armel
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: elementary Developer Kit
  Contains recommended packages for developing applications for elementary OS.
 
 Package: elementary-live
-Architecture: any
+Architecture: amd64 arm64 armel
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: elementary Live Settings
