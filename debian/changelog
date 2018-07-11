@@ -1,4 +1,4 @@
-elementary-meta (1.449) UNRELEASED; urgency=low
+elementary-meta (1.450) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1403,8 +1403,15 @@ elementary-meta (1.449) UNRELEASED; urgency=low
   * Removed fonts-lklug-sinhala from desktop-recommends
   * Removed fonts-thai-tlwg from desktop-recommends
   * Removed fonts-tibetan-machine from desktop-recommends
+  * Refreshed dependencies
+  * Added gtk-im-libthai to desktop-recommends
+  * Added ibus-hangul to desktop-recommends
+  * Added ibus-unikey to desktop-recommends
+  * Removed gtk-im-libthai from live
+  * Removed ibus-hangul from live
+  * Removed ibus-unikey from live
 
- -- Cody Garver <cody@elementary.io>  Wed, 11 Jul 2018 02:24:54 -0500
+ -- Cody Garver <cody@elementary.io>  Wed, 11 Jul 2018 02:42:17 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 

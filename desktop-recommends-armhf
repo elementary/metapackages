@@ -39,12 +39,15 @@ gnome-session-bin
 gsignond
 gsignond-plugin-lastfm
 gsignond-plugin-oauth
+gtk-im-libthai
 gvfs-fuse
 hplip
 ibus
 ibus-gtk
 ibus-gtk3
+ibus-hangul
 ibus-table
+ibus-unikey
 im-config
 io.elementary.dpms-helper
 kerneloops
