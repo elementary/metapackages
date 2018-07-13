@@ -1,4 +1,4 @@
-elementary-meta (1.450) UNRELEASED; urgency=low
+elementary-meta (1.451) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1410,8 +1410,12 @@ elementary-meta (1.450) UNRELEASED; urgency=low
   * Removed gtk-im-libthai from live
   * Removed ibus-hangul from live
   * Removed ibus-unikey from live
+  * Refreshed dependencies
+  * Removed fwupd from desktop-recommends
+  * Removed fwupdate from desktop-recommends
+  * Removed fwupdate-signed from desktop-recommends
 
- -- Cody Garver <cody@elementary.io>  Wed, 11 Jul 2018 02:42:17 -0500
+ -- Cody Garver <cody@elementary.io>  Fri, 13 Jul 2018 06:50:14 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 
