@@ -1,4 +1,4 @@
-elementary-meta (1.452) UNRELEASED; urgency=low
+elementary-meta (1.453) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1416,8 +1416,13 @@ elementary-meta (1.452) UNRELEASED; urgency=low
   * Removed fwupdate-signed from desktop-recommends
   * Refreshed dependencies
   * Removed bzr from elementary-sdk
+  * Refreshed dependencies
+  * Added gdb to elementary-sdk
+  * Added io.elementary.vala-lint to elementary-sdk-recommends
+  * Removed cmake from elementary-sdk
+  * Removed cmake-elementary from elementary-sdk-recommends
 
- -- Cody Garver <cody@elementary.io>  Fri, 13 Jul 2018 10:53:59 -0500
+ -- Cody Garver <cody@elementary.io>  Fri, 13 Jul 2018 11:04:34 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 

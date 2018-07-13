@@ -1,7 +1,7 @@
 build-essential
-cmake
 dconf-editor
 devscripts
+gdb
 git
 gobject-introspection
 granite-demo
