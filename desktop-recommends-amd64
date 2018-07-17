@@ -44,6 +44,7 @@ ibus
 ibus-gtk
 ibus-gtk3
 ibus-hangul
+ibus-mozc
 ibus-table
 ibus-unikey
 im-config
