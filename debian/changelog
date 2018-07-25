@@ -1,4 +1,4 @@
-elementary-meta (1.454) UNRELEASED; urgency=low
+elementary-meta (1.455) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1424,8 +1424,10 @@ elementary-meta (1.454) UNRELEASED; urgency=low
   * Refreshed dependencies
   * Added ibus-mozc to desktop-recommends
   * Removed ibus-mozc from live
+  * Refreshed dependencies
+  * Removed fonts-sil-abyssinica from desktop-recommends
 
- -- Cody Garver <cody@elementary.io>  Tue, 17 Jul 2018 09:01:30 -0500
+ -- Cody Garver <cody@elementary.io>  Tue, 24 Jul 2018 20:02:49 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 
