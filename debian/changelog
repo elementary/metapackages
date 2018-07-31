@@ -1,4 +1,4 @@
-elementary-meta (1.455) UNRELEASED; urgency=low
+elementary-meta (1.456) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1426,8 +1426,106 @@ elementary-meta (1.455) UNRELEASED; urgency=low
   * Removed ibus-mozc from live
   * Refreshed dependencies
   * Removed fonts-sil-abyssinica from desktop-recommends
+  * Refreshed dependencies
+  * Added fonts-arphic-ukai to desktop-recommends
+  * Added fonts-arphic-uming to desktop-recommends
+  * Added language-pack-bg to desktop-recommends
+  * Added language-pack-ca to desktop-recommends
+  * Added language-pack-cs to desktop-recommends
+  * Added language-pack-da to desktop-recommends
+  * Added language-pack-de to desktop-recommends
+  * Added language-pack-en to desktop-recommends
+  * Added language-pack-es to desktop-recommends
+  * Added language-pack-fr to desktop-recommends
+  * Added language-pack-gnome-bg to desktop-recommends
+  * Added language-pack-gnome-ca to desktop-recommends
+  * Added language-pack-gnome-cs to desktop-recommends
+  * Added language-pack-gnome-da to desktop-recommends
+  * Added language-pack-gnome-de to desktop-recommends
+  * Added language-pack-gnome-en to desktop-recommends
+  * Added language-pack-gnome-es to desktop-recommends
+  * Added language-pack-gnome-fr to desktop-recommends
+  * Added language-pack-gnome-hu to desktop-recommends
+  * Added language-pack-gnome-id to desktop-recommends
+  * Added language-pack-gnome-it to desktop-recommends
+  * Added language-pack-gnome-ja to desktop-recommends
+  * Added language-pack-gnome-ko to desktop-recommends
+  * Added language-pack-gnome-nb to desktop-recommends
+  * Added language-pack-gnome-nl to desktop-recommends
+  * Added language-pack-gnome-pl to desktop-recommends
+  * Added language-pack-gnome-pt to desktop-recommends
+  * Added language-pack-gnome-ru to desktop-recommends
+  * Added language-pack-gnome-sv to desktop-recommends
+  * Added language-pack-gnome-th to desktop-recommends
+  * Added language-pack-gnome-tr to desktop-recommends
+  * Added language-pack-gnome-uk to desktop-recommends
+  * Added language-pack-gnome-vi to desktop-recommends
+  * Added language-pack-gnome-zh-hans to desktop-recommends
+  * Added language-pack-gnome-zh-hant to desktop-recommends
+  * Added language-pack-hu to desktop-recommends
+  * Added language-pack-id to desktop-recommends
+  * Added language-pack-it to desktop-recommends
+  * Added language-pack-ja to desktop-recommends
+  * Added language-pack-ko to desktop-recommends
+  * Added language-pack-nb to desktop-recommends
+  * Added language-pack-nl to desktop-recommends
+  * Added language-pack-pl to desktop-recommends
+  * Added language-pack-pt to desktop-recommends
+  * Added language-pack-ru to desktop-recommends
+  * Added language-pack-sv to desktop-recommends
+  * Added language-pack-th to desktop-recommends
+  * Added language-pack-tr to desktop-recommends
+  * Added language-pack-uk to desktop-recommends
+  * Added language-pack-vi to desktop-recommends
+  * Added language-pack-zh-hans to desktop-recommends
+  * Added language-pack-zh-hant to desktop-recommends
+  * Added wamerican to desktop-recommends
+  * Added wbrazilian to desktop-recommends
+  * Added wbritish to desktop-recommends
+  * Added wbulgarian to desktop-recommends
+  * Added wcatalan to desktop-recommends
+  * Added wdanish to desktop-recommends
+  * Added wdutch to desktop-recommends
+  * Added wfrench to desktop-recommends
+  * Added witalian to desktop-recommends
+  * Added wngerman to desktop-recommends
+  * Added wnorwegian to desktop-recommends
+  * Added wogerman to desktop-recommends
+  * Added wpolish to desktop-recommends
+  * Added wportuguese to desktop-recommends
+  * Added wspanish to desktop-recommends
+  * Added wswedish to desktop-recommends
+  * Added wswiss to desktop-recommends
+  * Added wukrainian to desktop-recommends
+  * Removed fonts-arphic-ukai from live
+  * Removed fonts-arphic-uming from live
+  * Removed language-pack-de from live
+  * Removed language-pack-en from live
+  * Removed language-pack-es from live
+  * Removed language-pack-fr from live
+  * Removed language-pack-gnome-de from live
+  * Removed language-pack-gnome-en from live
+  * Removed language-pack-gnome-es from live
+  * Removed language-pack-gnome-fr from live
+  * Removed language-pack-gnome-it from live
+  * Removed language-pack-gnome-pt from live
+  * Removed language-pack-gnome-ru from live
+  * Removed language-pack-gnome-zh-hans from live
+  * Removed language-pack-it from live
+  * Removed language-pack-pt from live
+  * Removed language-pack-ru from live
+  * Removed language-pack-zh-hans from live
+  * Removed wbrazilian from live
+  * Removed wbritish from live
+  * Removed wfrench from live
+  * Removed witalian from live
+  * Removed wngerman from live
+  * Removed wogerman from live
+  * Removed wportuguese from live
+  * Removed wspanish from live
+  * Removed wswiss from live
 
- -- Cody Garver <cody@elementary.io>  Tue, 24 Jul 2018 20:02:49 -0500
+ -- Cody Garver <cody@elementary.io>  Tue, 31 Jul 2018 08:45:34 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 
