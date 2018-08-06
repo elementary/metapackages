@@ -1,4 +1,4 @@
-elementary-meta (1.457) UNRELEASED; urgency=low
+elementary-meta (1.458) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1636,8 +1636,37 @@ elementary-meta (1.457) UNRELEASED; urgency=low
   * Removed wportuguese from live [arm64 armhf]
   * Removed wspanish from live [arm64 armhf]
   * Removed wswiss from live [arm64 armhf]
+  * Refreshed dependencies
+  * Added hunspell-de-at-frami to desktop-recommends
+  * Added hunspell-de-ch-frami to desktop-recommends
+  * Added hunspell-de-de-frami to desktop-recommends
+  * Added hunspell-en-au to desktop-recommends
+  * Added hunspell-en-ca to desktop-recommends
+  * Added hunspell-en-gb to desktop-recommends
+  * Added hunspell-en-us to desktop-recommends
+  * Added hunspell-en-za to desktop-recommends
+  * Added hunspell-es to desktop-recommends
+  * Added hunspell-fr to desktop-recommends
+  * Added hunspell-it to desktop-recommends
+  * Added hunspell-pt-br to desktop-recommends
+  * Added hunspell-pt-pt to desktop-recommends
+  * Added hunspell-ru to desktop-recommends
+  * Removed hunspell-de-at-frami from live
+  * Removed hunspell-de-ch-frami from live
+  * Removed hunspell-de-de-frami from live
+  * Removed hunspell-en-au from live
+  * Removed hunspell-en-ca from live
+  * Removed hunspell-en-gb from live
+  * Removed hunspell-en-us from live
+  * Removed hunspell-en-za from live
+  * Removed hunspell-es from live
+  * Removed hunspell-fr from live
+  * Removed hunspell-it from live
+  * Removed hunspell-pt-br from live
+  * Removed hunspell-pt-pt from live
+  * Removed hunspell-ru from live
 
- -- Cody Garver <cody@elementary.io>  Mon, 06 Aug 2018 09:40:03 -0500
+ -- Cody Garver <cody@elementary.io>  Mon, 06 Aug 2018 11:14:36 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 
