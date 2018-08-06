@@ -1,4 +1,4 @@
-elementary-meta (1.456) UNRELEASED; urgency=low
+elementary-meta (1.457) UNRELEASED; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -1524,8 +1524,120 @@ elementary-meta (1.456) UNRELEASED; urgency=low
   * Removed wportuguese from live
   * Removed wspanish from live
   * Removed wswiss from live
+  * Refreshed dependencies
+  * Added fonts-arphic-ukai to desktop-recommends [arm64 armhf]
+  * Added fonts-arphic-uming to desktop-recommends [arm64 armhf]
+  * Added ibus-chewing to desktop-recommends
+  * Added ibus-libpinyin to desktop-recommends
+  * Added ibus-m17n to desktop-recommends
+  * Added ibus-table-cangjie to desktop-recommends
+  * Added ibus-table-quick-classic to desktop-recommends
+  * Added ibus-table-wubi to desktop-recommends
+  * Added language-pack-bg to desktop-recommends [arm64 armhf]
+  * Added language-pack-ca to desktop-recommends [arm64 armhf]
+  * Added language-pack-cs to desktop-recommends [arm64 armhf]
+  * Added language-pack-da to desktop-recommends [arm64 armhf]
+  * Added language-pack-de to desktop-recommends [arm64 armhf]
+  * Added language-pack-en to desktop-recommends [arm64 armhf]
+  * Added language-pack-es to desktop-recommends [arm64 armhf]
+  * Added language-pack-fr to desktop-recommends [arm64 armhf]
+  * Added language-pack-gnome-bg to desktop-recommends [arm64 armhf]
+  * Added language-pack-gnome-ca to desktop-recommends [arm64 armhf]
+  * Added language-pack-gnome-cs to desktop-recommends [arm64 armhf]
+  * Added language-pack-gnome-da to desktop-recommends [arm64 armhf]
+  * Added language-pack-gnome-de to desktop-recommends [arm64 armhf]
+  * Added language-pack-gnome-en to desktop-recommends [arm64 armhf]
+  * Added language-pack-gnome-es to desktop-recommends [arm64 armhf]
+  * Added language-pack-gnome-fr to desktop-recommends [arm64 armhf]
+  * Added language-pack-gnome-hu to desktop-recommends [arm64 armhf]
+  * Added language-pack-gnome-id to desktop-recommends [arm64 armhf]
+  * Added language-pack-gnome-it to desktop-recommends [arm64 armhf]
+  * Added language-pack-gnome-ja to desktop-recommends [arm64 armhf]
+  * Added language-pack-gnome-ko to desktop-recommends [arm64 armhf]
+  * Added language-pack-gnome-nb to desktop-recommends [arm64 armhf]
+  * Added language-pack-gnome-nl to desktop-recommends [arm64 armhf]
+  * Added language-pack-gnome-pl to desktop-recommends [arm64 armhf]
+  * Added language-pack-gnome-pt to desktop-recommends [arm64 armhf]
+  * Added language-pack-gnome-ru to desktop-recommends [arm64 armhf]
+  * Added language-pack-gnome-sv to desktop-recommends [arm64 armhf]
+  * Added language-pack-gnome-th to desktop-recommends [arm64 armhf]
+  * Added language-pack-gnome-tr to desktop-recommends [arm64 armhf]
+  * Added language-pack-gnome-uk to desktop-recommends [arm64 armhf]
+  * Added language-pack-gnome-vi to desktop-recommends [arm64 armhf]
+  * Added language-pack-gnome-zh-hans to desktop-recommends [arm64
+    armhf]
+  * Added language-pack-gnome-zh-hant to desktop-recommends [arm64
+    armhf]
+  * Added language-pack-hu to desktop-recommends [arm64 armhf]
+  * Added language-pack-id to desktop-recommends [arm64 armhf]
+  * Added language-pack-it to desktop-recommends [arm64 armhf]
+  * Added language-pack-ja to desktop-recommends [arm64 armhf]
+  * Added language-pack-ko to desktop-recommends [arm64 armhf]
+  * Added language-pack-nb to desktop-recommends [arm64 armhf]
+  * Added language-pack-nl to desktop-recommends [arm64 armhf]
+  * Added language-pack-pl to desktop-recommends [arm64 armhf]
+  * Added language-pack-pt to desktop-recommends [arm64 armhf]
+  * Added language-pack-ru to desktop-recommends [arm64 armhf]
+  * Added language-pack-sv to desktop-recommends [arm64 armhf]
+  * Added language-pack-th to desktop-recommends [arm64 armhf]
+  * Added language-pack-tr to desktop-recommends [arm64 armhf]
+  * Added language-pack-uk to desktop-recommends [arm64 armhf]
+  * Added language-pack-vi to desktop-recommends [arm64 armhf]
+  * Added language-pack-zh-hans to desktop-recommends [arm64 armhf]
+  * Added language-pack-zh-hant to desktop-recommends [arm64 armhf]
+  * Added wamerican to desktop-recommends [arm64 armhf]
+  * Added wbrazilian to desktop-recommends [arm64 armhf]
+  * Added wbritish to desktop-recommends [arm64 armhf]
+  * Added wbulgarian to desktop-recommends [arm64 armhf]
+  * Added wcatalan to desktop-recommends [arm64 armhf]
+  * Added wdanish to desktop-recommends [arm64 armhf]
+  * Added wdutch to desktop-recommends [arm64 armhf]
+  * Added wfrench to desktop-recommends [arm64 armhf]
+  * Added witalian to desktop-recommends [arm64 armhf]
+  * Added wngerman to desktop-recommends [arm64 armhf]
+  * Added wnorwegian to desktop-recommends [arm64 armhf]
+  * Added wogerman to desktop-recommends [arm64 armhf]
+  * Added wpolish to desktop-recommends [arm64 armhf]
+  * Added wportuguese to desktop-recommends [arm64 armhf]
+  * Added wspanish to desktop-recommends [arm64 armhf]
+  * Added wswedish to desktop-recommends [arm64 armhf]
+  * Added wswiss to desktop-recommends [arm64 armhf]
+  * Added wukrainian to desktop-recommends [arm64 armhf]
+  * Removed fonts-arphic-ukai from live [arm64 armhf]
+  * Removed fonts-arphic-uming from live [arm64 armhf]
+  * Removed ibus-chewing from live
+  * Removed ibus-libpinyin from live
+  * Removed ibus-m17n from live
+  * Removed ibus-table-cangjie from live
+  * Removed ibus-table-quick-classic from live
+  * Removed ibus-table-wubi from live
+  * Removed language-pack-de from live [arm64 armhf]
+  * Removed language-pack-en from live [arm64 armhf]
+  * Removed language-pack-es from live [arm64 armhf]
+  * Removed language-pack-fr from live [arm64 armhf]
+  * Removed language-pack-gnome-de from live [arm64 armhf]
+  * Removed language-pack-gnome-en from live [arm64 armhf]
+  * Removed language-pack-gnome-es from live [arm64 armhf]
+  * Removed language-pack-gnome-fr from live [arm64 armhf]
+  * Removed language-pack-gnome-it from live [arm64 armhf]
+  * Removed language-pack-gnome-pt from live [arm64 armhf]
+  * Removed language-pack-gnome-ru from live [arm64 armhf]
+  * Removed language-pack-gnome-zh-hans from live [arm64 armhf]
+  * Removed language-pack-it from live [arm64 armhf]
+  * Removed language-pack-pt from live [arm64 armhf]
+  * Removed language-pack-ru from live [arm64 armhf]
+  * Removed language-pack-zh-hans from live [arm64 armhf]
+  * Removed wbrazilian from live [arm64 armhf]
+  * Removed wbritish from live [arm64 armhf]
+  * Removed wfrench from live [arm64 armhf]
+  * Removed witalian from live [arm64 armhf]
+  * Removed wngerman from live [arm64 armhf]
+  * Removed wogerman from live [arm64 armhf]
+  * Removed wportuguese from live [arm64 armhf]
+  * Removed wspanish from live [arm64 armhf]
+  * Removed wswiss from live [arm64 armhf]
 
- -- Cody Garver <cody@elementary.io>  Tue, 31 Jul 2018 08:45:34 -0500
+ -- Cody Garver <cody@elementary.io>  Mon, 06 Aug 2018 09:40:03 -0500
 
 ubuntu-meta (1.309) trusty; urgency=low
 

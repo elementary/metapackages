@@ -42,11 +42,17 @@ gtk-im-libthai
 gvfs-fuse
 hplip
 ibus
+ibus-chewing
 ibus-gtk
 ibus-gtk3
 ibus-hangul
+ibus-libpinyin
+ibus-m17n
 ibus-mozc
 ibus-table
+ibus-table-cangjie
+ibus-table-quick-classic
+ibus-table-wubi
 ibus-unikey
 im-config
 io.elementary.dpms-helper
