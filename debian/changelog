@@ -1,4 +1,4 @@
-elementary-meta (1.458) UNRELEASED; urgency=low
+elementary-meta (1.458) bionic; urgency=low
 
   [ Cody Garver ]
   * Refreshed dependencies
