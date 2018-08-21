@@ -1,3 +1,10 @@
+elementary-meta (1.459) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added gnome-control-center-faces to artwork-recommends
+
+ -- Cody Garver <cody@elementary.io>  Tue, 21 Aug 2018 08:59:08 -0500
+
 elementary-meta (1.458) bionic; urgency=low
 
   [ Cody Garver ]
