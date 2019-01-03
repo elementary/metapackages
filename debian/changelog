@@ -1,4 +1,4 @@
-elementary-meta (1.461) UNRELEASED; urgency=medium
+elementary-meta (1.462) UNRELEASED; urgency=medium
 
   * Refreshed dependencies
   * Added gnome-control-center-faces to artwork-recommends
@@ -6,8 +6,10 @@ elementary-meta (1.461) UNRELEASED; urgency=medium
   * Added sessioninstaller to desktop-recommends
   * Refreshed dependencies
   * Removed sessioninstaller from desktop-recommends
+  * Refreshed dependencies
+  * Added htop to desktop-recommends
 
- -- Cody Garver <cody@elementary.io>  Wed, 26 Sep 2018 20:29:11 -0500
+ -- Cody Garver <cody@elementary.io>  Thu, 03 Jan 2019 08:57:32 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
