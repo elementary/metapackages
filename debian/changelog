@@ -1,4 +1,4 @@
-elementary-meta (1.464) UNRELEASED; urgency=medium
+elementary-meta (1.465) UNRELEASED; urgency=medium
 
   * Refreshed dependencies
   * Added gnome-control-center-faces to artwork-recommends
@@ -25,8 +25,10 @@ elementary-meta (1.464) UNRELEASED; urgency=medium
   * Moved python3-debian to elementary-sdk-recommends
   * Refreshed dependencies
   * Added valadoc to elementary-sdk
+  * Refreshed dependencies
+  * Added libxml2-dev to elementary-sdk
 
- -- Cody Garver <cody@elementary.io>  Mon, 07 Jan 2019 09:41:26 +0000
+ -- Cody Garver <cody@elementary.io>  Thu, 24 Jan 2019 11:52:00 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
