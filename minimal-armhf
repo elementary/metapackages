@@ -6,6 +6,7 @@ console-setup
 debconf
 debconf-i18n
 eject
+flatpak
 init
 initramfs-tools
 iproute2
