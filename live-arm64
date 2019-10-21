@@ -1,7 +1,10 @@
+casper
 cifs-utils
+discover
 dmraid
 fwupdate-signed
 gparted
+os-prober
 reiserfsprogs
 ubiquity-frontend-gtk
 ubiquity-slideshow-elementary
