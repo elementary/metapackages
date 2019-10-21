@@ -1,5 +1,6 @@
-elementary-meta (1.467) UNRELEASED; urgency=medium
+elementary-meta (1.468) UNRELEASED; urgency=medium
 
+  [ Cody Garver ]
   * Refreshed dependencies
   * Added gnome-control-center-faces to artwork-recommends
   * Refreshed dependencies
@@ -32,7 +33,15 @@ elementary-meta (1.467) UNRELEASED; urgency=medium
   * Refreshed dependencies
   * Added io.elementary.onboarding to desktop-recommends
 
- -- Cody Garver <codygarver@gmail.com>  Tue, 06 Aug 2019 17:05:02 +0000
+  [ David Hewitt ]
+  * Refreshed dependencies
+  * Added casper to live
+  * Added discover to live
+  * Added io.elementary.sideload to pantheon-recommends
+  * Added os-prober to live
+  * Removed bcmwl-kernel-source from live [amd64]
+
+ -- elementary release team <builds@elementary.io>  Tue, 22 Oct 2019 00:17:29 +0100
 
 elementary-meta (1.458) bionic; urgency=low
 
