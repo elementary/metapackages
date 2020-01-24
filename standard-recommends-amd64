@@ -1,9 +1,7 @@
 apparmor
 bash-completion
-btrfs-tools
 command-not-found
 cryptsetup
-elementary-os-overlay
 friendly-recovery
 iputils-tracepath
 irqbalance
@@ -19,5 +17,4 @@ plymouth
 tcpdump
 telnet
 ufw
-ureadahead
 uuid-runtime

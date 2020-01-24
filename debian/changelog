@@ -1,4 +1,4 @@
-elementary-meta (1.468) UNRELEASED; urgency=medium
+elementary-meta (1.469) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -41,7 +41,35 @@ elementary-meta (1.468) UNRELEASED; urgency=medium
   * Added os-prober to live
   * Removed bcmwl-kernel-source from live [amd64]
 
- -- elementary release team <builds@elementary.io>  Tue, 22 Oct 2019 00:17:29 +0100
+  [ root ]
+  * Refreshed dependencies
+  * Added e2fsprogs to minimal
+  * Added fwupd-signed to live
+  * Added io.elementary.initial-setup to desktop-recommends
+  * Added io.elementary.notifications to pantheon-shell
+  * Added io.elementary.switchboard.wacom to desktop-recommends
+  * Added netplan.io to minimal
+  * Removed btrfs-tools from standard-recommends
+  * Removed elementary-os-overlay from standard-recommends
+  * Removed evolution-data-server-outlook from desktop-recommends
+  * Removed evolution-data-server-pantheon-online-accounts from desktop-
+    recommends
+  * Removed fwupdate-signed from live
+  * Removed geoclue-geonames from desktop-recommends
+  * Removed geoclue-gsmloc from desktop-recommends
+  * Removed geoclue-localnet from desktop-recommends
+  * Removed geoclue-nominatim from desktop-recommends
+  * Removed geoclue-skyhook from desktop-recommends
+  * Removed geoclue-ubuntu-geoip from desktop-recommends
+  * Removed geoclue-yahoo from desktop-recommends
+  * Removed gsignond-plugin-oauth from desktop-recommends
+  * Removed initramfs-tools from minimal
+  * Removed nplan from minimal
+  * Removed pantheon-mail from pantheon-recommends
+  * Removed ubiquity-slideshow-elementary from live
+  * Removed ureadahead from standard-recommends
+
+ -- root <root@abd8c5ad98a1>  Fri, 24 Jan 2020 16:07:59 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
