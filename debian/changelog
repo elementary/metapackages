@@ -1,4 +1,4 @@
-elementary-meta (1.470) UNRELEASED; urgency=medium
+elementary-meta (1.471) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -71,8 +71,12 @@ elementary-meta (1.470) UNRELEASED; urgency=medium
   * Refreshed dependencies
   * Removed ubiquity-frontend-gtk from live
   * Removed ubiquity-ubuntu-artwork from live
+  * Refreshed dependencies
+  * Added distinst to live [amd64]
+  * Added expect to live
+  * Added io.elementary.installer to live [amd64]
 
- -- root <root@eb42606a1857>  Fri, 24 Jan 2020 17:08:23 +0000
+ -- root <root@b0bf480d07bb>  Fri, 24 Jan 2020 17:38:11 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 

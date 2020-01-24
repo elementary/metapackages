@@ -2,6 +2,7 @@ casper
 cifs-utils
 discover
 dmraid
+expect
 fwupd-signed
 gparted
 os-prober
