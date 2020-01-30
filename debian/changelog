@@ -1,4 +1,4 @@
-elementary-meta (1.472) UNRELEASED; urgency=medium
+elementary-meta (1.473) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -77,8 +77,10 @@ elementary-meta (1.472) UNRELEASED; urgency=medium
   * Added io.elementary.installer to live [amd64]
   * Refreshed dependencies
   * Added geoclue-2.0 to desktop-recommends
+  * Refreshed dependencies
+  * Added io.elementary.tasks to pantheon-recommends
 
- -- root <root@f525661b1ab6>  Fri, 24 Jan 2020 18:42:05 +0000
+ -- root <root@ddd7752fdb66>  Thu, 30 Jan 2020 17:16:25 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
