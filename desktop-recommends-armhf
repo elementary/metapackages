@@ -64,6 +64,7 @@ io.elementary.dpms-helper
 io.elementary.initial-setup
 io.elementary.onboarding
 io.elementary.switchboard.wacom
+io.elementary.switchboard.wallet
 kerneloops
 language-pack-bg
 language-pack-ca
