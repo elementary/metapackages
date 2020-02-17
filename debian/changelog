@@ -1,4 +1,4 @@
-elementary-meta (1.475) UNRELEASED; urgency=medium
+elementary-meta (1.476) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -83,8 +83,11 @@ elementary-meta (1.475) UNRELEASED; urgency=medium
   * Added io.elementary.switchboard.wallet to desktop-recommends
   * Refreshed dependencies
   * Removed gnome-control-center-faces from artwork-recommends
+  * Refreshed dependencies
+  * Removed gnome-accessibility-themes from desktop-recommends
+  * Removed xcursor-themes from desktop-recommends
 
- -- root <root@b096fd886b19>  Mon, 17 Feb 2020 16:41:46 +0000
+ -- root <root@7060416a2260>  Mon, 17 Feb 2020 16:44:07 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
