@@ -1,4 +1,4 @@
-elementary-meta (1.477) UNRELEASED; urgency=medium
+elementary-meta (1.478) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -88,8 +88,10 @@ elementary-meta (1.477) UNRELEASED; urgency=medium
   * Removed xcursor-themes from desktop-recommends
   * Refreshed dependencies
   * Added fonts-inter to artwork-recommends
+  * Refreshed dependencies
+  * Added adwaita-icon-theme to artwork
 
- -- root <root@eac27eb0326a>  Mon, 17 Feb 2020 16:47:08 +0000
+ -- root <root@691b7adae625>  Tue, 18 Feb 2020 21:16:02 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
