@@ -1,4 +1,4 @@
-elementary-meta (1.479) UNRELEASED; urgency=medium
+elementary-meta (1.480) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -93,8 +93,11 @@ elementary-meta (1.479) UNRELEASED; urgency=medium
   * Refreshed dependencies
   * Added adwaita-icon-theme-full to artwork
   * Removed adwaita-icon-theme from artwork
+  * Refreshed dependencies
+  * Added switchboard-plug-useraccounts to desktop-recommends
+  * Removed switchboard-plug-users from desktop-recommends
 
- -- root <root@1d3e07de2d7b>  Wed, 19 Feb 2020 04:57:22 +0000
+ -- root <root@e6dd07ad48c2>  Tue, 03 Mar 2020 11:26:23 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
