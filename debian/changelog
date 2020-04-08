@@ -1,4 +1,4 @@
-elementary-meta (1.480) UNRELEASED; urgency=medium
+elementary-meta (1.481) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -96,8 +96,11 @@ elementary-meta (1.480) UNRELEASED; urgency=medium
   * Refreshed dependencies
   * Added switchboard-plug-useraccounts to desktop-recommends
   * Removed switchboard-plug-users from desktop-recommends
+  * Refreshed dependencies
+  * Added elementary-os-overlay to standard-recommends
+  * Added wingpanel-indicator-a11y to desktop-recommends
 
- -- root <root@e6dd07ad48c2>  Tue, 03 Mar 2020 11:26:23 +0000
+ -- root <root@e59be11750e0>  Wed, 08 Apr 2020 18:37:39 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
