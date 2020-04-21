@@ -1,4 +1,4 @@
-elementary-meta (1.481) UNRELEASED; urgency=medium
+elementary-meta (1.482) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -99,8 +99,10 @@ elementary-meta (1.481) UNRELEASED; urgency=medium
   * Refreshed dependencies
   * Added elementary-os-overlay to standard-recommends
   * Added wingpanel-indicator-a11y to desktop-recommends
+  * Refreshed dependencies
+  * Moved slingshot-launcher to pantheon-shell-recommends
 
- -- root <root@e59be11750e0>  Wed, 08 Apr 2020 18:37:39 +0000
+ -- root <root@4bc3e2dfb816>  Tue, 21 Apr 2020 18:27:56 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
