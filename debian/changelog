@@ -1,4 +1,4 @@
-elementary-meta (1.483) UNRELEASED; urgency=medium
+elementary-meta (1.484) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -103,8 +103,10 @@ elementary-meta (1.483) UNRELEASED; urgency=medium
   * Moved slingshot-launcher to pantheon-shell-recommends
   * Refreshed dependencies
   * Added io.elementary.mail to pantheon-recommends
+  * Refreshed dependencies
+  * Added io.elementary.stylesheet to artwork-recommends
 
- -- root <root@66a5bc261c3b>  Thu, 23 Apr 2020 18:42:17 +0000
+ -- root <root@bfbaa0b57b47>  Tue, 05 May 2020 19:47:09 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
