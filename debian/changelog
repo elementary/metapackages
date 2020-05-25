@@ -1,4 +1,4 @@
-elementary-meta (1.484) UNRELEASED; urgency=medium
+elementary-meta (1.485) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -105,8 +105,10 @@ elementary-meta (1.484) UNRELEASED; urgency=medium
   * Added io.elementary.mail to pantheon-recommends
   * Refreshed dependencies
   * Added io.elementary.stylesheet to artwork-recommends
+  * Refreshed dependencies
+  * Removed light-locker from desktop-recommends
 
- -- root <root@bfbaa0b57b47>  Tue, 05 May 2020 19:47:09 +0000
+ -- root <root@51369ab0c5ab>  Mon, 25 May 2020 17:29:30 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
