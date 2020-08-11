@@ -6,6 +6,7 @@ io.elementary.camera
 io.elementary.code
 io.elementary.mail
 io.elementary.print
+io.elementary.settings-daemon
 io.elementary.shortcut-overlay
 io.elementary.sideload
 io.elementary.tasks
