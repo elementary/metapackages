@@ -1,4 +1,4 @@
-elementary-meta (1.486) UNRELEASED; urgency=medium
+elementary-meta (1.487) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -109,8 +109,17 @@ elementary-meta (1.486) UNRELEASED; urgency=medium
   * Removed light-locker from desktop-recommends
   * Refreshed dependencies
   * Added io.elementary.settings-daemon to pantheon-recommends
+  * Refreshed dependencies
+  * Added io.elementary.calculator to pantheon-recommends
+  * Added io.elementary.screenshot to pantheon-recommends
+  * Added io.elementary.terminal to pantheon-recommends
+  * Added io.elementary.videos to pantheon-recommends
+  * Removed audience from pantheon-recommends
+  * Removed pantheon-calculator from pantheon-recommends
+  * Removed pantheon-terminal from pantheon-recommends
+  * Removed screenshot-tool from pantheon-recommends
 
- -- root <root@5f8728c26488>  Tue, 11 Aug 2020 21:05:30 +0000
+ -- root <root@f61c6d7ddb31>  Thu, 13 Aug 2020 17:00:53 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
