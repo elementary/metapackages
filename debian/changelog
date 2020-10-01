@@ -1,4 +1,4 @@
-elementary-meta (1.488) UNRELEASED; urgency=medium
+elementary-meta (1.489) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -120,8 +120,10 @@ elementary-meta (1.488) UNRELEASED; urgency=medium
   * Removed screenshot-tool from pantheon-recommends
   * Refreshed dependencies
   * Removed io.elementary.dpms-helper from desktop-recommends
+  * Refreshed dependencies
+  * Added mozc-utils-gui to desktop-recommends
 
- -- root <root@0d5a09914337>  Thu, 27 Aug 2020 16:09:01 +0000
+ -- root <root@02ff8212c077>  Thu, 01 Oct 2020 16:22:24 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
