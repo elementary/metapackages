@@ -1,4 +1,4 @@
-elementary-meta (1.490) UNRELEASED; urgency=medium
+elementary-meta (1.491) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -124,8 +124,10 @@ elementary-meta (1.490) UNRELEASED; urgency=medium
   * Added mozc-utils-gui to desktop-recommends
   * Refreshed dependencies
   * Added flatpak-builder to elementary-sdk
+  * Refreshed dependencies
+  * Removed epiphany-browser from pantheon-recommends
 
- -- root <root@45d21c6f8631>  Fri, 23 Oct 2020 18:12:44 +0000
+ -- root <root@8fdf6c61c178>  Thu, 05 Nov 2020 18:50:37 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
