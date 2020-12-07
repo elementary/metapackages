@@ -1,4 +1,4 @@
-elementary-meta (1.492) UNRELEASED; urgency=medium
+elementary-meta (1.493) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -128,8 +128,10 @@ elementary-meta (1.492) UNRELEASED; urgency=medium
   * Removed epiphany-browser from pantheon-recommends
   * Refreshed dependencies
   * Added touchegg to pantheon-shell
+  * Refreshed dependencies
+  * Removed io.elementary.switchboard.wallet from desktop-recommends
 
- -- root <root@b0216ab23b47>  Mon, 09 Nov 2020 22:34:41 +0000
+ -- root <root@c42be7af4c55>  Mon, 07 Dec 2020 23:08:21 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
