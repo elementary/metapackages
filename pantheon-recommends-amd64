@@ -5,6 +5,7 @@ epiphany-browser
 io.elementary.camera
 io.elementary.code
 io.elementary.print
+io.elementary.settings-daemon
 io.elementary.shortcut-overlay
 io.elementary.sideload
 maya-calendar
