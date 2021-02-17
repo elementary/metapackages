@@ -10,7 +10,6 @@ cups-bsd
 cups-client
 cups-filters
 elementary-default-settings
-elementary-os-prerelease
 elementary-printer-test-page
 evince
 file-roller
@@ -135,7 +134,6 @@ pantheon-agent-polkit
 pantheon-greeter
 pcmciautils
 plymouth-theme-elementary
-plymouth-theme-elementary-text
 policykit-desktop-privileges
 printer-driver-brlaser
 printer-driver-c2esp
