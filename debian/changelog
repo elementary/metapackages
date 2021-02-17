@@ -1,4 +1,4 @@
-elementary-meta (1.493) UNRELEASED; urgency=medium
+elementary-meta (1.494) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -130,8 +130,11 @@ elementary-meta (1.493) UNRELEASED; urgency=medium
   * Added touchegg to pantheon-shell
   * Refreshed dependencies
   * Removed io.elementary.switchboard.wallet from desktop-recommends
+  * Refreshed dependencies
+  * Added io.elementary.wingpanel to desktop-recommends
+  * Removed wingpanel from desktop-recommends
 
- -- root <root@c42be7af4c55>  Mon, 07 Dec 2020 23:08:21 +0000
+ -- root <root@622a27511774>  Wed, 17 Feb 2021 07:02:11 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 

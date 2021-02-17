@@ -63,6 +63,7 @@ im-config
 io.elementary.initial-setup
 io.elementary.onboarding
 io.elementary.switchboard.wacom
+io.elementary.wingpanel
 kerneloops
 language-pack-bg
 language-pack-ca
@@ -176,7 +177,6 @@ wcatalan
 wdanish
 wdutch
 wfrench
-wingpanel
 wingpanel-indicator-a11y
 wingpanel-indicator-bluetooth
 wingpanel-indicator-datetime
