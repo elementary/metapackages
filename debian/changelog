@@ -1,4 +1,4 @@
-elementary-meta (1.495) UNRELEASED; urgency=medium
+elementary-meta (1.496) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -138,8 +138,10 @@ elementary-meta (1.495) UNRELEASED; urgency=medium
   * Removed elementary-os-prerelease from desktop-recommends
   * Removed libwingpanel-2.0-dev from elementary-sdk
   * Removed plymouth-theme-elementary-text from desktop-recommends
+  * Refreshed dependencies
+  * Added io.elementary.contractor.file-roller to desktop-recommends
 
- -- root <root@e36e4d84db35>  Wed, 17 Feb 2021 12:39:34 +0000
+ -- root <root@107157f27518>  Mon, 08 Mar 2021 16:53:28 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
