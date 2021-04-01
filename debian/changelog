@@ -1,4 +1,4 @@
-elementary-meta (1.497) UNRELEASED; urgency=medium
+elementary-meta (1.498) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -143,8 +143,10 @@ elementary-meta (1.497) UNRELEASED; urgency=medium
   * Refreshed dependencies
   * Added io.elementary.wingpanel to pantheon-shell
   * Removed wingpanel from pantheon-shell
+  * Refreshed dependencies
+  * Removed elementary-theme from artwork
 
- -- root <root@20d2c51a4f68>  Tue, 30 Mar 2021 20:02:25 +0000
+ -- root <root@f265043cff8a>  Thu, 01 Apr 2021 18:58:50 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
