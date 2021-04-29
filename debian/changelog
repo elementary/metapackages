@@ -1,4 +1,4 @@
-elementary-meta (1.500) UNRELEASED; urgency=medium
+elementary-meta (1.501) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -149,8 +149,10 @@ elementary-meta (1.500) UNRELEASED; urgency=medium
   * Added libhandy-1-dev to elementary-sdk
   * Refreshed dependencies
   * Removed io.elementary.calculator from pantheon-recommends
+  * Refreshed dependencies
+  * Removed evince from desktop-recommends
 
- -- root <root@03a3e7757faa>  Tue, 20 Apr 2021 00:41:52 +0000
+ -- root <root@ebccba790624>  Thu, 29 Apr 2021 22:53:54 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
