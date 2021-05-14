@@ -1,4 +1,4 @@
-elementary-meta (1.503) UNRELEASED; urgency=medium
+elementary-meta (1.504) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -155,8 +155,11 @@ elementary-meta (1.503) UNRELEASED; urgency=medium
   * Removed io.elementary.screenshot from pantheon-recommends
   * Refreshed dependencies
   * Removed io.elementary.camera from pantheon-recommends
+  * Refreshed dependencies
+  * Removed io.elementary.mail from pantheon-recommends
+  * Removed io.elementary.tasks from pantheon-recommends
 
- -- root <root@3a42bc4c8a39>  Fri, 14 May 2021 16:55:04 +0000
+ -- root <root@946323f1e9ff>  Fri, 14 May 2021 19:55:11 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
