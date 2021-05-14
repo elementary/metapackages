@@ -1,4 +1,4 @@
-elementary-meta (1.502) UNRELEASED; urgency=medium
+elementary-meta (1.503) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -153,8 +153,10 @@ elementary-meta (1.502) UNRELEASED; urgency=medium
   * Removed evince from desktop-recommends
   * Refreshed dependencies
   * Removed io.elementary.screenshot from pantheon-recommends
+  * Refreshed dependencies
+  * Removed io.elementary.camera from pantheon-recommends
 
- -- root <root@1d7230fa84d8>  Mon, 03 May 2021 19:31:01 +0000
+ -- root <root@3a42bc4c8a39>  Fri, 14 May 2021 16:55:04 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
