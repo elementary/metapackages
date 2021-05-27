@@ -1,4 +1,4 @@
-elementary-meta (1.504) UNRELEASED; urgency=medium
+elementary-meta (1.505) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -158,8 +158,10 @@ elementary-meta (1.504) UNRELEASED; urgency=medium
   * Refreshed dependencies
   * Removed io.elementary.mail from pantheon-recommends
   * Removed io.elementary.tasks from pantheon-recommends
+  * Refreshed dependencies
+  * Removed gsignond-plugin-lastfm from desktop-recommends
 
- -- root <root@946323f1e9ff>  Fri, 14 May 2021 19:55:11 +0000
+ -- root <root@5f10fe7ea7b7>  Thu, 27 May 2021 22:21:02 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 

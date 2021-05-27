@@ -25,7 +25,6 @@ gnome-font-viewer
 gnome-power-manager
 gnome-session-bin
 gsignond
-gsignond-plugin-lastfm
 gtk-im-libthai
 gvfs-fuse
 hplip
