@@ -58,6 +58,7 @@ ibus-table-wubi
 ibus-unikey
 im-config
 io.elementary.contractor.file-roller
+io.elementary.greeter
 io.elementary.initial-setup
 io.elementary.onboarding
 io.elementary.switchboard.wacom
@@ -130,7 +131,6 @@ p7zip-full
 packagekit
 pantheon-agent-geoclue2
 pantheon-agent-polkit
-pantheon-greeter
 pcmciautils
 plymouth-theme-elementary
 policykit-desktop-privileges
