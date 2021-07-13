@@ -1,4 +1,4 @@
-elementary-meta (1.507) UNRELEASED; urgency=medium
+elementary-meta (1.508) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -165,8 +165,10 @@ elementary-meta (1.507) UNRELEASED; urgency=medium
   * Refreshed dependencies
   * Added io.elementary.greeter to desktop-recommends
   * Removed pantheon-greeter from desktop-recommends
+  * Refreshed dependencies
+  * Added vala-language-server to elementary-sdk-recommends
 
- -- root <root@6ac37bb586b8>  Wed, 16 Jun 2021 17:34:18 +0000
+ -- root <root@dd57fe9216a7>  Tue, 13 Jul 2021 18:11:31 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
