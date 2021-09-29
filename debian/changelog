@@ -1,4 +1,4 @@
-elementary-meta (1.509) UNRELEASED; urgency=medium
+elementary-meta (1.510) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -169,8 +169,10 @@ elementary-meta (1.509) UNRELEASED; urgency=medium
   * Added vala-language-server to elementary-sdk-recommends
   * Refreshed dependencies
   * Added io.elementary.tasks to pantheon-recommends
+  * Refreshed dependencies
+  * Added io.elementary.portals to pantheon-recommends
 
- -- root <root@afd2026ba2ad>  Tue, 31 Aug 2021 17:00:40 +0000
+ -- root <root@a37983ada354>  Wed, 29 Sep 2021 21:37:43 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
