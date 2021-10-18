@@ -1,4 +1,4 @@
-elementary-meta (1.510) UNRELEASED; urgency=medium
+elementary-meta (1.511) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -171,8 +171,10 @@ elementary-meta (1.510) UNRELEASED; urgency=medium
   * Added io.elementary.tasks to pantheon-recommends
   * Refreshed dependencies
   * Added io.elementary.portals to pantheon-recommends
+  * Refreshed dependencies
+  * Added io.elementary.screenshot to pantheon-recommends
 
- -- root <root@a37983ada354>  Wed, 29 Sep 2021 21:37:43 +0000
+ -- root <root@f3b0b4ebeb7c>  Mon, 18 Oct 2021 18:09:42 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
