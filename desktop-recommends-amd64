@@ -19,12 +19,13 @@ fonts-kacst-one
 fonts-noto-cjk
 fonts-sil-padauk
 fonts-ubuntu
+fwupd
+fwupd-signed
 geoclue-2.0
 gnome-bluetooth
 gnome-font-viewer
 gnome-power-manager
 gnome-session-bin
-gsignond
 gtk-im-libthai
 gvfs-fuse
 hplip

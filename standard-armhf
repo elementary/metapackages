@@ -1,8 +1,8 @@
+bind9-dnsutils
 busybox-static
 cpio
 cron
 dmidecode
-dnsutils
 dosfstools
 ed
 file
@@ -17,7 +17,7 @@ lshw
 lsof
 ltrace
 man-db
-mime-support
+media-types
 parted
 pciutils
 psmisc
@@ -26,3 +26,4 @@ strace
 time
 usbutils
 wget
+xz-utils

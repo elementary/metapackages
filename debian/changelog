@@ -1,4 +1,4 @@
-elementary-meta (1.511) UNRELEASED; urgency=medium
+elementary-meta (1.512) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -173,8 +173,32 @@ elementary-meta (1.511) UNRELEASED; urgency=medium
   * Added io.elementary.portals to pantheon-recommends
   * Refreshed dependencies
   * Added io.elementary.screenshot to pantheon-recommends
+  * Refreshed dependencies
+  * Added bind9-dnsutils to standard
+  * Added btrfs-progs to live
+  * Added fwupd to desktop-recommends
+  * Added fwupd-signed to desktop-recommends
+  * Added media-types to standard
+  * Added usrmerge to minimal-recommends
+  * Added xz-utils to standard
+  * Removed bzip2 from minimal
+  * Removed distinst from live [amd64]
+  * Removed dnsutils from standard
+  * Removed elementary-artwork from desktop
+  * Removed elementary-os-overlay from standard-recommends
+  * Removed fwupd-signed from live
+  * Removed genisoimage from desktop
+  * Removed gsignond from desktop-recommends
+  * Removed gvfs-bin from desktop
+  * Removed io.elementary.installer from live [amd64]
+  * Removed io.elementary.portals from pantheon-recommends
+  * Removed mime-support from standard
+  * Removed mlocate from standard-recommends
+  * Removed pantheon from desktop
+  * Removed pantheon-shell from pantheon-recommends
+  * Removed vala-language-server from elementary-sdk-recommends
 
- -- root <root@f3b0b4ebeb7c>  Mon, 18 Oct 2021 18:09:42 +0000
+ -- root <root@9c1f8fd69cfb>  Thu, 21 Oct 2021 17:59:58 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
