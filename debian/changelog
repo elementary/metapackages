@@ -1,4 +1,4 @@
-elementary-meta (1.512) UNRELEASED; urgency=medium
+elementary-meta (1.513) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -197,8 +197,14 @@ elementary-meta (1.512) UNRELEASED; urgency=medium
   * Removed pantheon from desktop
   * Removed pantheon-shell from pantheon-recommends
   * Removed vala-language-server from elementary-sdk-recommends
+  * Refreshed dependencies
+  * Added elementary-artwork to desktop
+  * Added elementary-os-overlay to standard-recommends
+  * Added io.elementary.portals to pantheon-recommends
+  * Added pantheon to desktop
+  * Added pantheon-shell to pantheon-recommends
 
- -- root <root@9c1f8fd69cfb>  Thu, 21 Oct 2021 17:59:58 +0000
+ -- root <root@b8424b55dbe1>  Thu, 21 Oct 2021 19:48:53 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 

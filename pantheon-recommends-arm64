@@ -2,6 +2,7 @@ appcenter
 contractor
 io.elementary.code
 io.elementary.mail
+io.elementary.portals
 io.elementary.print
 io.elementary.screenshot
 io.elementary.settings-daemon
@@ -14,3 +15,4 @@ maya-calendar
 noise
 pantheon-files
 pantheon-photos
+pantheon-shell
