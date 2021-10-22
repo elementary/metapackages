@@ -1,4 +1,4 @@
-elementary-meta (1.513) UNRELEASED; urgency=medium
+elementary-meta (1.514) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -203,8 +203,11 @@ elementary-meta (1.513) UNRELEASED; urgency=medium
   * Added io.elementary.portals to pantheon-recommends
   * Added pantheon to desktop
   * Added pantheon-shell to pantheon-recommends
+  * Refreshed dependencies
+  * Added distinst to live [amd64]
+  * Added io.elementary.installer to live [amd64]
 
- -- root <root@b8424b55dbe1>  Thu, 21 Oct 2021 19:48:53 +0000
+ -- root <root@e993adfb6c45>  Fri, 22 Oct 2021 09:46:23 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
