@@ -1,4 +1,4 @@
-elementary-meta (1.511) UNRELEASED; urgency=medium
+elementary-meta (1.512) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -173,8 +173,12 @@ elementary-meta (1.511) UNRELEASED; urgency=medium
   * Added io.elementary.portals to pantheon-recommends
   * Refreshed dependencies
   * Added io.elementary.screenshot to pantheon-recommends
+  * Refreshed dependencies
+  * Added org.gnome.fileroller to desktop-recommends
+  * Removed file-roller from desktop-recommends
+  * Removed io.elementary.contractor.file-roller from desktop-recommends
 
- -- root <root@f3b0b4ebeb7c>  Mon, 18 Oct 2021 18:09:42 +0000
+ -- root <root@b20c100da6c2>  Tue, 26 Oct 2021 21:01:22 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
