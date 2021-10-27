@@ -1,4 +1,4 @@
-elementary-meta (1.514) UNRELEASED; urgency=medium
+elementary-meta (1.515) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -206,8 +206,12 @@ elementary-meta (1.514) UNRELEASED; urgency=medium
   * Refreshed dependencies
   * Added distinst to live [amd64]
   * Added io.elementary.installer to live [amd64]
+  * Refreshed dependencies
+  * Added org.gnome.fileroller to desktop-recommends
+  * Removed file-roller from desktop-recommends
+  * Removed io.elementary.contractor.file-roller from desktop-recommends
 
- -- root <root@e993adfb6c45>  Fri, 22 Oct 2021 09:46:23 +0000
+ -- root <root@6b87f8fba0b5>  Wed, 27 Oct 2021 07:56:30 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
