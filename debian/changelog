@@ -1,4 +1,4 @@
-elementary-meta (1.516) UNRELEASED; urgency=medium
+elementary-meta (1.517) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -213,8 +213,11 @@ elementary-meta (1.516) UNRELEASED; urgency=medium
   * Refreshed dependencies
   * Added gtk-4-examples to elementary-sdk-recommends
   * Added libgtk-4-dev to elementary-sdk
+  * Refreshed dependencies
+  * Added io.elementary.music to pantheon-recommends
+  * Removed noise from pantheon-recommends
 
- -- root <root@cfff9b4aaf97>  Thu, 06 Jan 2022 18:51:28 +0000
+ -- root <root@85a66be8b6b1>  Fri, 21 Jan 2022 18:15:55 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
