@@ -9,3 +9,4 @@ gtk-4-examples
 io.elementary.code
 io.elementary.vala-lint
 python3-debian
+vala-language-server

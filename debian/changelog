@@ -1,4 +1,4 @@
-elementary-meta (1.517) UNRELEASED; urgency=medium
+elementary-meta (1.518) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -216,8 +216,14 @@ elementary-meta (1.517) UNRELEASED; urgency=medium
   * Refreshed dependencies
   * Added io.elementary.music to pantheon-recommends
   * Removed noise from pantheon-recommends
+  * Refreshed dependencies
+  * Added io.elementary.calculator to pantheon-recommends
+  * Added io.elementary.camera to pantheon-recommends
+  * Added org.gnome.epiphany to pantheon-recommends
+  * Added org.gnome.evince to pantheon-recommends
+  * Added vala-language-server to elementary-sdk-recommends
 
- -- root <root@85a66be8b6b1>  Fri, 21 Jan 2022 18:15:55 +0000
+ -- root <root@166064a8bad4>  Fri, 04 Nov 2022 19:05:40 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
