@@ -1,4 +1,4 @@
-elementary-meta (1.518) UNRELEASED; urgency=medium
+elementary-meta (1.519) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -222,8 +222,12 @@ elementary-meta (1.518) UNRELEASED; urgency=medium
   * Added org.gnome.epiphany to pantheon-recommends
   * Added org.gnome.evince to pantheon-recommends
   * Added vala-language-server to elementary-sdk-recommends
+  * Refreshed dependencies
+  * Added distinst to live [arm64]
+  * Added granite-7-demo to elementary-sdk-recommends
+  * Added libgranite-7-dev to elementary-sdk
 
- -- root <root@166064a8bad4>  Fri, 04 Nov 2022 19:05:40 +0000
+ -- root <root@37c5aa38b20f>  Wed, 22 Feb 2023 11:23:14 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
