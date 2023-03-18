@@ -7,7 +7,4 @@ granite-7-demo
 granite-demo
 gtk-3-examples
 gtk-4-examples
-io.elementary.code
-io.elementary.vala-lint
 python3-debian
-vala-language-server

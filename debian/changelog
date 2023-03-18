@@ -1,4 +1,4 @@
-elementary-meta (1.519) UNRELEASED; urgency=medium
+elementary-meta (1.520) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -226,8 +226,97 @@ elementary-meta (1.519) UNRELEASED; urgency=medium
   * Added distinst to live [arm64]
   * Added granite-7-demo to elementary-sdk-recommends
   * Added libgranite-7-dev to elementary-sdk
+  * Refreshed dependencies
+  * Removed acpi-support from desktop-recommends [amd64]
+  * Removed appcenter from pantheon-recommends
+  * Removed capnet-assist from desktop-recommends
+  * Removed contractor from pantheon-recommends
+  * Removed distinst from live [amd64 arm64]
+  * Removed elementary-artwork from desktop
+  * Removed elementary-default-settings from desktop-recommends
+  * Removed elementary-os-overlay from standard-recommends
+  * Removed elementary-printer-test-page from desktop-recommends
+  * Removed elementary-wallpapers from artwork-recommends
+  * Removed fonts-elementary-core from desktop-recommends
+  * Removed fonts-elementary-extra from artwork-recommends
+  * Removed fwupd-signed from desktop-recommends [armhf]
+  * Removed gala from pantheon-shell-recommends
+  * Removed io.elementary.calculator from pantheon-recommends
+  * Removed io.elementary.camera from pantheon-recommends
+  * Removed io.elementary.code from elementary-sdk-recommends, pantheon-
+    recommends
+  * Removed io.elementary.greeter from desktop-recommends
+  * Removed io.elementary.initial-setup from desktop-recommends
+  * Removed io.elementary.installer from live [amd64]
+  * Removed io.elementary.mail from pantheon-recommends
+  * Removed io.elementary.music from pantheon-recommends
+  * Removed io.elementary.notifications from pantheon-shell
+  * Removed io.elementary.onboarding from desktop-recommends
+  * Removed io.elementary.portals from pantheon-recommends
+  * Removed io.elementary.print from pantheon-recommends
+  * Removed io.elementary.screenshot from pantheon-recommends
+  * Removed io.elementary.settings-daemon from pantheon-recommends
+  * Removed io.elementary.shortcut-overlay from pantheon-recommends
+  * Removed io.elementary.sideload from pantheon-recommends
+  * Removed io.elementary.sound-theme from artwork-recommends
+  * Removed io.elementary.stylesheet from artwork-recommends
+  * Removed io.elementary.switchboard.wacom from desktop-recommends
+  * Removed io.elementary.tasks from pantheon-recommends
+  * Removed io.elementary.terminal from pantheon-recommends
+  * Removed io.elementary.vala-lint from elementary-sdk-recommends
+  * Removed io.elementary.videos from pantheon-recommends
+  * Removed io.elementary.wingpanel from desktop-recommends, pantheon-
+    shell
+  * Removed libgala-dev from elementary-sdk
+  * Removed libswitchboard-2.0-dev from elementary-sdk
+  * Removed libwingpanel-dev from elementary-sdk
+  * Removed maya-calendar from pantheon-recommends
+  * Removed org.gnome.epiphany from pantheon-recommends
+  * Removed org.gnome.evince from pantheon-recommends
+  * Removed org.gnome.fileroller from desktop-recommends
+  * Removed pantheon from desktop
+  * Removed pantheon-agent-geoclue2 from desktop-recommends
+  * Removed pantheon-agent-polkit from desktop-recommends
+  * Removed pantheon-files from pantheon-recommends
+  * Removed pantheon-photos from pantheon-recommends
+  * Removed pantheon-shell from pantheon-recommends
+  * Removed pantheon-xsession-settings from pantheon-shell
+  * Removed plymouth-theme-elementary from desktop-recommends
+  * Removed slingshot-launcher from pantheon-shell-recommends
+  * Removed switchboard from desktop-recommends
+  * Removed switchboard-plug-a11y from desktop-recommends
+  * Removed switchboard-plug-about from desktop-recommends
+  * Removed switchboard-plug-applications from desktop-recommends
+  * Removed switchboard-plug-bluetooth from desktop-recommends
+  * Removed switchboard-plug-datetime from desktop-recommends
+  * Removed switchboard-plug-display from desktop-recommends
+  * Removed switchboard-plug-keyboard from desktop-recommends
+  * Removed switchboard-plug-locale from desktop-recommends
+  * Removed switchboard-plug-mouse-touchpad from desktop-recommends
+  * Removed switchboard-plug-networking from desktop-recommends
+  * Removed switchboard-plug-notifications from desktop-recommends
+  * Removed switchboard-plug-online-accounts from desktop-recommends
+  * Removed switchboard-plug-pantheon-shell from desktop-recommends
+  * Removed switchboard-plug-parental-controls from desktop-recommends
+  * Removed switchboard-plug-power from desktop-recommends
+  * Removed switchboard-plug-printers from desktop-recommends
+  * Removed switchboard-plug-security-privacy from desktop-recommends
+  * Removed switchboard-plug-sharing from desktop-recommends
+  * Removed switchboard-plug-sound from desktop-recommends
+  * Removed switchboard-plug-useraccounts from desktop-recommends
+  * Removed vala-language-server from elementary-sdk-recommends
+  * Removed wingpanel-indicator-a11y from desktop-recommends
+  * Removed wingpanel-indicator-bluetooth from desktop-recommends
+  * Removed wingpanel-indicator-datetime from desktop-recommends
+  * Removed wingpanel-indicator-keyboard from desktop-recommends
+  * Removed wingpanel-indicator-network from desktop-recommends
+  * Removed wingpanel-indicator-nightlight from desktop-recommends
+  * Removed wingpanel-indicator-notifications from desktop-recommends
+  * Removed wingpanel-indicator-power from desktop-recommends
+  * Removed wingpanel-indicator-session from desktop-recommends
+  * Removed wingpanel-indicator-sound from desktop-recommends
 
- -- root <root@37c5aa38b20f>  Wed, 22 Feb 2023 11:23:14 +0000
+ -- root <root@0ba8f0d177ee>  Sat, 18 Mar 2023 16:33:42 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 

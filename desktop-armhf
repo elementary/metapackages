@@ -5,7 +5,6 @@ at-spi2-core
 bc
 ca-certificates
 doc-base
-elementary-artwork
 fonts-dejavu-core
 foomatic-db-compressed-ppds
 ghostscript-x
@@ -20,7 +19,6 @@ libnotify-bin
 libsasl2-modules
 libu2f-udev
 openprinting-ppds
-pantheon
 printer-driver-pnm2ppa
 pulseaudio
 rfkill
