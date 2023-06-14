@@ -1,4 +1,4 @@
-elementary-meta (1.521) UNRELEASED; urgency=medium
+elementary-meta (1.522) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -316,8 +316,85 @@ elementary-meta (1.521) UNRELEASED; urgency=medium
   * Removed wingpanel-indicator-power from desktop-recommends
   * Removed wingpanel-indicator-session from desktop-recommends
   * Removed wingpanel-indicator-sound from desktop-recommends
+  * Refreshed dependencies
+  * Added appcenter to pantheon-recommends
+  * Added elementary-artwork to desktop
+  * Added elementary-default-settings to desktop-recommends
+  * Added elementary-os-overlay to standard-recommends
+  * Added elementary-printer-test-page to desktop-recommends
+  * Added elementary-wallpapers to artwork-recommends
+  * Added fonts-elementary-core to desktop-recommends
+  * Added fonts-elementary-extra to artwork-recommends
+  * Added gala to pantheon-shell-recommends
+  * Added io.elementary.calculator to pantheon-recommends
+  * Added io.elementary.camera to pantheon-recommends
+  * Added io.elementary.code to elementary-sdk-recommends, pantheon-
+    recommends
+  * Added io.elementary.greeter to desktop-recommends
+  * Added io.elementary.initial-setup to desktop-recommends
+  * Added io.elementary.music to pantheon-recommends
+  * Added io.elementary.notifications to pantheon-shell
+  * Added io.elementary.onboarding to desktop-recommends
+  * Added io.elementary.portals to pantheon-recommends
+  * Added io.elementary.screenshot to pantheon-recommends
+  * Added io.elementary.settings-daemon to pantheon-recommends
+  * Added io.elementary.shortcut-overlay to pantheon-recommends
+  * Added io.elementary.sideload to pantheon-recommends
+  * Added io.elementary.sound-theme to artwork-recommends
+  * Added io.elementary.stylesheet to artwork-recommends
+  * Added io.elementary.switchboard.wacom to desktop-recommends
+  * Added io.elementary.tasks to pantheon-recommends
+  * Added io.elementary.terminal to pantheon-recommends
+  * Added io.elementary.vala-lint to elementary-sdk-recommends
+  * Added io.elementary.videos to pantheon-recommends
+  * Added io.elementary.wingpanel to desktop-recommends, pantheon-shell
+  * Added libgala-dev to elementary-sdk
+  * Added libswitchboard-2.0-dev to elementary-sdk
+  * Added libwingpanel-dev to elementary-sdk
+  * Added maya-calendar to pantheon-recommends
+  * Added org.gnome.epiphany to pantheon-recommends
+  * Added org.gnome.evince to pantheon-recommends
+  * Added org.gnome.fileroller to desktop-recommends
+  * Added pantheon to desktop
+  * Added pantheon-agent-polkit to desktop-recommends
+  * Added pantheon-files to pantheon-recommends
+  * Added pantheon-shell to pantheon-recommends
+  * Added pantheon-xsession-settings to pantheon-shell
+  * Added plymouth-theme-elementary to desktop-recommends
+  * Added slingshot-launcher to pantheon-shell-recommends
+  * Added switchboard to desktop-recommends
+  * Added switchboard-plug-a11y to desktop-recommends
+  * Added switchboard-plug-about to desktop-recommends
+  * Added switchboard-plug-applications to desktop-recommends
+  * Added switchboard-plug-bluetooth to desktop-recommends
+  * Added switchboard-plug-datetime to desktop-recommends
+  * Added switchboard-plug-display to desktop-recommends
+  * Added switchboard-plug-keyboard to desktop-recommends
+  * Added switchboard-plug-locale to desktop-recommends
+  * Added switchboard-plug-mouse-touchpad to desktop-recommends
+  * Added switchboard-plug-networking to desktop-recommends
+  * Added switchboard-plug-notifications to desktop-recommends
+  * Added switchboard-plug-online-accounts to desktop-recommends
+  * Added switchboard-plug-pantheon-shell to desktop-recommends
+  * Added switchboard-plug-parental-controls to desktop-recommends
+  * Added switchboard-plug-power to desktop-recommends
+  * Added switchboard-plug-printers to desktop-recommends
+  * Added switchboard-plug-security-privacy to desktop-recommends
+  * Added switchboard-plug-sharing to desktop-recommends
+  * Added switchboard-plug-sound to desktop-recommends
+  * Added switchboard-plug-useraccounts to desktop-recommends
+  * Added wingpanel-indicator-a11y to desktop-recommends
+  * Added wingpanel-indicator-bluetooth to desktop-recommends
+  * Added wingpanel-indicator-datetime to desktop-recommends
+  * Added wingpanel-indicator-keyboard to desktop-recommends
+  * Added wingpanel-indicator-network to desktop-recommends
+  * Added wingpanel-indicator-nightlight to desktop-recommends
+  * Added wingpanel-indicator-notifications to desktop-recommends
+  * Added wingpanel-indicator-power to desktop-recommends
+  * Added wingpanel-indicator-session to desktop-recommends
+  * Added wingpanel-indicator-sound to desktop-recommends
 
- -- root <root@4b444944abe6>  Thu, 25 May 2023 11:01:56 +0000
+ -- root <root@18cb1baa6ff9>  Wed, 14 Jun 2023 10:55:52 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
