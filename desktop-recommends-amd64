@@ -27,6 +27,8 @@ gnome-power-manager
 gnome-session-bin
 gtk-im-libthai
 gvfs-fuse
+heif-gdk-pixbuf
+heif-thumbnailer
 hplip
 htop
 hunspell-de-at-frami

@@ -1,4 +1,4 @@
-elementary-meta (1.520) UNRELEASED; urgency=medium
+elementary-meta (1.521) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -228,8 +228,11 @@ elementary-meta (1.520) UNRELEASED; urgency=medium
   * Added libgranite-7-dev to elementary-sdk
   * Refreshed dependencies
   * Removed pantheon-agent-geoclue2 from desktop-recommends
+  * Refreshed dependencies
+  * Added heif-gdk-pixbuf to desktop-recommends
+  * Added heif-thumbnailer to desktop-recommends
 
- -- root <root@ff3069d9c23f>  Tue, 09 May 2023 18:26:07 +0000
+ -- root <root@cea638500145>  Mon, 25 Sep 2023 17:56:40 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
