@@ -9,7 +9,6 @@ eject
 init
 iproute2
 iputils-ping
-isc-dhcp-client
 kbd
 kmod
 less
