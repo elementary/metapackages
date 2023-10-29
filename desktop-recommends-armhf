@@ -7,8 +7,11 @@ cups
 cups-bsd
 cups-client
 cups-filters
+elementary-default-settings
+elementary-printer-test-page
 fonts-arphic-ukai
 fonts-arphic-uming
+fonts-elementary-core
 fonts-kacst-one
 fonts-noto-cjk
 fonts-sil-padauk
@@ -53,6 +56,10 @@ ibus-table-quick-classic
 ibus-table-wubi
 ibus-unikey
 im-config
+io.elementary.greeter
+io.elementary.initial-setup
+io.elementary.onboarding
+io.elementary.wingpanel
 kerneloops
 language-pack-bg
 language-pack-ca
@@ -132,6 +139,7 @@ printer-driver-sag-gdi
 printer-driver-splix
 pulseaudio-module-bluetooth
 speech-dispatcher
+switchboard
 wamerican
 wbrazilian
 wbritish
@@ -140,6 +148,7 @@ wcatalan
 wdanish
 wdutch
 wfrench
+wingpanel-indicator-session
 witalian
 wngerman
 wnorwegian
