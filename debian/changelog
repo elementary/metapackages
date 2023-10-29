@@ -1,4 +1,4 @@
-elementary-meta (1.524) UNRELEASED; urgency=medium
+elementary-meta (1.525) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -355,8 +355,10 @@ elementary-meta (1.524) UNRELEASED; urgency=medium
   * Added nftables to standard
   * Removed ltrace from standard
   * Moved iptables to standard-recommends
+  * Refreshed dependencies
+  * Added wingpanel-indicator-power to desktop-recommends
 
- -- root <root@d5daa246cbf7>  Sun, 29 Oct 2023 09:53:28 +0000
+ -- root <root@42b5495b53da>  Sun, 29 Oct 2023 10:09:30 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
