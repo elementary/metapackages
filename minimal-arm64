@@ -4,6 +4,7 @@ apt-utils
 console-setup
 debconf
 debconf-i18n
+dhcpcd-base
 e2fsprogs
 eject
 init

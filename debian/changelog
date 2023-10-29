@@ -1,4 +1,4 @@
-elementary-meta (1.523) UNRELEASED; urgency=medium
+elementary-meta (1.524) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -347,8 +347,16 @@ elementary-meta (1.523) UNRELEASED; urgency=medium
   * Added pantheon-xsession-settings to pantheon-shell
   * Added switchboard to desktop-recommends
   * Added wingpanel-indicator-session to desktop-recommends
+  * Refreshed dependencies
+  * Added dhcpcd-base to minimal
+  * Added fontconfig to desktop
+  * Added fonts-noto-color-emoji to desktop-recommends
+  * Added fonts-noto-core to desktop-recommends
+  * Added nftables to standard
+  * Removed ltrace from standard
+  * Moved iptables to standard-recommends
 
- -- root <root@9e65faa4d870>  Sun, 29 Oct 2023 09:22:28 +0000
+ -- root <root@d5daa246cbf7>  Sun, 29 Oct 2023 09:53:28 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 

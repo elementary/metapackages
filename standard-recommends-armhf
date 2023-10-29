@@ -4,6 +4,7 @@ command-not-found
 cryptsetup
 elementary-os-overlay
 friendly-recovery
+iptables
 iputils-tracepath
 irqbalance
 jfsutils
