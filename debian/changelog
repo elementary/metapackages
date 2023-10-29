@@ -1,4 +1,4 @@
-elementary-meta (1.525) UNRELEASED; urgency=medium
+elementary-meta (1.526) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -357,8 +357,19 @@ elementary-meta (1.525) UNRELEASED; urgency=medium
   * Moved iptables to standard-recommends
   * Refreshed dependencies
   * Added wingpanel-indicator-power to desktop-recommends
+  * Refreshed dependencies
+  * Added appcenter to pantheon-recommends
+  * Added pantheon-agent-polkit to desktop-recommends
+  * Added wingpanel-indicator-a11y to desktop-recommends
+  * Added wingpanel-indicator-bluetooth to desktop-recommends
+  * Added wingpanel-indicator-datetime to desktop-recommends
+  * Added wingpanel-indicator-keyboard to desktop-recommends
+  * Added wingpanel-indicator-network to desktop-recommends
+  * Added wingpanel-indicator-nightlight to desktop-recommends
+  * Added wingpanel-indicator-notifications to desktop-recommends
+  * Added wingpanel-indicator-sound to desktop-recommends
 
- -- root <root@42b5495b53da>  Sun, 29 Oct 2023 10:09:30 +0000
+ -- root <root@4d89b4f39f57>  Sun, 29 Oct 2023 21:29:06 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 

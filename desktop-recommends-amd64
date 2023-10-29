@@ -129,6 +129,7 @@ network-manager-pptp-gnome
 orca
 p7zip-full
 packagekit
+pantheon-agent-polkit
 pcmciautils
 policykit-desktop-privileges
 printer-driver-brlaser
@@ -151,8 +152,16 @@ wcatalan
 wdanish
 wdutch
 wfrench
+wingpanel-indicator-a11y
+wingpanel-indicator-bluetooth
+wingpanel-indicator-datetime
+wingpanel-indicator-keyboard
+wingpanel-indicator-network
+wingpanel-indicator-nightlight
+wingpanel-indicator-notifications
 wingpanel-indicator-power
 wingpanel-indicator-session
+wingpanel-indicator-sound
 witalian
 wngerman
 wnorwegian
