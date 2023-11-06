@@ -1,4 +1,4 @@
-elementary-meta (1.526) UNRELEASED; urgency=medium
+elementary-meta (1.527) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -368,8 +368,13 @@ elementary-meta (1.526) UNRELEASED; urgency=medium
   * Added wingpanel-indicator-nightlight to desktop-recommends
   * Added wingpanel-indicator-notifications to desktop-recommends
   * Added wingpanel-indicator-sound to desktop-recommends
+  * Refreshed dependencies
+  * Added io.elementary.code to elementary-sdk-recommends, pantheon-
+    recommends
+  * Added io.elementary.sideload to pantheon-recommends
+  * Added pantheon-files to pantheon-recommends
 
- -- root <root@4d89b4f39f57>  Sun, 29 Oct 2023 21:29:06 +0000
+ -- root <root@6d2a40eadf8d>  Mon, 06 Nov 2023 19:25:50 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
