@@ -3,6 +3,7 @@ avahi-daemon
 bluez
 bluez-cups
 brltty
+capnet-assist
 cups
 cups-bsd
 cups-client
@@ -127,10 +128,12 @@ network-manager
 network-manager-config-connectivity-ubuntu
 network-manager-pptp-gnome
 orca
+org.gnome.fileroller
 p7zip-full
 packagekit
 pantheon-agent-polkit
 pcmciautils
+plymouth-theme-elementary
 policykit-desktop-privileges
 printer-driver-brlaser
 printer-driver-c2esp

@@ -1,4 +1,4 @@
-elementary-meta (1.527) UNRELEASED; urgency=medium
+elementary-meta (1.528) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -373,8 +373,25 @@ elementary-meta (1.527) UNRELEASED; urgency=medium
     recommends
   * Added io.elementary.sideload to pantheon-recommends
   * Added pantheon-files to pantheon-recommends
+  * Refreshed dependencies
+  * Added capnet-assist to desktop-recommends
+  * Added io.elementary.calculator to pantheon-recommends
+  * Added io.elementary.camera to pantheon-recommends
+  * Added io.elementary.music to pantheon-recommends
+  * Added io.elementary.screenshot to pantheon-recommends
+  * Added io.elementary.settings-daemon to pantheon-recommends
+  * Added io.elementary.shortcut-overlay to pantheon-recommends
+  * Added io.elementary.tasks to pantheon-recommends
+  * Added io.elementary.terminal to pantheon-recommends [amd64 arm64]
+  * Added io.elementary.videos to pantheon-recommends
+  * Added org.gnome.epiphany to pantheon-recommends
+  * Added org.gnome.evince to pantheon-recommends
+  * Added org.gnome.fileroller to desktop-recommends
+  * Added pantheon-photos to pantheon-recommends
+  * Added plymouth-theme-elementary to desktop-recommends
+  * Removed libplank-dev from elementary-sdk
 
- -- root <root@6d2a40eadf8d>  Mon, 06 Nov 2023 19:25:50 +0000
+ -- root <root@9170da9ded23>  Tue, 07 Nov 2023 19:07:45 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
