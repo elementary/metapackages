@@ -1,4 +1,4 @@
-elementary-meta (1.528) UNRELEASED; urgency=medium
+elementary-meta (1.529) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -390,8 +390,13 @@ elementary-meta (1.528) UNRELEASED; urgency=medium
   * Added pantheon-photos to pantheon-recommends
   * Added plymouth-theme-elementary to desktop-recommends
   * Removed libplank-dev from elementary-sdk
+  * Refreshed dependencies
+  * Added io.elementary.dock to pantheon-shell
+  * Added io.elementary.mail to pantheon-recommends
+  * Removed plank from pantheon-shell-recommends
+  * Moved gala to pantheon-shell
 
- -- root <root@9170da9ded23>  Tue, 07 Nov 2023 19:07:45 +0000
+ -- root <root@84fd7c0616aa>  Fri, 10 Nov 2023 05:13:11 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
