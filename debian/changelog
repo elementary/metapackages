@@ -1,4 +1,4 @@
-elementary-meta (1.529) UNRELEASED; urgency=medium
+elementary-meta (1.530) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -395,8 +395,12 @@ elementary-meta (1.529) UNRELEASED; urgency=medium
   * Added io.elementary.mail to pantheon-recommends
   * Removed plank from pantheon-shell-recommends
   * Moved gala to pantheon-shell
+  * Refreshed dependencies
+  * Added distinst to live
+  * Added io.elementary.installer to live [amd64]
+  * Added io.elementary.print to pantheon-recommends
 
- -- root <root@84fd7c0616aa>  Fri, 10 Nov 2023 05:13:11 +0000
+ -- root <root@cb434d16fc76>  Fri, 10 Nov 2023 14:43:51 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
