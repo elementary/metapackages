@@ -1,4 +1,4 @@
-elementary-meta (1.530) UNRELEASED; urgency=medium
+elementary-meta (1.531) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -399,8 +399,16 @@ elementary-meta (1.530) UNRELEASED; urgency=medium
   * Added distinst to live
   * Added io.elementary.installer to live [amd64]
   * Added io.elementary.print to pantheon-recommends
+  * Refreshed dependencies
+  * Added io.elementary.settings to desktop-recommends
+  * Added io.elementary.settings-mouse-touchpad to desktop-recommends
+  * Added io.elementary.settings.datetime to desktop-recommends
+  * Added io.elementary.settings.locale to desktop-recommends
+  * Added io.elementary.settings.notifications to desktop-recommends
+  * Added io.elementary.settings.sharing to desktop-recommends
+  * Added io.elementary.settings.sound to desktop-recommends
 
- -- root <root@cb434d16fc76>  Fri, 10 Nov 2023 14:43:51 +0000
+ -- root <root@acfed239061b>  Fri, 17 Nov 2023 17:55:37 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 

@@ -63,6 +63,13 @@ im-config
 io.elementary.greeter
 io.elementary.initial-setup
 io.elementary.onboarding
+io.elementary.settings
+io.elementary.settings-mouse-touchpad
+io.elementary.settings.datetime
+io.elementary.settings.locale
+io.elementary.settings.notifications
+io.elementary.settings.sharing
+io.elementary.settings.sound
 io.elementary.wingpanel
 kerneloops
 language-pack-bg
