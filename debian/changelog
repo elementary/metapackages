@@ -1,4 +1,4 @@
-elementary-meta (1.531) UNRELEASED; urgency=medium
+elementary-meta (1.532) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -407,8 +407,10 @@ elementary-meta (1.531) UNRELEASED; urgency=medium
   * Added io.elementary.settings.notifications to desktop-recommends
   * Added io.elementary.settings.sharing to desktop-recommends
   * Added io.elementary.settings.sound to desktop-recommends
+  * Refreshed dependencies
+  * Added io.elementary.settings.applications to desktop-recommends
 
- -- root <root@acfed239061b>  Fri, 17 Nov 2023 17:55:37 +0000
+ -- root <root@516ec010f41a>  Wed, 06 Dec 2023 16:51:36 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 

@@ -64,6 +64,7 @@ io.elementary.initial-setup
 io.elementary.onboarding
 io.elementary.settings
 io.elementary.settings-mouse-touchpad
+io.elementary.settings.applications
 io.elementary.settings.datetime
 io.elementary.settings.locale
 io.elementary.settings.notifications
