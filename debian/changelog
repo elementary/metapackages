@@ -1,4 +1,4 @@
-elementary-meta (1.532) UNRELEASED; urgency=medium
+elementary-meta (1.533) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -409,8 +409,15 @@ elementary-meta (1.532) UNRELEASED; urgency=medium
   * Added io.elementary.settings.sound to desktop-recommends
   * Refreshed dependencies
   * Added io.elementary.settings.applications to desktop-recommends
+  * Refreshed dependencies
+  * Added ghostscript to desktop
+  * Added io.elementary.settings-bluetooth to desktop-recommends
+  * Added io.elementary.settings.onlineaccounts to desktop-recommends
+  * Added io.elementary.settings.system to desktop-recommends
+  * Added slingshot-launcher to pantheon-shell-recommends
+  * Removed ghostscript-x from desktop
 
- -- root <root@516ec010f41a>  Wed, 06 Dec 2023 16:51:36 +0000
+ -- root <root@72e1bfd52d32>  Sat, 30 Dec 2023 02:25:30 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 

@@ -9,7 +9,7 @@ elementary-artwork
 fontconfig
 fonts-dejavu-core
 foomatic-db-compressed-ppds
-ghostscript-x
+ghostscript
 gnome-menus
 gstreamer1.0-alsa
 gstreamer1.0-packagekit
