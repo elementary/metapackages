@@ -74,6 +74,7 @@ io.elementary.settings.onlineaccounts
 io.elementary.settings.sharing
 io.elementary.settings.sound
 io.elementary.settings.system
+io.elementary.settings.useraccounts
 io.elementary.wingpanel
 kerneloops
 language-pack-bg
