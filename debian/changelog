@@ -1,4 +1,4 @@
-elementary-meta (1.534) UNRELEASED; urgency=medium
+elementary-meta (1.535) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -418,8 +418,10 @@ elementary-meta (1.534) UNRELEASED; urgency=medium
   * Removed ghostscript-x from desktop
   * Refreshed dependencies
   * Added io.elementary.settings.useraccounts to desktop-recommends
+  * Refreshed dependencies
+  * Added io.elementary.settings.screentime-limits to desktop-recommends
 
- -- root <root@18a1dc32116c>  Sat, 06 Jan 2024 04:48:40 +0000
+ -- root <root@66847e7a2707>  Sun, 07 Jan 2024 07:01:15 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 

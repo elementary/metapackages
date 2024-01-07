@@ -71,6 +71,7 @@ io.elementary.settings.datetime
 io.elementary.settings.locale
 io.elementary.settings.notifications
 io.elementary.settings.onlineaccounts
+io.elementary.settings.screentime-limits
 io.elementary.settings.sharing
 io.elementary.settings.sound
 io.elementary.settings.system
