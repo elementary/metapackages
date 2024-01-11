@@ -1,4 +1,4 @@
-elementary-meta (1.535) UNRELEASED; urgency=medium
+elementary-meta (1.536) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -420,8 +420,10 @@ elementary-meta (1.535) UNRELEASED; urgency=medium
   * Added io.elementary.settings.useraccounts to desktop-recommends
   * Refreshed dependencies
   * Added io.elementary.settings.screentime-limits to desktop-recommends
+  * Refreshed dependencies
+  * Added io.elementary.settings.security-privacy to desktop-recommends
 
- -- root <root@66847e7a2707>  Sun, 07 Jan 2024 07:01:15 +0000
+ -- root <root@7383acb54727>  Thu, 11 Jan 2024 05:56:08 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
