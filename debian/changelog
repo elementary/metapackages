@@ -1,4 +1,4 @@
-elementary-meta (1.538) UNRELEASED; urgency=medium
+elementary-meta (1.539) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -426,8 +426,11 @@ elementary-meta (1.538) UNRELEASED; urgency=medium
   * Added io.elementary.settings.desktop to desktop-recommends
   * Refreshed dependencies
   * Added io.elementary.settings.keyboard to desktop-recommends
+  * Refreshed dependencies
+  * Added io.elementary.settings.power to desktop-recommends
+  * Added systemd-coredump to desktop-recommends
 
- -- root <root@cd2a8a9d7614>  Fri, 19 Jan 2024 00:39:15 +0000
+ -- root <root@67e7d704653b>  Sat, 27 Jan 2024 17:16:49 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
