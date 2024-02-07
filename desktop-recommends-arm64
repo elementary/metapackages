@@ -74,6 +74,7 @@ io.elementary.settings.locale
 io.elementary.settings.notifications
 io.elementary.settings.onlineaccounts
 io.elementary.settings.power
+io.elementary.settings.printers
 io.elementary.settings.screentime-limits
 io.elementary.settings.security-privacy
 io.elementary.settings.sharing
