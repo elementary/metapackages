@@ -1,4 +1,4 @@
-elementary-meta (1.542) UNRELEASED; urgency=medium
+elementary-meta (1.543) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -436,8 +436,11 @@ elementary-meta (1.542) UNRELEASED; urgency=medium
   * Removed zenity from desktop
   * Refreshed dependencies
   * Added io.elementary.settings.printers to desktop-recommends
+  * Refreshed dependencies
+  * Added io.elementary.settings.network to desktop-recommends
+  * Removed switchboard from desktop-recommends
 
- -- root <root@d6f258cb9804>  Wed, 07 Feb 2024 21:55:56 +0000
+ -- root <root@f961a71195b4>  Sat, 10 Feb 2024 03:03:20 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 

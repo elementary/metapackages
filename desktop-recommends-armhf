@@ -70,6 +70,7 @@ io.elementary.settings.datetime
 io.elementary.settings.desktop
 io.elementary.settings.keyboard
 io.elementary.settings.locale
+io.elementary.settings.network
 io.elementary.settings.notifications
 io.elementary.settings.onlineaccounts
 io.elementary.settings.power
@@ -163,7 +164,6 @@ printer-driver-sag-gdi
 printer-driver-splix
 pulseaudio-module-bluetooth
 speech-dispatcher
-switchboard
 systemd-coredump
 wamerican
 wbrazilian
