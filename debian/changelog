@@ -1,4 +1,4 @@
-elementary-meta (1.544) UNRELEASED; urgency=medium
+elementary-meta (1.545) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -443,8 +443,13 @@ elementary-meta (1.544) UNRELEASED; urgency=medium
   * Added adwaita-icon-theme to artwork
   * Added io.elementary.settings.display to desktop-recommends [amd64]
   * Removed adwaita-icon-theme-full from artwork
+  * Refreshed dependencies
+  * Added contractor to pantheon-recommends
+  * Added io.elementary.settings.display to desktop-recommends [arm64
+    armhf]
+  * Added io.elementary.settings.wacom to desktop-recommends [amd64]
 
- -- root <root@5e1f43dad087>  Fri, 01 Mar 2024 01:08:18 +0000
+ -- root <root@5091a8525ec0>  Wed, 13 Mar 2024 23:19:20 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 

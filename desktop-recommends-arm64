@@ -69,6 +69,7 @@ io.elementary.settings-mouse-touchpad
 io.elementary.settings.applications
 io.elementary.settings.datetime
 io.elementary.settings.desktop
+io.elementary.settings.display
 io.elementary.settings.keyboard
 io.elementary.settings.locale
 io.elementary.settings.network
