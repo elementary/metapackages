@@ -1,4 +1,4 @@
-elementary-meta (1.545) UNRELEASED; urgency=medium
+elementary-meta (1.546) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -448,8 +448,18 @@ elementary-meta (1.545) UNRELEASED; urgency=medium
   * Added io.elementary.settings.display to desktop-recommends [arm64
     armhf]
   * Added io.elementary.settings.wacom to desktop-recommends [amd64]
+  * Refreshed dependencies
+  * Added io.elementary.quick-settings to desktop-recommends
+  * Added io.elementary.settings.wacom to desktop-recommends [arm64
+    armhf]
+  * Added vala-language-server to elementary-sdk-recommends
+  * Removed gdb from elementary-sdk-recommends [amd64]
+  * Removed printer-driver-c2esp from desktop-recommends [amd64]
+  * Removed ubuntu-advantage-tools from minimal
+  * Removed wingpanel-indicator-a11y from desktop-recommends
+  * Removed wingpanel-indicator-session from desktop-recommends
 
- -- root <root@5091a8525ec0>  Wed, 13 Mar 2024 23:19:20 +0000
+ -- root <root@90575b2c562e>  Sun, 07 Apr 2024 18:54:24 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 

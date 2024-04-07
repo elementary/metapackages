@@ -63,6 +63,7 @@ im-config
 io.elementary.greeter
 io.elementary.initial-setup
 io.elementary.onboarding
+io.elementary.quick-settings
 io.elementary.settings
 io.elementary.settings-bluetooth
 io.elementary.settings-mouse-touchpad
@@ -157,7 +158,6 @@ pcmciautils
 plymouth-theme-elementary
 policykit-desktop-privileges
 printer-driver-brlaser
-printer-driver-c2esp
 printer-driver-foo2zjs
 printer-driver-m2300w
 printer-driver-min12xxw
@@ -176,7 +176,6 @@ wcatalan
 wdanish
 wdutch
 wfrench
-wingpanel-indicator-a11y
 wingpanel-indicator-bluetooth
 wingpanel-indicator-datetime
 wingpanel-indicator-keyboard
@@ -184,7 +183,6 @@ wingpanel-indicator-network
 wingpanel-indicator-nightlight
 wingpanel-indicator-notifications
 wingpanel-indicator-power
-wingpanel-indicator-session
 wingpanel-indicator-sound
 witalian
 wngerman
