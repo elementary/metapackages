@@ -22,8 +22,6 @@ fonts-ubuntu
 fwupd
 fwupd-signed
 geoclue-2.0
-gnome-bluetooth
-gnome-font-viewer
 gnome-power-manager
 gnome-session-bin
 gtk-im-libthai
@@ -60,6 +58,7 @@ ibus-table-quick-classic
 ibus-table-wubi
 ibus-unikey
 im-config
+io.elementary.bluetooth-daemon
 io.elementary.greeter
 io.elementary.initial-setup
 io.elementary.onboarding
@@ -151,6 +150,7 @@ network-manager-config-connectivity-ubuntu
 network-manager-pptp-gnome
 orca
 org.gnome.fileroller
+org.gnome.font-viewer
 p7zip-full
 packagekit
 pantheon-agent-polkit
