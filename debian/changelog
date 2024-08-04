@@ -1,4 +1,4 @@
-elementary-meta (1.547) UNRELEASED; urgency=medium
+elementary-meta (1.548) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -465,8 +465,11 @@ elementary-meta (1.547) UNRELEASED; urgency=medium
   * Added printer-driver-c2esp to desktop-recommends [amd64]
   * Removed gnome-bluetooth from desktop-recommends
   * Removed gnome-font-viewer from desktop-recommends
+  * Refreshed dependencies
+  * Added io.elementary.settings.bluetooth to desktop-recommends
+  * Removed io.elementary.settings-bluetooth from desktop-recommends
 
- -- root <root@f19c153ac59c>  Sat, 03 Aug 2024 15:39:08 +0000
+ -- root <root@d77cf3ce6b2e>  Sun, 04 Aug 2024 15:59:13 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
