@@ -1,4 +1,4 @@
-elementary-meta (1.550) UNRELEASED; urgency=medium
+elementary-meta (1.551) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -474,8 +474,10 @@ elementary-meta (1.550) UNRELEASED; urgency=medium
   * Refreshed dependencies
   * Added io.elementary.settings.mouse-touchpad to desktop-recommends
   * Removed libswitchboard-2.0-dev from elementary-sdk
+  * Refreshed dependencies
+  * Added io.elementary.vala-lint to elementary-sdk-recommends
 
- -- root <root@6cd57f36fa22>  Thu, 08 Aug 2024 23:31:22 +0000
+ -- root <root@2989b1236c83>  Tue, 03 Sep 2024 18:17:55 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
