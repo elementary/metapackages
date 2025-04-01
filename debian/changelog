@@ -1,4 +1,4 @@
-elementary-meta (1.553) UNRELEASED; urgency=medium
+elementary-meta (1.554) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -481,8 +481,10 @@ elementary-meta (1.553) UNRELEASED; urgency=medium
   * Removed pulseaudio-module-bluetooth from desktop-recommends
   * Refreshed dependencies
   * Added apparmor-profiles to live
+  * Refreshed dependencies
+  * Added io.elementary.monitor to pantheon-recommends [amd64 arm64]
 
- -- root <root@4226b2e1ab31>  Wed, 20 Nov 2024 22:03:26 +0000
+ -- root <root@fb4e00a0b226>  Tue, 01 Apr 2025 22:29:02 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
