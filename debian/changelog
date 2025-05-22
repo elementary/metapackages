@@ -1,4 +1,4 @@
-elementary-meta (1.554) UNRELEASED; urgency=medium
+elementary-meta (1.555) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -483,8 +483,11 @@ elementary-meta (1.554) UNRELEASED; urgency=medium
   * Added apparmor-profiles to live
   * Refreshed dependencies
   * Added io.elementary.monitor to pantheon-recommends [amd64 arm64]
+  * Refreshed dependencies
+  * Added io.elementary.installer to live [arm64]
+  * Added io.elementary.monitor to pantheon-recommends [armhf]
 
- -- root <root@fb4e00a0b226>  Tue, 01 Apr 2025 22:29:02 +0000
+ -- root <root@5fa267ba24b2>  Thu, 22 May 2025 16:09:12 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 

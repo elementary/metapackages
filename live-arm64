@@ -7,6 +7,7 @@ distinst
 dmraid
 expect
 gparted
+io.elementary.installer
 os-prober
 reiserfsprogs
 wamerican
