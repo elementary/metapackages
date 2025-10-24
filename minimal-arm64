@@ -1,6 +1,5 @@
 adduser
 apt
-apt-utils
 console-setup
 debconf
 debconf-i18n
@@ -14,6 +13,7 @@ kbd
 kmod
 less
 locales
+login
 lsb-release
 mawk
 mount
