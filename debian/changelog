@@ -1,4 +1,4 @@
-elementary-meta (1.558) UNRELEASED; urgency=medium
+elementary-meta (1.559) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -589,8 +589,33 @@ elementary-meta (1.558) UNRELEASED; urgency=medium
   * Removed wingpanel-indicator-power from desktop-recommends
   * Removed wingpanel-indicator-sound from desktop-recommends
   * Removed wireless-tools from desktop
+  * Refreshed dependencies
+  * Added 7zip to desktop-recommends
+  * Added bsdutils to minimal
+  * Added elementary-artwork to desktop
+  * Added elementary-default-settings to desktop-recommends
+  * Added elementary-os-overlay to standard-recommends
+  * Added elementary-printer-test-page to desktop-recommends
+  * Added elementary-wallpapers to artwork-recommends
+  * Added gala to pantheon-shell
+  * Added io.elementary.mail to pantheon-recommends [amd64 arm64]
+  * Added io.elementary.notifications to pantheon-shell
+  * Added io.elementary.settings to desktop-recommends
+  * Added io.elementary.sideload to pantheon-recommends
+  * Added io.elementary.stylesheet to artwork-recommends
+  * Added io.elementary.wingpanel to desktop-recommends, pantheon-shell
+  * Added libgala-dev to elementary-sdk
+  * Added libswitchboard-3-dev to elementary-sdk
+  * Added libwingpanel-dev to elementary-sdk
+  * Added pantheon to desktop
+  * Added pantheon-shell to pantheon-recommends
+  * Removed ibus-mozc from desktop-recommends
+  * Removed mozc-utils-gui from desktop-recommends
+  * Removed p7zip-full from desktop-recommends
+  * Removed reiserfsprogs from live
+  * Removed touchegg from pantheon-shell
 
- -- root <root@14233b41f5d2>  Fri, 24 Oct 2025 17:15:14 +0000
+ -- root <root@21d86a42ae35>  Wed, 11 Feb 2026 17:05:27 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 

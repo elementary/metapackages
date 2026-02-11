@@ -1,5 +1,6 @@
 adduser
 apt
+bsdutils
 console-setup
 debconf
 debconf-i18n

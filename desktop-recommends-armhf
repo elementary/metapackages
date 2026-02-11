@@ -1,3 +1,4 @@
+7zip
 avahi-autoipd
 avahi-daemon
 bluez
@@ -7,6 +8,8 @@ cups
 cups-bsd
 cups-client
 cups-filters
+elementary-default-settings
+elementary-printer-test-page
 fonts-arphic-ukai
 fonts-arphic-uming
 fonts-kacst-one
@@ -46,13 +49,14 @@ ibus-gtk3
 ibus-hangul
 ibus-libpinyin
 ibus-m17n
-ibus-mozc
 ibus-table
 ibus-table-cangjie
 ibus-table-quick-classic
 ibus-table-wubi
 ibus-unikey
 im-config
+io.elementary.settings
+io.elementary.wingpanel
 language-pack-bg
 language-pack-ca
 language-pack-cs
@@ -111,12 +115,10 @@ libproxy1-plugin-gsettings
 libproxy1-plugin-networkmanager
 libwmf0.2-7-gtk
 mousetweaks
-mozc-utils-gui
 network-manager
 network-manager-config-connectivity-ubuntu
 network-manager-pptp-gnome
 orca
-p7zip-full
 packagekit
 pcmciautils
 policykit-desktop-privileges
