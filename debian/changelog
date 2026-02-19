@@ -1,4 +1,4 @@
-elementary-meta (1.559) UNRELEASED; urgency=medium
+elementary-meta (1.560) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -614,8 +614,19 @@ elementary-meta (1.559) UNRELEASED; urgency=medium
   * Removed p7zip-full from desktop-recommends
   * Removed reiserfsprogs from live
   * Removed touchegg from pantheon-shell
+  * Refreshed dependencies
+  * Added io.elementary.settings.desktop to desktop-recommends
+  * Added io.elementary.settings.mouse-touchpad to desktop-recommends
+  * Added io.elementary.settings.sound to desktop-recommends
+  * Added io.elementary.settings.wacom to desktop-recommends
+  * Added io.elementary.terminal to pantheon-recommends
+  * Added io.elementary.vala-lint to elementary-sdk-recommends
+  * Removed libproxy1-plugin-gsettings from desktop-recommends
+  * Removed libproxy1-plugin-networkmanager from desktop-recommends
+  * Removed libunity-dev from elementary-sdk
+  * Removed libwingpanel-dev from elementary-sdk
 
- -- root <root@21d86a42ae35>  Wed, 11 Feb 2026 17:05:27 +0000
+ -- root <root@658fedfcfdf0>  Thu, 19 Feb 2026 19:56:56 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 

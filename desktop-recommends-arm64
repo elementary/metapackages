@@ -58,6 +58,10 @@ ibus-table-wubi
 ibus-unikey
 im-config
 io.elementary.settings
+io.elementary.settings.desktop
+io.elementary.settings.mouse-touchpad
+io.elementary.settings.sound
+io.elementary.settings.wacom
 io.elementary.wingpanel
 language-pack-bg
 language-pack-ca
@@ -113,8 +117,6 @@ laptop-detect
 libgail-common
 libnss-mdns
 libpam-gnome-keyring
-libproxy1-plugin-gsettings
-libproxy1-plugin-networkmanager
 libwmf0.2-7-gtk
 mousetweaks
 network-manager
