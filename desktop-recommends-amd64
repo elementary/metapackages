@@ -82,6 +82,7 @@ io.elementary.settings.security-privacy
 io.elementary.settings.sharing
 io.elementary.settings.sound
 io.elementary.settings.system
+io.elementary.settings.useraccounts
 io.elementary.settings.wacom
 io.elementary.wingpanel
 language-pack-bg

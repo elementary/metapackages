@@ -1,4 +1,4 @@
-elementary-meta (1.561) UNRELEASED; urgency=medium
+elementary-meta (1.562) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -653,8 +653,17 @@ elementary-meta (1.561) UNRELEASED; urgency=medium
   * Added libwingpanel-9-dev to elementary-sdk
   * Removed libwmf0.2-7-gtk from desktop-recommends
   * Removed mousetweaks from desktop-recommends
+  * Refreshed dependencies
+  * Added appcenter to pantheon-recommends
+  * Added contractor to pantheon-recommends
+  * Added io.elementary.code to elementary-sdk-recommends, pantheon-
+    recommends
+  * Added io.elementary.monitor to pantheon-recommends [amd64 armhf]
+  * Added io.elementary.settings.useraccounts to desktop-recommends
+  * Added io.elementary.tasks to pantheon-recommends
+  * Added pantheon-photos to pantheon-recommends
 
- -- root <root@59aea1232678>  Tue, 24 Feb 2026 17:17:40 +0000
+ -- root <root@32f02415b98e>  Tue, 24 Feb 2026 22:56:00 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
