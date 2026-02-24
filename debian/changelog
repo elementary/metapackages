@@ -1,4 +1,4 @@
-elementary-meta (1.560) UNRELEASED; urgency=medium
+elementary-meta (1.561) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -625,8 +625,36 @@ elementary-meta (1.560) UNRELEASED; urgency=medium
   * Removed libproxy1-plugin-networkmanager from desktop-recommends
   * Removed libunity-dev from elementary-sdk
   * Removed libwingpanel-dev from elementary-sdk
+  * Refreshed dependencies
+  * Added fonts-elementary-core to desktop-recommends
+  * Added fonts-elementary-extra to artwork-recommends
+  * Added io.elementary.bluetooth-daemon to desktop-recommends
+  * Added io.elementary.panel.bluetooth to desktop-recommends
+  * Added io.elementary.panel.datetime to desktop-recommends
+  * Added io.elementary.panel.keyboard to desktop-recommends
+  * Added io.elementary.panel.nightlight to desktop-recommends
+  * Added io.elementary.panel.power to desktop-recommends
+  * Added io.elementary.quick-settings to desktop-recommends
+  * Added io.elementary.settings.applications to desktop-recommends
+  * Added io.elementary.settings.bluetooth to desktop-recommends
+  * Added io.elementary.settings.datetime to desktop-recommends
+  * Added io.elementary.settings.display to desktop-recommends
+  * Added io.elementary.settings.keyboard to desktop-recommends
+  * Added io.elementary.settings.locale to desktop-recommends
+  * Added io.elementary.settings.network to desktop-recommends
+  * Added io.elementary.settings.notifications to desktop-recommends
+  * Added io.elementary.settings.onlineaccounts to desktop-recommends
+  * Added io.elementary.settings.power to desktop-recommends
+  * Added io.elementary.settings.printers to desktop-recommends
+  * Added io.elementary.settings.security-privacy to desktop-recommends
+  * Added io.elementary.settings.sharing to desktop-recommends
+  * Added io.elementary.settings.system to desktop-recommends
+  * Added io.elementary.sound-theme to artwork-recommends
+  * Added libwingpanel-9-dev to elementary-sdk
+  * Removed libwmf0.2-7-gtk from desktop-recommends
+  * Removed mousetweaks from desktop-recommends
 
- -- root <root@658fedfcfdf0>  Thu, 19 Feb 2026 19:56:56 +0000
+ -- root <root@59aea1232678>  Tue, 24 Feb 2026 17:17:40 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
