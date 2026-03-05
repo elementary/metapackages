@@ -3,8 +3,10 @@ contractor
 io.elementary.code
 io.elementary.mail
 io.elementary.monitor
+io.elementary.settings-daemon
 io.elementary.sideload
 io.elementary.tasks
 io.elementary.terminal
+pantheon-files
 pantheon-photos
 pantheon-shell
