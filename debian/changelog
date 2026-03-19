@@ -1,4 +1,4 @@
-elementary-meta (1.563) UNRELEASED; urgency=medium
+elementary-meta (1.564) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -667,8 +667,12 @@ elementary-meta (1.563) UNRELEASED; urgency=medium
   * Added io.elementary.settings-daemon to pantheon-recommends
   * Added io.elementary.settings.screentime-limits to desktop-recommends
   * Added pantheon-files to pantheon-recommends
+  * Refreshed dependencies
+  * Added io.elementary.monitor to pantheon-recommends [arm64]
+  * Added io.elementary.panel.network to desktop-recommends
+  * Added pantheon-xsession-settings to pantheon-shell
 
- -- root <root@53c443cfc113>  Thu, 05 Mar 2026 21:36:36 +0000
+ -- root <root@689772db524d>  Thu, 19 Mar 2026 14:56:48 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 

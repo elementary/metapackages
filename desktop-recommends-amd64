@@ -61,6 +61,7 @@ io.elementary.bluetooth-daemon
 io.elementary.panel.bluetooth
 io.elementary.panel.datetime
 io.elementary.panel.keyboard
+io.elementary.panel.network
 io.elementary.panel.nightlight
 io.elementary.panel.power
 io.elementary.quick-settings
