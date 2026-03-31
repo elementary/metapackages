@@ -6,6 +6,7 @@ discover
 distinst
 expect
 gparted
+io.elementary.installer
 os-prober
 wamerican
 xfsprogs
