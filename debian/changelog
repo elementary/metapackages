@@ -1,4 +1,4 @@
-elementary-meta (1.567) UNRELEASED; urgency=medium
+elementary-meta (1.568) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -808,8 +808,101 @@ elementary-meta (1.567) UNRELEASED; urgency=medium
   * Removed pantheon-xsession-settings from pantheon-shell [amd64]
   * Removed plymouth-theme-elementary from desktop-recommends [amd64]
   * Removed vala-language-server from elementary-sdk-recommends [amd64]
+  * Refreshed dependencies
+  * Added appcenter to pantheon-recommends [amd64]
+  * Added capnet-assist to desktop-recommends [amd64]
+  * Added contractor to pantheon-recommends [amd64]
+  * Added elementary-artwork to desktop [amd64]
+  * Added elementary-default-settings to desktop-recommends [amd64]
+  * Added elementary-printer-test-page to desktop-recommends [amd64]
+  * Added elementary-wallpapers to artwork-recommends [amd64]
+  * Added fonts-elementary-core to desktop-recommends [amd64]
+  * Added fonts-elementary-extra to artwork-recommends [amd64]
+  * Added gala to pantheon-shell [amd64]
+  * Added io.elementary.bluetooth-daemon to desktop-recommends [amd64]
+  * Added io.elementary.calculator to pantheon-recommends [amd64]
+  * Added io.elementary.camera to pantheon-recommends [amd64]
+  * Added io.elementary.code to elementary-sdk-recommends [amd64],
+    pantheon-recommends [amd64]
+  * Added io.elementary.dock to pantheon-shell [amd64]
+  * Added io.elementary.greeter to desktop-recommends [amd64]
+  * Added io.elementary.initial-setup to desktop-recommends [amd64]
+  * Added io.elementary.installer to live [amd64]
+  * Added io.elementary.mail to pantheon-recommends [amd64]
+  * Added io.elementary.maps to pantheon-recommends [amd64]
+  * Added io.elementary.monitor to pantheon-recommends [amd64]
+  * Added io.elementary.music to pantheon-recommends [amd64]
+  * Added io.elementary.notifications to pantheon-shell [amd64]
+  * Added io.elementary.onboarding to desktop-recommends [amd64]
+  * Added io.elementary.panel.bluetooth to desktop-recommends [amd64]
+  * Added io.elementary.panel.datetime to desktop-recommends [amd64]
+  * Added io.elementary.panel.keyboard to desktop-recommends [amd64]
+  * Added io.elementary.panel.network to desktop-recommends [amd64]
+  * Added io.elementary.panel.nightlight to desktop-recommends [amd64]
+  * Added io.elementary.panel.notifications to desktop-recommends
+    [amd64]
+  * Added io.elementary.panel.power to desktop-recommends [amd64]
+  * Added io.elementary.portals to pantheon-recommends [amd64]
+  * Added io.elementary.quick-settings to desktop-recommends [amd64]
+  * Added io.elementary.screenshot to pantheon-recommends [amd64]
+  * Added io.elementary.settings to desktop-recommends [amd64]
+  * Added io.elementary.settings-daemon to pantheon-recommends [amd64]
+  * Added io.elementary.settings.applications to desktop-recommends
+    [amd64]
+  * Added io.elementary.settings.bluetooth to desktop-recommends [amd64]
+  * Added io.elementary.settings.datetime to desktop-recommends [amd64]
+  * Added io.elementary.settings.desktop to desktop-recommends [amd64]
+  * Added io.elementary.settings.display to desktop-recommends [amd64]
+  * Added io.elementary.settings.keyboard to desktop-recommends [amd64]
+  * Added io.elementary.settings.locale to desktop-recommends [amd64]
+  * Added io.elementary.settings.mouse-touchpad to desktop-recommends
+    [amd64]
+  * Added io.elementary.settings.network to desktop-recommends [amd64]
+  * Added io.elementary.settings.notifications to desktop-recommends
+    [amd64]
+  * Added io.elementary.settings.onlineaccounts to desktop-recommends
+    [amd64]
+  * Added io.elementary.settings.power to desktop-recommends [amd64]
+  * Added io.elementary.settings.printers to desktop-recommends [amd64]
+  * Added io.elementary.settings.screentime-limits to desktop-recommends
+    [amd64]
+  * Added io.elementary.settings.security-privacy to desktop-recommends
+    [amd64]
+  * Added io.elementary.settings.sharing to desktop-recommends [amd64]
+  * Added io.elementary.settings.sound to desktop-recommends [amd64]
+  * Added io.elementary.settings.system to desktop-recommends [amd64]
+  * Added io.elementary.settings.useraccounts to desktop-recommends
+    [amd64]
+  * Added io.elementary.settings.wacom to desktop-recommends [amd64]
+  * Added io.elementary.shortcut-overlay to pantheon-recommends [amd64]
+  * Added io.elementary.sideload to pantheon-recommends [amd64]
+  * Added io.elementary.sound-theme to artwork-recommends [amd64]
+  * Added io.elementary.stylesheet to artwork-recommends [amd64]
+  * Added io.elementary.tasks to pantheon-recommends [amd64]
+  * Added io.elementary.terminal to pantheon-recommends [amd64]
+  * Added io.elementary.vala-lint to elementary-sdk-recommends [amd64]
+  * Added io.elementary.videos to pantheon-recommends [amd64]
+  * Added io.elementary.wingpanel to desktop-recommends [amd64],
+    pantheon-shell [amd64]
+  * Added libgala-dev to elementary-sdk [amd64]
+  * Added libswitchboard-3-dev to elementary-sdk [amd64]
+  * Added libwingpanel-9-dev to elementary-sdk [amd64]
+  * Added org.gnome.epiphany to pantheon-recommends [amd64]
+  * Added org.gnome.evince to pantheon-recommends [amd64]
+  * Added org.gnome.fileroller to desktop-recommends [amd64]
+  * Added org.gnome.font-viewer to desktop-recommends [amd64]
+  * Added pantheon to desktop [amd64]
+  * Added pantheon-agent-polkit to desktop-recommends [amd64]
+  * Added pantheon-files to pantheon-recommends [amd64]
+  * Added pantheon-photos to pantheon-recommends [amd64]
+  * Added pantheon-shell to pantheon-recommends [amd64]
+  * Added pantheon-xsession-settings to pantheon-shell [amd64]
+  * Added plymouth-theme-elementary to desktop-recommends [amd64]
+  * Added vala-language-server to elementary-sdk-recommends [amd64]
+  * Removed granite-9-demo from elementary-sdk-recommends [arm64 armhf]
+  * Removed libgranite-9-dev from elementary-sdk [arm64 armhf]
 
- -- root <root@0227befe9d9d>  Sun, 26 Apr 2026 00:03:08 +0000
+ -- root <root@2a3bf0504b34>  Sun, 26 Apr 2026 00:41:39 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
