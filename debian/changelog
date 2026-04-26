@@ -1,4 +1,4 @@
-elementary-meta (1.566) UNRELEASED; urgency=medium
+elementary-meta (1.567) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -699,8 +699,117 @@ elementary-meta (1.566) UNRELEASED; urgency=medium
   * Added org.gnome.font-viewer to desktop-recommends
   * Added vala-language-server to elementary-sdk-recommends
   * Removed im-config from desktop-recommends
+  * Refreshed dependencies
+  * Added granite-9-demo to elementary-sdk-recommends [arm64 armhf]
+  * Added libgranite-9-dev to elementary-sdk [arm64 armhf]
+  * Removed appcenter from pantheon-recommends [amd64]
+  * Removed capnet-assist from desktop-recommends [amd64]
+  * Removed contractor from pantheon-recommends [amd64]
+  * Removed elementary-artwork from desktop [amd64]
+  * Removed elementary-default-settings from desktop-recommends [amd64]
+  * Removed elementary-printer-test-page from desktop-recommends [amd64]
+  * Removed elementary-wallpapers from artwork-recommends [amd64]
+  * Removed fonts-elementary-core from desktop-recommends [amd64]
+  * Removed fonts-elementary-extra from artwork-recommends [amd64]
+  * Removed gala from pantheon-shell [amd64]
+  * Removed io.elementary.bluetooth-daemon from desktop-recommends
+    [amd64]
+  * Removed io.elementary.calculator from pantheon-recommends [amd64]
+  * Removed io.elementary.camera from pantheon-recommends [amd64]
+  * Removed io.elementary.code from elementary-sdk-recommends [amd64],
+    pantheon-recommends [amd64]
+  * Removed io.elementary.dock from pantheon-shell [amd64]
+  * Removed io.elementary.greeter from desktop-recommends [amd64]
+  * Removed io.elementary.initial-setup from desktop-recommends [amd64]
+  * Removed io.elementary.installer from live [amd64]
+  * Removed io.elementary.mail from pantheon-recommends [amd64]
+  * Removed io.elementary.maps from pantheon-recommends [amd64]
+  * Removed io.elementary.monitor from pantheon-recommends [amd64]
+  * Removed io.elementary.music from pantheon-recommends [amd64]
+  * Removed io.elementary.notifications from pantheon-shell [amd64]
+  * Removed io.elementary.onboarding from desktop-recommends [amd64]
+  * Removed io.elementary.panel.bluetooth from desktop-recommends
+    [amd64]
+  * Removed io.elementary.panel.datetime from desktop-recommends [amd64]
+  * Removed io.elementary.panel.keyboard from desktop-recommends [amd64]
+  * Removed io.elementary.panel.network from desktop-recommends [amd64]
+  * Removed io.elementary.panel.nightlight from desktop-recommends
+    [amd64]
+  * Removed io.elementary.panel.notifications from desktop-recommends
+    [amd64]
+  * Removed io.elementary.panel.power from desktop-recommends [amd64]
+  * Removed io.elementary.portals from pantheon-recommends [amd64]
+  * Removed io.elementary.quick-settings from desktop-recommends [amd64]
+  * Removed io.elementary.screenshot from pantheon-recommends [amd64]
+  * Removed io.elementary.settings from desktop-recommends [amd64]
+  * Removed io.elementary.settings-daemon from pantheon-recommends
+    [amd64]
+  * Removed io.elementary.settings.applications from desktop-recommends
+    [amd64]
+  * Removed io.elementary.settings.bluetooth from desktop-recommends
+    [amd64]
+  * Removed io.elementary.settings.datetime from desktop-recommends
+    [amd64]
+  * Removed io.elementary.settings.desktop from desktop-recommends
+    [amd64]
+  * Removed io.elementary.settings.display from desktop-recommends
+    [amd64]
+  * Removed io.elementary.settings.keyboard from desktop-recommends
+    [amd64]
+  * Removed io.elementary.settings.locale from desktop-recommends
+    [amd64]
+  * Removed io.elementary.settings.mouse-touchpad from desktop-
+    recommends [amd64]
+  * Removed io.elementary.settings.network from desktop-recommends
+    [amd64]
+  * Removed io.elementary.settings.notifications from desktop-recommends
+    [amd64]
+  * Removed io.elementary.settings.onlineaccounts from desktop-
+    recommends [amd64]
+  * Removed io.elementary.settings.power from desktop-recommends [amd64]
+  * Removed io.elementary.settings.printers from desktop-recommends
+    [amd64]
+  * Removed io.elementary.settings.screentime-limits from desktop-
+    recommends [amd64]
+  * Removed io.elementary.settings.security-privacy from desktop-
+    recommends [amd64]
+  * Removed io.elementary.settings.sharing from desktop-recommends
+    [amd64]
+  * Removed io.elementary.settings.sound from desktop-recommends [amd64]
+  * Removed io.elementary.settings.system from desktop-recommends
+    [amd64]
+  * Removed io.elementary.settings.useraccounts from desktop-recommends
+    [amd64]
+  * Removed io.elementary.settings.wacom from desktop-recommends [amd64]
+  * Removed io.elementary.shortcut-overlay from pantheon-recommends
+    [amd64]
+  * Removed io.elementary.sideload from pantheon-recommends [amd64]
+  * Removed io.elementary.sound-theme from artwork-recommends [amd64]
+  * Removed io.elementary.stylesheet from artwork-recommends [amd64]
+  * Removed io.elementary.tasks from pantheon-recommends [amd64]
+  * Removed io.elementary.terminal from pantheon-recommends [amd64]
+  * Removed io.elementary.vala-lint from elementary-sdk-recommends
+    [amd64]
+  * Removed io.elementary.videos from pantheon-recommends [amd64]
+  * Removed io.elementary.wingpanel from desktop-recommends [amd64],
+    pantheon-shell [amd64]
+  * Removed libgala-dev from elementary-sdk [amd64]
+  * Removed libswitchboard-3-dev from elementary-sdk [amd64]
+  * Removed libwingpanel-9-dev from elementary-sdk [amd64]
+  * Removed org.gnome.epiphany from pantheon-recommends [amd64]
+  * Removed org.gnome.evince from pantheon-recommends [amd64]
+  * Removed org.gnome.fileroller from desktop-recommends [amd64]
+  * Removed org.gnome.font-viewer from desktop-recommends [amd64]
+  * Removed pantheon from desktop [amd64]
+  * Removed pantheon-agent-polkit from desktop-recommends [amd64]
+  * Removed pantheon-files from pantheon-recommends [amd64]
+  * Removed pantheon-photos from pantheon-recommends [amd64]
+  * Removed pantheon-shell from pantheon-recommends [amd64]
+  * Removed pantheon-xsession-settings from pantheon-shell [amd64]
+  * Removed plymouth-theme-elementary from desktop-recommends [amd64]
+  * Removed vala-language-server from elementary-sdk-recommends [amd64]
 
- -- root <root@e90279b82400>  Thu, 23 Apr 2026 15:54:33 +0000
+ -- root <root@0227befe9d9d>  Sun, 26 Apr 2026 00:03:08 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 

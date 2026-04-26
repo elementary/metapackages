@@ -6,7 +6,6 @@ discover
 distinst
 expect
 gparted
-io.elementary.installer
 mokutil
 os-prober
 wamerican
