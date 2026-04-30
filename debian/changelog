@@ -1,4 +1,4 @@
-elementary-meta (1.568) UNRELEASED; urgency=medium
+elementary-meta (1.569) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -901,8 +901,10 @@ elementary-meta (1.568) UNRELEASED; urgency=medium
   * Added vala-language-server to elementary-sdk-recommends [amd64]
   * Removed granite-9-demo from elementary-sdk-recommends [arm64 armhf]
   * Removed libgranite-9-dev from elementary-sdk [arm64 armhf]
+  * Refreshed dependencies
+  * Removed pantheon-xsession-settings from pantheon-shell
 
- -- root <root@2a3bf0504b34>  Sun, 26 Apr 2026 00:41:39 +0000
+ -- root <root@d24620dd92bf>  Thu, 30 Apr 2026 13:25:55 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
