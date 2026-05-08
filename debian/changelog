@@ -1,4 +1,4 @@
-elementary-meta (1.569) UNRELEASED; urgency=medium
+elementary-meta (1.570) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -903,8 +903,12 @@ elementary-meta (1.569) UNRELEASED; urgency=medium
   * Removed libgranite-9-dev from elementary-sdk [arm64 armhf]
   * Refreshed dependencies
   * Removed pantheon-xsession-settings from pantheon-shell
+  * Refreshed dependencies
+  * Added io.elementary.appcenter to pantheon-recommends
+  * Added io.elementary.session-settings to pantheon-shell
+  * Removed appcenter from pantheon-recommends
 
- -- root <root@d24620dd92bf>  Thu, 30 Apr 2026 13:25:55 +0000
+ -- root <root@c479b25f9b38>  Fri, 08 May 2026 17:56:02 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
