@@ -1,4 +1,4 @@
-elementary-meta (1.557) UNRELEASED; urgency=medium
+elementary-meta (1.558) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -490,8 +490,11 @@ elementary-meta (1.557) UNRELEASED; urgency=medium
   * Added grub-efi-arm64 to desktop-recommends [arm64]
   * Refreshed dependencies
   * Added io.elementary.maps to pantheon-recommends
+  * Refreshed dependencies
+  * Added io.elementary.appcenter to pantheon-recommends
+  * Removed appcenter from pantheon-recommends
 
- -- root <root@b7c8597c2809>  Wed, 16 Jul 2025 17:55:27 +0000
+ -- root <root@25a091409258>  Sat, 09 May 2026 22:08:29 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
