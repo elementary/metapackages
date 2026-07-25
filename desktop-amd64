@@ -16,6 +16,7 @@ gstreamer1.0-packagekit
 gstreamer1.0-plugins-base-apps
 gstreamer1.0-pulseaudio
 inputattach
+iw
 libatk-adaptor
 libnotify-bin
 libsasl2-modules
@@ -30,5 +31,4 @@ wpasupplicant
 xdg-user-dirs
 xdg-user-dirs-gtk
 xkb-data
-xorg
 zip

@@ -14,11 +14,9 @@ elementary-printer-test-page
 fonts-arphic-ukai
 fonts-arphic-uming
 fonts-elementary-core
-fonts-kacst-one
 fonts-noto-cjk
 fonts-noto-color-emoji
 fonts-noto-core
-fonts-sil-padauk
 fonts-ubuntu
 fwupd
 fwupd-signed

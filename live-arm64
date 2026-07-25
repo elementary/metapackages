@@ -8,5 +8,7 @@ expect
 gparted
 io.elementary.installer
 os-prober
+ubuntu-x13s-settings-nogrub
+ubuntu-x1e-settings-nogrub
 wamerican
 xfsprogs
