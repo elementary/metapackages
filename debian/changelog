@@ -1,4 +1,4 @@
-elementary-meta (1.571) UNRELEASED; urgency=medium
+elementary-meta (1.572) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -922,8 +922,10 @@ elementary-meta (1.571) UNRELEASED; urgency=medium
   * Removed fonts-sil-padauk from desktop-recommends
   * Removed irqbalance from standard-recommends
   * Removed xorg from desktop
+  * Refreshed dependencies
+  * Removed ubuntu-pro-client from minimal
 
- -- root <root@b61f3815351d>  Sat, 25 Jul 2026 16:31:12 +0000
+ -- root <root@a5d161aff48e>  Sat, 25 Jul 2026 17:37:48 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
