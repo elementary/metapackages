@@ -10,7 +10,6 @@ fontconfig
 fonts-dejavu-core
 foomatic-db-compressed-ppds
 ghostscript
-gnome-menus
 gstreamer1.0-alsa
 gstreamer1.0-packagekit
 gstreamer1.0-plugins-base-apps
