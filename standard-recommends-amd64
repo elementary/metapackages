@@ -1,5 +1,6 @@
 apparmor
 bash-completion
+btrfs-progs
 command-not-found
 cryptsetup
 elementary-os-overlay

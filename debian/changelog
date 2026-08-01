@@ -1,4 +1,4 @@
-elementary-meta (1.574) UNRELEASED; urgency=medium
+elementary-meta (1.575) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -929,8 +929,11 @@ elementary-meta (1.574) UNRELEASED; urgency=medium
   * Added libgranite-9-dev to elementary-sdk
   * Refreshed dependencies
   * Removed gnome-menus from desktop
+  * Refreshed dependencies
+  * Added btrfs-progs to standard-recommends
+  * Removed btrfs-progs from live
 
- -- root <root@5a32148792e2>  Mon, 27 Jul 2026 20:05:26 +0000
+ -- root <root@0b51b8550cf5>  Sat, 01 Aug 2026 20:48:56 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
