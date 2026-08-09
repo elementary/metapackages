@@ -23,6 +23,7 @@ fwupd-signed
 geoclue-2.0
 gnome-power-manager
 gnome-session-bin
+gnome-session-common
 grub-efi-arm64
 gtk-im-libthai
 gvfs-fuse

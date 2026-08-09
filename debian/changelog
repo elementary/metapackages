@@ -1,4 +1,4 @@
-elementary-meta (1.575) UNRELEASED; urgency=medium
+elementary-meta (1.576) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -932,8 +932,10 @@ elementary-meta (1.575) UNRELEASED; urgency=medium
   * Refreshed dependencies
   * Added btrfs-progs to standard-recommends
   * Removed btrfs-progs from live
+  * Refreshed dependencies
+  * Added gnome-session-common to desktop-recommends
 
- -- root <root@0b51b8550cf5>  Sat, 01 Aug 2026 20:48:56 +0000
+ -- root <root@2d1d190ede67>  Sun, 09 Aug 2026 23:26:37 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
