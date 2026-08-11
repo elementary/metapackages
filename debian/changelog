@@ -1,4 +1,4 @@
-elementary-meta (1.576) UNRELEASED; urgency=medium
+elementary-meta (1.577) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -934,8 +934,20 @@ elementary-meta (1.576) UNRELEASED; urgency=medium
   * Removed btrfs-progs from live
   * Refreshed dependencies
   * Added gnome-session-common to desktop-recommends
+  * Refreshed dependencies
+  * Removed capnet-assist from desktop-recommends
+  * Removed io.elementary.calculator from pantheon-recommends
+  * Removed io.elementary.camera from pantheon-recommends
+  * Removed io.elementary.maps from pantheon-recommends
+  * Removed io.elementary.music from pantheon-recommends
+  * Removed io.elementary.screenshot from pantheon-recommends
+  * Removed io.elementary.videos from pantheon-recommends
+  * Removed org.gnome.epiphany from pantheon-recommends
+  * Removed org.gnome.evince from pantheon-recommends
+  * Removed org.gnome.fileroller from desktop-recommends
+  * Removed org.gnome.font-viewer from desktop-recommends
 
- -- root <root@2d1d190ede67>  Sun, 09 Aug 2026 23:26:37 +0000
+ -- root <root@ef4c7954cb94>  Tue, 11 Aug 2026 01:20:49 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
