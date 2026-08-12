@@ -57,6 +57,7 @@ ibus-table-cangjie
 ibus-table-quick-classic
 ibus-table-wubi
 ibus-unikey
+initramfs-tools
 io.elementary.bluetooth-daemon
 io.elementary.greeter
 io.elementary.initial-setup
