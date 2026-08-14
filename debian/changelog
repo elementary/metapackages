@@ -1,4 +1,4 @@
-elementary-meta (1.578) UNRELEASED; urgency=medium
+elementary-meta (1.579) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -948,8 +948,10 @@ elementary-meta (1.578) UNRELEASED; urgency=medium
   * Removed org.gnome.font-viewer from desktop-recommends
   * Refreshed dependencies
   * Added initramfs-tools to desktop-recommends
+  * Refreshed dependencies
+  * Added io.elementary.applications-menu to desktop-recommends
 
- -- root <root@8673b328ba89>  Wed, 12 Aug 2026 17:03:16 +0000
+ -- root <root@edf7e717ae28>  Fri, 14 Aug 2026 10:30:12 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
