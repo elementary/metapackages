@@ -1,4 +1,4 @@
-elementary-meta (1.579) UNRELEASED; urgency=medium
+elementary-meta (1.580) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -950,8 +950,10 @@ elementary-meta (1.579) UNRELEASED; urgency=medium
   * Added initramfs-tools to desktop-recommends
   * Refreshed dependencies
   * Added io.elementary.applications-menu to desktop-recommends
+  * Refreshed dependencies
+  * Added io.elementary.panel.sound to desktop-recommends
 
- -- root <root@edf7e717ae28>  Fri, 14 Aug 2026 10:30:12 +0000
+ -- root <root@875d9ac6cc96>  Sat, 22 Aug 2026 03:14:17 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 

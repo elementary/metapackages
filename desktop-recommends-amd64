@@ -69,6 +69,7 @@ io.elementary.panel.network
 io.elementary.panel.nightlight
 io.elementary.panel.notifications
 io.elementary.panel.power
+io.elementary.panel.sound
 io.elementary.quick-settings
 io.elementary.settings
 io.elementary.settings.applications
