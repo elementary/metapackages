@@ -1,4 +1,4 @@
-elementary-meta (1.580) UNRELEASED; urgency=medium
+elementary-meta (1.581) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -952,8 +952,18 @@ elementary-meta (1.580) UNRELEASED; urgency=medium
   * Added io.elementary.applications-menu to desktop-recommends
   * Refreshed dependencies
   * Added io.elementary.panel.sound to desktop-recommends
+  * Refreshed dependencies
+  * Added libadwaita-1-dev to elementary-sdk
+  * Added libappstream-dev to elementary-sdk
+  * Added libfwupd-dev to elementary-sdk
+  * Added libgtop2-dev to elementary-sdk
+  * Added libgudev-1.0-dev to elementary-sdk
+  * Added libpackagekit-glib2-dev to elementary-sdk
+  * Added libpolkit-gobject-1-dev to elementary-sdk
+  * Added libsoup-3.0-dev to elementary-sdk
+  * Added libudisks2-dev to elementary-sdk
 
- -- root <root@875d9ac6cc96>  Sat, 22 Aug 2026 03:14:17 +0000
+ -- root <root@33d7416bc5d2>  Fri, 25 Sep 2026 00:20:24 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
