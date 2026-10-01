@@ -1,6 +1,7 @@
 build-essential
 desktop-file-utils
 flatpak-builder
+gdb
 gettext
 gobject-introspection
 libadwaita-1-dev
