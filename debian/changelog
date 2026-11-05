@@ -1,4 +1,4 @@
-elementary-meta (1.583) UNRELEASED; urgency=medium
+elementary-meta (1.584) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -968,8 +968,10 @@ elementary-meta (1.583) UNRELEASED; urgency=medium
   * Refreshed dependencies
   * Added maya-calendar to pantheon-recommends
   * Added wireguard to desktop-recommends
+  * Refreshed dependencies
+  * Added xdg-native-messaging-proxy to desktop-recommends
 
- -- root <root@1a7e3410dabb>  Thu, 05 Nov 2026 16:36:10 +0000
+ -- root <root@79187b6e3f80>  Thu, 05 Nov 2026 20:49:53 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
