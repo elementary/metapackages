@@ -4,7 +4,7 @@ cifs-utils
 discover
 distinst
 expect
-gparted
+gnome-disk-utility
 io.elementary.installer
 os-prober
 ubuntu-x13s-settings-nogrub

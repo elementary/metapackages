@@ -4,7 +4,7 @@ cifs-utils
 discover
 distinst
 expect
-gparted
+gnome-disk-utility
 io.elementary.installer
 mokutil
 os-prober

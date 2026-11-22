@@ -1,4 +1,4 @@
-elementary-meta (1.584) UNRELEASED; urgency=medium
+elementary-meta (1.585) UNRELEASED; urgency=medium
 
   [ Cody Garver ]
   * Refreshed dependencies
@@ -970,8 +970,11 @@ elementary-meta (1.584) UNRELEASED; urgency=medium
   * Added wireguard to desktop-recommends
   * Refreshed dependencies
   * Added xdg-native-messaging-proxy to desktop-recommends
+  * Refreshed dependencies
+  * Added gnome-disk-utility to live
+  * Removed gparted from live
 
- -- root <root@79187b6e3f80>  Thu, 05 Nov 2026 20:49:53 +0000
+ -- root <root@604d41e7ecf9>  Sun, 22 Nov 2026 00:55:17 +0000
 
 elementary-meta (1.458) bionic; urgency=low
 
